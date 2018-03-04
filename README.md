@@ -12,7 +12,7 @@ Not final yet, working on it.
 # How to contribute
 
 1. Clone
-2. Open your target language file from "languages/xx.po" with PoEdit (https://poedit.net/).
+2. Open your target language file from `languages/xx.po` with PoEdit (https://poedit.net/)
 3. Modify with PoEdit
 4. Push changes via Pull Request to this repository
 
@@ -24,8 +24,9 @@ Not final yet, working on it.
 # How to test your translation
 1. Do everything from "contribute"
 2. Run `npm install` in the base directory of this repository
-2. Run `dev/create-language-packages.js` via NodeJS
-3. Search the generated zipfile for your language in `dev/packages` and follow the `installation` routine
+3. Copy `dev/config.tpl.js` to `dev/config.js` and modify the config to your needs
+4. Run `dev/create-language-packages.js` via NodeJS
+5. Search the generated zipfile for your language in `dev/packages` and follow the `installation` routine
 
 # Limitations
 * No cyrillic support

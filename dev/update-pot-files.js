@@ -2,14 +2,12 @@
 
 var fs = require('fs')
 
-var langDir = __dirname + '/../languages'
-var templateDir = __dirname + '/lua'
-var languages = fs.readdirSync(langDir)
-var templateFiles = fs.readdirSync(templateDir)
+var config = require(__dirname + '/config')
+var manifest = require(__dirname + '/manifest')
 
 var valuesById = {}
-templateFiles.forEach(function (templateFile) {
-  var filedata = fs.readFileSync(templateDir + '/' + templateFile).toString()
+manifest.translationFiles.forEach(function (translationFile) {
+  var filedata = fs.readFileSync(config.gamedir + '/' + translationFile).toString()
   var lines = filedata.split('\n')
   var translationLines = []
   var lineValid = false
@@ -18,24 +16,24 @@ templateFiles.forEach(function (templateFile) {
     if (line.substr(0, 2) === '--' || line.length === 0) {
       return true
     }
-    if (templateFile === 'text.lua') {
+    if (translationFile === 'text.lua') {
       if (line === 'local Global_Texts = {') {
         lineValid = true
         return true
       }
     }
-    if (templateFile === 'text_achievements.lua') {
+    if (translationFile === 'text_achievements.lua') {
       if (line === 'Achievement_Texts = {') {
         lineValid = true
         return true
       }
     }
-    if (templateFile === 'text_tooltips.lua') {
+    if (translationFile === 'text_tooltips.lua') {
       if (line === 'TILE_TOOLTIPS = {' || line === 'local STATUS_TOOLTIPS = {' || line === 'local PilotSkills = {') {
         lineValid = true
       }
     }
-    if (templateFile === 'text_population.lua') {
+    if (translationFile === 'text_population.lua') {
       if (line === 'local PopEvent = {') {
         lineValid = true
         return true
@@ -51,11 +49,11 @@ templateFiles.forEach(function (templateFile) {
   var values = {}
   var ctx = null
   translationLines.forEach(function (line) {
-    if (templateFile === 'text.lua' || templateFile === 'text_achievements.lua') {
+    if (translationFile === 'text.lua' || translationFile === 'text_achievements.lua') {
       var m = line.match(/^(.*?) = "(.*?)",($|[\s]*--)/i)
       values[m[1]] = m[2]
     }
-    if (templateFile === 'text_tooltips.lua') {
+    if (translationFile === 'text_tooltips.lua') {
       if (line === 'TILE_TOOLTIPS = {') {
         ctx = 'TILE_TOOLTIPS'
         return true
@@ -87,7 +85,7 @@ templateFiles.forEach(function (templateFile) {
         }
       }
     }
-    if (templateFile === 'text_population.lua') {
+    if (translationFile === 'text_population.lua') {
       line = line.replace(/, Odds = [0-9]+ /ig, '')
       var m = line.match(/^(.*?) = \{(.*?)\},($|[\s]*--)/i)
       var o = JSON.parse('[' + m[2].replace(/[\s,]*$/ig, '') + ']')
@@ -104,7 +102,7 @@ templateFiles.forEach(function (templateFile) {
     if (typeof valuesById[v] === 'undefined') {
       valuesById[v] = []
     }
-    valuesById[v].push(templateFile + '_' + k)
+    valuesById[v].push(translationFile + '_' + k)
   }
 })
 var text = ['msgid ""', 'msgstr ""']
@@ -114,4 +112,4 @@ for (var msgid in valuesById) {
   text.push('msgid "' + msgid + '"')
   text.push('msgstr "' + msgid + '"')
 }
-fs.writeFileSync(langDir + '/template.pot', text.join('\n'))
+fs.writeFileSync( __dirname + '/../languages/template.pot', text.join('\n'))

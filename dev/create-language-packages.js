@@ -1,18 +1,17 @@
 'use strict'
 
 var fs = require('fs')
-var config = fs.existsSync(__dirname + '/config.js') ? require('./config') : null
 var iconv = require('iconv-lite')
 
+var config = require(__dirname + '/config')
+var manifest = require(__dirname + '/manifest')
+
 var langDir = __dirname + '/../languages'
-var templateDir = __dirname + '/lua'
 var languages = fs.readdirSync(langDir)
-var templateFiles = fs.readdirSync(templateDir)
 
 var templateFileData = {}
-templateFiles.forEach(function (file) {
-  var fileData = fs.readFileSync(templateDir + '/' + file).toString()
-  templateFileData[file] = fileData
+manifest.translationFiles.forEach(function (file) {
+  templateFileData[file] = fs.readFileSync(config.gamedir + '/' + file).toString()
 })
 
 languages.forEach(function (langFile) {
@@ -151,11 +150,10 @@ languages.forEach(function (langFile) {
       var fileData = templateFileData[file]
       fileData = fileData.replace(/\t/g, '    ')
       fileData = iconv.encode(new Buffer(fileData), 'latin1')
-      fs.writeFileSync(__dirname + '/tmp/' + file, fileData)
       zip.file(file, templateFileData[file])
       // also save into gamedir if set
       if (config && config.gamedir) {
-        fs.writeFileSync(config.gamedir + '/scripts/' + file, fileData)
+        fs.writeFileSync(config.gamedir + '/' + file, fileData)
       }
     }
     fs.writeFileSync(__dirname + '/packages/' + langFile.substring(0, langFile.length - 3) + '.zip', zip.generate({

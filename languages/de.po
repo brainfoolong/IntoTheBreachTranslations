@@ -1,4 +1,4 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
@@ -1643,7 +1643,7 @@ msgstr "You may change your placements before confirming"
 
 msgctxt "text.lua_Combat_Deployment"
 msgid "DEPLOYMENT"
-msgstr "DEPLOYMENT"
+msgstr "EINSATZ"
 
 msgctxt "text.lua_Deploy_Remaining"
 msgid "Remaining Units:"
@@ -1651,15 +1651,15 @@ msgstr "Remaining Units:"
 
 msgctxt "text.lua_Button_Deployment_Done"
 msgid "CONFIRM"
-msgstr "CONFIRM"
+msgstr "BESTÄTIGEN"
 
 msgctxt "text.lua_Button_Button_Pawnlist"
 msgid "     Unit List"
-msgstr "     Unit List"
+msgstr "     Einheitenliste"
 
 msgctxt "text.lua_Button_Button_Objectives"
 msgid "Bonus Objectives     "
-msgstr "Bonus Objectives     "
+msgstr "Bonus Ziele     "
 
 msgctxt "text.lua_Skip_Units"
 msgid "You still have units that can act. They will lose their turn."
@@ -1700,20 +1700,20 @@ msgid ""
 "UNDO \n"
 "MOVE"
 msgstr ""
-"UNDO \n"
-"MOVE"
+"BEWERGUNG \n"
+"RÜCKGÄNGIG"
 
 msgctxt "text.lua_Button_UndoTurn"
 msgid "RESET TURN"
-msgstr "RESET TURN"
+msgstr "ZUG ZURÜCKSETZEN"
 
 msgctxt "text.lua_Button_UndoTurnUsed"
 msgid "RESET USED"
-msgstr "RESET USED"
+msgstr "VERBRAUCHT ZURÜCKSETZEN"
 
 msgctxt "text.lua_Active_Units"
 msgid "Active Units: "
-msgstr "Active Units: "
+msgstr "Aktive Einheiten: "
 
 msgctxt "text.lua_Objective_EnemyRetreat"
 msgid "Victory in"
@@ -1729,11 +1729,11 @@ msgstr "turn"
 
 msgctxt "text.lua_Button_Editor_Exit"
 msgid "EDIT MAP"
-msgstr "EDIT MAP"
+msgstr "MAP BEARBEITEN"
 
 msgctxt "text.lua_Button_Done_Testing"
 msgid "DONE TESTING"
-msgstr "DONE TESTING"
+msgstr "TEST ABGESCHLOSSEN"
 
 msgctxt "text.lua_Disarm_Info"
 msgid ""
@@ -2035,11 +2035,11 @@ msgstr "WEAPONS"
 
 msgctxt "text.lua_Button_Upgrade_Test"
 msgid "TEST MECH"
-msgstr "TEST MECH"
+msgstr "MECH TESTEN"
 
 msgctxt "text.lua_Button_Upgrade_Undo"
 msgid "UNDO"
-msgstr "UNDO"
+msgstr "ZURÜCKSETZEN"
 
 msgctxt "text.lua_Wrong_Cost"
 msgid ""
@@ -2235,15 +2235,15 @@ msgstr ""
 
 msgctxt "text.lua_Boss_Title"
 msgid "Warning: Vek Offensive"
-msgstr "Warning: Vek Offensive"
+msgstr "Warnung: Vek Offensive"
 
 msgctxt "text.lua_Boss_Text"
 msgid ""
 "Vek are overrunning two regions on the Island. \n"
 "The region you do not save will be lost forever."
 msgstr ""
-"Vek are overrunning two regions on the Island. \n"
-"The region you do not save will be lost forever."
+"Vek überlaufen zwei Regionen auf der Insel.\n"
+"The Region die nicht gesichert wird ist für immer verloren."
 
 msgctxt "text.lua_Top_Power"
 msgid "POWER"
@@ -2299,15 +2299,15 @@ msgstr "No Vek Detected"
 
 msgctxt "text.lua_Button_Confirm_No"
 msgid "NO"
-msgstr "NO"
+msgstr "NEIN"
 
 msgctxt "text.lua_Button_Confirm_Yes"
 msgid "YES"
-msgstr "YES"
+msgstr "JA"
 
 msgctxt "text.lua_Confirm_Question"
 msgid "Continue?"
-msgstr "Continue?"
+msgstr "Weiter?"
 
 msgctxt "text.lua_Button_Confirm_Ok"
 msgid "OK"
@@ -2354,29 +2354,29 @@ msgstr "New Skill Unlocked:"
 
 msgctxt "text.lua_Button_Pilot_News_Done"
 msgid "Understood"
-msgstr "Understood"
+msgstr "Verstanden"
 
 msgctxt ""
 "text.lua_Button_Continue,text.lua_Button_Escape_Continue,text."
 "lua_Button_Victory_Done"
 msgid "CONTINUE"
-msgstr "CONTINUE"
+msgstr "WEITER"
 
 msgctxt "text.lua_Button_Wait"
 msgid "WAIT"
-msgstr "WAIT"
+msgstr "WARTEN"
 
 msgctxt "text.lua_Button_Create"
 msgid "CREATE"
-msgstr "CREATE"
+msgstr "ERSTELLEN"
 
 msgctxt "text.lua_Button_Profile"
 msgid "Create New Profile"
-msgstr "Create New Profile"
+msgstr "Neues Profil erstellen"
 
 msgctxt "text.lua_Button_MainContinue"
 msgid "Continue"
-msgstr "Continue"
+msgstr "Weiter"
 
 msgctxt "text.lua_Button_MainCredits"
 msgid "Credits"
@@ -2384,23 +2384,23 @@ msgstr "Credits"
 
 msgctxt "text.lua_Button_MainNew"
 msgid "New Game"
-msgstr "New Game"
+msgstr "Neues Spiel"
 
 msgctxt "text.lua_Button_MainOptions"
 msgid "Options"
-msgstr "Options"
+msgstr "Optionen"
 
 msgctxt "text.lua_Button_MainProgress"
 msgid "Progress"
-msgstr "Progress"
+msgstr "Fortschritt"
 
 msgctxt "text.lua_Button_MainStats,text.lua_Stats_Header"
 msgid "Statistics"
-msgstr "Statistics"
+msgstr "Statistiken"
 
 msgctxt "text.lua_Button_MainAchievs,text.lua_Hangar_Achievements_Title"
 msgid "Achievements"
-msgstr "Achievements"
+msgstr "Errungenschaften"
 
 msgctxt "text.lua_Button_MainSquads"
 msgid "Squads"
@@ -2408,11 +2408,11 @@ msgstr "Squads"
 
 msgctxt "text.lua_Button_MainQuit"
 msgid "Quit"
-msgstr "Quit"
+msgstr "Beenden"
 
 msgctxt "text.lua_Button_MainProfile"
 msgid "Profile"
-msgstr "Profile"
+msgstr "Profil"
 
 msgctxt "text.lua_Toggle_EnableTips"
 msgid "Enable Tutorial Tips"
@@ -2465,7 +2465,7 @@ msgstr ""
 
 msgctxt "text.lua_Confirm_Header"
 msgid "Confirm Action"
-msgstr "Confirm Action"
+msgstr "Aktion bestätigen"
 
 msgctxt "text.lua_Warn_Header"
 msgid "Warning!"
@@ -2684,27 +2684,27 @@ msgstr "Click to Purchase!"
 
 msgctxt "text.lua_Button_Hangar_Pilot"
 msgid "Change Time Traveler"
-msgstr "Change Time Traveler"
+msgstr "Zeitreisenden ändern"
 
 msgctxt "text.lua_Button_Hangar_Random_Pilot"
 msgid "Randomize"
-msgstr "Randomize"
+msgstr "Zufällig"
 
 msgctxt "text.lua_Button_Hangar_Reroll,text.lua_TipTitle_BalancedRoll"
 msgid "Balanced Roll"
-msgstr "Balanced Roll"
+msgstr "Ausgeglichen ausrollen"
 
 msgctxt "text.lua_Button_Hangar_RandomRoll,text.lua_TipTitle_ChaosRoll"
 msgid "Chaos Roll"
-msgstr "Chaos Roll"
+msgstr "Zuällig ausrollen"
 
 msgctxt "text.lua_Button_Hangar_Ach"
 msgid "View All Achievements"
-msgstr "View All Achievements"
+msgstr "Alle Errungenschaften anzeigen"
 
 msgctxt "text.lua_Button_Hangar_Secret"
 msgid "Buy Secret Squad       "
-msgstr "Buy Secret Squad       "
+msgstr "Kaufe geheimen Squad       "
 
 msgctxt "text.lua_Hangar_Total_Ach"
 msgid "Total Coins Earned"
@@ -2712,7 +2712,7 @@ msgstr "Total Coins Earned"
 
 msgctxt "text.lua_Button_Hangar_Recustom"
 msgid "Edit Squad"
-msgstr "Edit Squad"
+msgstr "Squad editieren"
 
 msgctxt "text.lua_Hangar_Custom_Locked"
 msgid "Unlock the Squad \"$1\" to use this Mech"
@@ -2724,7 +2724,7 @@ msgstr "Locked Mech"
 
 msgctxt "text.lua_Button_Hangar_Start"
 msgid "Start Game"
-msgstr "Start Game"
+msgstr "Spiel starten"
 
 msgctxt "text.lua_Hangar_Random"
 msgid "Random Mech"
@@ -2736,7 +2736,7 @@ msgstr "Squad Selection"
 
 msgctxt "text.lua_Ach_Squad"
 msgid "Squad Based"
-msgstr "Squad Based"
+msgstr "Squad basiert"
 
 msgctxt "text.lua_Ach_Global"
 msgid "Global"
@@ -2929,7 +2929,7 @@ msgstr "Fullscreen"
 
 msgctxt "text.lua_Button_Options_Hotkeys"
 msgid "Edit Hotkeys"
-msgstr "Edit Hotkeys"
+msgstr "Hotkeys bearbeiten"
 
 msgctxt "text.lua_Button_Options_Default"
 msgid "Default Windowed"
@@ -2937,7 +2937,7 @@ msgstr "Default Windowed"
 
 msgctxt "text.lua_Button_Options_Scale"
 msgid "Max Board Scale: $1"
-msgstr "Max Board Scale: $1"
+msgstr "Max Board Skalierung: $1"
 
 msgctxt "text.lua_Toggle_Mute"
 msgid "Mute All Audio"
@@ -2945,7 +2945,9 @@ msgstr "Mute All Audio"
 
 msgctxt "text.lua_Abandon_Confirm"
 msgid "You will send a Pilot to a new timeline and lose all other progress."
-msgstr "Du wrist"
+msgstr ""
+"Du wirst einen Piloten auf eine neue Timeline entsenden und dabei jeden "
+"Fortschritt verlieren."
 
 msgctxt "text.lua_Escape_Title"
 msgid "MENU"
@@ -2973,19 +2975,19 @@ msgstr "Sound + Video"
 
 msgctxt "text.lua_Button_Escape_Menu,text.lua_Button_Victory_Quit"
 msgid "MAIN MENU"
-msgstr "MAIN MENU"
+msgstr "HAUPTMENÜ"
 
 msgctxt "text.lua_Button_Escape_Exit_Editmode"
 msgid "MAP EDIT MODE"
-msgstr "MAP EDIT MODE"
+msgstr "MAP BEARBEITEN"
 
 msgctxt "text.lua_Button_Escape_Exit_Editor"
 msgid "QUIT EDITOR"
-msgstr "QUIT EDITOR"
+msgstr "EDITOR VERLASSEN"
 
 msgctxt "text.lua_Button_Escape_Options"
 msgid "OPTIONS"
-msgstr "OPTIONS"
+msgstr "OPTIONEN"
 
 msgctxt "text.lua_Button_Escape_Ach"
 msgid "ACHIEVEMENTS"
@@ -2997,7 +2999,7 @@ msgstr "Speichern und Schließen"
 
 msgctxt "text.lua_Button_Escape_Abandon"
 msgid "ABANDON TIMELINE"
-msgstr "ABANDON TIMELINE"
+msgstr "VERLASSE ZEITLINIE"
 
 msgctxt "text.lua_Mouse_Middle"
 msgid "Middle Mouse"
@@ -3033,19 +3035,19 @@ msgstr "Time to go back and try again."
 
 msgctxt "text.lua_Button_Victory_Pilot"
 msgid "SEND PILOT"
-msgstr "SEND PILOT"
+msgstr "PILOT SENDEN"
 
 msgctxt "text.lua_Button_Select_Mission_Leave"
 msgid "LEAVE ISLAND"
-msgstr "LEAVE ISLAND"
+msgstr "INSEL VERLASSEN"
 
 msgctxt "text.lua_Button_Select_Mission_Store"
 msgid "SPEND REPUTATION"
-msgstr "SPEND REPUTATION"
+msgstr "REPUTATION BENUTZEN"
 
 msgctxt "text.lua_Button_Select_Mission_Reward"
 msgid "REPUTATION REWARD!"
-msgstr "REPUTATION REWARD!"
+msgstr "REPUTATION ERHALTEN"
 
 msgctxt "text.lua_Island_Environment"
 msgid "ENVIRONMENT"
@@ -3113,23 +3115,23 @@ msgstr "New Squad available when starting a new game!"
 
 msgctxt "text.lua_Alert_Cleared"
 msgid "ATTACK CANCELED"
-msgstr "ATTACK CANCELED"
+msgstr "ATTACKE ABGEBROCHEN"
 
 msgctxt "text.lua_Alert_Fire"
 msgid "FIRE DAMAGE"
-msgstr "FIRE DAMAGE"
+msgstr "FEUERSCHADEN"
 
 msgctxt "text.lua_Alert_Elec"
 msgid "ELECTRIC DAMAGE"
-msgstr "ELECTRIC DAMAGE"
+msgstr "ELEKTRISCHER SCHADEN"
 
 msgctxt "text.lua_Alert_Blocked"
 msgid "BLOCKED ENEMY"
-msgstr "BLOCKED ENEMY"
+msgstr "BLOCKIERTER FEIND"
 
 msgctxt "text.lua_Alert_Attacking"
 msgid "NOT ATTACKING"
-msgstr "NOT ATTACKING"
+msgstr "ATTACKIERT NICHT"
 
 msgctxt "text.lua_Alert_PodDestroyed"
 msgid "POD DESTROYED"
@@ -3141,15 +3143,15 @@ msgstr "POD SECURED"
 
 msgctxt "text.lua_Alert_Threat"
 msgid "THREATENED"
-msgstr "THREATENED"
+msgstr "BEDROHT"
 
 msgctxt "text.lua_Alert_Healed"
 msgid "UNIT REPAIRED"
-msgstr "UNIT REPAIRED"
+msgstr "EINHEIT REPARIERT"
 
 msgctxt "text.lua_Alert_BlobSpawn"
 msgid "SPLIT SUPPRESSED"
-msgstr "SPLIT SUPPRESSED"
+msgstr "TEILEN UNTERDRÜCKT"
 
 msgctxt "text.lua_Alert_Regen"
 msgid "PSION REGENERATION"
@@ -3161,7 +3163,7 @@ msgstr "PSION ATTACK"
 
 msgctxt "text.lua_Alert_Action"
 msgid "ACTION AVAILABLE"
-msgstr "ACTION AVAILABLE"
+msgstr "AKTION VERFÜGBAR"
 
 msgctxt "text.lua_Alert_Level"
 msgid "LEVEL UP!"
@@ -3169,7 +3171,7 @@ msgstr "LEVEL UP!"
 
 msgctxt "text.lua_Alert_Warning"
 msgid "WARNING!"
-msgstr "WARNING!"
+msgstr "WARNUNG!"
 
 msgctxt "text.lua_Alert_Incoming"
 msgid "POD INCOMING"
@@ -3177,55 +3179,55 @@ msgstr "POD INCOMING"
 
 msgctxt "text.lua_Alert_Passive"
 msgid "PASSIVE BONUS"
-msgstr "PASSIVE BONUS"
+msgstr "PASIVBONUS"
 
 msgctxt "text.lua_Alert_Resisted"
 msgid "RESISTED"
-msgstr "RESISTED"
+msgstr "WIDERSTANDEN"
 
 msgctxt "text.lua_Alert_Power"
 msgid "POWER LOST"
-msgstr "POWER LOST"
+msgstr "ENERGIE VERLOREN"
 
 msgctxt "text.lua_Alert_Casualties"
 msgid "Casualties"
-msgstr "Casualties"
+msgstr "Verluste"
 
 msgctxt "text.lua_Alert_Unused"
 msgid "POWER AVAILABLE"
-msgstr "POWER AVAILABLE"
+msgstr "ENERGIE VERFÜGBAR"
 
 msgctxt "text.lua_Alert_NoWeapon"
 msgid "NO WEAPON POWERED"
-msgstr "NO WEAPON POWERED"
+msgstr "KEINE WAFFE GELADEN"
 
 msgctxt "text.lua_Alert_Open"
 msgid "OPEN DOOR"
-msgstr "OPEN DOOR"
+msgstr "TOR ÖFFNEN"
 
 msgctxt "text.lua_Alert_Pilot"
 msgid "PILOT AVAILABLE"
-msgstr "PILOT AVAILABLE"
+msgstr "PILOT VERFÜGBAR"
 
 msgctxt "text.lua_Alert_Lost"
 msgid "REGION LOST"
-msgstr "REGION LOST"
+msgstr "REGION VERLOREN"
 
 msgctxt "text.lua_Alert_Secured"
 msgid "REGION SECURED"
-msgstr "REGION SECURED"
+msgstr "REGION GESICHERT"
 
 msgctxt "text.lua_Alert_Cores"
 msgid "CORES AVAILABLE"
-msgstr "CORES AVAILABLE"
+msgstr "KERNE VERFÜGBAR"
 
 msgctxt "text.lua_Alert_PilotCores"
 msgid "PILOT & POWER AVAILABLE"
-msgstr "PILOT & POWER AVAILABLE"
+msgstr "PILOT & ENERGIE VERFÜGBAR"
 
 msgctxt "text.lua_Alert_Overflow"
 msgid "DEFENSE UP!"
-msgstr "DEFENSE UP!"
+msgstr "VERTEIDIGUNG RAUF!"
 
 msgctxt "text.lua_Alert_FullOverflow"
 msgid "GRID MAX!"
@@ -3233,15 +3235,15 @@ msgstr "GRID MAX!"
 
 msgctxt "text.lua_Alert_Smoke"
 msgid "SMOKE BLOCKING!"
-msgstr "SMOKE BLOCKING!"
+msgstr "RAUCH BLOCKIERT!"
 
 msgctxt "text.lua_Alert_Water"
 msgid "MECH SUBMERGED!"
-msgstr "MECH SUBMERGED!"
+msgstr "MECH UNTERGETAUCHT!"
 
 msgctxt "text.lua_Alert_NoTarget"
 msgid "NO TARGET AVAILABLE!"
-msgstr "NO TARGET AVAILABLE!"
+msgstr "KEIN ZIEL VERFÜGBAR!"
 
 msgctxt "text.lua_Status_Full"
 msgid "Some effects not listed due to lack of space"
@@ -3371,7 +3373,7 @@ msgstr ""
 
 msgctxt "text.lua_Achievement_Completed"
 msgid "Completed on $1 Difficulty"
-msgstr "Completed on $1 Difficulty"
+msgstr "Abgeschlossen auf Schwierigkeit $1"
 
 msgctxt "text.lua_Achievement_Header"
 msgid "Achievement!"
@@ -3379,11 +3381,11 @@ msgstr "Achievement!"
 
 msgctxt "text.lua_Achievement_Header_Pilot"
 msgid "Pilot Found!"
-msgstr "Pilot Found!"
+msgstr "Pilot gefunden!"
 
 msgctxt "text.lua_Achievement_Text_Pilot"
 msgid "Unlocked in Hangar"
-msgstr "Unlocked in Hangar"
+msgstr "Hangar freigeschalten"
 
 msgctxt "text.lua_Mute_Title"
 msgid "Mute Volume"
