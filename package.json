@@ -8,7 +8,10 @@
     "type": "git",
     "url": "git://github.com/brainfoolong/IntoTheBreachTranslations.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "iconv-lite": "^0.4.19",
+    "node-zip": "^1.1.1"
+  },
   "engines": {
     "node": ">=4.0.0"
   }
