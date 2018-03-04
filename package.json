@@ -1,0 +1,15 @@
+{
+  "author": "BrainFooLong (https://github.com/brainfoolong/IntoTheBreachTranslations)",
+  "name": "IntoTheBreachTranslations",
+  "description": "Inofficial Translations for PC Game Into the Breach.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brainfoolong/IntoTheBreachTranslations.git"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
