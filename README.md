@@ -27,7 +27,8 @@ Not final yet, working on it. You can help.
 2. Run `npm install` in the base directory of this repository
 3. Copy `dev/config.tpl.js` to `dev/config.js` and modify the config to your needs
 4. Run `dev/create-language-packages.js` via NodeJS
-5. Search the generated zipfile for your language in `dev/packages` and follow the `installation` routine
+5. Search the generated zipfile for your language in `packages` and follow the `installation` routine
+6. Additionaly: Modify `dev/config.js` to directly copy those files when executing `dev/create-language-packages.js`
 
 # Limitations
 * No cyrillic support
