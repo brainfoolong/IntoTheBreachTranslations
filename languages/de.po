@@ -5717,11 +5717,11 @@ msgstr "Flüchtige Eingeweide"
 
 msgctxt "scripts/text_weapons.lua_SpiderAtk1_Name"
 msgid "Tiny Offspring"
-msgstr "Kleiner Nachkomme"
+msgstr "Kleine Nachkommen"
 
 msgctxt "scripts/text_weapons.lua_SpiderAtk1_Description,scripts/text_weapons.lua_SpiderAtk2_Description"
 msgid "Throw a sticky egg that hatches into a Spiderling."
-msgstr "Wirf ein klebriges Ei, das in ein Spinnentier schlüpft."
+msgstr "Wirf ein klebriges Ei, aus dem ein Spinnentier schlüpft."
 
 msgctxt "scripts/text_weapons.lua_SpiderAtk2_Name"
 msgid "Large Offspring"
@@ -5729,7 +5729,7 @@ msgstr "Große Nachkommen"
 
 msgctxt "scripts/text_weapons.lua_SpiderlingHatch1_Name,scripts/text_weapons.lua_WebeggHatch1_Name"
 msgid "Spiderling Egg"
-msgstr "Spinnendes Ei"
+msgstr "Spinnenei"
 
 msgctxt "scripts/text_weapons.lua_SpiderlingHatch1_Description,scripts/text_weapons.lua_WebeggHatch1_Description"
 msgid "Hatch into Spiderling."
@@ -5773,7 +5773,7 @@ msgstr "Vk8 Rockets Mark III"
 
 msgctxt "scripts/text_weapons.lua_SnowBossAtk_Description,scripts/text_weapons.lua_SnowBossAtk2_Description"
 msgid "Launch Rockets at 3 tiles."
-msgstr "Starte Raketen auf 3 Kacheln."
+msgstr "Starte Raketen auf 3 Felder."
 
 msgctxt "scripts/text_weapons.lua_SnowBossAtk2_Name"
 msgid "Vk8 Rockets Mark IV"
@@ -5821,7 +5821,7 @@ msgstr "Reichlich Nachkommen"
 
 msgctxt "scripts/text_weapons.lua_SpiderBoss_Tooltip_Description"
 msgid "Throw out 2-3 Spider eggs."
-msgstr "Werfen Sie 2-3 Spinne Eier."
+msgstr "Wirf 2-3 Spinneneier."
 
 msgctxt "scripts/text_weapons.lua_Jelly_Boss_Tooltip_Description"
 msgid "All other Vek gain +1 HP, Regeneration, and explode on death."
@@ -6596,11 +6596,11 @@ msgstr "Attraktion Puls"
 
 msgctxt "scripts/text_weapons.lua_Science_Pullmech_Description"
 msgid "Pull target towards you 1 tile."
-msgstr "Ziehe das Ziel zu dir 1 Kachel."
+msgstr "Ziehe das Ziel um 1 Feld zu dir."
 
 msgctxt "scripts/text_weapons.lua_Science_Gravwell_Name"
 msgid "Grav Well"
-msgstr "Gut"
+msgstr "Grav Well"
 
 msgctxt "scripts/text_weapons.lua_Science_Gravwell_Description"
 msgid "Artillery weapon that pulls its target towards you."
@@ -6636,7 +6636,7 @@ msgstr "Teleporter"
 
 msgctxt "scripts/text_weapons.lua_Science_Swap_Description"
 msgid "Swap places with a nearby tile."
-msgstr "Tausche Orte mit einer nahe gelegenen Fliese aus."
+msgstr "Wechsle Orte mit nahegelegenen Feldern."
 
 msgctxt "scripts/text_weapons.lua_Science_Swap_Upgrade2"
 msgid "+2 Range"
@@ -6644,11 +6644,11 @@ msgstr "+2 Reichweite"
 
 msgctxt "scripts/text_weapons.lua_Science_Swap_A_UpgradeDescription"
 msgid "Extends range of the swap by 1 tile."
-msgstr "Erweitert den Bereich des Swaps um 1 Kachel."
+msgstr "Erweitert den Bereich des Wechsels um 1 Feld."
 
 msgctxt "scripts/text_weapons.lua_Science_Swap_B_UpgradeDescription"
 msgid "Extends range of the swap by 2 tiles."
-msgstr "Erweitert die Reichweite des Swaps um 2 Kacheln."
+msgstr "Erweitert den Bereich des Wechsels um 2 Felder."
 
 msgctxt "scripts/text_weapons.lua_Science_AcidShot_Name"
 msgid "A.C.I.D. Projector"
@@ -6672,11 +6672,11 @@ msgstr "Rauchpellets"
 
 msgctxt "scripts/text_weapons.lua_Science_SmokeDefense_Description"
 msgid "Surround yourself with Smoke to defend against nearby enemies."
-msgstr "Umgeben Sie sich mit Rauch, um sich gegen Feinde in der Nähe zu verteidigen."
+msgstr "Umgebe dich mit Rauch, um dich gegen Feinde in der Nähe zu verteidigen."
 
 msgctxt "scripts/text_weapons.lua_Science_SmokeDefense_A_UpgradeDescription"
 msgid "No longer applies Smoke on self or allies."
-msgstr "Nicht länger gilt Rauch auf sich selbst oder Verbündete."
+msgstr "Blockiert rauch für sich selbst und Verbündete."
 
 msgctxt "scripts/text_weapons.lua_Science_Shield_Name"
 msgid "Shield Projector"
@@ -6684,7 +6684,7 @@ msgstr "Schildprojektor"
 
 msgctxt "scripts/text_weapons.lua_Science_Shield_Description"
 msgid "Shield tiles from damage."
-msgstr "Schildkacheln vor Schaden schützen."
+msgstr "Schützt Felder vor Schaden."
 
 msgctxt "scripts/text_weapons.lua_Science_Shield_Upgrade2"
 msgid "+3 Area"
@@ -6716,7 +6716,7 @@ msgstr "Schildarray"
 
 msgctxt "scripts/text_weapons.lua_Science_LocalShield_Description"
 msgid "Apply a Shield on nearby tiles."
-msgstr "Wende einen Schild auf nahegelegene Kacheln an."
+msgstr "Wende einen Schild auf nahegelegene Felder an."
 
 msgctxt ""
 "scripts/text_weapons.lua_Science_LocalShield_Upgrade1,scripts/text_weapons.lua_Support_Blizzard_Upgrade1,scripts/"
@@ -6730,11 +6730,11 @@ msgstr "Wirkungsbereich um 2 Felder erhöht."
 
 msgctxt "scripts/text_weapons.lua_Science_PushBeam_Name"
 msgid "Push Beam"
-msgstr "Schubträger"
+msgstr "Beamschlag"
 
 msgctxt "scripts/text_weapons.lua_Science_PushBeam_Description"
 msgid "Pushes all units in a line."
-msgstr "Spult alle Einheiten in einer Linie."
+msgstr "Schlägt alle Einheiten in einer Linie."
 
 msgctxt "scripts/text_weapons.lua_Science_PushBeam_Upgrade1"
 msgid "Unlimited Use"
@@ -6752,7 +6752,7 @@ msgstr "Mech Reparatur"
 
 msgctxt "scripts/text_weapons.lua_Skill_Repair_Description"
 msgid "Repair 1 damage and remove Fire, Ice, and A.C.I.D."
-msgstr "Repariere 1 Schaden und entferne Fire, Ice und A.C.I.D."
+msgstr "Repariere 1 Schaden und entferne Feuer, Eis und Säure."
 
 msgctxt "scripts/text_weapons.lua_Skill_Repair_Power_Name"
 msgid "Power Repair"
@@ -6760,7 +6760,7 @@ msgstr "Energiereparatur"
 
 msgctxt "scripts/text_weapons.lua_Skill_Repair_Power_Description"
 msgid "Repair Mech and push adjacent tiles."
-msgstr "Repariere Mech und schiebe benachbarte Steine."
+msgstr "Repariere Mech und stoße benachbarte Felder."
 
 msgctxt "scripts/text_weapons.lua_Skill_Repair_Punch_Name"
 msgid "Mantis Slash"
@@ -6770,7 +6770,9 @@ msgctxt "scripts/text_weapons.lua_Skill_Repair_Punch_Description"
 msgid ""
 "Damage and push an adjacent tile.\n"
 "Escape from Ice."
-msgstr "Schaden und schiebe eine angrenzende Kachel. \\ NEscape from Ice."
+msgstr ""
+"Schädigt und stößt angrenzende Felder.\n"
+"Fliehe vom Eis."
 
 msgctxt "scripts/text_weapons.lua_Support_Boosters_Name"
 msgid "Boosters"
@@ -6778,7 +6780,7 @@ msgstr "Booster"
 
 msgctxt "scripts/text_weapons.lua_Support_Boosters_Description"
 msgid "Jump forward and push adjacent tiles away."
-msgstr "Springe vorwärts und schiebe angrenzende Steine ​​weg."
+msgstr "Springe vorwärts und schiebe angrenzende Felder weg."
 
 msgctxt "scripts/text_weapons.lua_Support_Smoke_Name"
 msgid "Smoke Bombs"
@@ -6786,7 +6788,7 @@ msgstr "Rauchbomben"
 
 msgctxt "scripts/text_weapons.lua_Support_Smoke_Description"
 msgid "Fly over the targets while dropping Smoke."
-msgstr "Fliege über die Ziele, während du Smoke fallen lässt."
+msgstr "Fliege über die Ziele, während du Rauch fallen lässt."
 
 msgctxt ""
 "scripts/text_weapons.lua_Support_Smoke_A_UpgradeDescription,scripts/text_weapons."
@@ -6800,7 +6802,7 @@ msgstr "Wärmekonverter"
 
 msgctxt "scripts/text_weapons.lua_Support_Refrigerate_Description"
 msgid "Freeze the tile in front but light the tile behind on Fire in the process."
-msgstr "Frieren Sie die Fliese vor, aber entzünden Sie die Fliese dahinter bei Fire."
+msgstr "Friert das Feld vorne, verbrennt das Feld hinterbei."
 
 msgctxt "scripts/text_weapons.lua_Support_Destruct_Name"
 msgid "Self-Destruct"
@@ -6808,7 +6810,7 @@ msgstr "Selbstzerstörung"
 
 msgctxt "scripts/text_weapons.lua_Support_Destruct_Description"
 msgid "Mech explodes, killing self and anything adjacent to Mech."
-msgstr "Mech explodiert und tötet sich selbst und alles, was zu Mech gehört."
+msgstr "Mech explodiert und tötet sich selbst und alles, was am Mech angrenzt."
 
 msgctxt "scripts/text_weapons.lua_Support_Force_Name"
 msgid "Targeted Strike"
@@ -6816,7 +6818,7 @@ msgstr "Präventivschlag"
 
 msgctxt "scripts/text_weapons.lua_Support_Force_Description"
 msgid "Call in an air strike on a single tile anywhere on the map."
-msgstr "Rufen Sie einen Luftangriff auf ein einzelnes Feld irgendwo auf der Karte an."
+msgstr "Rufe einen Luftangriff auf ein einzelnes Feld irgendwo auf der Karte an."
 
 msgctxt "scripts/text_weapons.lua_Support_SmokeDrop_Name"
 msgid "Smoke Drop"
@@ -6824,7 +6826,7 @@ msgstr "Rauchabwurf"
 
 msgctxt "scripts/text_weapons.lua_Support_SmokeDrop_Description"
 msgid "Drops Smoke on 5 tiles anywhere on the map."
-msgstr "Lässt Rauch auf 5 Spielsteine ​​überall auf der Karte fallen."
+msgstr "Lässt Rauch auf 5 Felder überall auf der Karte fallen."
 
 msgctxt "scripts/text_weapons.lua_Support_Repair_Name"
 msgid "Repair Drop"
@@ -6836,11 +6838,11 @@ msgstr "Heile alle Spielereinheiten (einschließlich deaktivierter Mechs)."
 
 msgctxt "scripts/text_weapons.lua_Support_Missiles_Name"
 msgid "Missile Barrage"
-msgstr "Raketensperre"
+msgstr "Sperrfeuer"
 
 msgctxt "scripts/text_weapons.lua_Support_Missiles_Description"
 msgid "Fires a missile barrage that hits every enemy on the map."
-msgstr "Feuert eine Raketensperre ab, die jeden Gegner auf der Karte trifft."
+msgstr "Feuert eine Sperrfeuer ab, die jeden Gegner auf der Karte trifft."
 
 msgctxt "scripts/text_weapons.lua_Support_Wind_Name"
 msgid "Wind Torrent"
@@ -6860,7 +6862,7 @@ msgstr "Eis Regeneration"
 
 msgctxt "scripts/text_weapons.lua_Support_Blizzard_Description"
 msgid "Freeze yourself and nearby tiles."
-msgstr "Friere dich und in der Nähe liegende Fliesen ein."
+msgstr "Friere dich und in der Nähe liegende Felder ein."
 
 msgctxt ""
 "scripts/text_weapons.lua_Support_Blizzard_A_UpgradeDescription,scripts/text_weapons."
