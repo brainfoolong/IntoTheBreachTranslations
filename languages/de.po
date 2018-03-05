@@ -293,7 +293,7 @@ msgid ""
 msgstr ""
 "Dieser Terraformer steht während dieser Mission unter deiner Kontrolle. \n"
 "\n"
-"Verwende ihn, um Grasfelder zu Sandfeldern zu machen."
+"Verwende ihn, um Gras zu Sand zu machen."
 
 msgctxt "scripts/text.lua_Tutorial_Terraform_Title"
 msgid "Terraformer"
@@ -4216,7 +4216,7 @@ msgstr "Füge einer Einheit mit einem einzigen Angriff 8 Schaden zu"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__fire_0"
 msgid "Fire Tile"
-msgstr "Feuerfeld"
+msgstr "Feuer"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__fire_1"
 msgid "Lights units on Fire."
@@ -4224,7 +4224,7 @@ msgstr "Steckt Einheiten in Brand."
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__forest_0"
 msgid "Forest Tile"
-msgstr "Waldfeld"
+msgstr "Wald"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__forest_1"
 msgid "If damaged, lights on Fire."
@@ -4240,7 +4240,7 @@ msgstr "Setzt Einheiten in Brand. Dieses Feuer wurde durch einen beschädigten W
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__smoke_0"
 msgid "Smoke Tile"
-msgstr "Rauchfeld"
+msgstr "Rauch"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__smoke_1,scripts/text_tooltips.lua_STATUS_TOOLTIPS__smoke_1"
 msgid "Units in Smoke cannot attack or repair."
@@ -4297,7 +4297,7 @@ msgstr "Zivilgebäude"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__powered_1"
 msgid "Your Power Grid is reduced when Grid Structures are damaged."
-msgstr "Ihr Stromnetz wird reduziert, wenn Strukturen beschädigt werden."
+msgstr "Das Stromnetz wird reduziert, wenn Strukturen beschädigt werden."
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__evacuated_0"
 msgid "Evacuated Building"
@@ -4323,7 +4323,7 @@ msgstr "Bergschutt"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ice_0"
 msgid "Ice Tile"
-msgstr "Eisfeld"
+msgstr "Eis"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ice_1"
 msgid "Turns into Water when destroyed. Must be hit twice."
@@ -4347,7 +4347,7 @@ msgstr "Wird bei der Zerstörung zu Lava, aber momentan ist es sicher."
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__damaged_ice_0"
 msgid "Damaged Ice Tile"
-msgstr "Beschädigtes Eisfeld"
+msgstr "Beschädigtes Eis"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__damaged_ice_1"
 msgid "Turns into a Water tile when destroyed. One hit will destroy it."
@@ -4355,7 +4355,7 @@ msgstr "Verwandelt sich in Wasser, wenn es zerstört wird. Ein Treffer wird es z
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__chasm_0"
 msgid "Chasm Tile"
-msgstr "Abgrundfeld"
+msgstr "Abgrund"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__chasm_1"
 msgid ""
@@ -4367,11 +4367,11 @@ msgstr ""
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ground_0"
 msgid "Ground Tile"
-msgstr "Bodenfeld"
+msgstr "Boden"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__sand_0"
 msgid "Sand Tile"
-msgstr "Sandfeld"
+msgstr "Sand"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__sand_1"
 msgid ""
@@ -4383,11 +4383,11 @@ msgstr ""
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__mountain_0"
 msgid "Mountain Tile"
-msgstr "Bergfeld"
+msgstr "Berg"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__mountain_1"
 msgid "Blocks movement and projectiles. Damage twice to destroy."
-msgstr "Blockiert Bewegung und Geschosse. Beschädige es zweimal, um zu zerstören."
+msgstr "Blockiert Bewegung und Geschosse. Beschädige es zweimal, um es zu zerstören."
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__damaged_mountain_0"
 msgid "Damaged Mountain"
@@ -4399,7 +4399,7 @@ msgstr "Blockiert Bewegung und Geschosse. Ein Treffer wird es zerstören."
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__water_0"
 msgid "Water Tile"
-msgstr "Wasserfeld"
+msgstr "Wasser"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__water_1"
 msgid "Units cannot attack in Water. Most non-flying enemies die in Water."
@@ -4407,7 +4407,7 @@ msgstr "Einheiten können nicht in Wasser angreifen. Die meisten nicht fliegende
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__acid_water_0"
 msgid "A.C.I.D. Tile"
-msgstr "Säurefeld"
+msgstr "Säure"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__acid_water_1"
 msgid "Behaves like Water, but inflicts A.C.I.D. on surviving units."
@@ -4415,7 +4415,7 @@ msgstr "Benimmt sich wie Wasser, aber verursacht Säureschaden auf überlebenden
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__lava_0"
 msgid "Lava Tile"
-msgstr "Lavafeld"
+msgstr "Lava"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__lava_1"
 msgid "Behaves like Water, but inflicts Fire on surviving units."
@@ -4577,7 +4577,7 @@ msgstr "Wiese"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__grassland_1"
 msgid "Your bonus objective is to terraform Grassland tiles into Sand."
-msgstr "Ihr Bonusziel ist es, Grasfelder in Sand zu verwandeln."
+msgstr "Ihr Bonusziel ist es, Gras in Sand zu verwandeln."
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__terraformed_0"
 msgid "Terraformed"
@@ -6410,7 +6410,7 @@ msgstr "Schrapnellkanone"
 
 msgctxt "scripts/text_weapons.lua_Brute_Splitshot_Description"
 msgid "Shoot a projectile that damages and pushes the targeted tile and the tiles to its left and right."
-msgstr "Schieße ein Projektil das das Zielfeld und das Feld rechts und links davon beschädigt und stößt."
+msgstr "Schieße ein Projektil, dass das Ziel und das Feld rechts und links davon beschädigt und stößt."
 
 msgctxt "scripts/text_weapons.lua_Brute_Bombrun_Name"
 msgid "Astra Bombs"

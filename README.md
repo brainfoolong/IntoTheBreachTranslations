@@ -1,7 +1,9 @@
 ![](https://img.shields.io/badge/Game_Version-1.0.10(2--28--2018)-green.svg) 
-![](https://img.shields.io/badge/DE__Alpha-60%25_Translated-orange.svg)
+![](https://img.shields.io/badge/DE__WorkingAlpha-70%25_Translated-orange.svg)
 # Into the Breach - Translations
 Inofficial Translations for PC Game Into the Breach. This is all fan made. You can help translating this game into your language. If used, it does directly modify some game files.
+
+Until now, a complete translation file for one language contains more than 1500 lines of text. A huge job that really take some time and that demands your stamina.
 
 ## Downloads
 * German: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/de.zip

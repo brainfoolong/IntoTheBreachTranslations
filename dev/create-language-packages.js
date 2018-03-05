@@ -47,7 +47,7 @@ languages.forEach(function (langFile) {
       msgData.msgctxt.join('').split(',').forEach(function (msgctxt) {
         let match = msgctxt.match(/(.*?\.lua)_(.*)/i)
         const file = match[1]
-        if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua') {
+        if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua' || file === 'scripts/text_weapons.lua') {
           if (typeof values[file] === 'undefined') {
             values[file] = {}
           }
