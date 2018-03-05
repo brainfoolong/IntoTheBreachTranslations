@@ -16,24 +16,24 @@ manifest.translationFiles.forEach(function (translationFile) {
     if (line.substr(0, 2) === '--' || line.length === 0) {
       return true
     }
-    if (translationFile === 'text.lua') {
+    if (translationFile === 'scripts/text.lua') {
       if (line === 'local Global_Texts = {') {
         lineValid = true
         return true
       }
     }
-    if (translationFile === 'text_achievements.lua') {
+    if (translationFile === 'scripts/text_achievements.lua') {
       if (line === 'Achievement_Texts = {') {
         lineValid = true
         return true
       }
     }
-    if (translationFile === 'text_tooltips.lua') {
+    if (translationFile === 'scripts/text_tooltips.lua') {
       if (line === 'TILE_TOOLTIPS = {' || line === 'local STATUS_TOOLTIPS = {' || line === 'local PilotSkills = {') {
         lineValid = true
       }
     }
-    if (translationFile === 'text_population.lua') {
+    if (translationFile === 'scripts/text_population.lua') {
       if (line === 'local PopEvent = {') {
         lineValid = true
         return true
@@ -49,11 +49,11 @@ manifest.translationFiles.forEach(function (translationFile) {
   var values = {}
   var ctx = null
   translationLines.forEach(function (line) {
-    if (translationFile === 'text.lua' || translationFile === 'text_achievements.lua') {
+    if (translationFile === 'scripts/text.lua' || translationFile === 'scripts/text_achievements.lua') {
       var m = line.match(/^(.*?) = "(.*?)",($|[\s]*--)/i)
       values[m[1]] = m[2]
     }
-    if (translationFile === 'text_tooltips.lua') {
+    if (translationFile === 'scripts/text_tooltips.lua') {
       if (line === 'TILE_TOOLTIPS = {') {
         ctx = 'TILE_TOOLTIPS'
         return true
@@ -85,7 +85,7 @@ manifest.translationFiles.forEach(function (translationFile) {
         }
       }
     }
-    if (translationFile === 'text_population.lua') {
+    if (translationFile === 'scripts/text_population.lua') {
       line = line.replace(/, Odds = [0-9]+ /ig, '')
       var m = line.match(/^(.*?) = \{(.*?)\},($|[\s]*--)/i)
       var o = JSON.parse('[' + m[2].replace(/[\s,]*$/ig, '') + ']')

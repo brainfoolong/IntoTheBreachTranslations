@@ -16,6 +16,7 @@ manifest.translationFiles.forEach(function (file) {
 
 languages.forEach(function (langFile) {
   if (langFile.substr(langFile.length - 2) === 'po') {
+    var language = langFile.substring(0, langFile.length - 3)
     var valuesToReplace = {}
     var fileData = fs.readFileSync(langDir + '/' + langFile).toString()
     var lines = fileData.split('\n')
@@ -45,13 +46,13 @@ languages.forEach(function (langFile) {
         msgData.msgctxt.join('').split(',').forEach(function (ctx) {
           var m = ctx.match(/(.*?\.lua)_(.*)/i)
           var file = m[1]
-          if (file === 'text.lua' || file === 'text_achievements.lua') {
+          if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua') {
             if (typeof valuesToReplace[file] === 'undefined') {
               valuesToReplace[file] = {}
             }
             valuesToReplace[file][m[2]] = msgData.msgstr.join('')
           }
-          if (file === 'text_tooltips.lua') {
+          if (file === 'scripts/text_tooltips.lua') {
             m = ctx.match(/(.*?\.lua)_(.*?)__(.*)_([0-9]+)/i)
             if (typeof valuesToReplace[file] === 'undefined') {
               valuesToReplace[file] = {}
@@ -64,7 +65,7 @@ languages.forEach(function (langFile) {
             }
             valuesToReplace[file][m[2]][m[3]][m[4]] = msgData.msgstr.join('')
           }
-          if (file === 'text_population.lua') {
+          if (file === 'scripts/text_population.lua') {
             m = ctx.match(/(.*?\.lua)_(.*)_([0-9]+)/i)
             if (typeof valuesToReplace[file] === 'undefined') {
               valuesToReplace[file] = {}
@@ -105,12 +106,12 @@ languages.forEach(function (langFile) {
           ctx = null
         }
         for (var key in valuesFile) {
-          if (file === 'text.lua' || file === 'text_achievements.lua') {
+          if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua') {
             if (lineTrimmed.substr(0, key.length) === key) {
               line = '    ' + key + ' = "' + valuesFile[key] + '",'
             }
           }
-          if (file === 'text_tooltips.lua') {
+          if (file === 'scripts/text_tooltips.lua') {
             if (ctx === key) {
               for (var id in valuesFile[key]) {
                 if (lineTrimmed.substr(0, id.length) === id) {
@@ -128,7 +129,7 @@ languages.forEach(function (langFile) {
               }
             }
           }
-          if (file === 'text_population.lua') {
+          if (file === 'scripts/text_population.lua') {
             if (ctx === 'PopEvent' && lineTrimmed.substr(0, key.length) === key) {
               var v = []
               for (var i in valuesFile[key]) {
@@ -150,13 +151,17 @@ languages.forEach(function (langFile) {
       var fileData = templateFileData[file]
       fileData = fileData.replace(/\t/g, '    ')
       fileData = iconv.encode(new Buffer(fileData), 'latin1')
-      zip.file(file, templateFileData[file])
+      zip.file(file, fileData)
       // also save into gamedir if set
-      if (config && config.gamedir) {
+      if (config.langInGameDir && config.langInGameDir === language) {
+        // make a backup if not yet exist
+        if (!fs.existsSync(config.gamedir + '/' + file + '.bkp')) {
+          fs.copyFileSync(config.gamedir + '/' + file, config.gamedir + '/' + file + '.bkp')
+        }
         fs.writeFileSync(config.gamedir + '/' + file, fileData)
       }
     }
-    fs.writeFileSync(__dirname + '/packages/' + langFile.substring(0, langFile.length - 3) + '.zip', zip.generate({
+    fs.writeFileSync(__dirname + '/packages/' + language + '.zip', zip.generate({
       base64: false,
       compression: 'DEFLATE'
     }), 'binary')
