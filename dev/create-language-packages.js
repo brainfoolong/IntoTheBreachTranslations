@@ -161,7 +161,7 @@ languages.forEach(function (langFile) {
         fs.writeFileSync(config.gamedir + '/' + file, fileData)
       }
     }
-    fs.writeFileSync(__dirname + '/packages/' + language + '.zip', zip.generate({
+    fs.writeFileSync(__dirname + '/../packages/' + language + '.zip', zip.generate({
       base64: false,
       compression: 'DEFLATE'
     }), 'binary')

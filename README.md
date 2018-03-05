@@ -6,10 +6,9 @@ Inofficial Translations for PC Game Into the Breach. This is all fan made. You c
 Not final yet, working on it. You can help.
 
 # How to install
-1. Download a language pack from our releases
+1. Download a language pack from https://github.com/brainfoolong/IntoTheBreachTranslations/tree/master/packages
 2. Find your game folder
-2. Find the folder `scripts`
-4. Unpack all files in the `scripts` folder. WARNING: You must replace existing files, better make a backup before doing this because it does modify the original game files.
+3. Unpack all files/folders into the game folder. WARNING: This action does modify original game files. You must replace existing files. Better make a backup before doing this.
 
 # How to contribute
 
