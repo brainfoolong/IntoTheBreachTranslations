@@ -1,14 +1,14 @@
-![1.0.10 (2-28-2018)](https://img.shields.io/badge/Game_Version-1.0.10(2--28--2018)-green.svg) 
-![1.0.10 (2-28-2018)](https://img.shields.io/badge/DE__Unfinished-99%25_Translated-orange.svg)
+![](https://img.shields.io/badge/Game_Version-1.0.10(2--28--2018)-green.svg) 
+![](https://img.shields.io/badge/DE__Alpha-85%25_Translated-orange.svg)
 # Into the Breach - Translations
 Inofficial Translations for PC Game Into the Breach. This is all fan made. You can help translating this game into your language. If used, it does directly modify some game files.
 
 ## Downloads
-* German - Coming soon
+* German: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/de.zip
 * Other languages are missing contributors. Become one.
 
 ## How to install
-1. Download a language pack from https://github.com/brainfoolong/IntoTheBreachTranslations/tree/master/packages
+1. Download a language pack from the download list
 2. Find your game folder
 3. Unpack all files/folders into the game folder. WARNING: This action does modify original game files. You must replace existing files. Better make a backup before doing this.
 
