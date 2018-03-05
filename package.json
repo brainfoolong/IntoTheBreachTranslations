@@ -9,6 +9,7 @@
     "url": "git://github.com/brainfoolong/IntoTheBreachTranslations.git"
   },
   "dependencies": {
+    "@google-cloud/translate": "^1.1.0",
     "iconv-lite": "^0.4.19",
     "node-zip": "^1.1.1"
   },
