@@ -98,8 +98,9 @@ languages.forEach(function (langFile) {
         if (!valuesRow.hasOwnProperty(rowKey)) {
           continue
         }
+        var rowKeyUnique = rowKey + ' = '
         if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua' || file === 'scripts/text_weapons.lua') {
-          if (lineTrimmed.substr(0, rowKey.length) === rowKey) {
+          if (lineTrimmed.substr(0, rowKeyUnique.length) === rowKeyUnique) {
             line = '    ' + rowKey + ' = "' + valuesRow[rowKey] + '",'
           }
         }
@@ -110,7 +111,8 @@ languages.forEach(function (langFile) {
               if (!valuesRow[rowKey].hasOwnProperty(id)) {
                 continue
               }
-              if (lineTrimmed.substr(0, id.length) === id) {
+              var idUnique = id + ' = '
+              if (lineTrimmed.substr(0, idUnique.length) === idUnique) {
                 let v = []
                 for (let i in valuesRow[rowKey][id]) {
                   v.push('"' + valuesRow[rowKey][id][i] + '"')
@@ -126,7 +128,7 @@ languages.forEach(function (langFile) {
           }
         }
         if (file === 'scripts/text_population.lua') {
-          if (context === 'PopEvent' && lineTrimmed.substr(0, rowKey.length) === rowKey) {
+          if (context === 'PopEvent' && lineTrimmed.substr(0, rowKeyUnique.length) === rowKeyUnique) {
             let v = []
             for (let id in valuesRow[rowKey]) {
               if (!valuesRow[rowKey].hasOwnProperty(id)) {

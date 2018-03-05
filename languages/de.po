@@ -772,7 +772,7 @@ msgid ""
 msgstr ""
 "Das Spiel wurde aktualisiert und ältere Beta-Profile können nach diesen Änderungen auf einige Kuriositäten stoßen. \n"
 "\n"
-"Deine Errungenschaten Münzen könnten jetzt aufgrund von Preisänderungen zuvor freigeschalteter Mechs negativ sein. "
+"Deine Errungenschaten Coins könnten jetzt aufgrund von Preisänderungen zuvor freigeschalteter Mechs negativ sein. "
 "Das Spiel funktioniert, du brauchst nur mehr Erfolge, um die Gewinnzone zu erreichen.\n"
 "\n"
 "Wenn du gerade ein Spiel laufen hast, wird es möglicherweise nicht korrekt geladen. Ich hoffe, es funktioniert immer "
@@ -923,7 +923,7 @@ msgstr ""
 
 msgctxt "scripts/text.lua_TipTitle_Reputation"
 msgid "Corporate Reputation"
-msgstr "Ansehen einer Firma"
+msgstr "Firmenreputation"
 
 msgctxt "scripts/text.lua_TipText_Reputation"
 msgid "Use reputation points to purchase supplies once an Island is secured."
@@ -1498,8 +1498,8 @@ msgstr "Große Bereiche der Karte werden regelmäßig einfrieren"
 msgctxt "scripts/text.lua_Corp_Grass_Description"
 msgid "This Museum Island recreates Old Earth as it was before the oceans rose and nearly wiped out humanity."
 msgstr ""
-"Diese Museumsinsel stellt die alte Erde so wieder her, wie sie war, bevor die Ozeane aufstiegen und die Menschheit "
-"beinahe ausgelöscht hatten."
+"Diese Museumsinsel stellt die alte Erde so wieder her, wie sie war, bevor die Ozeane stiegen und die Menschheit "
+"beinahe auslöschten."
 
 msgctxt "scripts/text.lua_Corp_Desert_Description"
 msgid ""
@@ -1522,7 +1522,7 @@ msgstr ""
 
 msgctxt "scripts/text.lua_Order_Fire"
 msgid "Fire Damage"
-msgstr "Feuer Schaden"
+msgstr "Feuerschaden"
 
 msgctxt "scripts/text.lua_Order_Psion"
 msgid "Psion Regenerate"
@@ -1546,7 +1546,7 @@ msgstr "NPC Bot Aktionen"
 
 msgctxt "scripts/text.lua_Order_Emerge"
 msgid "Enemies Emerge"
-msgstr "Feinde tauchen auf"
+msgstr "Feinde treffen ein"
 
 msgctxt "scripts/text.lua_Order_Env"
 msgid "Environment"
@@ -1704,7 +1704,7 @@ msgstr "Im Todesfall"
 
 msgctxt "scripts/text.lua_Skill_ClassBrute"
 msgid "Brute"
-msgstr "Gewalt"
+msgstr "Rohe Gewalt"
 
 msgctxt "scripts/text.lua_Skill_ClassRanged"
 msgid "Ranged"
@@ -2566,15 +2566,15 @@ msgstr "Siegmedaillen"
 
 msgctxt "scripts/text.lua_Hangar_Ach_Coins"
 msgid "Note: Achievements earn you Coins to unlock new Mech Squads!"
-msgstr "Hinweis: Erfolge bringen dir Münzen, um neue Mech Squads freizuschalten!"
+msgstr "Hinweis: Erfolge bringen dir Coins, um neue Mech Squads freizuschalten!"
 
 msgctxt "scripts/text.lua_Hangar_Locked"
 msgid "Locked"
-msgstr "Verschlossen"
+msgstr "Gesperrt"
 
 msgctxt "scripts/text.lua_Hangar_Randomized"
 msgid "Random Squad"
-msgstr "Zufälliges Squad"
+msgstr "Zufaelliges Squad"
 
 msgctxt "scripts/text.lua_Hangar_Custom"
 msgid "Customize Squad"
@@ -2586,7 +2586,7 @@ msgstr "Beende mehr Inseln um das freizuschalten!"
 
 msgctxt "scripts/text.lua_Hangar_Achievements"
 msgid "Earn more Coins!"
-msgstr "Verdiene mehr Münzen!"
+msgstr "Verdiene mehr Coins!"
 
 msgctxt "scripts/text.lua_Hangar_Buy"
 msgid "Click to Purchase!"
@@ -2610,7 +2610,7 @@ msgstr "Zufällig zuordnen"
 
 msgctxt "scripts/text.lua_Button_Hangar_Ach"
 msgid "View All Achievements"
-msgstr "Alle Erfolge anzeigen"
+msgstr "Erfolge anzeigen"
 
 msgctxt "scripts/text.lua_Button_Hangar_Secret"
 msgid "Buy Secret Squad       "
@@ -2618,7 +2618,7 @@ msgstr "Geheimes Squad kaufen       "
 
 msgctxt "scripts/text.lua_Hangar_Total_Ach"
 msgid "Total Coins Earned"
-msgstr "Münzen insgesamt verdient"
+msgstr "Coins verdient"
 
 msgctxt "scripts/text.lua_Button_Hangar_Recustom"
 msgid "Edit Squad"
@@ -2634,7 +2634,7 @@ msgstr "Gesperrter Mech"
 
 msgctxt "scripts/text.lua_Button_Hangar_Start"
 msgid "Start Game"
-msgstr "Spiel starten"
+msgstr "Starten"
 
 msgctxt "scripts/text.lua_Hangar_Random"
 msgid "Random Mech"
@@ -2654,11 +2654,11 @@ msgstr "Global"
 
 msgctxt "scripts/text.lua_Hangar_Coins"
 msgid "Gain Coins by completing Achievements! Use Coins to unlock new Squads!"
-msgstr "Erhalte Münzen, indem du Erfolge abschließt! Benutze Münzen, um neue Squads freizuschalten!"
+msgstr "Erfolge bringen Coins! Benutze Coins fuer neue Squads!"
 
 msgctxt "scripts/text.lua_Hangar_Pilot_Unlock"
 msgid "Find new Pilots while playing to unlock them here!"
-msgstr "Finde neue Piloten während des Spiels, um sie hier freizuschalten!"
+msgstr "Finde neue Piloten im Spiel um sie hier freizuschalten!"
 
 msgctxt "scripts/text.lua_Hangar_Pilot"
 msgid "Pilot Selection"
@@ -2690,7 +2690,7 @@ msgstr "Erstelle einen eigenen Squad mit freigeschalteten Mechs."
 
 msgctxt "scripts/text.lua_RandomizedLocked"
 msgid "Unlock more Mechs to use this feature!"
-msgstr "Schalte mehr Mechs frei, um diese Funktion zu nutzen!"
+msgstr "Zuwenig Mechs freigeschalten!"
 
 msgctxt "scripts/text.lua_No_Weapon"
 msgid "No Weapon"
@@ -2962,7 +2962,7 @@ msgstr "FÜHRENDER:"
 
 msgctxt "scripts/text.lua_Island_Unlock"
 msgid "Complete $1 $2 to unlock!"
-msgstr "Zum freischalten schließe $1 $1 ab!"
+msgstr "Zum freischalten schließe $1 $2 ab!"
 
 msgctxt "scripts/text.lua_Island_Unlock_Single"
 msgid "Island"
@@ -6236,7 +6236,7 @@ msgstr "Titanitklinge"
 
 msgctxt "scripts/text_weapons.lua_Prime_Sword_Description"
 msgid "Swing a massive sword to damage and push 3 tiles."
-msgstr "Schwinge ein massives Schwert umd 3 Felder zu beschädigen und zu stoßen."
+msgstr "Schwinge ein massives Schwert um 3 Felder zu beschädigen und zu stoßen."
 
 msgctxt ""
 "scripts/text_weapons.lua_Prime_Sword_Upgrade1,scripts/text_weapons.lua_Prime_Smash_Upgrade1,scripts/text_weapons."
@@ -6372,7 +6372,7 @@ msgstr "Rammende Motoren"
 
 msgctxt "scripts/text_weapons.lua_Brute_Beetle_Description"
 msgid "Fly in a line and slam into the target, pushing it and hurting yourself."
-msgstr "Fliege in einer Linie und krache in das Ziel, stoßt und verletzt sich selbst."
+msgstr "Fliege in einer Linie und krache in das Ziel, stößt und verletzt sich selbst dabei."
 
 msgctxt ""
 "scripts/text_weapons.lua_Brute_Beetle_A_UpgradeDescription,scripts/text_weapons."
@@ -6430,7 +6430,7 @@ msgstr "Hermes-Motoren"
 
 msgctxt "scripts/text_weapons.lua_Brute_Sonic_Description"
 msgid "Dash in a line, pushing adjacent tiles away."
-msgstr "Schiesse in eine Linie und stoße angrenzende Felder​​ab."
+msgstr "Schieße in eine Linie und stoße angrenzende Felder​​ab."
 
 msgctxt "scripts/text_weapons.lua_Ranged_Artillerymech_Name"
 msgid "Artemis Artillery"
@@ -6612,7 +6612,7 @@ msgstr "Abwehr"
 
 msgctxt "scripts/text_weapons.lua_Science_Repulse_Description"
 msgid "Push all adjacent tiles."
-msgstr "Stoße benachbarte Felder."
+msgstr "Stoße alle benachbarten Felder."
 
 msgctxt "scripts/text_weapons.lua_Science_Repulse_Upgrade1"
 msgid "Shield Self"
@@ -6952,7 +6952,7 @@ msgstr "Stelle einen Panzer bereit, der Säure auf Ziele wirken lässt."
 
 msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_Upgrade2"
 msgid "+Push"
-msgstr "+ Stoßen"
+msgstr "+Stoßen"
 
 msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_B_UpgradeDescription"
 msgid "The tank's attack also pushes its target."
