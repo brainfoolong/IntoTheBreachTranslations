@@ -444,9 +444,9 @@ msgid ""
 "\n"
 "If a unit stands on Fire, it will ignite and take damage every turn."
 msgstr ""
-"Der WALD auf diesem Feld hat Schaden genommen und ihn in FEUER verwandelt. \n"
+"Der WALD auf diesem Feld hat Schaden genommen und ihn in Brand gesetzt. \n"
 "\n"
-"Wenn eine Einheit auf Feuer steht, wird sie sich entzünden und in jedem Zug Schaden nehmen."
+"Wenn eine Einheit in Brand steht, wird sie sich entzünden und in jedem Zug Schaden nehmen."
 
 msgctxt "scripts/text.lua_Tutorial_Forest_Title"
 msgid "Burning Forests"
@@ -848,7 +848,7 @@ msgstr ""
 #| msgid "Attack Order"
 msgctxt "scripts/text.lua_TipTitle_Order,scripts/text.lua_TipTitle_Overlay"
 msgid "Attack Order"
-msgstr "Angriffsreihenfolge"
+msgstr "Angriffsfolge"
 
 msgctxt "scripts/text.lua_TipText_Order"
 msgid "Mouse over here or hold ALT to display the order enemies will attack."
@@ -894,7 +894,7 @@ msgstr ""
 #| msgid "Reset Turn"
 msgctxt "scripts/text.lua_TipTitle_ResetTurn,scripts/text.lua_TipTitle_ResetTurnExtra,scripts/text.lua_TipTitle_ResetTurnFinal,scripts/text.lua_Reset_Title"
 msgid "Reset Turn"
-msgstr "Zug zurücksetzen"
+msgstr "Zug zurück"
 
 msgctxt "scripts/text.lua_TipText_ResetTurnUsed"
 msgid "You can only use this once per battle."
@@ -1008,7 +1008,7 @@ msgid ""
 msgstr ""
 "Füge Spieltimer zur Benutzeroberfläche hinzu. \n"
 "\n"
-"Hilfreich für Speedrunning oder den 'Lightning War' Erfolg."
+"Hilfreich für Speedrunning oder den 'Blitzkrieg' Erfolg."
 
 #| msgctxt "scripts/text.lua_TipTitle_Colorblind,text.lua_Toggle_Colorblind"
 #| msgid "Colorblind Mode"
@@ -1828,11 +1828,11 @@ msgstr "MECHS DEAKTIVIERT"
 
 msgctxt "scripts/text.lua_State_Turns"
 msgid "$1 Turns Remaining"
-msgstr "$1 Züge übrig"
+msgstr "$1 Zuege noch"
 
 msgctxt "scripts/text.lua_State_LastTurn"
 msgid "Last Turn"
-msgstr "Letzter Zug"
+msgstr "Fertig"
 
 msgctxt "scripts/text.lua_Upgrade_MoveLabel"
 msgid "+1 Move"
@@ -2100,7 +2100,7 @@ msgstr ""
 
 msgctxt "scripts/text.lua_Top_Power"
 msgid "POWER"
-msgstr "LEISTUNG"
+msgstr "ENERGIE"
 
 msgctxt "scripts/text.lua_Top_Grid"
 msgid "GRID"
@@ -2108,7 +2108,7 @@ msgstr "NETZ"
 
 msgctxt "scripts/text.lua_Top_Defense"
 msgid "DEFENSE"
-msgstr "VERTEIDIGUNG"
+msgstr "ABWEHR"
 
 msgctxt "scripts/text.lua_Pilot_TurnOver"
 msgid "Turn Over"
@@ -2244,7 +2244,7 @@ msgstr "Statistiken"
 
 msgctxt "scripts/text.lua_Button_MainAchievs,scripts/text.lua_Hangar_Achievements_Title"
 msgid "Achievements"
-msgstr "Errungenschaften"
+msgstr "Erfolge"
 
 msgctxt "scripts/text.lua_Button_MainSquads"
 msgid "Squads"
@@ -2540,7 +2540,7 @@ msgstr "Zufällig zuordnen"
 
 msgctxt "scripts/text.lua_Button_Hangar_Ach"
 msgid "View All Achievements"
-msgstr "Alle Errungenschaften anzeigen"
+msgstr "Alle Erfolge anzeigen"
 
 msgctxt "scripts/text.lua_Button_Hangar_Secret"
 msgid "Buy Secret Squad       "
@@ -2768,7 +2768,7 @@ msgstr "Default Windowed"
 
 msgctxt "scripts/text.lua_Button_Options_Scale"
 msgid "Max Board Scale: $1"
-msgstr "Max Board Scale"
+msgstr "Max Board Skalierung: $1"
 
 msgctxt "scripts/text.lua_Toggle_Mute"
 msgid "Mute All Audio"
@@ -2820,7 +2820,7 @@ msgstr "OPTIONEN"
 
 msgctxt "scripts/text.lua_Button_Escape_Ach"
 msgid "ACHIEVEMENTS"
-msgstr "ERRUNGENSCHAFTEN"
+msgstr "ERFOLGE"
 
 msgctxt "scripts/text.lua_Button_Escape_Quit"
 msgid "SAVE and QUIT"
@@ -3232,7 +3232,7 @@ msgstr "Wähle deinen dritten Mech aus (basierend auf der Listenreihenfolge)"
 
 msgctxt "scripts/text.lua_SelectDeploy1_Title"
 msgid "Select Deployed 1"
-msgstr "Wähle Eingesetzt 1"
+msgstr "Wähle Bereit 1"
 
 msgctxt "scripts/text.lua_SelectDeploy1_Description"
 msgid "Select your first Mech's deployed unit"
@@ -3240,7 +3240,7 @@ msgstr "Wähle die eingesetzte Einheit deines ersten Mechs aus"
 
 msgctxt "scripts/text.lua_SelectDeploy2_Title"
 msgid "Select Deployed 2"
-msgstr "Wähle Eingesetzt 2"
+msgstr "Wähle Bereit 2"
 
 msgctxt "scripts/text.lua_SelectDeploy2_Description"
 msgid "Select your second Mech's deployed unit"
@@ -3248,7 +3248,7 @@ msgstr "Wähle die eingesetzte Einheit deines zweiten Mechs aus"
 
 msgctxt "scripts/text.lua_SelectDeploy3_Title"
 msgid "Select Deployed 3"
-msgstr "Wähle Eingesetzt 3"
+msgstr "Wähle Bereit 3"
 
 msgctxt "scripts/text.lua_SelectDeploy3_Description"
 msgid "Select your third Mech's deployed unit"
@@ -3280,7 +3280,7 @@ msgstr "Wechseln Sie zur nächsten verfügbaren aktiven, kontrollierten Einheit"
 
 msgctxt "scripts/text.lua_Deselect_Title"
 msgid "Deselect / Disarm Weapon"
-msgstr "Waffen abwählen / entwaffnen"
+msgstr "Waffen entwaffnen"
 
 msgctxt "scripts/text.lua_Deselect_Description"
 msgid "Clear currently selected unit"
@@ -3296,11 +3296,11 @@ msgstr "Halte gedrückt, um eine Einheit unter dem Mauszeiger zu untersuchen"
 
 msgctxt "scripts/text.lua_Overlay_Title"
 msgid "Attack Order Overlay"
-msgstr "Fenster für Angriffsreihenfolge"
+msgstr "Angriffsfolge zeigen"
 
 msgctxt "scripts/text.lua_Overlay_Description"
 msgid "Hold down to view the current attack order for enemy units"
-msgstr "Halte gedrückt, um die aktuelle Angriffsreihenfolge für gegnerische Einheiten anzuzeigen"
+msgstr "Halte gedrückt, um die aktuelle Angriffsfolge für gegnerischen Einheiten anzuzeigen"
 
 msgctxt "scripts/text.lua_Weapon1_Title"
 msgid "Weapon 1"
@@ -3668,7 +3668,7 @@ msgstr "Perfekte Insel"
 
 msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Perfect_Text"
 msgid "Do not fail any objective on a single Corporate Island"
-msgstr "Versäume kein Ziel auf einer einzigen Unternehmensinsel"
+msgstr "Versäume kein Ziel auf einer einzigen Firmeninsel"
 
 msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Perfect_Failed"
 msgid "Failed: $1 failed"
@@ -3702,7 +3702,7 @@ msgstr "Backup-Batterien"
 
 msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Power_Text"
 msgid "Earn or buy 10 Grid Power on a single Corporate Island"
-msgstr "Verdiene oder kaufe 10 Netzenergie auf einer einzigen Unternehmensinsel"
+msgstr "Verdiene oder kaufe 10 Netzenergie auf einer einzigen Firmeninsel"
 
 msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Power_Progress"
 msgid "Progress: $1 Grid Power earned"
@@ -3714,7 +3714,7 @@ msgstr "Der gute Samariter"
 
 msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Rep_Text"
 msgid "Earn 9 Reputation from missions on a single Corporate Island"
-msgstr "Verdiene 9 Reputation von Missionen auf einer einzigen Unternehmensinsel"
+msgstr "Verdiene 9 Reputation von Missionen auf einer einzigen Firmeninsel"
 
 msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Rep_Progress"
 msgid "Progress: $1 Reputation earned"
@@ -4158,7 +4158,7 @@ msgstr "Waldfeld"
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__forest_1"
 msgid "If damaged, lights on Fire."
-msgstr "Wenn es beschädigt wird, brennt ist."
+msgstr "Wenn es beschädigt wird, brennt es."
 
 msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__forest_fire_0"
 msgid "Forest Fire"
@@ -4998,7 +4998,7 @@ msgstr "Temporärer Reset"
 
 msgctxt "scripts/text_tooltips.lua_PilotSkills__TimeTravel_1"
 msgid "Gain 1 extra 'Reset Turn' every battle."
-msgstr "Erhalte 1 zusätzlichen 'Zug zurücksetzen' für jede Schlacht."
+msgstr "Erhalte 1 zusätzlichen 'Zug zurück' für jede Schlacht."
 
 msgctxt "scripts/text_tooltips.lua_PilotSkills__Mantis_Skill_0"
 msgid "Mantis"
