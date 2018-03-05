@@ -1,170 +1,169 @@
 'use strict'
 
-var fs = require('fs')
-var iconv = require('iconv-lite')
+const fs = require('fs')
+const iconv = require('iconv-lite')
+const shared = require(__dirname + '/shared')
+const langDir = __dirname + '/../languages'
+const languages = fs.readdirSync(langDir)
 
-var config = require(__dirname + '/config')
-var manifest = require(__dirname + '/manifest')
-
-var langDir = __dirname + '/../languages'
-var languages = fs.readdirSync(langDir)
-
-var templateFileData = {}
-manifest.translationFiles.forEach(function (file) {
-  templateFileData[file] = fs.readFileSync(config.gamedir + '/' + file).toString()
+// get all translatable game files
+const gameFiles = {}
+shared.translationFiles.forEach(function (file) {
+  gameFiles[file] = fs.readFileSync(shared.config.gamedir + '/' + file).toString()
 })
 
+// for each .po translation file do create packages
 languages.forEach(function (langFile) {
-  if (langFile.substr(langFile.length - 2) === 'po') {
-    var language = langFile.substring(0, langFile.length - 3)
-    var valuesToReplace = {}
-    var fileData = fs.readFileSync(langDir + '/' + langFile).toString()
-    var lines = fileData.split('\n')
-    var currentId = null
-    var msgData = {}
-    lines.forEach(function (line) {
-      line = line.trim()
-      if (line.substr(0, 7) === 'msgctxt') {
-        currentId = 'msgctxt'
-        line = line.substr(8)
-        msgData = {}
+  if (langFile.substr(langFile.length - 2) !== 'po') {
+    return
+  }
+  const language = langFile.substring(0, langFile.length - 3)
+  const values = {}
+  const lines = fs.readFileSync(langDir + '/' + langFile).toString().split('\n')
+  let currentId = null
+  let msgData = {}
+  // first, group each translation to correct gamefile and translation key
+  lines.forEach(function (line) {
+    line = line.trim()
+    if (line.substr(0, 7) === 'msgctxt') {
+      currentId = 'msgctxt'
+      line = line.substr(8)
+      msgData = {}
+    }
+    if (line.substr(0, 5) === 'msgid') {
+      currentId = null
+    }
+    if (line.substr(0, 6) === 'msgstr') {
+      currentId = 'msgstr'
+      line = line.substr(7)
+    }
+    if (line.substr(0, 1) === '"' && currentId !== null) {
+      if (typeof msgData[currentId] === 'undefined') {
+        msgData[currentId] = []
       }
-      if (line.substr(0, 5) === 'msgid') {
-        currentId = null
-      }
-      if (line.substr(0, 6) === 'msgstr') {
-        currentId = 'msgstr'
-        line = line.substr(7)
-      }
-      if (line.substr(0, 1) === '"' && currentId !== null) {
-        if (typeof msgData[currentId] === 'undefined') {
-          msgData[currentId] = []
+      msgData[currentId].push(line.substring(1, line.length - 1))
+    }
+    if (currentId !== null && msgData.msgctxt && msgData.msgstr) {
+      msgData.msgctxt.join('').split(',').forEach(function (msgctxt) {
+        let match = msgctxt.match(/(.*?\.lua)_(.*)/i)
+        const file = match[1]
+        if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua') {
+          if (typeof values[file] === 'undefined') {
+            values[file] = {}
+          }
+          values[file][match[2]] = msgData.msgstr.join('')
         }
-        msgData[currentId].push(line.substring(1, line.length - 1))
+        if (file === 'scripts/text_tooltips.lua') {
+          match = msgctxt.match(/(.*?\.lua)_(.*?)__(.*)_([0-9]+)/i)
+          if (typeof values[file] === 'undefined') {
+            values[file] = {}
+          }
+          if (typeof values[file][match[2]] === 'undefined') {
+            values[file][match[2]] = {}
+          }
+          if (typeof values[file][match[2]][match[3]] === 'undefined') {
+            values[file][match[2]][match[3]] = {}
+          }
+          values[file][match[2]][match[3]][match[4]] = msgData.msgstr.join('')
+        }
+        if (file === 'scripts/text_population.lua') {
+          match = msgctxt.match(/(.*?\.lua)_(.*)_([0-9]+)/i)
+          if (typeof values[file] === 'undefined') {
+            values[file] = {}
+          }
+          if (typeof values[file][match[2]] === 'undefined') {
+            values[file][match[2]] = {}
+          }
+          values[file][match[2]][match[3]] = msgData.msgstr.join('')
+        }
+      })
+    }
+  })
+  // goto each grouped translated value and pack it into the correct game file line
+  for (let file in values) {
+    const data = gameFiles[file]
+    const dataLines = data.split('\n')
+    const valuesRow = values[file]
+    let context = null
+    let newContext = null
+    dataLines.forEach(function (line, lineNr) {
+      const lineTrimmed = line.trim()
+      newContext = shared.getLineContext(lineTrimmed, context)
+      let isInvalid = context === null || newContext === null
+      context = newContext
+      if (isInvalid) {
+        return
       }
-      if (currentId !== null && msgData.msgctxt && msgData.msgstr) {
-        msgData.msgctxt.join('').split(',').forEach(function (ctx) {
-          var m = ctx.match(/(.*?\.lua)_(.*)/i)
-          var file = m[1]
-          if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua') {
-            if (typeof valuesToReplace[file] === 'undefined') {
-              valuesToReplace[file] = {}
-            }
-            valuesToReplace[file][m[2]] = msgData.msgstr.join('')
-          }
-          if (file === 'scripts/text_tooltips.lua') {
-            m = ctx.match(/(.*?\.lua)_(.*?)__(.*)_([0-9]+)/i)
-            if (typeof valuesToReplace[file] === 'undefined') {
-              valuesToReplace[file] = {}
-            }
-            if (typeof valuesToReplace[file][m[2]] === 'undefined') {
-              valuesToReplace[file][m[2]] = {}
-            }
-            if (typeof valuesToReplace[file][m[2]][m[3]] === 'undefined') {
-              valuesToReplace[file][m[2]][m[3]] = {}
-            }
-            valuesToReplace[file][m[2]][m[3]][m[4]] = msgData.msgstr.join('')
-          }
-          if (file === 'scripts/text_population.lua') {
-            m = ctx.match(/(.*?\.lua)_(.*)_([0-9]+)/i)
-            if (typeof valuesToReplace[file] === 'undefined') {
-              valuesToReplace[file] = {}
-            }
-            if (typeof valuesToReplace[file][m[2]] === 'undefined') {
-              valuesToReplace[file][m[2]] = {}
-            }
-            valuesToReplace[file][m[2]][m[3]] = msgData.msgstr.join('')
-          }
-        })
-      }
-    })
-    for (var file in valuesToReplace) {
-      var data = templateFileData[file]
-      var dataLines = data.split('\n')
-      var valuesFile = valuesToReplace[file]
-      var ctx = null
-      for (var lineNr in dataLines) {
-        var line = dataLines[lineNr]
-        var lineTrimmed = line.trim()
-        if (lineTrimmed === 'TILE_TOOLTIPS = {') {
-          ctx = 'TILE_TOOLTIPS'
+      for (let rowKey in valuesRow) {
+        if (!valuesRow.hasOwnProperty(rowKey)) {
           continue
         }
-        if (lineTrimmed === 'local STATUS_TOOLTIPS = {') {
-          ctx = 'STATUS_TOOLTIPS'
-          continue
-        }
-        if (lineTrimmed === 'local PilotSkills = {') {
-          ctx = 'PilotSkills'
-          continue
-        }
-        if (lineTrimmed === 'local PopEvent = {') {
-          ctx = 'PopEvent'
-          continue
-        }
-        if (lineTrimmed === '}') {
-          ctx = null
-        }
-        for (var key in valuesFile) {
-          if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua') {
-            if (lineTrimmed.substr(0, key.length) === key) {
-              line = '    ' + key + ' = "' + valuesFile[key] + '",'
-            }
+        if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua') {
+          if (lineTrimmed.substr(0, rowKey.length) === rowKey) {
+            line = '    ' + rowKey + ' = "' + valuesRow[rowKey] + '",'
           }
-          if (file === 'scripts/text_tooltips.lua') {
-            if (ctx === key) {
-              for (var id in valuesFile[key]) {
-                if (lineTrimmed.substr(0, id.length) === id) {
-                  var v = []
-                  for (var i in valuesFile[key][id]) {
-                    v.push('"' + valuesFile[key][id][i] + '"')
-                  }
-                  v = v.join(', ')
-                  if (key === 'PilotSkills') {
-                    line = '    ' + id + ' = PilotSkill(' + v + '),'
-                  } else {
-                    line = '    ' + id + ' = {' + v + '},'
-                  }
+        }
+        // @todo fix Odds=[0-9]
+        if (file === 'scripts/text_tooltips.lua') {
+          if (context === rowKey) {
+            for (let id in valuesRow[rowKey]) {
+              if (!valuesRow[rowKey].hasOwnProperty(id)) {
+                continue
+              }
+              if (lineTrimmed.substr(0, id.length) === id) {
+                let v = []
+                for (let i in valuesRow[rowKey][id]) {
+                  v.push('"' + valuesRow[rowKey][id][i] + '"')
+                }
+                v = v.join(', ')
+                if (rowKey === 'PilotSkills') {
+                  line = '    ' + id + ' = PilotSkill(' + v + '),'
+                } else {
+                  line = '    ' + id + ' = {' + v + '},'
                 }
               }
             }
           }
-          if (file === 'scripts/text_population.lua') {
-            if (ctx === 'PopEvent' && lineTrimmed.substr(0, key.length) === key) {
-              var v = []
-              for (var i in valuesFile[key]) {
-                v.push('"' + valuesFile[key][i] + '"')
+        }
+        if (file === 'scripts/text_population.lua') {
+          if (context === 'PopEvent' && lineTrimmed.substr(0, rowKey.length) === rowKey) {
+            let v = []
+            for (let id in valuesRow[rowKey]) {
+              if (!valuesRow[rowKey].hasOwnProperty(id)) {
+                continue
               }
-              v = v.join(', ')
-              line = '    ' + key + ' = {' + v + '},'
+              v.push('"' + valuesRow[rowKey][id] + '"')
             }
+            v = v.join(', ')
+            line = '    ' + rowKey + ' = {' + v + '},'
           }
         }
-        line = line.replace(/\{DOLLAR\}/g, '\$')
-        line = line.replace(/\{EMPTY\}/g, '')
-        dataLines[lineNr] = line.replace(/\s+$/g, '')
       }
-      templateFileData[file] = dataLines.join('\r\n')
-    }
-    var zip = new require('node-zip')()
-    for (var file in templateFileData) {
-      var fileData = templateFileData[file]
-      fileData = fileData.replace(/\t/g, '    ')
-      fileData = iconv.encode(new Buffer(fileData), 'latin1')
-      zip.file(file, fileData)
-      // also save into gamedir if set
-      if (config.langInGameDir && config.langInGameDir === language) {
-        // make a backup if not yet exist
-        if (!fs.existsSync(config.gamedir + '/' + file + '.bkp')) {
-          fs.copyFileSync(config.gamedir + '/' + file, config.gamedir + '/' + file + '.bkp')
-        }
-        fs.writeFileSync(config.gamedir + '/' + file, fileData)
-      }
-    }
-    fs.writeFileSync(__dirname + '/../packages/' + language + '.zip', zip.generate({
-      base64: false,
-      compression: 'DEFLATE'
-    }), 'binary')
+      line = line.replace(/\{EMPTY\}/g, '')
+      dataLines[lineNr] = line.replace(/\s+$/g, '')
+    })
+    gameFiles[file] = dataLines.join('\r\n')
   }
+  // create new game files
+  const zip = new require('node-zip')()
+  for (let file in gameFiles) {
+    let fileData = gameFiles[file]
+    fileData = fileData.replace(/\t/g, '    ')
+    fileData = iconv.encode(new Buffer(fileData), 'latin1')
+    zip.file(file, fileData)
+    // also save into gamedir if set
+    if (shared.config.langInGameDir && shared.config.langInGameDir === language) {
+      // make a backup of original files if not yet exist
+      if (!fs.existsSync(shared.config.gamedir + '/' + file + '.bkp')) {
+        fs.copyFileSync(shared.config.gamedir + '/' + file, shared.config.gamedir + '/' + file + '.bkp')
+      }
+      fs.writeFileSync(shared.config.gamedir + '/' + file, fileData)
+    }
+  }
+  // store zip into packages folder
+  fs.writeFileSync(__dirname + '/../packages/' + language + '.zip', zip.generate({
+    base64: false,
+    compression: 'DEFLATE'
+  }), 'binary')
 })
 
