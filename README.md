@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Game_Version-1.0.10(2--28--2018)-green.svg) 
-![](https://img.shields.io/badge/DE__Alpha-85%25_Translated-orange.svg)
+![](https://img.shields.io/badge/DE__Alpha-60%25_Translated-orange.svg)
 # Into the Breach - Translations
 Inofficial Translations for PC Game Into the Breach. This is all fan made. You can help translating this game into your language. If used, it does directly modify some game files.
 
@@ -34,5 +34,6 @@ Inofficial Translations for PC Game Into the Breach. This is all fan made. You c
 
 ## Limitations
 * No cyrillic support
+* Not all texts can be translated, some are hardcoded
 
 

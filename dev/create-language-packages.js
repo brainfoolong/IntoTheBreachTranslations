@@ -9,7 +9,7 @@ const languages = fs.readdirSync(langDir)
 // get all translatable game files
 const gameFiles = {}
 shared.translationFiles.forEach(function (file) {
-  gameFiles[file] = fs.readFileSync(shared.config.gamedir + '/' + file).toString()
+  gameFiles[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString()
 })
 
 // for each .po translation file do create packages
@@ -98,7 +98,7 @@ languages.forEach(function (langFile) {
         if (!valuesRow.hasOwnProperty(rowKey)) {
           continue
         }
-        if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua') {
+        if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua' || file === 'scripts/text_weapons.lua') {
           if (lineTrimmed.substr(0, rowKey.length) === rowKey) {
             line = '    ' + rowKey + ' = "' + valuesRow[rowKey] + '",'
           }

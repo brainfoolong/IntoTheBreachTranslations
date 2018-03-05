@@ -1,7 +1,7 @@
 'use strict'
 const shared = {
   'config': require(__dirname + '/config'),
-  'translationFiles': ['scripts/text.lua', 'scripts/text_achievements.lua', 'scripts/text_tooltips.lua', 'scripts/text_population.lua'],
+  'translationFiles': ['scripts/text.lua', 'scripts/text_achievements.lua', 'scripts/text_tooltips.lua', 'scripts/text_population.lua', 'scripts/text_weapons.lua'],
   'contexts': {
     'TILE_TOOLTIPS = {': 'TILE_TOOLTIPS',
     'local STATUS_TOOLTIPS = {': 'STATUS_TOOLTIPS',
@@ -9,6 +9,7 @@ const shared = {
     'local PopEvent = {': 'PopEvent',
     'Achievement_Texts = {': 'Achievement_Texts',
     'local Global_Texts = {': 'Global_Texts',
+    'Weapon_Texts = {' : 'Weapon_Texts'
   }
 }
 shared.getLineContext = function (lineTrimmed, currentContext) {

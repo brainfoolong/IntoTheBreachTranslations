@@ -1,6 +1,7 @@
 'use strict'
 
 const fs = require('fs')
+const iconv = require('iconv-lite')
 const shared = require(__dirname + '/shared')
 
 const valuesGrouped = {}
@@ -9,16 +10,27 @@ shared.translationFiles.forEach(function (translationFile) {
   const lines = filedata.split('\n')
   let context = null
   let newContext = null
+  let isComment = false
   const values = {}
   lines.forEach(function (line) {
     line = line.trim()
     newContext = shared.getLineContext(line, context)
     let isInvalid = line.substr(0, 2) === '--' || line.length === 0 || context === null || newContext === null
+    if(line.substr(0, 4) === '--[['){
+      isComment = true
+    }
+    if(line.substr(0, 4) === ']]--'){
+      isComment = false
+      return
+    }
+    if(isComment){
+      isInvalid = true
+    }
     context = newContext
     if (isInvalid) {
       return
     }
-    if (translationFile === 'scripts/text.lua' || translationFile === 'scripts/text_achievements.lua') {
+    if (translationFile === 'scripts/text.lua' || translationFile === 'scripts/text_achievements.lua' || translationFile === 'scripts/text_weapons.lua') {
       let m = line.match(/^(.*?) = "(.*?)",($|[\s]*--)/i)
       values[m[1]] = m[2]
     }
@@ -65,4 +77,4 @@ for (let msgid in valuesGrouped) {
   text.push('msgid "' + msgid + '"')
   text.push('msgstr "' + msgid + '"')
 }
-fs.writeFileSync(__dirname + '/../languages/template.pot', text.join('\n'))
+fs.writeFileSync(__dirname + '/../languages/template.pot', new Buffer(text.join('\n')).toString())
