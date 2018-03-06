@@ -17,66 +17,42 @@ languages.forEach(function (langFile) {
   }
   const language = langFile.substring(0, langFile.length - 3)
   const lines = fs.readFileSync(langDir + '/' + langFile).toString().split('\n')
-  let msgData = {}
-  let currentId = null
-  lines.forEach(function (line, lineNr) {
-    line = line.trim()
-    if (line.substr(0, 7) === 'msgctxt') {
-      currentId = null
-    }
-    if (line.substr(0, 5) === 'msgid') {
-      currentId = 'msgid'
-      line = line.substr(6)
-      msgData = {}
-    }
-    if (line.substr(0, 6) === 'msgstr') {
-      currentId = 'msgstr'
-      line = line.substr(7)
-    }
-    if (line.substr(0, 1) === '"' && currentId !== null) {
-      if (typeof msgData[currentId] === 'undefined') {
-        msgData[currentId] = []
-      }
-      msgData[currentId].push(line.substring(1, line.length - 1))
-    }
-    if (currentId === null && msgData.msgid && msgData.msgstr) {
-      var str = msgData.msgstr.join('')
-      var id = msgData.msgid.join('')
-      if (!str.length && id.length) {
-        msgData = {};
-        (function (ln, text) {
-          translate
-            .translate(text, language)
-            .then(results => {
-              lines[ln] = 'msgstr "' + results[0] + '"'
-            })
-            .catch(err => {
-              console.error('ERROR:', err)
-            })
-        })(lineNr - 2, id)
+  let poFileData = shared.parsePoFile(lines, false)
+  let poFileDataFlat = shared.parsePoFile(lines, true)
+  let openRequests = {}
+  const requestDone = function (poId) {
+    openRequests[poId] = false
+    let allDone = true
+    for (let i in openRequests) {
+      if (openRequests[i]) {
+        allDone = false
+        break
       }
     }
-  })
-  setTimeout(function () {
-    fs.writeFileSync(langDir + '/' + langFile, lines.join('\n'))
-  }, 5000)
+    if (allDone) {
+      fs.writeFileSync(langDir + '/' + langFile, lines.join('\n'))
+    }
+  }
+  for (let i in poFileData) {
+    openRequests[i] = true;
+  }
+  for (let i in poFileData) {
+    (function (poId) {
+      if (poFileDataFlat[poId].msgstr.length) {
+        requestDone(poId)
+        return
+      }
+      translate
+        .translate(poFileDataFlat[poId].msgid, language)
+        .then(results => {
+          poFileData[poId].msgstr.lines.forEach(function (lineNr) {
+            lines[lineNr] = 'msgstr "' + results[0] + '"'
+          })
+          requestDone(poId)
+        })
+        .catch(err => {
+          console.error('ERROR:', err)
+        })
+    })(i)
+  }
 })
-
-return
-// The text to translate
-const text = 'Hello, world!'
-// The target language
-const target = 'de'
-
-// Translates some text into Russian
-translate
-  .translate(text, target)
-  .then(results => {
-    const translation = results[0]
-
-    console.log(`Text: ${text}`)
-    console.log(`Translation: ${translation}`)
-  })
-  .catch(err => {
-    console.error('ERROR:', err)
-  })
