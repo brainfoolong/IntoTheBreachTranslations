@@ -14,7 +14,11 @@ const shared = {
   'additionalTranslationFiles': {
     'scripts/missions/acid/mission_acidtank.lua': {
       0: {'text': 'Kill 4 enemies inflicted with A.C.I.D.', 'lines': [4, 18]},
-      1: {'text': 'killed', 'lines': [18, 34]}
+      1: {'text': 'Kill 4 enemies inflicted\\nwith A.C.I.D.', 'lines': [34]},
+      2: {'text': 'killed', 'lines': [18, 34]},
+      3:{'text' : 'A.C.I.D. Tank', 'lines': [44]},
+      4:{'text' : 'Success', 'lines': [26]},
+      5:{'text' : 'Failure', 'lines': [28]},
     }
   }
 }

@@ -9,8 +9,11 @@ const languages = fs.readdirSync(langDir)
 // get all translatable game files
 const gameFiles = {}
 shared.translationFiles.forEach(function (file) {
-  gameFiles[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString()
+  gameFiles[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
 })
+for (let file in shared.additionalTranslationFiles) {
+  gameFiles[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
+}
 
 // for each .po translation file do create packages
 languages.forEach(function (langFile) {
@@ -25,8 +28,19 @@ languages.forEach(function (langFile) {
   for (let poId in poFileData) {
     const poData = poFileData[poId]
     poData.msgctxt.split(',').forEach(function (msgctxt) {
+      let matchAdditional = msgctxt.match(/(.*?\.lua)\#([0-9]+)/i)
+      // handle additional translations
+      let file = null
+      if (matchAdditional) {
+        file = matchAdditional[1]
+        if (typeof values[file] === 'undefined') {
+          values[file] = {}
+        }
+        values[file][matchAdditional[2]] = poData.msgstr.length ? poData.msgstr : poData.msgid
+        return
+      }
       let match = msgctxt.match(/(.*?\.lua)_(.*)/i)
-      const file = match[1]
+      file = match[1]
       if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua' || file === 'scripts/text_weapons.lua') {
         if (typeof values[file] === 'undefined') {
           values[file] = {}
@@ -65,9 +79,27 @@ languages.forEach(function (langFile) {
     const valuesRow = values[file]
     let context = null
     let newContext = null
+    // handle additional translations
+    if (typeof shared.additionalTranslationFiles[file] !== 'undefined') {
+      let translationLines = shared.additionalTranslationFiles[file]
+      for (let id in translationLines) {
+        let translationData = translationLines[id]
+        let text = translationData.text
+        translationData.lines.forEach(function (lineNr) {
+          lineNr--
+          let line = dataLines[lineNr]
+          let regex = new RegExp(shared.escapeRegex(text), 'g')
+          if (!line.match(regex)) {
+            throw 'Error - Could not find translation text \'' + text + '\' in original file \'' + file + ':' + lineNr + '\''
+          }
+          dataLines[lineNr] = line.replace(regex, valuesRow[id])
+        })
+      }
+      gameFiles[file] = dataLines.join('\r\n')
+      continue
+    }
     dataLines.forEach(function (line, lineNr) {
       const lineTrimmed = line.trim()
-      line = line.replace(/\r+$/g, '')
       dataLines[lineNr] = line
       newContext = shared.getLineContext(lineTrimmed, context)
       let isInvalid = context === null || newContext === null
