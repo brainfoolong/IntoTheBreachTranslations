@@ -9,76 +9,69 @@ const languages = fs.readdirSync(langDir)
 // get all translatable game files
 const gameFiles = {}
 shared.translationFiles.forEach(function (file) {
-  gameFiles[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString()
+  gameFiles[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
 })
+for (let file in shared.additionalTranslationFiles) {
+  gameFiles[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
+}
 
 // for each .po translation file do create packages
 languages.forEach(function (langFile) {
+  // only want that .po files
   if (langFile.substr(langFile.length - 2) !== 'po') {
     return
   }
   const language = langFile.substring(0, langFile.length - 3)
   const values = {}
   const lines = fs.readFileSync(langDir + '/' + langFile).toString().split('\n')
-  let currentId = null
-  let msgData = {}
-  // first, group each translation to correct gamefile and translation key
-  lines.forEach(function (line) {
-    line = line.trim()
-    if (line.substr(0, 7) === 'msgctxt') {
-      currentId = 'msgctxt'
-      line = line.substr(8)
-      msgData = {}
-    }
-    if (line.substr(0, 5) === 'msgid') {
-      currentId = null
-    }
-    if (line.substr(0, 6) === 'msgstr') {
-      currentId = 'msgstr'
-      line = line.substr(7)
-    }
-    if (line.substr(0, 1) === '"' && currentId !== null) {
-      if (typeof msgData[currentId] === 'undefined') {
-        msgData[currentId] = []
+  let poFileData = shared.parsePoFile(lines, true)
+  for (let poId in poFileData) {
+    const poData = poFileData[poId]
+    poData.msgctxt.split(',').forEach(function (msgctxt) {
+      let matchAdditional = msgctxt.match(/(.*?\.lua)\#([0-9]+)/i)
+      // handle additional translations
+      let file = null
+      if (matchAdditional) {
+        file = matchAdditional[1]
+        if (typeof values[file] === 'undefined') {
+          values[file] = {}
+        }
+        values[file][matchAdditional[2]] = poData.msgstr.length ? poData.msgstr : poData.msgid
+        return
       }
-      msgData[currentId].push(line.substring(1, line.length - 1))
-    }
-    if (currentId !== null && msgData.msgctxt && msgData.msgstr) {
-      msgData.msgctxt.join('').split(',').forEach(function (msgctxt) {
-        let match = msgctxt.match(/(.*?\.lua)_(.*)/i)
-        const file = match[1]
-        if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua' || file === 'scripts/text_weapons.lua') {
-          if (typeof values[file] === 'undefined') {
-            values[file] = {}
-          }
-          values[file][match[2]] = msgData.msgstr.join('')
+      let match = msgctxt.match(/(.*?\.lua)_(.*)/i)
+      file = match[1]
+      if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua' || file === 'scripts/text_weapons.lua') {
+        if (typeof values[file] === 'undefined') {
+          values[file] = {}
         }
-        if (file === 'scripts/text_tooltips.lua') {
-          match = msgctxt.match(/(.*?\.lua)_(.*?)__(.*)_([0-9]+)/i)
-          if (typeof values[file] === 'undefined') {
-            values[file] = {}
-          }
-          if (typeof values[file][match[2]] === 'undefined') {
-            values[file][match[2]] = {}
-          }
-          if (typeof values[file][match[2]][match[3]] === 'undefined') {
-            values[file][match[2]][match[3]] = {}
-          }
-          values[file][match[2]][match[3]][match[4]] = msgData.msgstr.join('')
+        values[file][match[2]] = poData.msgstr.length ? poData.msgstr : poData.msgid
+      }
+      if (file === 'scripts/text_tooltips.lua') {
+        match = msgctxt.match(/(.*?\.lua)_(.*?)__(.*)_([0-9]+)/i)
+        if (typeof values[file] === 'undefined') {
+          values[file] = {}
         }
-        if (file === 'scripts/text_population.lua') {
-          match = msgctxt.match(/(.*?\.lua)_(.*)_([0-9]+)/i)
-          if (typeof values[file] === 'undefined') {
-            values[file] = {}
-          }
-          if (typeof values[file][match[2]] === 'undefined') {
-            values[file][match[2]] = {}
-          }
-          values[file][match[2]][match[3]] = msgData.msgstr.join('')
+        if (typeof values[file][match[2]] === 'undefined') {
+          values[file][match[2]] = {}
         }
-      })
-    }
-  })
+        if (typeof values[file][match[2]][match[3]] === 'undefined') {
+          values[file][match[2]][match[3]] = {}
+        }
+        values[file][match[2]][match[3]][match[4]] = poData.msgstr.length ? poData.msgstr : poData.msgid
+      }
+      if (file === 'scripts/text_population.lua') {
+        match = msgctxt.match(/(.*?\.lua)_(.*)_([0-9]+)/i)
+        if (typeof values[file] === 'undefined') {
+          values[file] = {}
+        }
+        if (typeof values[file][match[2]] === 'undefined') {
+          values[file][match[2]] = {}
+        }
+        values[file][match[2]][match[3]] = poData.msgstr.length ? poData.msgstr : poData.msgid
+      }
+    })
+  }
   // goto each grouped translated value and pack it into the correct game file line
   for (let file in values) {
     const data = gameFiles[file]
@@ -86,8 +79,28 @@ languages.forEach(function (langFile) {
     const valuesRow = values[file]
     let context = null
     let newContext = null
+    // handle additional translations
+    if (typeof shared.additionalTranslationFiles[file] !== 'undefined') {
+      let translationLines = shared.additionalTranslationFiles[file]
+      for (let id in translationLines) {
+        let translationData = translationLines[id]
+        let text = translationData.text
+        translationData.lines.forEach(function (lineNr) {
+          lineNr--
+          let line = dataLines[lineNr]
+          let regex = new RegExp(shared.escapeRegex(text), 'g')
+          if (!line.match(regex)) {
+            throw 'Error - Could not find translation text \'' + text + '\' in original file \'' + file + ':' + lineNr + '\''
+          }
+          dataLines[lineNr] = line.replace(regex, valuesRow[id])
+        })
+      }
+      gameFiles[file] = dataLines.join('\r\n')
+      continue
+    }
     dataLines.forEach(function (line, lineNr) {
       const lineTrimmed = line.trim()
+      dataLines[lineNr] = line
       newContext = shared.getLineContext(lineTrimmed, context)
       let isInvalid = context === null || newContext === null
       context = newContext
@@ -98,20 +111,19 @@ languages.forEach(function (langFile) {
         if (!valuesRow.hasOwnProperty(rowKey)) {
           continue
         }
-        var rowKeyUnique = rowKey + ' = '
+        let rowKeyUnique = rowKey + ' = '
         if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua' || file === 'scripts/text_weapons.lua') {
           if (lineTrimmed.substr(0, rowKeyUnique.length) === rowKeyUnique) {
             line = '    ' + rowKey + ' = "' + valuesRow[rowKey] + '",'
           }
         }
-        // @todo fix Odds=[0-9]
         if (file === 'scripts/text_tooltips.lua') {
           if (context === rowKey) {
             for (let id in valuesRow[rowKey]) {
               if (!valuesRow[rowKey].hasOwnProperty(id)) {
                 continue
               }
-              var idUnique = id + ' = '
+              let idUnique = id + ' = '
               if (lineTrimmed.substr(0, idUnique.length) === idUnique) {
                 let v = []
                 for (let i in valuesRow[rowKey][id]) {
@@ -130,6 +142,7 @@ languages.forEach(function (langFile) {
         if (file === 'scripts/text_population.lua') {
           if (context === 'PopEvent' && lineTrimmed.substr(0, rowKeyUnique.length) === rowKeyUnique) {
             let v = []
+            let odds = lineTrimmed.match(/(,\s*[a-z]+\s*=\s*[0-9.]+\s*)\}/i)
             for (let id in valuesRow[rowKey]) {
               if (!valuesRow[rowKey].hasOwnProperty(id)) {
                 continue
@@ -137,12 +150,12 @@ languages.forEach(function (langFile) {
               v.push('"' + valuesRow[rowKey][id] + '"')
             }
             v = v.join(', ')
-            line = '    ' + rowKey + ' = {' + v + '},'
+            line = '    ' + rowKey + ' = {' + v + (odds ? odds[1] : '') + '},'
           }
         }
       }
       line = line.replace(/\{EMPTY\}/g, '')
-      dataLines[lineNr] = line.replace(/\s+$/g, '')
+      dataLines[lineNr] = line
     })
     gameFiles[file] = dataLines.join('\r\n')
   }
@@ -150,15 +163,10 @@ languages.forEach(function (langFile) {
   const zip = new require('node-zip')()
   for (let file in gameFiles) {
     let fileData = gameFiles[file]
-    fileData = fileData.replace(/\t/g, '    ')
     fileData = iconv.encode(new Buffer(fileData), 'latin1')
     zip.file(file, fileData)
     // also save into gamedir if set
     if (shared.config.langInGameDir && shared.config.langInGameDir === language) {
-      // make a backup of original files if not yet exist
-      if (!fs.existsSync(shared.config.gamedir + '/' + file + '.bkp')) {
-        fs.copyFileSync(shared.config.gamedir + '/' + file, shared.config.gamedir + '/' + file + '.bkp')
-      }
       fs.writeFileSync(shared.config.gamedir + '/' + file, fileData)
     }
   }

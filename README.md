@@ -5,9 +5,16 @@ Inofficial Translations for PC Game Into the Breach. This is all fan made. You c
 
 Until now, a complete translation file for one language contains more than 1500 lines of text. A huge job that really take some time and that demands your stamina.
 
+## Note
+I've contacted the Developer SubsetGames. This project is ok for them, right now. But maybe things will change in the future. Thanks for being open to fan mods.
+
 ## Downloads
 * German: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/de.zip
 * Other languages are missing contributors. Become one.
+
+## Todos
+* Include missing mission translations
+* Include missing pilot/company texts and stories
 
 ## How to install
 1. Download a language pack from the download list
@@ -33,6 +40,9 @@ Until now, a complete translation file for one language contains more than 1500 
 4. Run `dev/create-language-packages.js` via NodeJS
 5. Search the generated zipfile for your language in `packages` and follow the `installation` routine
 6. Or: Modify `dev/config.js` to directly copy those files when executing `dev/create-language-packages.js`
+
+## How does all this work in depth
+This tools does work in 2 steps. First, it does directly parse all required game files, extract all translatable keys and create one big translatable `.pot` template file out of that. The `.pot` than can be edited by translators with free tools like PoEdit and will finally be saved to a `.po` file. The second step, to bring it back in game, is to parse the big `.po` file and assigning and replacing each translatable key to the correct game file and position. For this steps i have made 2 automated scripts that do all the work, namely `dev/create-template-pot.js` and `dev/create-language-packages.js`. This things do some magical stuff and will probably be just weird code for all non involved persons.
 
 ## Limitations
 * No cyrillic support

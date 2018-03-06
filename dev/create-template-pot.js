@@ -1,12 +1,11 @@
 'use strict'
 
 const fs = require('fs')
-const iconv = require('iconv-lite')
 const shared = require(__dirname + '/shared')
 
 const valuesGrouped = {}
 shared.translationFiles.forEach(function (translationFile) {
-  const filedata = fs.readFileSync(shared.config.gamedir + '/' + translationFile).toString()
+  const filedata = fs.readFileSync(shared.config.gamesrc + '/' + translationFile).toString()
   const lines = filedata.split('\n')
   let context = null
   let newContext = null
@@ -16,14 +15,14 @@ shared.translationFiles.forEach(function (translationFile) {
     line = line.trim()
     newContext = shared.getLineContext(line, context)
     let isInvalid = line.substr(0, 2) === '--' || line.length === 0 || context === null || newContext === null
-    if(line.substr(0, 4) === '--[['){
+    if (line.substr(0, 4) === '--[[') {
       isComment = true
     }
-    if(line.substr(0, 4) === ']]--'){
+    if (line.substr(0, 4) === ']]--') {
       isComment = false
       return
     }
-    if(isComment){
+    if (isComment) {
       isInvalid = true
     }
     context = newContext
@@ -70,6 +69,28 @@ shared.translationFiles.forEach(function (translationFile) {
     valuesGrouped[v].push(translationFile + '_' + k)
   }
 })
+
+// handle additional translations
+for (let file in shared.additionalTranslationFiles) {
+  let fileData = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
+  let lines = fileData.split('\n')
+  let translationLines = shared.additionalTranslationFiles[file]
+  for (let id in translationLines) {
+    let data = translationLines[id]
+    let text = data.text
+    data.lines.forEach(function (lineNr) {
+      if (!lines[lineNr - 1].match(new RegExp(shared.escapeRegex(text)))) {
+        throw 'Error - Could not find translation text \'' + text + '\' in original file \'' + file + ':' + lineNr + '\''
+      }
+    })
+
+    if (typeof valuesGrouped[text] === 'undefined') {
+      valuesGrouped[text] = []
+    }
+    valuesGrouped[text].push(file + '#' + id)
+  }
+}
+
 const text = ['msgid ""', 'msgstr ""']
 for (let msgid in valuesGrouped) {
   text.push('msgctxt "' + valuesGrouped[msgid].join(',') + '"')
