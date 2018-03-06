@@ -7708,7 +7708,9 @@ msgctxt ""
 msgid "Fire a projectile that applies A.C.I.D. to a single tile."
 msgstr "Feuere ein Projektil ab, das Säure auf ein Feld wirken lässt."
 
-msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_Name"
+msgctxt ""
+"scripts/text_weapons.lua_DeploySkill_AcidTank_Name,scripts/missions/acid/"
+"mission_acidtank.lua#3"
 msgid "A.C.I.D. Tank"
 msgstr "Säurepanzer"
 
@@ -7755,6 +7757,32 @@ msgstr "Stelle einen Schild-Panzer auf, der Verbündeten Schilde geben kann."
 msgctxt "scripts/text_weapons.lua_DeploySkill_SGenerator_A_UpgradeDescription"
 msgid "Increases the Shield-Tank's HP to 3."
 msgstr "Erhöht die HP des Schild-Panzers auf 3."
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#0"
+msgid "Kill 4 enemies inflicted with A.C.I.D."
+msgstr "Töte 4 Feinde mit Säure."
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#1"
+msgid ""
+"Kill 4 enemies inflicted\n"
+"with A.C.I.D."
+msgstr "Töte 4 Feinde mit Säure."
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#2"
+msgid "killed"
+msgstr "getötet"
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#4"
+msgid "Success"
+msgstr "Erfolgreich"
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#5"
+msgid "Failure"
+msgstr "Fehlgeschlagen"
+
+#~ msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_Name"
+#~ msgid "A.C.I.D. Tank"
+#~ msgstr "Säurepanzer"
 
 #~ msgctxt ""
 #~ "scripts/text_weapons.lua_Passive_FriendlyFire_A_UpgradeDescription,"
