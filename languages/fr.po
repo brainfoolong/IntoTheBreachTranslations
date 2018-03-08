@@ -1,0 +1,7104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+msgctxt "scripts/text.lua_Tutorial_InfoButton_Text"
+msgid ""
+"When confronted with new enemies, be sure to learn about their abilities. \n"
+"\n"
+"Hold down $1 while mousing over units to examine them"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_InfoButton_Title"
+msgid "Inspect Units"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatPower_Text"
+msgid ""
+"This is the Power Grid. Whenever a building is damaged, it will be "
+"reduced. \n"
+"\n"
+"If it is reduced to zero, you LOSE."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Tutorial_CombatPower_Title,scripts/text."
+"lua_TipTitle_PowerGrid"
+msgid "Power Grid"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatAiming_Text"
+msgid "When aiming a weapon, the ORANGE tiles show where you can shoot."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatAiming_Title"
+msgid "Valid Targets"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatMonster_Text"
+msgid ""
+"Every enemy attack is forewarned. Next turn, this one will attack the "
+"buildings. \n"
+"\n"
+"Hover over an enemy to see details about its attack."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatMonster_Title"
+msgid "Enemy Attacks"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatMech_Text"
+msgid ""
+"This is your Combat Mech. It can punch any adjacent tile. \n"
+"\n"
+"Click on your Mech, move it closer to the enemy, and punch him."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatMech_Title"
+msgid "Combat Mech"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_DeadTutorial_Title"
+msgid "Disabled Squad"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_DeadTutorial_Text"
+msgid ""
+"All of your Mechs were disabled. In normal battles, the Vek would then "
+"continue their attacks and the mission would end. \n"
+"\n"
+"For this tutorial, your Mechs have been fully repaired."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatGameover_Text"
+msgid ""
+"Your Power Grid has been reduced to zero. Normally this would mean game "
+"over. \n"
+"\n"
+"Because this is a simulation, you can continue fighting the Vek."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatGameover_Title"
+msgid "Game Over"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatUndo_Text"
+msgid ""
+"You cannot hit the enemy from this location. Use 'Undo Move' to reposition "
+"the Mech!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatUndo_Title"
+msgid "Undo Movement"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatPunch_Text"
+msgid "Punch this enemy!"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Tutorial_CombatPunch_Title,scripts/text."
+"lua_TipTitle_AudioMuted,scripts/text.lua_TipText_Health,scripts/text."
+"lua_TipText_Move,scripts/text.lua_TipTitle_MechColor,scripts/text."
+"lua_TipTitle_MechName,scripts/text.lua_TipTitle_PilotName,scripts/text."
+"lua_TipTitle_PilotMech,scripts/text.lua_Credits_SoundSub2Name,scripts/"
+"text_weapons.lua_Passive_FlameImmune_Upgrade1,scripts/text_weapons."
+"lua_Passive_FlameImmune_Upgrade2,scripts/text_weapons."
+"lua_Passive_FlameImmune_A_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_FlameImmune_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Electric_Upgrade2,scripts/text_weapons."
+"lua_Passive_Electric_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Leech_Upgrade2,scripts/text_weapons."
+"lua_Passive_Leech_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Defenses_Upgrade2,scripts/text_weapons."
+"lua_Passive_Defenses_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_MassRepair_Upgrade1,scripts/text_weapons."
+"lua_Passive_MassRepair_Upgrade2,scripts/text_weapons."
+"lua_Passive_MassRepair_A_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_MassRepair_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_AutoShields_Upgrade1,scripts/text_weapons."
+"lua_Passive_AutoShields_Upgrade2,scripts/text_weapons."
+"lua_Passive_AutoShields_A_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_AutoShields_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Burrows_Upgrade1,scripts/text_weapons."
+"lua_Passive_Burrows_Upgrade2,scripts/text_weapons."
+"lua_Passive_Burrows_A_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Burrows_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Psions_Upgrade1,scripts/text_weapons.lua_Passive_Psions_Upgrade2,"
+"scripts/text_weapons.lua_Passive_Psions_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Passive_Psions_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Boosters_Upgrade2,scripts/text_weapons."
+"lua_Passive_Boosters_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Medical_Upgrade1,scripts/text_weapons."
+"lua_Passive_Medical_Upgrade2,scripts/text_weapons."
+"lua_Passive_Medical_A_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Medical_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_ForceAmpPassive_ForceAmp_Upgrade1,scripts/text_weapons."
+"lua_Passive_ForceAmp_Upgrade2,scripts/text_weapons."
+"lua_Passive_ForceAmp_A_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_ForceAmp_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_Ammo_Upgrade1,scripts/text_weapons.lua_Passive_Ammo_Upgrade2,"
+"scripts/text_weapons.lua_Passive_Ammo_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Passive_Ammo_B_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_CritDefense_Upgrade1,scripts/text_weapons."
+"lua_Passive_CritDefense_Upgrade2,scripts/text_weapons."
+"lua_Passive_CritDefense_A_UpgradeDescription,scripts/text_weapons."
+"lua_Passive_CritDefense_B_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Grapple_Upgrade2,scripts/text_weapons."
+"lua_Brute_Grapple_B_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Shrapnel_Upgrade1,scripts/text_weapons.lua_Brute_Shrapnel_Upgrade2,"
+"scripts/text_weapons.lua_Brute_Shrapnel_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Brute_Shrapnel_B_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Sonic_Upgrade1,scripts/text_weapons.lua_Brute_Sonic_Upgrade2,"
+"scripts/text_weapons.lua_Brute_Sonic_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Brute_Sonic_B_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Rockthrow_Upgrade2,scripts/text_weapons."
+"lua_Ranged_Rockthrow_B_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Ice_Upgrade1,scripts/text_weapons.lua_Ranged_Ice_Upgrade2,scripts/"
+"text_weapons.lua_Ranged_Ice_A_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Ice_B_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_SmokeBlast_Upgrade1,scripts/text_weapons."
+"lua_Ranged_SmokeBlast_Upgrade2,scripts/text_weapons."
+"lua_Ranged_SmokeBlast_A_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_SmokeBlast_B_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Fireball_Upgrade2,scripts/text_weapons."
+"lua_Ranged_Fireball_B_UpgradeDescription,scripts/text_weapons."
+"lua_Science_Pullmech_Upgrade1,scripts/text_weapons."
+"lua_Science_Pullmech_Upgrade2,scripts/text_weapons."
+"lua_Science_Pullmech_A_UpgradeDescription,scripts/text_weapons."
+"lua_Science_Pullmech_B_UpgradeDescription,scripts/text_weapons."
+"lua_Science_Gravwell_Upgrade1,scripts/text_weapons."
+"lua_Science_Gravwell_Upgrade2,scripts/text_weapons."
+"lua_Science_Gravwell_A_UpgradeDescription,scripts/text_weapons."
+"lua_Science_Gravwell_B_UpgradeDescription,scripts/text_weapons."
+"lua_Science_AcidShot_Upgrade1,scripts/text_weapons."
+"lua_Science_AcidShot_Upgrade2,scripts/text_weapons."
+"lua_Science_AcidShot_A_UpgradeDescription,scripts/text_weapons."
+"lua_Science_AcidShot_B_UpgradeDescription,scripts/text_weapons."
+"lua_Science_Confuse_Upgrade1,scripts/text_weapons."
+"lua_Science_Confuse_Upgrade2,scripts/text_weapons."
+"lua_Science_Confuse_A_UpgradeDescription,scripts/text_weapons."
+"lua_Science_Confuse_B_UpgradeDescription,scripts/text_weapons."
+"lua_Science_FireBeam_Upgrade2,scripts/text_weapons."
+"lua_Science_FireBeam_B_UpgradeDescription,scripts/text_weapons."
+"lua_Science_FreezeBeam_Upgrade2,scripts/text_weapons."
+"lua_Science_FreezeBeam_B_UpgradeDescription,scripts/text_weapons."
+"lua_Science_PushBeam_Upgrade2,scripts/text_weapons."
+"lua_Science_PushBeam_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Boosters_Upgrade1,scripts/text_weapons."
+"lua_Support_Boosters_Upgrade2,scripts/text_weapons."
+"lua_Support_Boosters_A_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Boosters_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Refrigerate_Upgrade2,scripts/text_weapons."
+"lua_Support_Refrigerate_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Destruct_Upgrade1,scripts/text_weapons."
+"lua_Support_Destruct_Upgrade2,scripts/text_weapons."
+"lua_Support_Destruct_A_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Destruct_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Force_Upgrade1,scripts/text_weapons.lua_Support_Force_Upgrade2,"
+"scripts/text_weapons.lua_Support_Force_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Support_Force_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_SmokeDrop_Upgrade1,scripts/text_weapons."
+"lua_Support_SmokeDrop_Upgrade2,scripts/text_weapons."
+"lua_Support_SmokeDrop_A_UpgradeDescription,scripts/text_weapons."
+"lua_Support_SmokeDrop_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Repair_Upgrade1,scripts/text_weapons.lua_Support_Repair_Upgrade2,"
+"scripts/text_weapons.lua_Support_Repair_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Support_Repair_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Missiles_Upgrade2,scripts/text_weapons."
+"lua_Support_Missiles_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Wind_Upgrade2,scripts/text_weapons."
+"lua_Support_Wind_B_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_TankShot_Upgrade1,scripts/text_weapons."
+"lua_Deploy_TankShot_Upgrade2,scripts/text_weapons."
+"lua_Deploy_TankShot_A_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_TankShot_B_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_TankShot2_Upgrade1,scripts/text_weapons."
+"lua_Deploy_TankShot2_Upgrade2,scripts/text_weapons."
+"lua_Deploy_TankShot2_A_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_TankShot2_B_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_ShieldTankShot_Upgrade1,scripts/text_weapons."
+"lua_Deploy_ShieldTankShot_Upgrade2,scripts/text_weapons."
+"lua_Deploy_ShieldTankShot_A_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_ShieldTankShot_B_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_ShieldTankShot2_Upgrade1,scripts/text_weapons."
+"lua_Deploy_ShieldTankShot2_Upgrade2,scripts/text_weapons."
+"lua_Deploy_ShieldTankShot2_A_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_ShieldTankShot2_B_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_AcidTankShot_Upgrade1,scripts/text_weapons."
+"lua_Deploy_AcidTankShot_Upgrade2,scripts/text_weapons."
+"lua_Deploy_AcidTankShot_A_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_AcidTankShot_B_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_AcidTankShot2_Upgrade1,scripts/text_weapons."
+"lua_Deploy_AcidTankShot2_Upgrade2,scripts/text_weapons."
+"lua_Deploy_AcidTankShot2_A_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_AcidTankShot2_B_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_PullTankShot_Upgrade1,scripts/text_weapons."
+"lua_Deploy_PullTankShot_Upgrade2,scripts/text_weapons."
+"lua_Deploy_PullTankShot_A_UpgradeDescription,scripts/text_weapons."
+"lua_Deploy_PullTankShot_B_UpgradeDescription"
+msgid "{EMPTY}"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatPush_Text"
+msgid ""
+"Your Mech's punch PUSHED this unit. It will now attack a new location! \n"
+"\n"
+"Pushes can save buildings from enemy attacks, or even make enemies attack "
+"each other."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatPush_Title"
+msgid "Pushing Enemies"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatTank_Text"
+msgid ""
+"This is your Tank Mech. \n"
+"\n"
+"It shoots a projectile that travels in a straight line until it hits another "
+"object."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatTank_Title"
+msgid "Tank Mech"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatComplete_Text"
+msgid ""
+"Every mission, you win by defeating the Vek or fighting them until they "
+"retreat."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatComplete_Title"
+msgid "Completing Missions"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatBonus_Text"
+msgid ""
+"Missions also have bonus objectives. \n"
+"\n"
+"Completing these will earn you additional resources after the battle."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Tutorial_CombatBonus_Title,scripts/text.lua_Objective_Title"
+msgid "Bonus Objectives"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatWeapon_Text"
+msgid ""
+"Click on a weapon to use it. The number keys will also work as a shortcut. \n"
+"\n"
+"You may not move after you've shot a weapon."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatWeapon_Title"
+msgid "Weapon Use"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_CombatEnd_Text"
+msgid ""
+"When all of your Mechs have used an action or there is nothing left for your "
+"units to do, press this button to end your turn."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Tutorial_CombatEnd_Title,scripts/text.lua_Button_EndTurn,"
+"scripts/text.lua_EndTurn_Title"
+msgid "End Turn"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Tanks_Text"
+msgid "The tanks have come online and can now be controlled!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Tanks_Title"
+msgid "Old Earth Tanks"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Terraform_Text"
+msgid ""
+"This Terraformer unit is under your control during this mission. \n"
+"\n"
+"Use it to turn Grass tiles into Sand tiles."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Terraform_Title"
+msgid "Terraformer"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_VolatileVek_Text"
+msgid "Your bonus objective in this mission is to not let this Vek die."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_VolatileVek_Title"
+msgid "Volatile Vek"
+msgstr ""
+
+msgctxt "scripts/text.lua_Warning_Final"
+msgid ""
+"Warning: This final mission is still in development. \n"
+"\n"
+"It is less polished and still being designed. \n"
+"\n"
+"You should still find it roughly playable. Good luck!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Warning_OldSave"
+msgid ""
+"Warning: This save file was created by a previous version of Into the "
+"Breach. \n"
+"\n"
+"Since the game is still in development, I can't guarantee full backwards "
+"compatibility for every update and you may experience problems with this "
+"save. \n"
+"\n"
+"That said, chances are good that you won't have any issues. Sorry about the "
+"possible troubles!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_PoweredPilot_Title"
+msgid "Powered Pilot"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_PoweredPilot_Text"
+msgid ""
+"This Pilot is a Sentient machine and requires Reactor Power to activate its "
+"special ability."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Acid_Title"
+msgid "A.C.I.D."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Acid_Text"
+msgid ""
+"This unit is inflicted with A.C.I.D. With its defenses corroded, incoming "
+"Weapon Damage will be doubled.\n"
+"\n"
+"All other damage (Push, Fire, Blocking, etc.) is unaffected."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Frozen_Text"
+msgid ""
+"This unit is FROZEN. It cannot move or attack and will remain Frozen until "
+"it takes damage."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Frozen_Title"
+msgid "Frozen Unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Frozen_Mech_Text"
+msgid ""
+"This Mech can use its Repair Skill to free itself from the ice, but "
+"otherwise cannot attack or move."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Frozen_Mech_Title"
+msgid "Frozen Mech"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Shield_Title"
+msgid "Energy Shields"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Shield_Text"
+msgid ""
+"This is a Shield. It will block damage and any negative effects (Fire, "
+"Freezing, A.C.I.D, etc.). \n"
+"\n"
+"Only direct damage will remove the Shield. Non-damaging, negative effects "
+"will have no effect."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Armor_Title"
+msgid "Armored Unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Armor_Text"
+msgid ""
+"This unit is Armored. All incoming Weapon Damage will be reduced by 1. \n"
+"\n"
+"All other damage (Push, Fire, Blocking, etc.) is unaffected."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Environment_Text"
+msgid ""
+"This mission has a special effect that will happen every turn. \n"
+"\n"
+"Mouse over the environment icon to get more information."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Environment_Title"
+msgid "Environment Effect"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_PowerGrid_Text"
+msgid ""
+"The Power Grid connects every corporate Island. Any damage it takes in "
+"missions will persist. \n"
+"\n"
+"The Vek caused damage before you arrived, but there will be opportunities to "
+"restore it."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_PowerGrid_Title"
+msgid "Damaged Power Grid"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Overpower_Text"
+msgid ""
+"If your Power Grid is full when it receives additional power, your Grid "
+"Defense will be permanently upgraded."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Overpower_Title"
+msgid "Overpowered Grid"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_FullOverpower_Text"
+msgid ""
+"You can only Overpower your Power Grid to have an additional +25 Defense."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_FullOverpower_Title"
+msgid "Defense Grid Maxed"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_GridDefense_Text"
+msgid ""
+"This building resisted damage! \n"
+"\n"
+"The chance of a building resisting damage is shown to the right of your "
+"Power Meter."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Tutorial_GridDefense_Title,scripts/text."
+"lua_TipTitle_GridDefense"
+msgid "Grid Defense"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Jelly_Text"
+msgid ""
+"This enemy Psion provides a passive bonus to all Vek. Killing it removes the "
+"bonus. \n"
+"\n"
+"Select the Psion and mouse over its portrait in the bottom left for more "
+"information."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Jelly_Title"
+msgid "Vek Psion"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Webbed_Text"
+msgid ""
+"This unit has been WEBBED! \n"
+"\n"
+"Mouseover the status icons on the bottom left to investigate what that means."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Webbed_Title"
+msgid "Webbed Mech"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_IslandNewGame_Text"
+msgid ""
+"You can attempt the Islands you've unlocked in any order. \n"
+"\n"
+"Vek difficulty will scale depending on how many Islands you've completed "
+"this game."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_IslandNewGame_Title"
+msgid "Corporate Islands"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Spawning_Text"
+msgid ""
+"An enemy unit will emerge here next turn! \n"
+"\n"
+"You can temporarily block enemies from spawning, but it will damage the "
+"blocking unit."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Spawning_Title"
+msgid "Emerging Enemies"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Forest_Text"
+msgid ""
+"The FOREST on this tile took damage, turning it into FIRE. \n"
+"\n"
+"If a unit stands on Fire, it will ignite and take damage every turn."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Forest_Title"
+msgid "Burning Forests"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Fire_Text"
+msgid ""
+"This Mech is on FIRE! It will take one damage every turn. \n"
+"\n"
+"Mechs can REPAIR status effects, but cannot attack the same turn that they "
+"repair."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Fire_Title"
+msgid "Burning Mechs"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_DamagedMech_Text"
+msgid ""
+"Your Mechs will automatically repair all damage after battle. \n"
+"\n"
+"If a Mech is reduced to 0 health, the Pilot dies and the Mech is disabled "
+"for the rest of that battle."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_DamagedMech_Title"
+msgid "Damaged Mechs"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Corroded_Text"
+msgid ""
+"This Mech is inflicted with A.C.I.D.! It corrodes the unit's armor, causing "
+"all incoming damage to be doubled. \n"
+"\n"
+"Mechs can REPAIR status effects, but cannot attack the same turn that they "
+"repair."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Corroded_Title"
+msgid "Acidic Mechs"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Pod_Text"
+msgid ""
+"This Pod contains equipment from the future! \n"
+"\n"
+"You can collect it with your Mech, or just defend it until the end of the "
+"battle."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Pod_Title"
+msgid "Time Pods"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_PodDestroyed_Title"
+msgid "Destroyed Time Pods"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_PodDestroyed_Text"
+msgid ""
+"The Time Pod on this tile has been destroyed! \n"
+"\n"
+"Time Pods are destroyed by taking damage or by any enemy standing on it."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Water_Text"
+msgid "Mechs cannot use their weapons when standing in Water."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Tutorial_Water_Title,scripts/text."
+"lua_Tutorial_WaterUndo_Title"
+msgid "Swimming Robots"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_WaterUndo_Text"
+msgid ""
+"Mechs cannot use their weapons when standing in Water. \n"
+"\n"
+"You can use Undo Move if you'd like to reposition it."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_DeadPilot_Text"
+msgid ""
+"Your Mech was disabled! Its Pilot was killed and it will not be able to act "
+"for the rest of the mission."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_DeadPilot_Title"
+msgid "Disabled Mechs"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Drowning_Text"
+msgid "This unit fell into the Water, killing it instantly!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Drowning_Title"
+msgid "Drowning Unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_PushDamage_Text"
+msgid "Pushing units into things deals 1 additional damage to both!"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Tutorial_PushDamage_Title,scripts/text."
+"lua_Tutorial_PushDeath_Title"
+msgid "Pushing into Objects"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_PushDeath_Text"
+msgid ""
+"Pushing units into things deals 1 additional damage to both! \n"
+"\n"
+"In this case, the extra damage killed the unit!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_BuildingDamage_Text"
+msgid ""
+"This building tile was damaged, so your city Power Grid was reduced. \n"
+"\n"
+"Your primary goal is to prevent this!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_BuildingDamage_Title"
+msgid "Building Damage"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Combat_Title"
+msgid "Combat Simulation"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Combat_Text"
+msgid ""
+"There is a Combat Simulation available to get new Commanders up to speed "
+"with mechanized combat. \n"
+"\n"
+"Would you like to launch the simulation?"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Money_Title"
+msgid "Corporation Reputation"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Money_Text"
+msgid ""
+"As you secure regions and complete bonus objectives, your reputation with "
+"the local Corporation will increase. \n"
+"\n"
+" You can spend reputation on supplies at the end of the Island."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Cores_Title,scripts/text.lua_TipTitle_Cores"
+msgid "Reactor Cores"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Cores_Text"
+msgid ""
+"You now have a Reactor Core! Open a Mech's Upgrade Screen and install it."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Cores2_Title"
+msgid "Core Installation"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Cores2_Text"
+msgid ""
+"You can use this button to install Reactor Cores in a Mech. \n"
+"\n"
+"Each Core will increase a Mech's maximum reactor power by one."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Cores3_Title"
+msgid "Weapon Modifications"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Cores3_Text"
+msgid ""
+"You can use reactor power to activate weapon modifications. \n"
+"\n"
+"Click on a mod to power it. You can always click again to remove the power "
+"if you want to put it elsewhere."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Weapon_Title"
+msgid "New Weapon"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Weapon_Text"
+msgid "You just got a new weapon! You can equip it in the Upgrade Screen."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Pilot_Title"
+msgid "New Pilot"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Pilot_Text"
+msgid "You just got a new Pilot! You can assign them in the Upgrade Screen."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_OldProfile_Title"
+msgid "Old Profile"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_OldProfile_Text"
+msgid ""
+"The game has been updated and older beta profiles might encounter some "
+"oddities after these changes.\n"
+"\n"
+"Your Achievement Coins Total might be negative now because of changes to "
+"pricing of previously unlocked Mechs. The game is functioning, you'll just "
+"need more Achievements to break even.\n"
+"\n"
+"If you have a run in progress, it may not load correctly. I hope it still "
+"works, but I apologize if it does not."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Weapons"
+msgid "WEAPON EFFECTS"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_WeaponsText"
+msgid ""
+"When aiming a weapon or examining an enemy attack, icons show you exactly "
+"what will happen."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Weapons_Push"
+msgid "PUSHING"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Weapons_PushText"
+msgid "An arrow on a tile means a unit on that tile will be pushed"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Weapons_Damage"
+msgid "DAMAGE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Weapons_DamageText"
+msgid "A number on a tile means the unit on that tile will be damaged"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Weapons_PushDamage"
+msgid "PUSH + DAMAGE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Weapons_PushDamageText"
+msgid "Some weapons can cause multiple effects on a single tile"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Art"
+msgid "ARTILLERY MECH"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_ArtText"
+msgid ""
+"Artillery Weapons can shoot over obstacles like mountains, but cannot shoot "
+"adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_ArtExtra"
+msgid ""
+"The Artillery Mech's weapon will only damage units on the CENTER tile, while "
+"units on ADJACENT tiles are pushed."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Rewards"
+msgid "MISSION REWARDS"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_RewardsText"
+msgid ""
+"Every mission has different potential rewards for completing bonus "
+"objectives. \n"
+"    You won't be able to do every mission on the Island, so choose carefully!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Rewards_Cores"
+msgid "POWER CORES: Used to upgrade your Mechs."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Rewards_Power"
+msgid ""
+"GRID POWER: Restores your Power Grid. \n"
+"If your Power Grid reaches zero, you lose."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Rewards_Reputation"
+msgid "CORP REPUTATION: Used to purchase items once the Island is secure."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Rewards_Difficulty"
+msgid ""
+"WARNING: Missions with more potential rewards will have additional dangers!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_RegionName"
+msgid "Safeguard Valley"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Final"
+msgid "FINAL MISSION"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_FinalText"
+msgid ""
+"After securing two corporate islands, the Final Mission is available to "
+"complete."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Final_ScalingTitle"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Final_Scaling"
+msgid ""
+"The difficulty of this battle scales to your current progress. Fighting it "
+"now will be as much of a challenge as attempting it after securing "
+"additional Islands"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Final_ScoringTitle"
+msgid "Civilians"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Final_Scoring"
+msgid ""
+"Securing more islands before the Final Mission will allow you to save more "
+"civilians and increase your final score."
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_StartCombat"
+msgid "Start Simulation"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_DeclineCombat"
+msgid "Decline"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_DeclineAll"
+msgid "No, I know what I'm doing (hide ALL future tutorial tips)"
+msgstr ""
+
+msgctxt "scripts/text.lua_Tutorial_Dismiss"
+msgid "(Click to Dismiss)"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_FinalMission"
+msgid "Final Mission"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_FinalMission"
+msgid ""
+"You may complete the Final Mission at any point after securing two Corporate "
+"Islands.\n"
+"\n"
+"The difficulty of the mission scales to your current progress."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Reputation"
+msgid "Corporate Reputation"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Reputation"
+msgid "Use reputation points to purchase supplies once an Island is secured."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Cores"
+msgid ""
+"Used for upgrading your Mechs. \n"
+"\n"
+"Open the Mech Upgrade screen by clicking on any Mech icon on the left."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Order,scripts/text.lua_TipTitle_Overlay"
+msgid "Attack Order"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Order"
+msgid "Mouse over here or hold ALT to display the order enemies will attack."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Menu"
+msgid "Game Menu [ESC]"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Menu"
+msgid "Open the Game Menu"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Overlay"
+msgid ""
+"Shows the order that actions will happen during the enemy turn. Hotkey: [$1]"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_TimerBattle"
+msgid ""
+"How long you've been playing your current game. \n"
+"\n"
+"You can hide this in the Options menu."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_TimerBattle"
+msgid "Game Time"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_ResetTurn"
+msgid ""
+"Go back in time to the start of the current turn. Available after taking at "
+"least one action. \n"
+"\n"
+"You can only do this once per battle."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_ResetTurn,scripts/text.lua_TipTitle_ResetTurnExtra,"
+"scripts/text.lua_TipTitle_ResetTurnFinal,scripts/text.lua_Reset_Title"
+msgid "Reset Turn"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_ResetTurnUsed"
+msgid "You can only use this once per battle."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_ResetTurnUsed"
+msgid "Reset Turn Used"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_ResetTurnExtra"
+msgid ""
+"Go back in time to the start of the current turn. Available after taking at "
+"least one action. \n"
+"\n"
+"Your 'Temporal Reset' Pilot gives you one extra Reset per battle. You have 2 "
+"remaining."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_ResetTurnFinal"
+msgid ""
+"Go back in time to the start of the current turn. Available after taking at "
+"least one action. \n"
+"\n"
+"You only have 1 Reset remaining."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_CombatSpeed"
+msgid ""
+"Modifies how quickly enemy units take their turn. \n"
+"\n"
+"Slow it down if you're new and having troubles following enemy actions, "
+"speed it up if you're experienced and comfortable with combat."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_CombatSpeed,scripts/text.lua_Escape_Speed"
+msgid "Combat Speed"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Abandon"
+msgid "End this attempt and send a Pilot back in time to try again."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Abandon"
+msgid "Abandon Timeline"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_TutorialTips,scripts/text.lua_Toggle_Tips"
+msgid "Tutorial Tips"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_TutorialTips"
+msgid ""
+"Show relevant Tutorial popups during the game. \n"
+"\n"
+"Highly recommended for new players."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_BoardScale"
+msgid "Max Board Scale"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BoardScale"
+msgid ""
+"Customize the max combat board rendering scale.\n"
+"\n"
+"This can be useful to decrease the scale for larger monitors.\n"
+"\n"
+"Current window default scale is: $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_DefaultRes"
+msgid "Default Window"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_DefaultRes"
+msgid "Restore the game to its default 720p Window. Recommended for streaming."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_AudioMuted"
+msgid "Audio is currently muted"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Timer,scripts/text.lua_Toggle_Timer"
+msgid "Game Timer UI"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Timer"
+msgid ""
+"Add Game Timer to the UI. \n"
+"\n"
+"Helpful for speed running or obtaining the 'Lightning War' achievement"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_Colorblind,scripts/text.lua_Toggle_Colorblind"
+msgid "Colorblind Mode"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Colorblind"
+msgid ""
+"Changes some colors and adds additional icons to aid colorblind players.\n"
+"\n"
+"Let us know if you'd like anything improved with this."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_LargeFont,scripts/text.lua_Toggle_Large"
+msgid "Larger Fonts"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_LargeFont"
+msgid "Increases the size of tooltips, dialogs, and other critical texts."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_NoLargeFont"
+msgid "Larger Fonts Unavailable"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_NoLargeFont"
+msgid "Your current window resolution is too small to support larger fonts."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Confirm,scripts/text.lua_Toggle_Confirm"
+msgid "End Turn Confirmation"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Confirm"
+msgid ""
+"Receive confirmation when you attempt to end your turn and have units still "
+"available to act."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Stretch,scripts/text.lua_Toggle_Stretch"
+msgid "Stretch Scaling"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Stretch"
+msgid ""
+"Stretch art and UI when adjusting to larger resolutions. \n"
+"\n"
+"Helpful for high (1440p or more) resolution monitors if the UI is too small, "
+"but might make the art and text slightly blurry."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Limit,scripts/text.lua_Toggle_Framelimit"
+msgid "Frame Limit"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Limit"
+msgid ""
+"Limit the FPS to 60.\n"
+"\n"
+"Recommended for most systems."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Shake,scripts/text.lua_Toggle_Screenshake"
+msgid "Disable Screen Shake"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Shake"
+msgid ""
+"Prevent the board / UI from shaking.\n"
+"\n"
+"This is common during combat when something deals damage."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Coords"
+msgid "Grid Coordinates Overlay"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Coords"
+msgid ""
+"Add coordinates to the board.\n"
+"\n"
+"Good for streaming, or whenever sharing the game in other forms."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_NoStretch"
+msgid "Stretch Scaling Unavailable"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_NoStretch"
+msgid ""
+"Your Video Drivers do not support the necessary requirements for this. \n"
+"\n"
+"Please update or contact support if you need this feature."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_BattleVictory"
+msgid "Battle Victory"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BattleVictory"
+msgid "All enemies will retreat in $1 turns"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BattleVictory_One"
+msgid "All enemies will retreat in 1 turn"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_BattleVictory_Final"
+msgid "Final Victory"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BattleVictory_Final"
+msgid "The bomb will explode in $1 turns"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BattleVictory_One_Final"
+msgid "The bomb will explode in 1 turn"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_RepObj"
+msgid "Reputation Objective"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_RepObj"
+msgid "Rewards Corporate Reputation, used to buy equipment."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_PodObj,scripts/text_tooltips."
+"lua_TILE_TOOLTIPS__pod_0"
+msgid "Time Pod"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_PodObj"
+msgid "A Time Pod's contents could be useful for the fights ahead."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_PowerObj"
+msgid "Power Objective"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_PowerObj"
+msgid "Restores power to the Power Grid"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_CoreObj"
+msgid "Reactor Core Objective"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_CoreObj"
+msgid "Rewards a Reactor Core, used to upgrade Mechs."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Saved"
+msgid "Saved People"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Saved"
+msgid ""
+"The number of people you've saved in this time line \n"
+"\n"
+"Higher difficulties have more people per building in battle."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_UpgradeReactor"
+msgid "Mech Reactor"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_UpgradeReactor"
+msgid ""
+"You can use reactor power to improve your weapons, or power additional "
+"weapons. \n"
+"\n"
+"Install Reactor Cores to upgrade a Mech's reactor."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_UndoCore"
+msgid "Undo Core Installation"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_UndoCore"
+msgid "Undo recent Core installations."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Health"
+msgid "Mech Health"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Move"
+msgid "Mech Movement"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_ZoltanHealth"
+msgid "Zoltan Health"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_ZoltanHealth"
+msgid "The Zoltan Pilot prevents increasing the HP of this Mech"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_MechClass,scripts/text.lua_TipTitle_HangarClass"
+msgid "Mech Class"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_MechClass"
+msgid ""
+"The Mech's Class determines which weapon types it can efficiently use. \n"
+"\n"
+"Weapons not in the same class will cost 1 extra Reactor Power."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Cyborg"
+msgid "Cyborg Class"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Cyborg"
+msgid ""
+"Cyborgs require 1 extra Reactor Power to use any non-Cyborg weapon or "
+"passive."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_RenamePilot"
+msgid "Click to rename this Pilot."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_RenamePilot"
+msgid "Rename Pilot"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_RenameMech"
+msgid "Click to rename this Mech."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_RenameMech"
+msgid "Rename Mech"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_PilotMax,scripts/text.lua_Pilot_Max,scripts/text."
+"lua_Pilot_XpMax"
+msgid "Max Level"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_PilotMax"
+msgid "This Pilot has unlocked all of their skills!"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_PilotExperience"
+msgid "Pilot Experience"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_PilotExperience"
+msgid ""
+"Once this Pilot gains enough experience in combat, they will unlock more "
+"skills."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_PilotAI"
+msgid "Basic AI Pilot"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_PilotAI"
+msgid ""
+"Basic AI Pilots are already operating at their peak efficiency and do not "
+"gain experience in combat. \n"
+"\n"
+"Find superior human Pilots, or advanced AI Pilots, to replace the basic AI."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_GridDefense"
+msgid ""
+"The percentage chance any building will resist damage. \n"
+"\n"
+"Gain Power when your Power Grid is full to upgrade its Defense."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_PowerGrid"
+msgid ""
+"You LOSE if this reaches zero. \n"
+"\n"
+"Reduced every time a Powered Building is damaged in combat."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_BuyCore,scripts/text.lua_Store_Core"
+msgid "Reactor Core"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BuyCore"
+msgid "Reactor Cores are used to upgrade your Mechs between missions."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_BuyPower"
+msgid "Grid Power"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BuyPower"
+msgid ""
+"Repair damage to your Power Grid. \n"
+"\n"
+"If your Power Grid is full, this will permanently upgrade your Grid Defense."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_BuyPower_Grid"
+msgid "Overpower Grid"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BuyPower_Grid"
+msgid ""
+"Your Power Grid is full. Additional Power will permanently upgrade your Grid "
+"Defense. \n"
+"\n"
+"The bonus will decrease the higher your Grid Defense gets, to a maximum of "
+"+25."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_BuyPower_Full"
+msgid "Full Grid"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BuyPower_Full"
+msgid ""
+"Your Power Grid and Grid Defense are both at their maximum value. \n"
+"\n"
+"You cannot purchase additional Power."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Mission_Normal"
+msgid "Standard Vek Threat"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Mission_Normal"
+msgid "No special additions for this mission"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Mission_Hard"
+msgid "High Vek Threat"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Mission_Hard"
+msgid "One extra Alpha Vek will be present when the mission starts"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Mission_Easy"
+msgid "Defense Grid Active"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Mission_Easy"
+msgid "Some buildings start with a free Shield"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_Env_BeltLine,scripts/text."
+"lua_TipTitle_Env_BeltRandom"
+msgid "Conveyor Belts"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipText_Env_BeltLine,scripts/text.lua_TipText_Env_BeltRandom"
+msgid "Conveyor Belts will push units around the map"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Env_Airstrike"
+msgid "Air Strikes"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Env_Airstrike"
+msgid "A bomber will periodically target areas of the map"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Env_Tides"
+msgid "Tidal Waves"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Env_Tides"
+msgid "The map will gradually be flooded in water"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Env_Cataclysm"
+msgid "Cataclysmic Earthquakes"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Env_Cataclysm"
+msgid "The map will gradually break apart into a massive chasm"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_Env_Seismic,scripts/text_tooltips."
+"lua_TILE_TOOLTIPS__seismic_0"
+msgid "Seismic Activity"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Env_Seismic"
+msgid ""
+"Ground tiles will periodically sink into chasms, taking any unit with them"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Env_Lightning"
+msgid "Lightning Storm"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Env_Lightning"
+msgid "Dangerous lightning will threaten the map, killing anything it strikes"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_Env_SnowStorm,scripts/text_tooltips."
+"lua_TILE_TOOLTIPS__ice_storm_0"
+msgid "Ice Storm"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Env_SnowStorm"
+msgid "Large areas of the map will periodically freeze solid"
+msgstr ""
+
+msgctxt "scripts/text.lua_Corp_Grass_Description"
+msgid ""
+"This Museum Island recreates Old Earth as it was before the oceans rose and "
+"nearly wiped out humanity."
+msgstr ""
+
+msgctxt "scripts/text.lua_Corp_Desert_Description"
+msgid ""
+"Terraforming specialists, R.S.T. turned the environment against the Vek and "
+"nearly destroyed their Island in the process."
+msgstr ""
+
+msgctxt "scripts/text.lua_Corp_Snow_Description"
+msgid ""
+"Pinnacle Robotics fights a war on two fronts, one against the Vek, the other "
+"against its own Sentient Weapons."
+msgstr ""
+
+msgctxt "scripts/text.lua_Corp_Factory_Description"
+msgid ""
+"Detritus tech can break down any matter into its base elements. Their "
+"factory-cities are devoted to waste removal and recycling."
+msgstr ""
+
+msgctxt "scripts/text.lua_Order_Fire"
+msgid "Fire Damage"
+msgstr ""
+
+msgctxt "scripts/text.lua_Order_Psion"
+msgid "Psion Regenerate"
+msgstr ""
+
+msgctxt "scripts/text.lua_Order_Tentacle"
+msgid "Psion Tentacle"
+msgstr ""
+
+msgctxt "scripts/text.lua_Order_Actions"
+msgid "Enemy Actions"
+msgstr ""
+
+msgctxt "scripts/text.lua_Order_NPC"
+msgid "NPC Actions"
+msgstr ""
+
+msgctxt "scripts/text.lua_Order_NPC_Bots"
+msgid "NPC Bot Actions"
+msgstr ""
+
+msgctxt "scripts/text.lua_Order_Emerge"
+msgid "Enemies Emerge"
+msgstr ""
+
+msgctxt "scripts/text.lua_Order_Env"
+msgid "Environment"
+msgstr ""
+
+msgctxt "scripts/text.lua_Order_Smoke"
+msgid "Storm Smoke"
+msgstr ""
+
+msgctxt "scripts/text.lua_Deploying_Mech"
+msgid "Deploying $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Deploying_Instructions"
+msgid "Select a location in the yellow Drop Zone"
+msgstr ""
+
+msgctxt "scripts/text.lua_Deploying_Complete"
+msgid "Deployment Complete"
+msgstr ""
+
+msgctxt "scripts/text.lua_Deploying_Confirm"
+msgid "You may change your placements before confirming"
+msgstr ""
+
+msgctxt "scripts/text.lua_Combat_Deployment"
+msgid "DEPLOYMENT"
+msgstr ""
+
+msgctxt "scripts/text.lua_Deploy_Remaining"
+msgid "Remaining Units:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Deployment_Done"
+msgid "CONFIRM"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Button_Pawnlist"
+msgid "     Unit List"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Button_Objectives"
+msgid "Bonus Objectives     "
+msgstr ""
+
+msgctxt "scripts/text.lua_Skip_Units"
+msgid "You still have units that can act. They will lose their turn."
+msgstr ""
+
+msgctxt "scripts/text.lua_Reset_Turn"
+msgid ""
+"Go back in time to the start of your turn?\n"
+"\n"
+"Power limitations means you can only do this once per battle."
+msgstr ""
+
+msgctxt "scripts/text.lua_Reset_TurnExtra"
+msgid ""
+"Go back in time to the start of your turn?\n"
+"\n"
+"Your 'Temporal Reset' Pilot means you can do this twice this battle."
+msgstr ""
+
+msgctxt "scripts/text.lua_Reset_TurnFinal"
+msgid ""
+"Go back in time to the start of your turn?\n"
+"\n"
+"You only have one Reset remaining."
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Undo"
+msgid ""
+"UNDO \n"
+"MOVE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_UndoTurn"
+msgid "RESET TURN"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_UndoTurnUsed"
+msgid "RESET USED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Active_Units"
+msgid "Active Units: "
+msgstr ""
+
+msgctxt "scripts/text.lua_Objective_EnemyRetreat"
+msgid "Victory in"
+msgstr ""
+
+msgctxt "scripts/text.lua_Objective_EnemyRetreat2"
+msgid "turns"
+msgstr ""
+
+msgctxt "scripts/text.lua_Objective_EnemyRetreat3"
+msgid "turn"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Editor_Exit"
+msgid "EDIT MAP"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Done_Testing"
+msgid "DONE TESTING"
+msgstr ""
+
+msgctxt "scripts/text.lua_Disarm_Info"
+msgid ""
+"[ Right Click ]\n"
+"or\n"
+"[ $1 ]\n"
+"to Disarm"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_Passive"
+msgid "PASSIVE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassAny"
+msgid "Any"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassTechnoVek"
+msgid "Cyborg"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassPassive"
+msgid "Passive"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassPrime"
+msgid "Prime"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassDeath"
+msgid "On Death"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassBrute"
+msgid "Brute"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassRanged"
+msgid "Ranged"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassScience"
+msgid "Science"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassEnemy"
+msgid "Enemy"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassString"
+msgid "$1 Class Weapon"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_ClassPassString"
+msgid "Passive Effect"
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_Damage"
+msgid "Damage: "
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_SelfDamage"
+msgid "Self-Damage: "
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_Limited"
+msgid "Uses per battle: "
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_WrongClass"
+msgid ""
+" No matching Mech class. \n"
+" 1 Power penalty applies."
+msgstr ""
+
+msgctxt "scripts/text.lua_Skill_CyborgOnly"
+msgid "Non-Cyborg Weapon"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_Special"
+msgid "Special"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_PowerReq"
+msgid "Requires $1 power"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_Powered"
+msgid "Powered"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_None,scripts/text.lua_Hangar_None"
+msgid "None"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_XP,scripts/text.lua_Pilot_XpString"
+msgid "$1 / $2 xp"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_Unknown"
+msgid "Unknown Skill"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_UnknownText"
+msgid "Gain experience to unlock this skill."
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_Skills"
+msgid "Skills"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_Experience"
+msgid "Experience"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_History"
+msgid "History"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_History_Timelines"
+msgid "Previous Timelines: $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_History_Final"
+msgid "Final Battles: $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_HealthName"
+msgid "Health Bonus"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_HealthShort"
+msgid "+2 Mech HP"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_HealthDesc"
+msgid "Piloted Mech health is increased by 2."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Pilot_MoveName,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__moving_0"
+msgid "Move Bonus"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_MoveShort"
+msgid "+1 Mech Move"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_MoveDesc"
+msgid "Piloted Mech movement is increased by 1."
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_GridName"
+msgid "Grid Defense Bonus"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_GridShort"
+msgid "+3 Grid DEF"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_GridDesc"
+msgid ""
+"Grid Defense increased by 3. This affects the chance of resisting Building "
+"Damage in combat."
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_ReactorName"
+msgid "Reactor Bonus"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_ReactorShort"
+msgid "+1 Mech Reactor"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_ReactorDesc"
+msgid "Piloted Mech reactor increased by 1."
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_XpAI"
+msgid ""
+"Mechs can pilot themselves, but it's better to have a specialized Pilot."
+msgstr ""
+
+msgctxt "scripts/text.lua_Gamepad_SelectUnit"
+msgid "Select Unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Gamepad_PlaceUnit"
+msgid "Place Unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Gamepad_MoveUnit"
+msgid "Move Unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Gamepad_FireWeapon"
+msgid "Fire Weapon"
+msgstr ""
+
+msgctxt "scripts/text.lua_Gamepad_Cancel"
+msgid "Cancel Shot"
+msgstr ""
+
+msgctxt "scripts/text.lua_State_Tutorial"
+msgid "SIMULATION STARTED"
+msgstr ""
+
+msgctxt "scripts/text.lua_State_Gameover"
+msgid "GAME OVER"
+msgstr ""
+
+msgctxt "scripts/text.lua_State_Player"
+msgid "PLAYER TURN"
+msgstr ""
+
+msgctxt "scripts/text.lua_State_Enemy"
+msgid "ENEMY TURN"
+msgstr ""
+
+msgctxt "scripts/text.lua_State_Start"
+msgid "MISSION START"
+msgstr ""
+
+msgctxt "scripts/text.lua_State_Complete"
+msgid "MISSION COMPLETE"
+msgstr ""
+
+msgctxt "scripts/text.lua_State_Disabled"
+msgid "MECHS DISABLED"
+msgstr ""
+
+msgctxt "scripts/text.lua_State_Turns"
+msgid "$1 Turns Remaining"
+msgstr ""
+
+msgctxt "scripts/text.lua_State_LastTurn"
+msgid "Last Turn"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_MoveLabel"
+msgid "+1 Move"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Upgrade_HealthLabel,scripts/text_weapons."
+"lua_DeploySkill_Tank_Upgrade1,scripts/text_weapons."
+"lua_DeploySkill_ShieldTank_Upgrade1,scripts/text_weapons."
+"lua_DeploySkill_AcidTank_Upgrade1,scripts/text_weapons."
+"lua_DeploySkill_PullTank_Upgrade1,scripts/text_weapons."
+"lua_DeploySkill_SGenerator_Upgrade1"
+msgid "+2 Health"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Install"
+msgid "INSTALL"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Max"
+msgid "MAXED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Class"
+msgid "Mech Class: $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Test"
+msgid "Use the Virtual Simulator to test Mech Loadouts"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Armory"
+msgid "STORAGE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Pilot"
+msgid "PILOT"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Stats"
+msgid "STATS"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Reactor"
+msgid "REACTOR"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Move"
+msgid "Move:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Health"
+msgid "Health:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Weapons"
+msgid "WEAPONS"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Upgrade_Test"
+msgid "TEST MECH"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Upgrade_Undo"
+msgid "UNDO"
+msgstr ""
+
+msgctxt "scripts/text.lua_Wrong_Cost"
+msgid ""
+"Costs one additional \n"
+"          power to use"
+msgstr ""
+
+msgctxt "scripts/text.lua_Wrong_Class"
+msgid "Wrong Class"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_Page"
+msgid "Page $1 of $2"
+msgstr ""
+
+msgctxt "scripts/text.lua_Upgrade_New"
+msgid "NEW!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Victory_RegionLost"
+msgid "Region Lost"
+msgstr ""
+
+msgctxt "scripts/text.lua_Victory_FailedRewards"
+msgid "No rewards for a failed mission."
+msgstr ""
+
+msgctxt "scripts/text.lua_Victory_Simulation"
+msgid "Simulation Complete"
+msgstr ""
+
+msgctxt "scripts/text.lua_Victory_SimulationText"
+msgid ""
+"Congratulations on your first successful mission, Commander! I'm confident "
+"in your ability to save the planet after such extensive training."
+msgstr ""
+
+msgctxt "scripts/text.lua_Objective_Title_One"
+msgid "Bonus Objective"
+msgstr ""
+
+msgctxt "scripts/text.lua_Objective_Title_Final"
+msgid "Primary Objective"
+msgstr ""
+
+msgctxt "scripts/text.lua_Victory_Civilians"
+msgid "Civilians Protected"
+msgstr ""
+
+msgctxt "scripts/text.lua_Victory_Title"
+msgid "Region Secured"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pod_Title"
+msgid "POD RECOVERED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pod_Contents"
+msgid "Pod Contents:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Store_Cost"
+msgid "Cost:  $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Store_Equipped"
+msgid "Equipped"
+msgstr ""
+
+msgctxt "scripts/text.lua_Store_Purchase"
+msgid "Purchase equipment using       Reputation"
+msgstr ""
+
+msgctxt "scripts/text.lua_Store_Sell"
+msgid "Donate weapons and pilots for       Reputation"
+msgstr ""
+
+msgctxt "scripts/text.lua_Store_SellTitle"
+msgid "DONATE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Store_BuyTitle"
+msgid "ACQUIRE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Store_Weapons"
+msgid "Weapons"
+msgstr ""
+
+msgctxt "scripts/text.lua_Store_Pilots"
+msgid "Pilots"
+msgstr ""
+
+msgctxt "scripts/text.lua_Leave_Confirm"
+msgid "Your unspent Corporate Reputation will be lost if you leave now."
+msgstr ""
+
+msgctxt "scripts/text.lua_SellPilot_Confirm"
+msgid ""
+"Are you sure you want to permanently assign this Pilot to the Island?\n"
+"(Grants Reputation)"
+msgstr ""
+
+msgctxt "scripts/text.lua_SellWeapon_Confirm"
+msgid ""
+"Are you sure you want to donate this weapon?\n"
+"(Grants Reputation)"
+msgstr ""
+
+msgctxt "scripts/text.lua_Reward_Title"
+msgid "Perfect Island!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Reward_Subheading"
+msgid "Select one free reward"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pod_Objective"
+msgid "Protect the Time Pod"
+msgstr ""
+
+msgctxt "scripts/text.lua_Secret_Objective"
+msgid "Protect the Strange Pod"
+msgstr ""
+
+msgctxt "scripts/text.lua_Secret_Objective_Failed"
+msgid "Protect the Strange Pod (Failed)"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pod_Detected"
+msgid "Time Pod Detected"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pod_Failed"
+msgid "Protect the Time Pod (Failed)"
+msgstr ""
+
+msgctxt "scripts/text.lua_Toggle_NeverAgain"
+msgid "Don't Ask Again"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mission_Map_Deploy"
+msgid "Start Mission"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pawn_Box_Water,scripts/text.lua_Pawn_Box_Acid"
+msgid ""
+"Water \n"
+"Logged"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pawn_Box_Smoke"
+msgid ""
+"Smoke \n"
+"Blocking"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pawn_Box_Ice"
+msgid ""
+"Ice \n"
+"Blocking"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pawn_Box_Shot"
+msgid ""
+"Bonus Move \n"
+"Only"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pawn_Box_Lava"
+msgid ""
+"Lava \n"
+"Blocking"
+msgstr ""
+
+msgctxt "scripts/text.lua_Boss_Title"
+msgid "Warning: Vek Offensive"
+msgstr ""
+
+msgctxt "scripts/text.lua_Boss_Text"
+msgid ""
+"Vek are overrunning two regions on the Island. \n"
+"The region you do not save will be lost forever."
+msgstr ""
+
+msgctxt "scripts/text.lua_Top_Power"
+msgid "POWER"
+msgstr ""
+
+msgctxt "scripts/text.lua_Top_Grid"
+msgid "GRID"
+msgstr ""
+
+msgctxt "scripts/text.lua_Top_Defense"
+msgid "DEFENSE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_TurnOver"
+msgid "Turn Over"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_Disabled"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "scripts/text.lua_Pilot_EnemyDead"
+msgid "Killed"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_Office"
+msgid "$1 Head Office"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mission_Normal"
+msgid "Vek Threat Detected!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mission_Easy"
+msgid "Defensive Shields Active!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mission_Hard"
+msgid "High Threat Detected!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mission_Final"
+msgid "The Last Stand"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mission_Failed"
+msgid "Region Destroyed by Vek"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mission_None"
+msgid "No Vek Detected"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Confirm_No"
+msgid "NO"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Confirm_Yes"
+msgid "YES"
+msgstr ""
+
+msgctxt "scripts/text.lua_Confirm_Question"
+msgid "Continue?"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Confirm_Ok"
+msgid "OK"
+msgstr ""
+
+msgctxt "scripts/text.lua_PilotNews_Dead"
+msgid "DECEASED"
+msgstr ""
+
+msgctxt "scripts/text.lua_PilotNews_Revived"
+msgid "REVIVED"
+msgstr ""
+
+msgctxt "scripts/text.lua_PilotNews_ReviveText"
+msgid ""
+"The Emergency Medical Supplies were able to save $1 from the brink of death!"
+msgstr ""
+
+msgctxt "scripts/text.lua_PilotNews_Vek"
+msgid "REGENERATED"
+msgstr ""
+
+msgctxt "scripts/text.lua_PilotNews_VekText"
+msgid ""
+"$1 has recovered from the brink of death! The effort required to regenerate "
+"has cost XP."
+msgstr ""
+
+msgctxt "scripts/text.lua_PilotNews_DeadText"
+msgid "$1 died after taking severe damage in the battle against the creatures."
+msgstr ""
+
+msgctxt "scripts/text.lua_PilotNews_Promoted"
+msgid "PROMOTED"
+msgstr ""
+
+msgctxt "scripts/text.lua_PilotNews_Skill"
+msgid "New Skill Unlocked:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Pilot_News_Done"
+msgid "Understood"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Button_Continue,scripts/text.lua_Button_Escape_Continue,"
+"scripts/text.lua_Button_Victory_Done"
+msgid "CONTINUE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Wait"
+msgid "WAIT"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Create"
+msgid "CREATE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Profile"
+msgid "Create New Profile"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_MainContinue"
+msgid "Continue"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_MainCredits"
+msgid "Credits"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_MainNew"
+msgid "New Game"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_MainOptions"
+msgid "Options"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_MainProgress"
+msgid "Progress"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_MainStats,scripts/text.lua_Stats_Header"
+msgid "Statistics"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Button_MainAchievs,scripts/text."
+"lua_Hangar_Achievements_Title"
+msgid "Achievements"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_MainSquads"
+msgid "Squads"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_MainQuit"
+msgid "Quit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_MainProfile"
+msgid "Profile"
+msgstr ""
+
+msgctxt "scripts/text.lua_Toggle_EnableTips"
+msgid "Enable Tutorial Tips"
+msgstr ""
+
+msgctxt "scripts/text.lua_NewGame_Confirm"
+msgid ""
+"You currently have a game in progress. Starting a new one will permanently "
+"erase it."
+msgstr ""
+
+msgctxt "scripts/text.lua_Delete_Confirm"
+msgid "You will lose all game progress and unlocks. This cannot be undone."
+msgstr ""
+
+msgctxt "scripts/text.lua_Warning_NoSave"
+msgid ""
+"'Into the Breach' does not appear to have file access to save progress. \n"
+"\n"
+"Please quit and check if your Anti-Virus software is blocking it. \n"
+"\n"
+"If the problem persists email us at contact@subsetgames.com"
+msgstr ""
+
+msgctxt "scripts/text.lua_Warning_FileWriteIssue"
+msgid ""
+"'Into the Breach' is possibly unable to save progress. \n"
+"\n"
+"Please quit and check if your Anti-Virus software is blocking it. \n"
+"\n"
+"If the problem persists email us at contact@subsetgames.com"
+msgstr ""
+
+msgctxt "scripts/text.lua_Warning_SaveFileCorrupted"
+msgid ""
+"Your Save File appears to be corrupted. Please contact us at "
+"contact@subsetgames.com if you'd like us to attempt to recover the data.\n"
+"\n"
+"Very sorry about the problem!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Warning_ProfileCorrupted"
+msgid ""
+"Your Profile File appears to be corrupted. Please contact us at "
+"contact@subsetgames.com if you'd like us to attempt to recover the data.\n"
+"\n"
+"Very sorry about the problem!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Menu_NoSave"
+msgid "WARNING: There is a file write error and your progress cannot be saved."
+msgstr ""
+
+msgctxt "scripts/text.lua_Confirm_Header"
+msgid "Confirm Action"
+msgstr ""
+
+msgctxt "scripts/text.lua_Warn_Header"
+msgid "Warning!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Profile_Delete_Failed"
+msgid ""
+"Your profile data could not be fully deleted. It may be read only, or it may "
+"have extra files in its folder. You can delete it manually from here: \n"
+"\n"
+msgstr ""
+
+msgctxt "scripts/text.lua_Profile_Delete_Failed_OSX"
+msgid ""
+"Your profile data could not be deleted. This is a known issue in OS X. \n"
+"\n"
+"You can delete your profile data manually from this location: \n"
+"\n"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_TotalVictory"
+msgid "Victories:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_TotalLost"
+msgid "Timelines Lost:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_TotalGames,scripts/text.lua_Stats_SquadGames"
+msgid "Total Games:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_TotalTravelers"
+msgid "Total Time Travelers:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_TotalKills"
+msgid "Total Enemy Kills:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_TotalSaved"
+msgid "Total Civilians Saved:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_TotalIsland"
+msgid "Total Islands Secured:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_TotalPods"
+msgid "Pods Collected:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_ScoreDefeat"
+msgid "Defeated"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_ScoreVictory"
+msgid "$1 Island Victory!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_ScoreScore"
+msgid "Civilians Saved:"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Stats_ScoreKills,scripts/text.lua_Stats_SquadKills,scripts/"
+"text.lua_Stats_PilotKills"
+msgid "Total Kills:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_ScoreFailed"
+msgid "Failed Objectives:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_ScoreTimer"
+msgid "Game Time:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_SquadScore"
+msgid "High Score:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_PilotBattles"
+msgid "Battles:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_PilotJumps"
+msgid "Time Jumps:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_Pilot_Deaths"
+msgid "Total Deaths:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_VekDeadliest"
+msgid "Deadliest Enemy"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_VekDeadliestStat"
+msgid "Killed Mechs:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_VekWeakest"
+msgid "Most Squashable"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_VekWeakestStat"
+msgid "Times Killed:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_VekDestruction"
+msgid "Most Destructive"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_VekDestructionStat"
+msgid "Grid Damage:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_ListButton"
+msgid "Back to List"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Stats_SquadButton,scripts/text.lua_Button_Hangar_Squad"
+msgid "Change Squad"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_PilotButton"
+msgid "Change Pilot"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_Done"
+msgid "Close"
+msgstr ""
+
+msgctxt "scripts/text.lua_Stats_ToggleGlobal"
+msgid "Filter by Selected Squad"
+msgstr ""
+
+msgctxt "scripts/text.lua_Toggle_Easy"
+msgid "Easy"
+msgstr ""
+
+msgctxt "scripts/text.lua_Toggle_Hard"
+msgid "Hard"
+msgstr ""
+
+msgctxt "scripts/text.lua_Toggle_Normal,scripts/text.lua_TipTitle_HangarNormal"
+msgid "Normal"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_CustomSquad"
+msgid "Final Selection:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Traveler_Heading"
+msgid "Time Traveler"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Island_Victory"
+msgid ""
+"Medals awarded based on how many Corporate Islands are secured before "
+"completing the Final Island."
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Island_Victory_2"
+msgid "2 Island Victory: $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Island_Victory_3"
+msgid "3 Island Victory: $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Island_Victory_4"
+msgid "4 Island Victory: $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Island_Victory_Title"
+msgid "Victory Medals"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Ach_Coins"
+msgid "Note: Achievements earn you Coins to unlock new Mech Squads!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Locked"
+msgid "Locked"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Randomized"
+msgid "Random Squad"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Custom"
+msgid "Customize Squad"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Complete"
+msgid "Complete more Islands to unlock!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Achievements"
+msgid "Earn more Coins!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Buy"
+msgid "Click to Purchase!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Hangar_Pilot"
+msgid "Change Time Traveler"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Hangar_Random_Pilot"
+msgid "Randomize"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Button_Hangar_Reroll,scripts/text.lua_TipTitle_BalancedRoll"
+msgid "Balanced Roll"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Button_Hangar_RandomRoll,scripts/text.lua_TipTitle_ChaosRoll"
+msgid "Chaos Roll"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Hangar_Ach"
+msgid "View All Achievements"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Hangar_Secret"
+msgid "Buy Secret Squad       "
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Total_Ach"
+msgid "Total Coins Earned"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Hangar_Recustom"
+msgid "Edit Squad"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Custom_Locked"
+msgid "Unlock the Squad \"$1\" to use this Mech"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Custom_Locked_Title"
+msgid "Locked Mech"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Hangar_Start"
+msgid "Start Game"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Random"
+msgid "Random Mech"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Select"
+msgid "Squad Selection"
+msgstr ""
+
+msgctxt "scripts/text.lua_Ach_Squad"
+msgid "Squad Based"
+msgstr ""
+
+msgctxt "scripts/text.lua_Ach_Global"
+msgid "Global"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Coins"
+msgid "Gain Coins by completing Achievements! Use Coins to unlock new Squads!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Pilot_Unlock"
+msgid "Find new Pilots while playing to unlock them here!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Pilot"
+msgid "Pilot Selection"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_Traveler"
+msgid ""
+"Last \n"
+"Traveler"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_NoAbility"
+msgid "No Special Ability"
+msgstr ""
+
+msgctxt "scripts/text.lua_Hangar_NoTraveler"
+msgid "Last Pilot Not Available"
+msgstr ""
+
+msgctxt "scripts/text.lua_Randomized"
+msgid "Create random Squad using unlocked Mechs."
+msgstr ""
+
+msgctxt "scripts/text.lua_Customized"
+msgid "Create a custom Squad using unlocked Mechs."
+msgstr ""
+
+msgctxt "scripts/text.lua_RandomizedLocked"
+msgid "Unlock more Mechs to use this feature!"
+msgstr ""
+
+msgctxt "scripts/text.lua_No_Weapon"
+msgid "No Weapon"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_MechColor"
+msgid "Click to change Mech Color"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_MechName"
+msgid "Click to rename Mech"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_PilotName"
+msgid "Click to rename Pilot"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_PilotMech"
+msgid "Click to change starting Mech for the Time Traveler"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_HangarMovement"
+msgid "Movement"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_HangarMovement"
+msgid "How many tiles this Mech can move each turn."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_HangarHealth"
+msgid "Health"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_HangarHealth"
+msgid "How much damage this Mech can take before being disabled."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_HangarClass"
+msgid ""
+"The Mech's Class determines which weapons it can use without a power penalty."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_HangarFlying,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__flying_0,scripts/text_tooltips."
+"lua_PilotSkills__Flying_0,scripts/text_weapons."
+"lua_DeploySkill_PullTank_Upgrade2"
+msgid "Flying"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipText_HangarFlying,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__flying_1"
+msgid "Flying units can move over any terrain tile."
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipTitle_HangarArmor,scripts/text_tooltips."
+"lua_PilotSkills__Armored_0"
+msgid "Armored"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_TipText_HangarArmor,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__armor_1"
+msgid ""
+"Weapon damage to this unit is reduced by 1. All other damage (Push, "
+"Blocking, Fire, etc.) is unaffected."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_HangarNormal"
+msgid ""
+"Designed to provide an interesting challenge to new and experienced players."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_HangarEasy"
+msgid "Easy Mode"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_HangarEasy"
+msgid ""
+"Reduced enemy spawn rates.\n"
+"\n"
+"Score is reduced by 50%."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_HangarHard"
+msgid "Hard Mode"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_HangarHard"
+msgid ""
+"Increased spawn rates and more Alpha Vek.\n"
+"\n"
+"Score is increased by 50%."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_LockedColor"
+msgid "Unlock the Squad '$1' to use this color"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_LockedColor"
+msgid "Locked Color"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Repeat"
+msgid "Repeat Passive Equipment"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Repeat"
+msgid ""
+"Your Mech Squad cannot have multiple copies of the same Passive Equipment. \n"
+"\n"
+"You can still play with the Squad, but the extra copies of the Passive "
+"Equipment will be removed."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_ChaosRoll"
+msgid "Purely random squad. No restrictions to class, weaponry, or Mech."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_BalancedRoll"
+msgid ""
+"Slightly restricted random squad.\n"
+"\n"
+"All Mechs will be unique and not from the same class. Mechs will have no "
+"more than 4 weapons between them."
+msgstr ""
+
+msgctxt "scripts/text.lua_Toggle_Fullscreen"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt "scripts/text.lua_Toggle_Grid"
+msgid "Grid Coordinates"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Options_Hotkeys"
+msgid "Edit Hotkeys"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Options_Default"
+msgid "Default Windowed"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Options_Scale"
+msgid "Max Board Scale: $1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Toggle_Mute"
+msgid "Mute All Audio"
+msgstr ""
+
+msgctxt "scripts/text.lua_Abandon_Confirm"
+msgid "You will send a Pilot to a new timeline and lose all other progress."
+msgstr ""
+
+msgctxt "scripts/text.lua_Escape_Title"
+msgid "MENU"
+msgstr ""
+
+msgctxt "scripts/text.lua_Escape_Info"
+msgid "INFO"
+msgstr ""
+
+msgctxt "scripts/text.lua_Escape_Sound"
+msgid "Effects Volume"
+msgstr ""
+
+msgctxt "scripts/text.lua_Escape_Music"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt "scripts/text.lua_Escape_Gameplay"
+msgid "Gameplay"
+msgstr ""
+
+msgctxt "scripts/text.lua_Escape_Video"
+msgid "Sound + Video"
+msgstr ""
+
+msgctxt ""
+"scripts/text.lua_Button_Escape_Menu,scripts/text.lua_Button_Victory_Quit"
+msgid "MAIN MENU"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Escape_Exit_Editmode"
+msgid "MAP EDIT MODE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Escape_Exit_Editor"
+msgid "QUIT EDITOR"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Escape_Options"
+msgid "OPTIONS"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Escape_Ach"
+msgid "ACHIEVEMENTS"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Escape_Quit"
+msgid "SAVE and QUIT"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Escape_Abandon"
+msgid "ABANDON TIMELINE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mouse_Middle"
+msgid "Middle Mouse"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mouse_X1"
+msgid "Mouse 4"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mouse_X2"
+msgid "Mouse 5"
+msgstr ""
+
+msgctxt "scripts/text.lua_Opening_1"
+msgid "Humanity: Destroyed      "
+msgstr ""
+
+msgctxt "scripts/text.lua_Opening_2"
+msgid "Vek Threat: Unstoppable"
+msgstr ""
+
+msgctxt "scripts/text.lua_Opening_3"
+msgid "Mission: Failed              "
+msgstr ""
+
+msgctxt "scripts/text.lua_Opening_4"
+msgid "Open a breach.        "
+msgstr ""
+
+msgctxt "scripts/text.lua_Opening_5"
+msgid "Time to go back and try again."
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Victory_Pilot"
+msgid "SEND PILOT"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Select_Mission_Leave"
+msgid "LEAVE ISLAND"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Select_Mission_Store"
+msgid "SPEND REPUTATION"
+msgstr ""
+
+msgctxt "scripts/text.lua_Button_Select_Mission_Reward"
+msgid "REPUTATION REWARD!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_Environment"
+msgid "ENVIRONMENT"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_CEO"
+msgid "CEO"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_Vek"
+msgid "VEK:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_Boss"
+msgid "LEADER:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_Unlock"
+msgid "Complete $1 $2 to unlock!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_Unlock_Single"
+msgid "Island"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_Unlock_Mult"
+msgid "Islands"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_UnlockTitle"
+msgid "Island Unlocked!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_1"
+msgid "ONE Island"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_2"
+msgid "TWO Islands"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_3"
+msgid "THREE Islands"
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_Text"
+msgid ""
+"By completing $1 you've unlocked \n"
+"\n"
+"\n"
+"\n"
+"\n"
+"In future games, you will be able to visit unlocked Islands in any order."
+msgstr ""
+
+msgctxt "scripts/text.lua_Island_Squad"
+msgid "New Squad available when starting a new game!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Cleared"
+msgid "ATTACK CANCELED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Fire"
+msgid "FIRE DAMAGE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Elec"
+msgid "ELECTRIC DAMAGE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Blocked"
+msgid "BLOCKED ENEMY"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Attacking"
+msgid "NOT ATTACKING"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_PodDestroyed"
+msgid "POD DESTROYED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_PodSecured"
+msgid "POD SECURED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Threat"
+msgid "THREATENED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Healed"
+msgid "UNIT REPAIRED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_BlobSpawn"
+msgid "SPLIT SUPPRESSED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Regen"
+msgid "PSION REGENERATION"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Tentacle"
+msgid "PSION ATTACK"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Action"
+msgid "ACTION AVAILABLE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Level"
+msgid "LEVEL UP!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Warning"
+msgid "WARNING!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Incoming"
+msgid "POD INCOMING"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Passive"
+msgid "PASSIVE BONUS"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Resisted"
+msgid "RESISTED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Power"
+msgid "POWER LOST"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Casualties"
+msgid "Casualties"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Unused"
+msgid "POWER AVAILABLE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_NoWeapon"
+msgid "NO WEAPON POWERED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Open"
+msgid "OPEN DOOR"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Pilot"
+msgid "PILOT AVAILABLE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Lost"
+msgid "REGION LOST"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Secured"
+msgid "REGION SECURED"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Cores"
+msgid "CORES AVAILABLE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_PilotCores"
+msgid "PILOT & POWER AVAILABLE"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Overflow"
+msgid "DEFENSE UP!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_FullOverflow"
+msgid "GRID MAX!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Smoke"
+msgid "SMOKE BLOCKING!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_Water"
+msgid "MECH SUBMERGED!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Alert_NoTarget"
+msgid "NO TARGET AVAILABLE!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Status_Full"
+msgid "Some effects not listed due to lack of space"
+msgstr ""
+
+msgctxt "scripts/text.lua_SquadName_Filler"
+msgid "Time Travelers"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Archive_A"
+msgid "Rift Walkers"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Archive_A"
+msgid ""
+"These were the very first Mechs to fight against the Vek. They are efficient "
+"and reliable."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Archive_B"
+msgid "Steel Judoka"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Archive_B"
+msgid ""
+"These Mechs specialize in positional manipulation to turn the Vek against "
+"each other."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Rust_A"
+msgid "Rusting Hulks"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Rust_A"
+msgid ""
+"R.S.T. weather manipulators allow these Mechs to take advantage of smoke "
+"storms everywhere."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Rust_B"
+msgid "Flame Behemoths"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Rust_B"
+msgid "Invincible to flames, these Mechs aim to burn any threat to ashes."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Pinnacle_A"
+msgid "Zenith Guard"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Pinnacle_A"
+msgid ""
+"Detritus' Beam technology and Pinnacle's Shield technology create a powerful "
+"combination."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Pinnacle_B"
+msgid "Frozen Titans"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Pinnacle_B"
+msgid ""
+"These Titans rely on the Cryo Launcher, a powerful weapon that takes an "
+"experienced Pilot to master."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Detritus_A"
+msgid "Blitzkrieg"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Detritus_A"
+msgid ""
+"R.S.T. engineers designed this Squad around the mass destruction "
+"capabilities of harnessed lightning."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Detritus_B"
+msgid "Hazardous Mechs"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Detritus_B"
+msgid ""
+"These Mechs have spectacular damage output but rely on nanobots feeding off "
+"dead Vek to stay alive."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Random"
+msgid "Randomized Squad"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Random"
+msgid "Create a Random Squad out of all of the Mechs you've unlocked."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Custom"
+msgid "Customized Squad"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Custom"
+msgid "Create a Custom Squad using any of the Mechs you've unlocked."
+msgstr ""
+
+msgctxt "scripts/text.lua_TipTitle_Secret"
+msgid "Secret Squad"
+msgstr ""
+
+msgctxt "scripts/text.lua_TipText_Secret"
+msgid ""
+"Humanity's last hope are a blend of Machine and Vek created to defend Earth."
+msgstr ""
+
+msgctxt "scripts/text.lua_Achievement_Completed"
+msgid "Completed on $1 Difficulty"
+msgstr ""
+
+msgctxt "scripts/text.lua_Achievement_Header"
+msgid "Achievement!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Achievement_Header_Pilot"
+msgid "Pilot Found!"
+msgstr ""
+
+msgctxt "scripts/text.lua_Achievement_Text_Pilot"
+msgid "Unlocked in Hangar"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mute_Title"
+msgid "Mute Volume"
+msgstr ""
+
+msgctxt "scripts/text.lua_Mute_Description"
+msgid "Disable all sound"
+msgstr ""
+
+msgctxt "scripts/text.lua_Undo_Title"
+msgid "Undo Move"
+msgstr ""
+
+msgctxt "scripts/text.lua_Undo_Description"
+msgid "Undo the last movement you did with a Mech"
+msgstr ""
+
+msgctxt "scripts/text.lua_Reset_Description"
+msgid "If available, reset to the start of the Player Turn"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMech1_Title"
+msgid "Select Mech 1"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMech1_Description"
+msgid "Select your first Mech (based on list order)"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMech2_Title"
+msgid "Select Mech 2"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMech2_Description"
+msgid "Select your second Mech (based on list order)"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMech3_Title"
+msgid "Select Mech 3"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMech3_Description"
+msgid "Select your third Mech (based on list order)"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectDeploy1_Title"
+msgid "Select Deployed 1"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectDeploy1_Description"
+msgid "Select your first Mech's deployed unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectDeploy2_Title"
+msgid "Select Deployed 2"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectDeploy2_Description"
+msgid "Select your second Mech's deployed unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectDeploy3_Title"
+msgid "Select Deployed 3"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectDeploy3_Description"
+msgid "Select your third Mech's deployed unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMission1_Title"
+msgid "Select Mission Unit 1"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMission1_Description"
+msgid "Select the mission unit you currently control (if available)"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMission2_Title"
+msgid "Select Mission Unit 2"
+msgstr ""
+
+msgctxt "scripts/text.lua_SelectMission2_Description"
+msgid "Select the second mission unit you currently control (if available)"
+msgstr ""
+
+msgctxt "scripts/text.lua_Cycle_Title"
+msgid "Cycle Units"
+msgstr ""
+
+msgctxt "scripts/text.lua_Cycle_Description"
+msgid "Cycle to the next available active, controlled unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Deselect_Title"
+msgid "Deselect / Disarm Weapon"
+msgstr ""
+
+msgctxt "scripts/text.lua_Deselect_Description"
+msgid "Clear currently selected unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Info_Title"
+msgid "Info Overlay"
+msgstr ""
+
+msgctxt "scripts/text.lua_Info_Description"
+msgid "Hold down to inspect any unit under your mouse"
+msgstr ""
+
+msgctxt "scripts/text.lua_Overlay_Title"
+msgid "Attack Order Overlay"
+msgstr ""
+
+msgctxt "scripts/text.lua_Overlay_Description"
+msgid "Hold down to view the current attack order for enemy units"
+msgstr ""
+
+msgctxt "scripts/text.lua_Weapon1_Title"
+msgid "Weapon 1"
+msgstr ""
+
+msgctxt "scripts/text.lua_Weapon1_Description"
+msgid "Arm or disarm the first weapon equipped on a unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Weapon2_Title"
+msgid "Weapon 2"
+msgstr ""
+
+msgctxt "scripts/text.lua_Weapon2_Description"
+msgid "Arm or disarm the second weapon equipped on a unit"
+msgstr ""
+
+msgctxt "scripts/text.lua_Repair_Title"
+msgid "Repair"
+msgstr ""
+
+msgctxt "scripts/text.lua_Repair_Description"
+msgid "Activate your Mech Repair Skill (if available)"
+msgstr ""
+
+msgctxt "scripts/text.lua_EndTurn_Description"
+msgid "End your turn, or confirm the end of deployment"
+msgstr ""
+
+msgctxt "scripts/text.lua_Fullscreen_Title"
+msgid "Toggle Fullscreen"
+msgstr ""
+
+msgctxt "scripts/text.lua_Fullscreen_Description"
+msgid "Toggle fullscreen mode"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Studio"
+msgid "A game from:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_StudioName"
+msgid "SUBSET GAMES"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Created"
+msgid "Created by:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_CreatedName"
+msgid "Justin Ma and Matthew Davis"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Music"
+msgid "Music:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_MusicName"
+msgid "Ben Prunty"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Sound"
+msgid "Sound:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_SoundName"
+msgid "Power Up Audio"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_SoundSub1"
+msgid "Sound Designers:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_SoundSub1Name"
+msgid ""
+"Joey Godard\n"
+"Jeff Tangsoc\n"
+"Kevin Regamey\n"
+"Cole Verderber"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_SoundSub2"
+msgid "Sound Library:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Writing"
+msgid "Writing:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_WritingName"
+msgid "Chris Avellone"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Editing"
+msgid "Additional Editing:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_EditingName"
+msgid "Alison Waller"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Community"
+msgid "Community Management:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_CommunityName"
+msgid "Isla Schanuel"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Portraits"
+msgid "Portrait Concept Art:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_PortraitsName"
+msgid "Polina Hristova"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Mechs"
+msgid "Mech Concept Art:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_MechsName"
+msgid "Gareth Davies"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_QA"
+msgid "QA Testing:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_QAName"
+msgid "The Research Centaur UX+QA"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_QASub1"
+msgid "Test Manager:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_QASub1Name"
+msgid "Jay Fernandes"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_QASub2"
+msgid "QA Specialists:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_QASub2Name"
+msgid ""
+"Matthew Barnes\n"
+"Lucia Aldana"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Testers"
+msgid "Thank you to our amazing community testers:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_TestersName"
+msgid ""
+"5thHorseman\n"
+"Alfie275\n"
+"chewbacca77\n"
+"Darthcaboose\n"
+"Discord\n"
+"Fynn\n"
+"Joni\n"
+"Kieve\n"
+"Lem\n"
+"Nick Patrick\n"
+"Rick Edmonds\n"
+"Sleeper Service\n"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Thanks"
+msgid "Special thank you for their advice and support:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_ThanksName"
+msgid ""
+"Maria\n"
+"Alison\n"
+"Michael Nielsen\n"
+"Estelle Tigani\n"
+"Allison Thrower\n"
+"Bryan\n"
+"Ilona Koleda\n"
+"Esther Oh"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_ThanksExtra"
+msgid ""
+"and the rest of our family, friends,\n"
+"and fellow indie developers"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_Babies"
+msgid "Production Babies:"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_BabiesName"
+msgid "Fox and Willow"
+msgstr ""
+
+msgctxt "scripts/text.lua_Credits_FinalThanks"
+msgid "Thank you for playing!"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_General_1"
+msgid "Victories"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_General_2"
+msgid "Metagame"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_General_3"
+msgid "Island Challenges"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_General_4"
+msgid "Pilot Challenges"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_General_5"
+msgid "Challenge Runs"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Any_Title"
+msgid "Victory"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Any_Text"
+msgid "Beat the game (any length)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Hard_Title"
+msgid "Hard Victory"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Hard_Text"
+msgid "Beat the game on Hard (any length)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Islands_Title"
+msgid "Adaptable Victory"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Islands_Text"
+msgid ""
+"Beat the game at least once per length (2, 3, and 4 Corporate Islands "
+"secured)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Islands_Progress"
+msgid "Progress: $1 / 3 complete"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Four_Title"
+msgid "Squads Victory"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Four_Text"
+msgid "Beat the game with 4 different Squads (any length)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Four_Progress"
+msgid "Progress: $1 / 4 victories"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Complete_Title"
+msgid "Complete Victory"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Complete_Text"
+msgid "Beat the game with all 10 primary Squads (any length)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Victory_Complete_Progress"
+msgid "Progress: $1 / 10 victories"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Unlock_Title"
+msgid "Emerging Technologies"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Unlock_Text"
+msgid "Unlock a new Mech Squad"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Reputation_Title"
+msgid "Friends in High Places"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Reputation_Text"
+msgid "Spend 50 Reputation across all games"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Reputation_Progress"
+msgid "Progress: $1 Reputation spent"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Block_Title"
+msgid "Immovable Objects"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Block_Text"
+msgid "Block 100 Vek across all games"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Block_Progress"
+msgid "Progress: $1 Vek Blocked"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Rescue_Title"
+msgid "Humanity's Savior"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Rescue_Text"
+msgid "Rescue 100,000 civilians across all games"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Rescue_Progress"
+msgid "Progress: $1 Civilians rescued"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Perfect_Title"
+msgid "Perfect Strategy"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Perfect_Text"
+msgid "Collect 10 Perfect Island rewards across all games"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Meta_Perfect_Progress"
+msgid "Progress: $1 Perfect Island(s)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Perfect_Title"
+msgid "Perfect Island"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Perfect_Text"
+msgid "Do not fail any objective on a single Corporate Island"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Perfect_Failed"
+msgid "Failed: $1 failed"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Building_Title"
+msgid "The Defenders"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Building_Text"
+msgid "Finish a Corporate Island without taking Building Damage"
+msgstr ""
+
+msgctxt ""
+"scripts/text_achievements.lua_Ach_Global_Island_Building_Failed,scripts/"
+"text_achievements.lua_Ach_Global_Island_Mechs_Failed"
+msgid "Failed on current Island"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Mechs_Title"
+msgid "Untouchable"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Mechs_Text"
+msgid ""
+"Finish a Corporate Island without taking Mech Damage (Repaired damage is "
+"still damage)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Power_Title"
+msgid "Backup Batteries"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Power_Text"
+msgid "Earn or buy 10 Grid Power on a single Corporate Island"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Power_Progress"
+msgid "Progress: $1 Grid Power earned"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Rep_Title"
+msgid "Good Samaritan"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Rep_Text"
+msgid "Earn 9 Reputation from missions on a single Corporate Island"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Island_Rep_Progress"
+msgid "Progress: $1 Reputation earned"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Max_Title"
+msgid "Field Promotion"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Max_Text"
+msgid "Have a Pilot reach maximum level"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Three_Title"
+msgid "Best of the Best"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Three_Text"
+msgid "Have 3 Pilots at maximum level simultaneously"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Three_Progress"
+msgid "Progress: $1 Max Level Pilot(s)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Unlocked_Title"
+msgid "Come Together"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Unlocked_Text"
+msgid "Unlock 6 additional Pilots"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Unlocked_Progress"
+msgid "Progress: $1 Pilots"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Final_Title"
+msgid "I'm getting too old for this..."
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Final_Text"
+msgid ""
+"Have an individual Pilot fight the final battle 3 times across multiple games"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Final_Progress"
+msgid "Progress: $1 Final Battle(s)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Face_Title"
+msgid "Distant Friends"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Pilot_Face_Text"
+msgid "Encounter a familiar face"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Power_Title"
+msgid "Sustainable Energy"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Power_Text"
+msgid "Finish 3 Corporate Islands without dropping below 4 Grid Power"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Power_Failed"
+msgid "Failed: Dropped below 3 Power"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Mods_Title"
+msgid "Engineering Dropout"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Mods_Text"
+msgid "Finish 3 Corporate Islands without powering a Weapon Modification"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Mods_Failed"
+msgid "Failed: Modification powered"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Pods_Title"
+msgid "Chronophobia"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Pods_Text"
+msgid "Finish 3 Corporate Islands and destroy every Time Pod discovered"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Pods_Failed"
+msgid "Failed: Time Pod collected"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Perfect_Title"
+msgid "There is No Try"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Perfect_Text"
+msgid "Finish 3 Corporate Islands without failing an objective"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_Perfect_Failed"
+msgid "Failed: Objective failed"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_New_Title"
+msgid "Trusted Equipment"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_New_Text"
+msgid "Finish 3 Corporate Islands without equipping any new Pilots or weapons"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Global_Challenge_New_Failed"
+msgid "Failed: Changed loadout"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Random_1_Title"
+msgid "Loot Boxes!"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Random_1_Text"
+msgid "Open 5 Time Pods in a single game"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Random_1_Progress"
+msgid "Progress: $1 opened"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Random_2_Title"
+msgid "Lucky Start"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Random_2_Text"
+msgid "Beat the game (any length) without spending any Reputation"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Random_2_Failed"
+msgid "Failed: Spent Reputation"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Random_3_Title"
+msgid "Change the Odds"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Random_3_Text"
+msgid "Raise Grid Defense to 30% or more"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Custom_1_Title"
+msgid "Mech Specialist"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Custom_1_Text"
+msgid "Beat the game with 3 of the same Mech"
+msgstr ""
+
+msgctxt ""
+"scripts/text_achievements.lua_Ach_Custom_1_Failed,scripts/text_achievements."
+"lua_Ach_Custom_2_Failed,scripts/text_achievements.lua_Ach_Custom_3_Failed"
+msgid "Impossible: Current Squad doesn't satisfy requirements"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Custom_2_Title"
+msgid "Class Specialist"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Custom_2_Text"
+msgid "Beat the game with 3 different Mechs from the same class"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Custom_3_Title"
+msgid "Flight Specialist"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Custom_3_Text"
+msgid "Beat the game with 3 flying Mechs"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_A_1_Title"
+msgid "Watery Grave"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_A_1_Text"
+msgid "Drown 3 enemies in water in a single battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_A_1_Progress"
+msgid "Progress: $1 drowned"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_A_2_Title"
+msgid "Ramming Speed"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_A_2_Text"
+msgid "Kill an enemy 5 or more tiles away with a Dash Punch"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_A_3_Title"
+msgid "Island Secure"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_A_3_Text"
+msgid "Complete the first Corporate Island"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_B_1_Title"
+msgid "Unbreakable"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_B_1_Text"
+msgid "Have Mech Armor absorb 5 damage in a single battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_B_1_Progress"
+msgid "Progress: $1 Damage Blocked"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_B_2_Title"
+msgid "Unwitting Allies"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_B_2_Text"
+msgid "Have 4 enemies die from enemy fire in a single battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_B_2_Progress"
+msgid "Progress: $1 killed"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_B_3_Title"
+msgid "Mass Displacement"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Archive_B_3_Text"
+msgid "Push 3 enemies with a single attack"
+msgstr ""
+
+msgctxt ""
+"scripts/text_achievements.lua_Ach_Rust_A_1_Title,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__psionboss_0,scripts/text_weapons."
+"lua_Jelly_Boss_Tooltip_Name"
+msgid "Overpowered"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_A_1_Text"
+msgid ""
+"Overpower your Power Grid twice by earning or buying Power when it is full"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_A_1_Progress"
+msgid "Progress: Overpowered $1 / 2"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_A_2_Title"
+msgid "Stormy Weather"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_A_2_Text"
+msgid "Deal 12 damage with Electric Smoke in a single battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_A_2_Progress"
+msgid "Progress: $1 damage"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_A_3_Title"
+msgid "Perfect Battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_A_3_Text"
+msgid ""
+"Take no Mech or Building Damage in a single battle (Repaired damage is still "
+"damage)"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_A_3_Failed"
+msgid "Failed: $1 damaged"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_B_1_Title"
+msgid "Quantum Entanglement"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_B_1_Text"
+msgid "Teleport a unit 4 tiles away"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_B_2_Title"
+msgid "Scorched Earth"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_B_2_Text"
+msgid "End a battle with 12 tiles on Fire"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_B_2_Progress"
+msgid "Progress: $1 on Fire"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_B_3_Title"
+msgid "This is Fine"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_B_3_Text"
+msgid "Have 5 enemies on Fire simultaneously"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Rust_B_3_Progress"
+msgid "Progress: $1 currently on Fire"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_A_1_Title"
+msgid "Get Over Here"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_A_1_Text"
+msgid "Kill an enemy by pulling it into yourself"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_A_2_Title"
+msgid "Glittering C-Beam"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_A_2_Text"
+msgid "Hit 4 enemies with a single laser"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_A_3_Title"
+msgid "Shield Mastery"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_A_3_Text"
+msgid "Block damage with a Shield 4 times in a single battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_A_3_Progress"
+msgid "Progress: $1 damage blocked"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_B_1_Title"
+msgid "Cryo Expert"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_B_1_Text"
+msgid "Shoot the Cryo-Launcher 4 times in a single battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_B_1_Progress"
+msgid "Progress: $1 shot"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_B_2_Title"
+msgid "Trick Shot"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_B_2_Text"
+msgid "Kill 3 enemies with a single attack of the Janus Cannon"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_B_3_Title"
+msgid "Pacifist"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_B_3_Text"
+msgid "Kill fewer than 3 enemies in a single battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Pinnacle_B_3_Failed"
+msgid "Failed: $1 killed"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_A_1_Title"
+msgid "Chain Attack"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_A_1_Text"
+msgid "Have the Chain Whip attack chain through 10 tiles"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_A_2_Title"
+msgid "Lightning War"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_A_2_Text"
+msgid "Finish the first 2 Corporate Islands in under 30 minutes"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_A_2_Failed"
+msgid "Failed: Too slow!"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_A_3_Title"
+msgid "Hold the Line"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_A_3_Text"
+msgid "Block 4 emerging Vek in a single turn"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_B_1_Title"
+msgid "Healing"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_B_1_Text"
+msgid "Heal 10 Mech Health in a single battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_B_1_Progress"
+msgid "Progress: $1 healed"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_B_2_Title"
+msgid "Immortal"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_B_2_Text"
+msgid ""
+"Finish 4 Corporate Islands without a Mech being destroyed at the end of a "
+"battle"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_B_2_Failed"
+msgid "Failed: At least one Mech was destroyed"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_B_3_Title"
+msgid "Overkill"
+msgstr ""
+
+msgctxt "scripts/text_achievements.lua_Ach_Detritus_B_3_Text"
+msgid "Deal 8 damage to a unit with a single attack"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__fire_0"
+msgid "Fire Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__fire_1"
+msgid "Lights units on Fire."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__forest_0"
+msgid "Forest Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__forest_1"
+msgid "If damaged, lights on Fire."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__forest_fire_0"
+msgid "Forest Fire"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__forest_fire_1"
+msgid ""
+"Lights units on Fire. This fire was started when a Forest Tile was damaged."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__smoke_0"
+msgid "Smoke Tile"
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_TILE_TOOLTIPS__smoke_1,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__smoke_1"
+msgid "Units in Smoke cannot attack or repair."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_TILE_TOOLTIPS__electric_smoke_0,scripts/"
+"text_tooltips.lua_STATUS_TOOLTIPS__electric_smoke_0"
+msgid "Electric Smoke"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__electric_smoke_1"
+msgid ""
+"Units in Smoke cannot attack or repair. \n"
+"Electricity damages enemy units."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__emerging_0"
+msgid "Vek Emerging"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__emerging_1"
+msgid "Enemy emerging next turn. Can be blocked."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__critical_0"
+msgid "Critical"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__critical_1"
+msgid "This building is important to mission objectives."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__pylon_0"
+msgid "Power Pylon"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__pylon_1"
+msgid ""
+"Remote Power Pylons connect your Mechs to the Grid even underground. Not "
+"populated."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__supervolcano_0"
+msgid "Super Volcano"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__supervolcano_1"
+msgid "Indestructible volcano that blocks movement and projectiles."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__powered_0"
+msgid "Civilian Building"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__powered_1"
+msgid "Your Power Grid is reduced when Grid Structures are damaged."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__evacuated_0"
+msgid "Evacuated Building"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__evacuated_1"
+msgid "No effect when damaged."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__building_rubble_0"
+msgid "Building Rubble"
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_TILE_TOOLTIPS__building_rubble_1,scripts/"
+"text_tooltips.lua_TILE_TOOLTIPS__mnt_rubble_1,scripts/text_tooltips."
+"lua_TILE_TOOLTIPS__ground_1"
+msgid "No special effect."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__mnt_rubble_0"
+msgid "Mountain Rubble"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ice_0"
+msgid "Ice Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ice_1"
+msgid "Turns into Water when destroyed. Must be hit twice."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__acid_ice_0"
+msgid "A.C.I.D. Ice"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__acid_ice_1"
+msgid ""
+"Turns into an A.C.I.D. tile when destroyed, but currently safe to stand on."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__lava_ice_0"
+msgid "Frozen Lava"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__lava_ice_1"
+msgid "Turns into a Lava tile when destroyed, but currently safe to stand on."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__damaged_ice_0"
+msgid "Damaged Ice Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__damaged_ice_1"
+msgid "Turns into a Water tile when destroyed. One hit will destroy it."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__chasm_0"
+msgid "Chasm Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__chasm_1"
+msgid ""
+"Ground units pushed in will be \n"
+"destroyed."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ground_0"
+msgid "Ground Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__sand_0"
+msgid "Sand Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__sand_1"
+msgid ""
+"If damaged, turns into Smoke. \n"
+"Units in Smoke cannot attack or repair."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__mountain_0"
+msgid "Mountain Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__mountain_1"
+msgid "Blocks movement and projectiles. Damage twice to destroy."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__damaged_mountain_0"
+msgid "Damaged Mountain"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__damaged_mountain_1"
+msgid "Blocks movement and projectiles. One hit will destroy it."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__water_0"
+msgid "Water Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__water_1"
+msgid "Units cannot attack in Water. Most non-flying enemies die in Water."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__acid_water_0"
+msgid "A.C.I.D. Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__acid_water_1"
+msgid "Behaves like Water, but inflicts A.C.I.D. on surviving units."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__lava_0"
+msgid "Lava Tile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__lava_1"
+msgid "Behaves like Water, but inflicts Fire on surviving units."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__acid_0"
+msgid "A.C.I.D. Pool"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__acid_1"
+msgid "Inflicts A.C.I.D. on the 1st unit that steps on this space."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__frozen_acid_0"
+msgid "Frozen A.C.I.D."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__frozen_acid_1"
+msgid "Low temperatures have rendered the A.C.I.D. on this tile inert."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_TILE_TOOLTIPS__pod_1,scripts/text_tooltips."
+"lua_TILE_TOOLTIPS__ftl_pod_1"
+msgid ""
+"Destroyed if damaged or trampled by the enemy. Collect with a Mech, or "
+"defend until Vek retreat."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ftl_pod_0"
+msgid "Strange Pod"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ftl_button_0"
+msgid "Strange Object"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ftl_button_1"
+msgid "You're not sure what this could be."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ftl_button_destroyed_0"
+msgid "Destroyed Object"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ftl_button_destroyed_1"
+msgid "You're not sure what this was, but it's gone now."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__frozen_powered_0"
+msgid "Frozen Building"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__frozen_powered_1"
+msgid "Invincible while Frozen. Any damage will destroy the ice."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__spawning_0"
+msgid "Emerging"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__spawning_1"
+msgid ""
+"Vek will emerge here next turn. Any unit blocking this space will take one "
+"damage."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__high_tide_0"
+msgid "High Tide"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__high_tide_1"
+msgid "This tile will become Water at the start of the enemy turn."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__air_strike_0"
+msgid "Air Strike"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__air_strike_1"
+msgid "Bombs will be dropped here, instantly killing any unit."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__old_earth_mine_0"
+msgid "Old Earth Mine"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__old_earth_mine_1"
+msgid "Any unit that stops on this space will trigger the mine and be killed."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__freeze_mine_0"
+msgid "Freeze Mine"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__freeze_mine_1"
+msgid "Any unit that stops on this space will be Frozen."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__evacuation_0"
+msgid "Evacuating"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__evacuation_1"
+msgid ""
+"This building will be evacuated \n"
+"next turn."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__seismic_1"
+msgid "This tile will become a Chasm at the start of the enemy turn."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__lightning_0"
+msgid "Lightning Strike"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__lightning_1"
+msgid "Lightning will strike here, killing any unit."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__falling_rock_0"
+msgid "Falling Rock"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__falling_rock_1"
+msgid "A rock will fall here, killing any unit."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__tentacle_lava_0"
+msgid "Tentacles"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__tentacle_lava_1"
+msgid "The unit here will die and the tile will turn into Lava."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__volcano_lava_0"
+msgid "Lava Flow"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__volcano_lava_1"
+msgid "The tile here will turn into Lava."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__flying_rock_0"
+msgid "Volcanic Projectile"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__flying_rock_1"
+msgid "A fireball will strike here, destroying anything present."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__ice_storm_1"
+msgid "The storm causes anything present to become Frozen."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__grassland_0"
+msgid "Grassland"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__grassland_1"
+msgid "Your bonus objective is to terraform Grassland tiles into Sand."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__terraformed_0"
+msgid "Terraformed"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__terraformed_1"
+msgid "This tile was terraformed as part of your bonus objective."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__stasis_0"
+msgid "Stasis Bot"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__stasis_1"
+msgid "This bot will power up and enter the fight if its Shield is damaged."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_TILE_TOOLTIPS__belt_0,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__arrow_0_0,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__arrow_1_0,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__arrow_2_0,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__arrow_3_0"
+msgid "Conveyor Belt"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__belt_1"
+msgid "This tile will push any unit in the direction marked on the belt."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_TILE_TOOLTIPS__tele_0,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__tele_A_0,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__tele_B_0"
+msgid "Teleporter Pad"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__tele_1"
+msgid ""
+"End movement here to warp to the matching pad. Swap with any present unit."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__supply_drop_0"
+msgid "Supply Drop"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_TILE_TOOLTIPS__supply_drop_1"
+msgid ""
+"Collect this with a Mech to heal ALL friendly units and restore ALL limited "
+"use weapons."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__hp_0,scripts/text_weapons."
+"lua_Jelly_Health_Tooltip_Name"
+msgid "Invigorating Spores"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__hp_1"
+msgid "The Soldier Psion is providing +1 HP to all Vek."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__burrow_0"
+msgid "Burrower"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__burrow_1"
+msgid "This Vek will hide underground after taking one or more damage."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__psionboss_1"
+msgid ""
+"The Psion Abomination is enhancing all Vek. They gain +1 HP, regeneration, "
+"and explode on death."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__tentacle_0"
+msgid "Hive Targeted"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__tentacle_1"
+msgid "The Psion Tyrant will do 1 damage all friendly units every turn."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__armor_leader_0,scripts/"
+"text_weapons.lua_Jelly_Armor_Tooltip_Name"
+msgid "Hardened Carapace"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__armor_leader_1"
+msgid ""
+"The Shell Psion is providing Armor to all Vek, reducing incoming weapon "
+"damage by 1. All other damage (Push, Blocking, Fire, etc.) is unaffected."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__armor_0"
+msgid "Natural Armor"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__armor_degraded_0"
+msgid "Degraded Armor"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__armor_degraded_1"
+msgid "A.C.I.D. is currently nullifying the effects of Armor on this unit."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__regen_0,scripts/text_weapons."
+"lua_Jelly_Regen_Tooltip_Name"
+msgid "Regeneration"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__regen_1"
+msgid "The Blood Psion is healing all Vek 1 point every turn."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__explode_leader_0,scripts/"
+"text_tooltips.lua_STATUS_TOOLTIPS__explode_0,scripts/text_weapons."
+"lua_Jelly_Explode_Tooltip_Name"
+msgid "Explosive Decay"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__explode_leader_1"
+msgid ""
+"The Blast Psion will cause all Vek to explode on death, dealing 1 damage to "
+"adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__explode_1"
+msgid "Explodes on death, dealing 1 damage to adjacent tiles."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__arrow_0_1,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__arrow_1_1,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__arrow_2_1,scripts/text_tooltips."
+"lua_STATUS_TOOLTIPS__arrow_3_1"
+msgid "This unit will be pushed by the conveyor belt in the marked direction."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__tele_A_1"
+msgid ""
+"If another unit uses the RED teleport pad, this unit will swap locations "
+"with it."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__tele_B_1"
+msgid ""
+"If another unit uses the BLUE teleport pad, this unit will swap locations "
+"with it."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__moving_1"
+msgid "+2 Move for ONE turn."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__grapple_0"
+msgid "Webbed"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__grapple_1"
+msgid "Units Webbed by the Vek cannot move, but they can still attack."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__poweroff_0"
+msgid "Not Powered"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__poweroff_1"
+msgid "Units without power are inactive and cannot move or attack."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__massive_0"
+msgid "Massive"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__massive_1"
+msgid "Massive units can walk in Water (but Water will prevent shooting)."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__water_0"
+msgid "Submerged"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__water_1"
+msgid "Weapons do not work when submerged in Water."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__acid_water_0"
+msgid "Submerged in A.C.I.D."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__acid_water_1"
+msgid "Weapons do not work and the submerged Mech is inflicted with A.C.I.D."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__lava_0"
+msgid "Submerged in Lava"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__lava_1"
+msgid "Weapons do not work and the submerged Mech is on Fire."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__fire_0"
+msgid "Fire"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__fire_1"
+msgid "Units on Fire take 1 damage at the start of every turn."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__forest_0"
+msgid "On Forest"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__forest_1"
+msgid "Tile will light on Fire when damaged, posing great risk to this unit."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__sand_0"
+msgid "On Sand"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__sand_1"
+msgid ""
+"Tile will turn into Smoke when damaged, preventing this unit from attacking."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__ice_0"
+msgid "On Ice"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__ice_1"
+msgid "If an Ice tile takes damage twice, it will turn into Water."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__icecrack_0"
+msgid "On Damaged Ice"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__icecrack_1"
+msgid "Damaged Ice will turn into Water if damaged again."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__acid_0"
+msgid "Corroding A.C.I.D."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__acid_1"
+msgid ""
+"Weapon damage against this unit is doubled. All other damage (Push, "
+"Blocking, Fire, etc.) is unaffected."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__spawnblock_0"
+msgid "Blocking Spawn"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__spawnblock_1"
+msgid ""
+"The new enemy unit will not spawn here, but this unit will take 1 damage."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__smoke_0"
+msgid "Smoke"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__electric_smoke_1"
+msgid ""
+"Units in Smoke cannot attack or repair. Electricity damages enemy units."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__shield_0"
+msgid "Energy Shield"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__shield_1"
+msgid ""
+"Shields block damage and any negative effects (Fire, Freezing, A.C.I.D, "
+"etc.). Only direct damage will remove the Shield."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__zoltan_shield_0"
+msgid "Zoltan Shield"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__zoltan_shield_1"
+msgid "Same as a normal Shield, but regenerates at the start of every turn"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__guard_0"
+msgid "Stable"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__guard_1"
+msgid "Cannot be moved by any weapon effect (Push, Teleport, etc.)."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__frozen_0"
+msgid "Frozen"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__frozen_1"
+msgid "Invincible but unable to move or attack. Any damage will free the unit."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__kickoff_0,scripts/text_weapons."
+"lua_Passive_Boosters_Name"
+msgid "Kickoff Boosters"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__kickoff_1"
+msgid "+2 Move this turn."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__shifty_0,scripts/text_tooltips."
+"lua_PilotSkills__Shifty_0"
+msgid "Sidestep"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__shifty_1"
+msgid "(Pilot Skill) This unit gets one bonus Tile move after attacking."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__youthful_0,scripts/text_tooltips."
+"lua_PilotSkills__Youth_Move_0"
+msgid "Impulsive"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__youthful_1"
+msgid "This unit gains +3 Move on first turn of every mission."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__doubleshot_0,scripts/"
+"text_tooltips.lua_PilotSkills__Double_Shot_0"
+msgid "Double Shot"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__doubleshot_1"
+msgid "(Pilot Skill) This unit gets a bonus action because it did not move."
+msgstr ""
+
+msgctxt ""
+"scripts/text_tooltips.lua_STATUS_TOOLTIPS__postmove_0,scripts/text_tooltips."
+"lua_PilotSkills__Post_Move_0"
+msgid "Fire-and-Forget"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__postmove_1"
+msgid "(Pilot Skill) This unit can move after shooting."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__fire_immune_0"
+msgid "Fire Immunity"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__fire_immune_1"
+msgid "This unit cannot be set on Fire"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__smoke_immune_0"
+msgid "Smoke Immunity"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__smoke_immune_1"
+msgid "This unit is unaffected by Smoke"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__shield_heal_0"
+msgid "Self-Repairing"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__shield_heal_1"
+msgid "If damaged, this unit will Shield itself and prepare to heal."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__danger_0"
+msgid "Environment Danger"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__danger_1"
+msgid "The environment effect will affect this space next turn"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__purple_0"
+msgid "Alpha Unit"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__purple_1"
+msgid "Alpha units are more powerful than their standard counterparts"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__boss_0"
+msgid "Hive Leader"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__boss_1"
+msgid ""
+"These are the most powerful Vek. Immune to water, they can be more "
+"challenging to kill."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Disable_Immunity_0"
+msgid "Evasion"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Disable_Immunity_1"
+msgid "Mech unaffected by Webbing and Smoke."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Extra_XP_0"
+msgid "Experienced"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Extra_XP_1"
+msgid ""
+"Gain +2 bonus XP\n"
+"per kill."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Self_Shield_0"
+msgid "Starting Shield"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Self_Shield_1"
+msgid "Mech starts every mission with a Shield."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Road_Runner_0"
+msgid "Maneuverable"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Road_Runner_1"
+msgid "Mech can move through enemy units."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Shifty_1"
+msgid "After attacking, gain 1 free tile movement."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Deploy_Anywhere_0"
+msgid "Preemptive Strike"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Deploy_Anywhere_1"
+msgid "Deploy anywhere on the map, damaging adjacent enemies."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Survive_Death_0"
+msgid "Vek"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Survive_Death_1"
+msgid ""
+"Normal Pilots cannot be equipped. Loses 25 XP when the unit is disabled."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Pain_Immunity_0"
+msgid "Cauterize"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Pain_Immunity_1"
+msgid "Fire heals instead of damaging Mech."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Power_Repair_0"
+msgid "Frenzied Repair"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Power_Repair_1"
+msgid "Push adjacent tiles when repairing."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Freeze_Walk_0"
+msgid "Frozen Stance"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Freeze_Walk_1"
+msgid "Stopping on any liquid tile freezes it, making it safe to stand on."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Armored_1"
+msgid "Mech gains Armored."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Flying_1"
+msgid "Mech gains Flying."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Double_Shot_1"
+msgid "Mech can act twice if it does not move."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Post_Move_1"
+msgid "Move again after shooting."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Youth_Move_1"
+msgid "Gain +3 Move on first turn of every mission."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Retaliation_0"
+msgid "Retaliation"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Retaliation_1"
+msgid "Deal 1 damage to adjacent enemies after surviving damage."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__TimeTravel_0"
+msgid "Temporal Reset"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__TimeTravel_1"
+msgid "Gain 1 extra 'Reset Turn' every battle."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Mantis_Skill_0"
+msgid "Mantis"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Mantis_Skill_1"
+msgid "2 damage melee attack replaces Repair."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Rock_Skill_0"
+msgid "Rockman"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Rock_Skill_1"
+msgid ""
+"+3 Health and\n"
+"Immune to Fire."
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Zoltan_Skill_0"
+msgid "Zoltan"
+msgstr ""
+
+msgctxt "scripts/text_tooltips.lua_PilotSkills__Zoltan_Skill_1"
+msgid ""
+"+1 Reactor Core.\n"
+"Reduce Mech HP to 1.\n"
+"Gain Shield every turn."
+msgstr ""
+
+msgctxt ""
+"scripts/text_population.lua_Opening_0,scripts/text_population.lua_Closing_3,"
+"scripts/text_population.lua_Closing_Dead_5"
+msgid "We're saved!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_1"
+msgid "I knew they'd come!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_2"
+msgid "The #squad!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_3"
+msgid "It's the #squad!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_4"
+msgid "Now the Vek are going to get it!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_5"
+msgid "The Vek are going to be sorry now!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_6"
+msgid ""
+"Get my glasses!\n"
+"I want to see!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_7"
+msgid "Stop crowding the window!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_8"
+msgid "What's going on?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_9"
+msgid "The Mechs have landed!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_10"
+msgid "#corp sent Mechs!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_11"
+msgid "What's that noise?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_12"
+msgid "You hear something?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_13"
+msgid "Is it them?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_14"
+msgid "They're here!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_15"
+msgid "Mom, look!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_16"
+msgid "The Mechs!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_17"
+msgid "Dad, look!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_18"
+msgid "We're rescued!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_19"
+msgid "Finally!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_20"
+msgid "Help is here!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_21"
+msgid "They've come!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_22"
+msgid "The Mechs are here!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Opening_23"
+msgid "They'll protect us!"
+msgstr ""
+
+msgctxt ""
+"scripts/text_population.lua_Closing_0,scripts/text_population."
+"lua_Closing_Dead_0,scripts/text_population.lua_Closing_Perfect_0"
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_1"
+msgid "They're on the run!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_2"
+msgid "The Vek are running!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_4"
+msgid "That was amazing!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_5"
+msgid "Unbelievable!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_6"
+msgid "They did it!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_7"
+msgid "It's over!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_8"
+msgid "We won!"
+msgstr ""
+
+msgctxt ""
+"scripts/text_population.lua_Closing_9,scripts/text_population."
+"lua_Closing_Dead_13"
+msgid "We survived!"
+msgstr ""
+
+msgctxt ""
+"scripts/text_population.lua_Closing_10,scripts/text_population."
+"lua_Closing_Perfect_9"
+msgid "Victory!"
+msgstr ""
+
+msgctxt ""
+"scripts/text_population.lua_Closing_11,scripts/text_population."
+"lua_Closing_Dead_9"
+msgid "They're gone!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_12"
+msgid "They're fleeing!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_13"
+msgid "You scared them off!"
+msgstr ""
+
+msgctxt ""
+"scripts/text_population.lua_Closing_Dead_1,scripts/text_population."
+"lua_Closing_Perfect_11,scripts/text_population.lua_Killed_3"
+msgid "I can't believe it!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Dead_2"
+msgid "Dead? All of them?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Dead_3"
+msgid "They killed them all?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Dead_4"
+msgid "They're all dead!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Dead_6"
+msgid "You wiped them out!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Dead_7"
+msgid "The #squad beat them!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Dead_8"
+msgid "The Mechs wiped them out!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Dead_10"
+msgid "No more Vek!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Dead_11"
+msgid "Amazing!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Dead_12"
+msgid "You won!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Perfect_1"
+msgid "We're all okay!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Perfect_2"
+msgid "Everybody all right?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Perfect_3"
+msgid "The #squad saved us!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Perfect_4"
+msgid "Three cheers for the #squad!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Perfect_5"
+msgid "#corp is saved!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Perfect_6"
+msgid "Nothing was damaged!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Perfect_7"
+msgid "The #squad are heroes!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Perfect_8"
+msgid "Perfect victory!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Perfect_10"
+msgid "Did you see that?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Bad_0"
+msgid "Thanks... I guess."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Bad_1"
+msgid "They did more harm than good..."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Bad_2"
+msgid "My family... gone..."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Bad_3"
+msgid "So many lost..."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Bad_4"
+msgid "Are they finally gone?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Bad_5"
+msgid "Is it over?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Closing_Bad_6"
+msgid "Time to rebuild..."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_0"
+msgid "It's attacking us!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_1"
+msgid "Uh-oh."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_2"
+msgid "Oh no!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_3"
+msgid "Everyone, brace yourselves!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_4"
+msgid "Get away from the windows!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_5"
+msgid "What's that shadow?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_6"
+msgid "This looks bad..."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_7"
+msgid "Help!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_8"
+msgid "We're doomed!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_9"
+msgid "Our luck's run out..."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_10"
+msgid "It's targeting us!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_11"
+msgid "Help! Anyone, help!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_12"
+msgid "Help us, #squad!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_13"
+msgid "#squad, help!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_14"
+msgid "We're done for."
+msgstr ""
+
+msgctxt ""
+"scripts/text_population.lua_Threatened_15,scripts/text_population."
+"lua_Threatened_19"
+msgid "Save us!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_16"
+msgid "It's coming at us!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_17"
+msgid "Will the building hold?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Threatened_18"
+msgid "Help us!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_0"
+msgid "Whoa."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_1"
+msgid "Yeah!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_2"
+msgid "Eat that, Vek!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_4"
+msgid "It's down!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_5"
+msgid "They took it out!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_6"
+msgid "And stay dead!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_7"
+msgid "They killed it!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_8"
+msgid "It's dead!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_9"
+msgid "Did you see that?!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_10"
+msgid "Excellent!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_11"
+msgid "Yes!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_12"
+msgid "All right!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Killed_13"
+msgid "Wow!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Shielded_0"
+msgid "We're safe!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Shielded_1"
+msgid "Will this hold?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Shielded_2"
+msgid "That'll stop them!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Shielded_3"
+msgid "Shielded!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Shielded_4"
+msgid "We're shielded!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Shielded_5"
+msgid "Shield up!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Shielded_6"
+msgid "Safe at last!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Shielded_7"
+msgid "Protection!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Frozen_0"
+msgid "It's so cold..."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Frozen_1"
+msgid "Grab the blankets."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Frozen_2"
+msgid "Huddle together, everyone."
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Frozen_3"
+msgid "The window's iced over!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Frozen_4"
+msgid "What happened?"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Frozen_5"
+msgid "Feels like a freezer!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Frozen_6"
+msgid "It's freezing!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Frozen_7"
+msgid "It's too cold!"
+msgstr ""
+
+msgctxt "scripts/text_population.lua_Frozen_8"
+msgid "At least we're safe?"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_SpiderlingAtk1_Name,scripts/text_weapons."
+"lua_SpiderlingAtk2_Name"
+msgid "Tiny Mandibles"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_SpiderlingAtk1_Description,scripts/text_weapons."
+"lua_SpiderlingAtk2_Description"
+msgid "Weak attack against a single target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_ScorpionAtk1_Name"
+msgid "Stinging Spinneret"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_ScorpionAtk1_Description,scripts/text_weapons."
+"lua_ScorpionAtk2_Description"
+msgid "Web the target, preparing to stab it."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_ScorpionAtk2_Name"
+msgid "Goring Spinneret"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Burrower_Atk_Name"
+msgid "Spiked Carapace"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Burrower_Atk_Description,scripts/text_weapons."
+"lua_Burrower_Atk2_Description"
+msgid "Slam against 3 tiles in a row."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Burrower_Atk2_Name"
+msgid "Bladed Carapace"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_HornetAtk1_Name"
+msgid "Stinger"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_HornetAtk1_Description"
+msgid "Stab the target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_HornetAtk2_Name"
+msgid "Launching Stinger"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_HornetAtk2_Description"
+msgid "Stab 2 tiles in front of the unit."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_CrabAtk1_Name,scripts/text_weapons.lua_CrabAtk2_Name"
+msgid "Explosive Expulsions"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_CrabAtk1_Description,scripts/text_weapons."
+"lua_CrabAtk2_Description"
+msgid "Launch artillery attack on 2 tiles."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_ScarabAtk1_Name,scripts/text_weapons."
+"lua_ScarabAtk2_Name"
+msgid "Spitting Glands"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_ScarabAtk1_Description"
+msgid "Lob an artillery shot at a single tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_ScarabAtk2_Description"
+msgid "Lob a powerful artillery shot at a single tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_CentipedeAtk1_Name"
+msgid "Acidic Vomit"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_CentipedeAtk1_Description,scripts/text_weapons."
+"lua_CentipedeAtk2_Description"
+msgid "Launch a volatile mass of goo, applying A.C.I.D. on nearby units."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_CentipedeAtk2_Name"
+msgid "Corrosive Vomit"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_LeaperAtk1_Name"
+msgid "Fangs"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_LeaperAtk1_Description,scripts/text_weapons."
+"lua_LeaperAtk2_Description"
+msgid "Web the target, preparing to bite it."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_LeaperAtk2_Name"
+msgid "Sharpened Fangs"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_FireflyAtk1_Name"
+msgid "Accelerating Thorax"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_FireflyAtk1_Description,scripts/text_weapons."
+"lua_FireflyAtk2_Description"
+msgid "Launch a volatile mass of goo."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_FireflyAtk2_Name"
+msgid "Enhanced Thorax"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BeetleAtk1_Name"
+msgid "Pincers"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_BeetleAtk1_Description,scripts/text_weapons."
+"lua_BeetleAtk2_Description"
+msgid "Charge forward to damage and push the target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BeetleAtk2_Name"
+msgid "Sharpened Pincers"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_DiggerAtk1_Name,scripts/text_weapons."
+"lua_DiggerAtk2_Name"
+msgid "Digging Tusks"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_DiggerAtk1_Description,scripts/text_weapons."
+"lua_DiggerAtk2_Description"
+msgid "Create a defensive rock wall before attacking adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BlobberAtk1_Name"
+msgid "Unstable Growths"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BlobberAtk1_Description"
+msgid "Throw a sticky blob that will explode."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BlobberAtk2_Name"
+msgid "Volatile Growths"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BlobberAtk2_Description"
+msgid "Throw a massive blob that will explode."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BlobAtk1_Name"
+msgid "Unstable Guts"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_BlobAtk1_Description,scripts/text_weapons."
+"lua_BlobAtk2_Description"
+msgid ""
+"Explode, killing itself and damaging adjacent tiles. Kill it first to stop "
+"it."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BlobAtk2_Name"
+msgid "Volatile Guts"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_SpiderAtk1_Name"
+msgid "Tiny Offspring"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_SpiderAtk1_Description,scripts/text_weapons."
+"lua_SpiderAtk2_Description"
+msgid "Throw a sticky egg that hatches into a Spiderling."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_SpiderAtk2_Name"
+msgid "Large Offspring"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_SpiderlingHatch1_Name,scripts/text_weapons."
+"lua_WebeggHatch1_Name"
+msgid "Spiderling Egg"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_SpiderlingHatch1_Description,scripts/text_weapons."
+"lua_WebeggHatch1_Description"
+msgid "Hatch into Spiderling."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Jelly_Health_Tooltip_Description"
+msgid "All other Vek receive +1 HP as long as the Psion is living."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Jelly_Explode_Tooltip_Description"
+msgid ""
+"All other Vek will explode on death, dealing 1 damage to adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Jelly_Lava_Tooltip_Name"
+msgid "Hive Targeting"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Jelly_Lava_Tooltip_Description"
+msgid "All player units take 1 damage at the end of every turn."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Jelly_Armor_Tooltip_Description"
+msgid "All other Vek have incoming weapon damage reduced by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Jelly_Regen_Tooltip_Description"
+msgid "All other Vek heal 1 at the start of their turn."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BeetleAtkB_Name"
+msgid "Flaming Abdomen"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_BeetleAtkB_Description"
+msgid "Charge and light every tile in the path on Fire."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_SnowBossAtk_Name"
+msgid "Vk8 Rockets Mark III"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_SnowBossAtk_Description,scripts/text_weapons."
+"lua_SnowBossAtk2_Description"
+msgid "Launch Rockets at 3 tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_SnowBossAtk2_Name"
+msgid "Vk8 Rockets Mark IV"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_FireflyAtkB_Name"
+msgid "Burning Thorax"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_FireflyAtkB_Description"
+msgid "Launch goo projectiles in two directions."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_BlobBossAtk_Name,scripts/text_weapons."
+"lua_BlobBossAtkMed_Name,scripts/text_weapons.lua_BlobBossAtkSmall_Name"
+msgid "Goo Attack"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_BlobBossAtk_Description,scripts/text_weapons."
+"lua_BlobBossAtkMed_Description,scripts/text_weapons."
+"lua_BlobBossAtkSmall_Description"
+msgid "Attempt to squish the adjacent tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_HornetAtkB_Name"
+msgid "Super Stinger"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_HornetAtkB_Description"
+msgid "Stab three tiles in a row."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_ScorpionAtkB_Name"
+msgid "Massive Spinneret"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_ScorpionAtkB_Description"
+msgid "Web all targets, preparing to deal massive damage to adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_SpiderBoss_Tooltip_Name"
+msgid "Plentiful Offspring"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_SpiderBoss_Tooltip_Description"
+msgid "Throw out 2-3 Spider eggs."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Jelly_Boss_Tooltip_Description"
+msgid "All other Vek gain +1 HP, Regeneration, and explode on death."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_FlameImmune_Name"
+msgid "Flame Shielding"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_FlameImmune_Description"
+msgid "All Mechs are immune to Fire."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Electric_Name"
+msgid "Storm Generator"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Electric_Description"
+msgid "All Smoke deals damage to enemy units every turn."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Passive_Electric_Upgrade1,scripts/text_weapons."
+"lua_Passive_FriendlyFire_Upgrade1,scripts/text_weapons."
+"lua_Passive_FriendlyFire_Upgrade2,scripts/text_weapons."
+"lua_Prime_Lightning_Upgrade2,scripts/text_weapons."
+"lua_Prime_Lasermech_Upgrade2,scripts/text_weapons."
+"lua_Prime_ShieldBash_Upgrade2,scripts/text_weapons."
+"lua_Prime_Rockmech_Upgrade1,scripts/text_weapons.lua_Prime_Rockmech_Upgrade2,"
+"scripts/text_weapons.lua_Prime_RightHook_Upgrade1,scripts/text_weapons."
+"lua_Prime_RightHook_Upgrade2,scripts/text_weapons."
+"lua_Prime_Areablast_Upgrade1,scripts/text_weapons."
+"lua_Prime_Areablast_Upgrade2,scripts/text_weapons.lua_Prime_Leap_Upgrade2,"
+"scripts/text_weapons.lua_Prime_SpinFist_Upgrade2,scripts/text_weapons."
+"lua_Prime_Smash_Upgrade2,scripts/text_weapons.lua_Brute_Tankmech_Upgrade1,"
+"scripts/text_weapons.lua_Brute_Tankmech_Upgrade2,scripts/text_weapons."
+"lua_Brute_Jetmech_Upgrade1,scripts/text_weapons."
+"lua_Brute_Mirrorshot_Upgrade1,scripts/text_weapons."
+"lua_Brute_Mirrorshot_Upgrade2,scripts/text_weapons."
+"lua_Brute_PhaseShot_Upgrade2,scripts/text_weapons."
+"lua_Brute_Shockblast_Upgrade1,scripts/text_weapons."
+"lua_Brute_Shockblast_Upgrade2,scripts/text_weapons.lua_Brute_Beetle_Upgrade2,"
+"scripts/text_weapons.lua_Brute_Unstable_Upgrade2,scripts/text_weapons."
+"lua_Brute_Splitshot_Upgrade2,scripts/text_weapons."
+"lua_Ranged_Rockthrow_Upgrade1,scripts/text_weapons."
+"lua_Ranged_Defensestrike_Upgrade2,scripts/text_weapons."
+"lua_Ranged_Rocket_Upgrade1,scripts/text_weapons.lua_Ranged_Rocket_Upgrade2,"
+"scripts/text_weapons.lua_Ranged_ScatterShot_Upgrade2,scripts/text_weapons."
+"lua_Ranged_BackShot_Upgrade1,scripts/text_weapons."
+"lua_Ranged_BackShot_Upgrade2,scripts/text_weapons.lua_Ranged_Wide_Upgrade2,"
+"scripts/text_weapons.lua_Ranged_Dual_Upgrade2,scripts/text_weapons."
+"lua_Support_Missiles_Upgrade1"
+msgid "+1 Damage"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Electric_A_UpgradeDescription"
+msgid "Increases Smoke damage by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Leech_Name"
+msgid "Viscera Nanobots"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Leech_Description"
+msgid "Mechs heal 1 damage when they deal a killing blow."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Leech_Upgrade1"
+msgid "+1 Heal"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Leech_A_UpgradeDescription"
+msgid "Increase healing to 2."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Defenses_Name"
+msgid "Networked Armor"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Defenses_Description"
+msgid "All Mechs gain +1 HP."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Defenses_Upgrade1"
+msgid "+1 Health"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Defenses_A_UpgradeDescription"
+msgid "Increases health bonus to 2."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_MassRepair_Name"
+msgid "Repair Field"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_MassRepair_Description"
+msgid "Repairing one Mech will affect all Mechs."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_AutoShields_Name"
+msgid "Auto-Shields"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_AutoShields_Description"
+msgid "Buildings gain a Shield after taking damage."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Burrows_Name"
+msgid "Stabilizers"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Burrows_Description"
+msgid "Mechs no longer take damage when blocking emerging Vek."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Psions_Name"
+msgid "Psionic Receiver"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Psions_Description"
+msgid "Mechs use bonuses from Vek Psion."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Boosters_Description"
+msgid "Mechs gain +1 move if they start their turn adjacent to each other."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Boosters_Upgrade1"
+msgid "+1 Movement"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Boosters_A_UpgradeDescription"
+msgid "Movement bonus is increased by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Medical_Name"
+msgid "Medical Supplies"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Medical_Description"
+msgid "All Pilots survive death."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_FriendlyFire_Name"
+msgid "Vek Hormones"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_FriendlyFire_Description"
+msgid "Enemies do +1 Damage against other enemies."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Passive_FriendlyFire_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Passive_FriendlyFire_B_UpgradeDescription,scripts/"
+"text_weapons.lua_Prime_ShieldBash_B_UpgradeDescription,scripts/text_weapons."
+"lua_Prime_Rockmech_A_UpgradeDescription,scripts/text_weapons."
+"lua_Prime_Rockmech_B_UpgradeDescription,scripts/text_weapons."
+"lua_Prime_RightHook_A_UpgradeDescription,scripts/text_weapons."
+"lua_Prime_RightHook_B_UpgradeDescription,scripts/text_weapons."
+"lua_Prime_Areablast_A_UpgradeDescription,scripts/text_weapons."
+"lua_Prime_Areablast_B_UpgradeDescription,scripts/text_weapons."
+"lua_Prime_Smash_B_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Tankmech_A_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Tankmech_B_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Jetmech_A_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Mirrorshot_A_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Mirrorshot_B_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_PhaseShot_B_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Shockblast_A_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Shockblast_B_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Splitshot_B_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Rockthrow_A_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Rocket_A_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Rocket_B_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Wide_B_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Dual_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Missiles_A_UpgradeDescription"
+msgid "Increases damage by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_ForceAmp_Name"
+msgid "Force Amp"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_ForceAmp_Description"
+msgid "All Vek take +1 damage from Bumps and blocking emerging Vek."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Ammo_Name"
+msgid "Ammo Generator"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_Ammo_Description"
+msgid "+1 Use to all Limited Use Weapons."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_CritDefense_Name"
+msgid "Critical Shields"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Passive_CritDefense_Description"
+msgid "If Power Grid is reduced to 1, all buildings gain a Shield."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Punchmech_Name"
+msgid "Titan Fist"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Punchmech_Description"
+msgid "Punch an adjacent tile, damaging and pushing it."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Punchmech_Upgrade1"
+msgid "Dash"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Punchmech_Upgrade2,scripts/text_weapons."
+"lua_Prime_RocketPunch_Upgrade2,scripts/text_weapons.lua_Prime_Shift_Upgrade2,"
+"scripts/text_weapons.lua_Prime_Sword_Upgrade2,scripts/text_weapons."
+"lua_Brute_Heavyrocket_Upgrade2,scripts/text_weapons."
+"lua_Brute_Bombrun_Upgrade2,scripts/text_weapons."
+"lua_Ranged_Artillerymech_Upgrade2,scripts/text_weapons."
+"lua_Ranged_Ignite_Upgrade2,scripts/text_weapons.lua_DeploySkill_Tank_Upgrade2"
+msgid "+2 Damage"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Punchmech_A_UpgradeDescription"
+msgid "Charge any distance before punching the target."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Punchmech_B_UpgradeDescription,scripts/"
+"text_weapons.lua_Prime_RocketPunch_B_UpgradeDescription,scripts/text_weapons."
+"lua_Prime_Shift_B_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Heavyrocket_B_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Artillerymech_B_UpgradeDescription"
+msgid "Increases damage by 2."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Lightning_Name"
+msgid "Electric Whip"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Lightning_Description"
+msgid "Chain damage through adjacent targets."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Lightning_Upgrade1"
+msgid "Building Chain"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Lightning_A_UpgradeDescription"
+msgid "Chain through Grid Buildings without causing damage."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Lightning_B_UpgradeDescription"
+msgid "Deals +1 damage to all affected tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Lasermech_Name"
+msgid "Burst Beam"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Lasermech_Description"
+msgid "Fire a piercing beam that decreases in damage the further it goes."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Lasermech_Upgrade1,scripts/text_weapons."
+"lua_Prime_Shift_Upgrade1,scripts/text_weapons."
+"lua_Science_SmokeDefense_Upgrade1"
+msgid "Ally Immune"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Lasermech_A_UpgradeDescription"
+msgid "Friendly units will not take damage from this attack."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Lasermech_B_UpgradeDescription"
+msgid "Increases the starting damage by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_ShieldBash_Name"
+msgid "Spartan Shield"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_ShieldBash_Description"
+msgid "Bash the enemy, flipping its attack direction."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_ShieldBash_Upgrade1"
+msgid "Gain Shield"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_ShieldBash_A_UpgradeDescription"
+msgid "Gain a Shield when bashing."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Rockmech_Name"
+msgid "Rock Launcher"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Rockmech_Description"
+msgid "Throw a rock at a chosen target. Rock remains as an obstacle."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_RightHook_Name"
+msgid "Sidewinder Fist"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_RightHook_Description"
+msgid "Punch an adjacent tile, damaging and pushing it to the left."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_RocketPunch_Name"
+msgid "Rocket Fist"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_RocketPunch_Description"
+msgid "Punch an adjacent tile. Upgrades to launch as a projectile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_RocketPunch_Upgrade1"
+msgid "Rocket"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_RocketPunch_A_UpgradeDescription"
+msgid "Launch the fist. Pushes the Mech if target is not adjacent."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Shift_Name"
+msgid "Vice Fist"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Shift_Description"
+msgid "Grab a unit and toss it behind you."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Shift_A_UpgradeDescription"
+msgid "Deals no damage to allies."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Flamethrower_Name"
+msgid "Flame Thrower"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Flamethrower_Description"
+msgid "Push target tile and light tiles on Fire. Damage units already on Fire."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Flamethrower_Upgrade1,scripts/text_weapons."
+"lua_Prime_Flamethrower_Upgrade2,scripts/text_weapons."
+"lua_Prime_Spear_Upgrade2,scripts/text_weapons.lua_Brute_Jetmech_Upgrade2,"
+"scripts/text_weapons.lua_Science_Swap_Upgrade1,scripts/text_weapons."
+"lua_Support_Smoke_Upgrade1,scripts/text_weapons.lua_Support_Smoke_Upgrade2"
+msgid "+1 Range"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Flamethrower_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Prime_Flamethrower_B_UpgradeDescription"
+msgid "Extends flamethrower range by 1 tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Areablast_Name"
+msgid "Explosive Vents"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Areablast_Description"
+msgid "Blast all adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Spear_Name"
+msgid "Prime Spear"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Spear_Description"
+msgid "Stab multiple tiles and push the furthest hit tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Spear_Upgrade1"
+msgid "A.C.I.D. Tip"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Spear_A_UpgradeDescription"
+msgid "Adds A.C.I.D. to the furthest hit enemy."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Spear_B_UpgradeDescription"
+msgid "Increases the maximum number of hit tiles by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Leap_Name"
+msgid "Hydraulic Legs"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Leap_Description"
+msgid "Leap to a tile, damaging self and adjacent tiles."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Leap_Upgrade1,scripts/text_weapons."
+"lua_Brute_Beetle_Upgrade1,scripts/text_weapons.lua_Brute_Unstable_Upgrade1,"
+"scripts/text_weapons.lua_Ranged_RainingVolley_Upgrade2"
+msgid "+1 Damage Each"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Leap_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Ranged_RainingVolley_B_UpgradeDescription"
+msgid "Increases damage to self and targets by 1."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Leap_B_UpgradeDescription,scripts/"
+"text_weapons.lua_Prime_SpinFist_B_UpgradeDescription"
+msgid "Increases damage to targets by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_SpinFist_Name"
+msgid "Vortex Fist"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_SpinFist_Description"
+msgid "Damage and push all adjacent tiles to the left."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_SpinFist_Upgrade1"
+msgid "-1 Self Damage"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_SpinFist_A_UpgradeDescription"
+msgid "Reduces the damage the Mech takes when using this weapon by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Sword_Name"
+msgid "Titanite Blade"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Sword_Description"
+msgid "Swing a massive sword to damage and push 3 tiles."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Sword_Upgrade1,scripts/text_weapons."
+"lua_Prime_Smash_Upgrade1,scripts/text_weapons.lua_Brute_Heavyrocket_Upgrade1,"
+"scripts/text_weapons.lua_Brute_Splitshot_Upgrade1,scripts/text_weapons."
+"lua_Brute_Bombrun_Upgrade1,scripts/text_weapons.lua_Ranged_Wide_Upgrade1,"
+"scripts/text_weapons.lua_Ranged_Dual_Upgrade1,scripts/text_weapons."
+"lua_Science_SmokeDefense_Upgrade2,scripts/text_weapons."
+"lua_Science_Shield_Upgrade1,scripts/text_weapons."
+"lua_Science_FireBeam_Upgrade1,scripts/text_weapons."
+"lua_Science_FreezeBeam_Upgrade1,scripts/text_weapons."
+"lua_Science_LocalShield_Upgrade2,scripts/text_weapons."
+"lua_Support_Refrigerate_Upgrade1"
+msgid "+1 Use"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Prime_Sword_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Prime_Smash_A_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Heavyrocket_A_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Splitshot_A_UpgradeDescription,scripts/text_weapons."
+"lua_Brute_Bombrun_A_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Wide_A_UpgradeDescription,scripts/text_weapons."
+"lua_Ranged_Dual_A_UpgradeDescription,scripts/text_weapons."
+"lua_Science_SmokeDefense_B_UpgradeDescription,scripts/text_weapons."
+"lua_Science_Shield_A_UpgradeDescription,scripts/text_weapons."
+"lua_Science_FireBeam_A_UpgradeDescription,scripts/text_weapons."
+"lua_Science_FreezeBeam_A_UpgradeDescription,scripts/text_weapons."
+"lua_Science_LocalShield_B_UpgradeDescription,scripts/text_weapons."
+"lua_Support_Refrigerate_A_UpgradeDescription"
+msgid "Increases uses per battle by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Sword_B_UpgradeDescription"
+msgid "Increases damage on each affected tile by 2."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Smash_Name"
+msgid "Mercury Fist"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Prime_Smash_Description"
+msgid "Smash the ground, dealing huge damage and pushing adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Tankmech_Name"
+msgid "Taurus Cannon"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Tankmech_Description"
+msgid "Fires a powerful projectile that damages and pushes its target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Jetmech_Name"
+msgid "Aerial Bombs"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Jetmech_Description"
+msgid "Fly over a target, dropping an explosive smoke bomb."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Jetmech_B_UpgradeDescription"
+msgid "Allows jumping over and attacking an additional target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Mirrorshot_Name"
+msgid "Janus Cannon"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Mirrorshot_Description"
+msgid "Fire two projectiles in opposite directions."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_PhaseShot_Name"
+msgid "Phase Cannon"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_PhaseShot_Description"
+msgid "Shoot a projectile that phases through objects."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_PhaseShot_Upgrade1"
+msgid "Phase Shield"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_PhaseShot_A_UpgradeDescription"
+msgid "Applies a Shield to buildings it passes through."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Grapple_Name"
+msgid "Grappling Hook"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Grapple_Description"
+msgid "Use a grapple to pull Mech towards objects, or units to the Mech."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Grapple_Upgrade1"
+msgid "Shield Ally"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Grapple_A_UpgradeDescription"
+msgid "If used on an ally unit it gives them a Shield."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Shrapnel_Name"
+msgid "Def. Shrapnel"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Shrapnel_Description"
+msgid "Fire a non-damaging projectile that pushes tiles around the target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Sniper_Name"
+msgid "Rail Cannon"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Sniper_Description"
+msgid "Projectile that does more damage to targets that are further away."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Brute_Sniper_Upgrade1,scripts/text_weapons."
+"lua_Brute_Sniper_Upgrade2"
+msgid "+1 Max Damage"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Brute_Sniper_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Brute_Sniper_B_UpgradeDescription"
+msgid "Increases max damage by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Shockblast_Name"
+msgid "Shock Cannon"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Shockblast_Description"
+msgid ""
+"Fire a projectile that hits 2 tiles, pushing them in opposite directions."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Beetle_Name"
+msgid "Ramming Engines"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Beetle_Description"
+msgid ""
+"Fly in a line and slam into the target, pushing it and hurting yourself."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Brute_Beetle_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Brute_Unstable_A_UpgradeDescription"
+msgid "Increases damage to self and target by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Beetle_B_UpgradeDescription"
+msgid "Increases damage to target by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Unstable_Name"
+msgid "Unstable Cannon"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Unstable_Description"
+msgid "Powerful projectile that causes damage to shooter as well as target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Unstable_B_UpgradeDescription"
+msgid "Increases target damage by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Heavyrocket_Name"
+msgid "Heavy Rocket"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Heavyrocket_Description"
+msgid ""
+"Fire a projectile that heavily damages a target and pushes adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Splitshot_Name"
+msgid "Shrapnel Cannon"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Splitshot_Description"
+msgid ""
+"Shoot a projectile that damages and pushes the targeted tile and the tiles "
+"to its left and right."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Bombrun_Name"
+msgid "Astra Bombs"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Bombrun_Description"
+msgid "Leap over any distance dropping a bomb on each tile you pass."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Bombrun_B_UpgradeDescription"
+msgid "Increases damage to all tiles by 2."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Sonic_Name"
+msgid "Hermes Engines"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Brute_Sonic_Description"
+msgid "Dash in a line, pushing adjacent tiles away."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Artillerymech_Name"
+msgid "Artemis Artillery"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Artillerymech_Description"
+msgid ""
+"Powerful artillery strike, damaging a single tile and pushing adjacent tiles."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Ranged_Artillerymech_Upgrade1,scripts/text_weapons."
+"lua_Ranged_Defensestrike_Upgrade1,scripts/text_weapons."
+"lua_Ranged_RainingVolley_Upgrade1"
+msgid "Buildings Immune"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Ranged_Artillerymech_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Ranged_Defensestrike_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Ranged_RainingVolley_A_UpgradeDescription"
+msgid "This attack will no longer damage Grid Buildings."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Rockthrow_Name"
+msgid "Rock Accelerator"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Rockthrow_Description"
+msgid "Launch a rock at a tile, pushing adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Defensestrike_Name"
+msgid "Cluster Artillery"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Defensestrike_Description"
+msgid "Protect a tile by damaging and pushing adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Defensestrike_B_UpgradeDescription"
+msgid "Increases damage to adjacent tiles by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Rocket_Name"
+msgid "Rocket Artillery"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Rocket_Description"
+msgid "Fires a pushing artillery and creates Smoke behind the shooter."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Ignite_Name"
+msgid "Vulcan Artillery"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Ignite_Description"
+msgid "Light the target on Fire and push adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Ignite_Upgrade1"
+msgid "Backburn"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Ignite_A_UpgradeDescription"
+msgid "Light the tile behind the Mech on Fire."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Ignite_B_UpgradeDescription"
+msgid "Adds 2 damage to targeted tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_ScatterShot_Name"
+msgid "Micro-Artillery"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_ScatterShot_Description"
+msgid "Artillery with potential to launch multiple small projectiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_ScatterShot_Upgrade1"
+msgid "+2 Tiles"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_ScatterShot_A_UpgradeDescription"
+msgid "Add additional missiles to hit adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_ScatterShot_B_UpgradeDescription"
+msgid "Increases damage to all tiles by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_BackShot_Name"
+msgid "Aegon Mortar"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_BackShot_Description"
+msgid "Deals damage to two tiles, pushing one forwards and one backwards."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Ranged_BackShot_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Ranged_BackShot_B_UpgradeDescription"
+msgid "Increases damage to both tiles by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Ice_Name"
+msgid "Cryo-Launcher"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Ice_Description"
+msgid "Freeze yourself and the target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_SmokeBlast_Name"
+msgid "Smoke Mortar"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_SmokeBlast_Description"
+msgid "Artillery shot that applies Smoke and pushes two adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Fireball_Name"
+msgid "Burning Mortar"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Fireball_Description"
+msgid "Artillery attack that sets 5 tiles on Fire."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Fireball_Upgrade1"
+msgid "No Self Damage"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Fireball_A_UpgradeDescription"
+msgid "This attack will no longer damage the Mech that uses it."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_RainingVolley_Name"
+msgid "Raining Death"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_RainingVolley_Description"
+msgid "A dangerous projectile that damages everything it passes."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Wide_Name"
+msgid "Heavy Artillery"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Wide_Description"
+msgid "Powerful attack that damages a large area."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Dual_Name"
+msgid "Gemini Missiles"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Ranged_Dual_Description"
+msgid "Launch two missiles, damaging and pushing two targets"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Pullmech_Name"
+msgid "Attraction Pulse"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Pullmech_Description"
+msgid "Pull target towards you 1 tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Gravwell_Name"
+msgid "Grav Well"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Gravwell_Description"
+msgid "Artillery weapon that pulls its target towards you."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Repulse_Name"
+msgid "Repulse"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Repulse_Description"
+msgid "Push all adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Repulse_Upgrade1"
+msgid "Shield Self"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Repulse_Upgrade2"
+msgid "Shield Friendly"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Repulse_A_UpgradeDescription"
+msgid "Creates a personal Shield when used."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Repulse_B_UpgradeDescription"
+msgid "Shield adjacent ally or Building."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Swap_Name"
+msgid "Teleporter"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Swap_Description"
+msgid "Swap places with a nearby tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Swap_Upgrade2"
+msgid "+2 Range"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Swap_A_UpgradeDescription"
+msgid "Extends range of the swap by 1 tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Swap_B_UpgradeDescription"
+msgid "Extends range of the swap by 2 tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_AcidShot_Name"
+msgid "A.C.I.D. Projector"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_AcidShot_Description"
+msgid "Fire a projectile that applies A.C.I.D. and pushes."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Confuse_Name"
+msgid "Confuse Shot"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Confuse_Description"
+msgid "Fire a projectile that flips a target's attack direction."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_SmokeDefense_Name"
+msgid "Smoke Pellets"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_SmokeDefense_Description"
+msgid "Surround yourself with Smoke to defend against nearby enemies."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_SmokeDefense_A_UpgradeDescription"
+msgid "No longer applies Smoke on self or allies."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Shield_Name"
+msgid "Shield Projector"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Shield_Description"
+msgid "Shield tiles from damage."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Shield_Upgrade2"
+msgid "+3 Area"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_Shield_B_UpgradeDescription"
+msgid "Shields 3 additional tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_FireBeam_Name"
+msgid "Fire Beam"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_FireBeam_Description"
+msgid "Fire a beam that applies Fire in a line."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_FreezeBeam_Name"
+msgid "Frost Beam"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_FreezeBeam_Description"
+msgid "Fire a beam that Freezes everything in a line."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_LocalShield_Name"
+msgid "Shield Array"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_LocalShield_Description"
+msgid "Apply a Shield on nearby tiles."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Science_LocalShield_Upgrade1,scripts/text_weapons."
+"lua_Support_Blizzard_Upgrade1,scripts/text_weapons."
+"lua_Support_Blizzard_Upgrade2"
+msgid "+1 Size"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_LocalShield_A_UpgradeDescription"
+msgid "Area of effect increased by 2 tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_PushBeam_Name"
+msgid "Push Beam"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_PushBeam_Description"
+msgid "Pushes all units in a line."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Science_PushBeam_Upgrade1"
+msgid "Unlimited Use"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Science_PushBeam_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Support_Wind_A_UpgradeDescription"
+msgid "Removes use restriction in battles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Skill_Repair_Name"
+msgid "Mech Repair"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Skill_Repair_Description"
+msgid "Repair 1 damage and remove Fire, Ice, and A.C.I.D."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Skill_Repair_Power_Name"
+msgid "Power Repair"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Skill_Repair_Power_Description"
+msgid "Repair Mech and push adjacent tiles."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Skill_Repair_Punch_Name"
+msgid "Mantis Slash"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Skill_Repair_Punch_Description"
+msgid ""
+"Damage and push an adjacent tile.\n"
+"Escape from Ice."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Boosters_Name"
+msgid "Boosters"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Boosters_Description"
+msgid "Jump forward and push adjacent tiles away."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Smoke_Name"
+msgid "Smoke Bombs"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Smoke_Description"
+msgid "Fly over the targets while dropping Smoke."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Support_Smoke_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Support_Smoke_B_UpgradeDescription"
+msgid "Increases potential movement range by 1."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Refrigerate_Name"
+msgid "Heat Converter"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Refrigerate_Description"
+msgid ""
+"Freeze the tile in front but light the tile behind on Fire in the process."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Destruct_Name"
+msgid "Self-Destruct"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Destruct_Description"
+msgid "Mech explodes, killing self and anything adjacent to Mech."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Force_Name"
+msgid "Targeted Strike"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Force_Description"
+msgid "Call in an air strike on a single tile anywhere on the map."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_SmokeDrop_Name"
+msgid "Smoke Drop"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_SmokeDrop_Description"
+msgid "Drops Smoke on 5 tiles anywhere on the map."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Repair_Name"
+msgid "Repair Drop"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Repair_Description"
+msgid "Heal all player units (including disabled Mechs)."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Missiles_Name"
+msgid "Missile Barrage"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Missiles_Description"
+msgid "Fires a missile barrage that hits every enemy on the map."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Wind_Name"
+msgid "Wind Torrent"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Wind_Description"
+msgid "Push all units in a single direction."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Wind_Upgrade1"
+msgid "Unlimited Uses"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Blizzard_Name"
+msgid "Ice Generator"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Support_Blizzard_Description"
+msgid "Freeze yourself and nearby tiles."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Support_Blizzard_A_UpgradeDescription,scripts/"
+"text_weapons.lua_Support_Blizzard_B_UpgradeDescription"
+msgid "Area of effect increased by 1 tile."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Deploy_TankShot_Name,scripts/text_weapons."
+"lua_Deploy_TankShot2_Name"
+msgid "Stock Cannon"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Deploy_TankShot_Description"
+msgid "Fire a projectile that pushes the target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Deploy_TankShot2_Description"
+msgid "Fire a projectile that pushes and damages the target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_Tank_Name"
+msgid "Light Tank"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_Tank_Description"
+msgid "Deploy a small tank to help in combat."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_DeploySkill_Tank_A_UpgradeDescription,scripts/"
+"text_weapons.lua_DeploySkill_AcidTank_A_UpgradeDescription"
+msgid "Increases the Tank's max health to 3."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_Tank_B_UpgradeDescription"
+msgid "Increases the Tank's attack damage to 2."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Deploy_ShieldTankShot_Name,scripts/text_weapons."
+"lua_Deploy_ShieldTankShot2_Name"
+msgid "Shield Shot"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Deploy_ShieldTankShot_Description"
+msgid "Shields a single tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Deploy_ShieldTankShot2_Description"
+msgid "Fires a projectile that Shields a single tile."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_DeploySkill_ShieldTank_Name,scripts/text_weapons."
+"lua_DeploySkill_SGenerator_Name"
+msgid "Shield-Tank"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_ShieldTank_Description"
+msgid "Deploy a Shield-Tank that can give Shields to allies."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_DeploySkill_ShieldTank_Upgrade2,scripts/"
+"text_weapons.lua_DeploySkill_SGenerator_Upgrade2"
+msgid "Projectile"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_ShieldTank_A_UpgradeDescription"
+msgid "Increases the Shield-Tank's max health to 3."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_ShieldTank_B_UpgradeDescription"
+msgid ""
+"The Shield-Tank instead fires a projectile, allowing you to shield distant "
+"targets."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Deploy_AcidTankShot_Name,scripts/text_weapons."
+"lua_Deploy_AcidTankShot2_Name"
+msgid "A.C.I.D. Shot"
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_Deploy_AcidTankShot_Description,scripts/"
+"text_weapons.lua_Deploy_AcidTankShot2_Description"
+msgid "Fire a projectile that applies A.C.I.D. to a single tile."
+msgstr ""
+
+msgctxt ""
+"scripts/text_weapons.lua_DeploySkill_AcidTank_Name,scripts/missions/acid/"
+"mission_acidtank.lua#3"
+msgid "A.C.I.D. Tank"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_Description"
+msgid "Deploy a Tank that can apply A.C.I.D. to targets."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_Upgrade2"
+msgid "+Push"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_B_UpgradeDescription"
+msgid "The tank's attack also pushes its target."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Deploy_PullTankShot_Name"
+msgid "Pull Shot"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_Deploy_PullTankShot_Description"
+msgid "Pulls a single tile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_PullTank_Name"
+msgid "Pull-Tank"
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_PullTank_Description"
+msgid "Deploy a Pull-Tank that can pull targets with a projectile."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_PullTank_A_UpgradeDescription"
+msgid "Increases the Pull-Tank's max health to 3."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_PullTank_B_UpgradeDescription"
+msgid "Gives the Pull-Tank the ability to fly."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_SGenerator_Description"
+msgid "Deploy a Shield-Tank that can give shields to allies."
+msgstr ""
+
+msgctxt "scripts/text_weapons.lua_DeploySkill_SGenerator_A_UpgradeDescription"
+msgid "Increases the Shield-Tank's HP to 3."
+msgstr ""
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#0"
+msgid "Kill 4 enemies inflicted with A.C.I.D."
+msgstr ""
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#1"
+msgid ""
+"Kill 4 enemies inflicted\n"
+"with A.C.I.D."
+msgstr ""
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#2"
+msgid "killed"
+msgstr ""
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#4"
+msgid "Success"
+msgstr ""
+
+msgctxt "scripts/missions/acid/mission_acidtank.lua#5"
+msgid "Failure"
+msgstr ""
