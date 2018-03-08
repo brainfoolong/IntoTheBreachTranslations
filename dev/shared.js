@@ -158,7 +158,7 @@ const shared = {
     ['Take less than 3 Grid Damag', '"%s"'],
     ['End battle with less than 4 Mech Damage', '"%s"'],
     ['Block Vek Spawning 3 times', '"%s"'],
-    ['Enemies', '" *%s(\\n| )*"'],
+    ['Enemies', '" *%s[\\\\ n]*"'],
     ['Your bonus objective', '"%s'],
     ['to defend this structure.', '%s"'],
     ['You withdrew from the battlefield, leaving supplies and civilians behind.', '"%s"'],
