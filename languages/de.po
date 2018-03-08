@@ -394,9 +394,9 @@ msgid "Your bonus objective in this mission is to not let this Vek die."
 msgstr ""
 "DasBonusziel in dieser Mission ist es, diesen Vek nicht sterben zu lassen."
 
-msgctxt "scripts/text.lua_Tutorial_VolatileVek_Title"
+msgctxt "scripts/text.lua_Tutorial_VolatileVek_Title,#130"
 msgid "Volatile Vek"
-msgstr "Flüchtiges Vek"
+msgstr ""
 
 msgctxt "scripts/text.lua_Warning_Final"
 msgid ""
@@ -1769,9 +1769,9 @@ msgctxt "scripts/text.lua_TipText_Env_Tides"
 msgid "The map will gradually be flooded in water"
 msgstr "Die Karte wird nach und nach mit Wasser überflutet"
 
-msgctxt "scripts/text.lua_TipTitle_Env_Cataclysm"
+msgctxt "scripts/text.lua_TipTitle_Env_Cataclysm,#72"
 msgid "Cataclysmic Earthquakes"
-msgstr "Kataklysmische Erdbeben"
+msgstr ""
 
 msgctxt "scripts/text.lua_TipText_Env_Cataclysm"
 msgid "The map will gradually break apart into a massive chasm"
@@ -1788,9 +1788,9 @@ msgid ""
 "Ground tiles will periodically sink into chasms, taking any unit with them"
 msgstr "Felder versinken regelmäßig in und ziehen Einheiten in die Tiefe"
 
-msgctxt "scripts/text.lua_TipTitle_Env_Lightning"
+msgctxt "scripts/text.lua_TipTitle_Env_Lightning,#82"
 msgid "Lightning Storm"
-msgstr "Gewitter"
+msgstr ""
 
 msgctxt "scripts/text.lua_TipText_Env_Lightning"
 msgid "Dangerous lightning will threaten the map, killing anything it strikes"
@@ -1799,9 +1799,9 @@ msgstr ""
 
 msgctxt ""
 "scripts/text.lua_TipTitle_Env_SnowStorm,scripts/text_tooltips."
-"lua_TILE_TOOLTIPS__ice_storm_0"
+"lua_TILE_TOOLTIPS__ice_storm_0,#105"
 msgid "Ice Storm"
-msgstr "Eissturm"
+msgstr ""
 
 msgctxt "scripts/text.lua_TipText_Env_SnowStorm"
 msgid "Large areas of the map will periodically freeze solid"
@@ -5549,9 +5549,9 @@ msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__purple_1"
 msgid "Alpha units are more powerful than their standard counterparts"
 msgstr "Alpha-Einheiten sind mächtiger als ihre Standardgegenstücke"
 
-msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__boss_0"
+msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__boss_0,#38"
 msgid "Hive Leader"
-msgstr "Schwarmführer"
+msgstr ""
 
 msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__boss_1"
 msgid ""
@@ -6384,9 +6384,9 @@ msgstr "Große Nachkommen"
 
 msgctxt ""
 "scripts/text_weapons.lua_SpiderlingHatch1_Name,scripts/text_weapons."
-"lua_WebeggHatch1_Name"
+"lua_WebeggHatch1_Name,#42"
 msgid "Spiderling Egg"
-msgstr "Spinnenei"
+msgstr ""
 
 msgctxt ""
 "scripts/text_weapons.lua_SpiderlingHatch1_Description,scripts/text_weapons."
@@ -7772,14 +7772,6 @@ msgctxt "#3"
 msgid "killed"
 msgstr "getötet"
 
-msgctxt "#5"
-msgid "Success"
-msgstr "Erfolgreich"
-
-msgctxt "#6"
-msgid "Failure"
-msgstr "Fehlgeschlagen"
-
 msgctxt "#7"
 msgid "Destroy the A.C.I.D. Vats"
 msgstr "Zerstöre Säurefässer"
@@ -7793,12 +7785,14 @@ msgid ""
 "Conveyor Belts will push any unit on them in the marked direction at the "
 "start of the enemy turn."
 msgstr ""
-"Förderbändern schieben ein Objekt in die markierte Richtung am Beginn des "
+"Förderbänder schieben ein Objekt in die markierte Richtung, am Beginn des "
 "Zuges."
 
 msgctxt "#12"
 msgid "CONVEYOR BELTS"
-msgstr "FÖRDERBÄNDER"
+msgstr ""
+"FÖRDER\n"
+"BÄNDER"
 
 msgctxt "#13"
 msgid "CONVEYORS"
@@ -7824,9 +7818,113 @@ msgctxt "#18"
 msgid "A.C.I.D. Launcher"
 msgstr "Säure Launcher"
 
+msgctxt "#23"
+msgid "Destroy the Beetle Leader"
+msgstr ""
+
+msgctxt "#24"
+msgid "Destroy the Bot Leader"
+msgstr ""
+
+msgctxt "#25"
+msgid "Destroy the Firefly Leader"
+msgstr ""
+
 msgctxt "#2"
 msgid "killed so far"
 msgstr "getötet"
+
+msgctxt "#26"
+msgid "Destroy 5 Goos"
+msgstr ""
+
+msgctxt "#27"
+msgid "Destroy"
+msgstr ""
+
+msgctxt "#28"
+msgid "Large Goo"
+msgstr ""
+
+msgctxt "#29"
+msgid "Medium Goo"
+msgstr ""
+
+msgctxt "#30"
+msgid "Small Goo"
+msgstr ""
+
+msgctxt "#31"
+msgid "Destroy the Hornet Leader"
+msgstr ""
+
+msgctxt "#32"
+msgid "Hornet Leader"
+msgstr ""
+
+msgctxt "#33"
+msgid "Destroy the Psion Abomination"
+msgstr ""
+
+msgctxt "#34"
+msgid "Psion Abomination"
+msgstr ""
+
+msgctxt "#35"
+msgid "Destroy the Scorpion Leader"
+msgstr ""
+
+msgctxt "#36"
+msgid "Scorpion Leader"
+msgstr ""
+
+msgctxt "#37"
+msgid "Destroy the Slug Leader"
+msgstr ""
+
+msgctxt "#39"
+msgid "Slugling Egg"
+msgstr ""
+
+msgctxt "#40"
+msgid "Destroy the Spider Leader"
+msgstr ""
+
+msgctxt "#41"
+msgid "Spider Leader"
+msgstr ""
+
+msgctxt "#43"
+msgid "Caverns"
+msgstr ""
+
+msgctxt "#44"
+msgid "Watch out for falling rocks and lava!"
+msgstr ""
+
+msgctxt "#45"
+msgid "Volcano"
+msgstr ""
+
+msgctxt "#46"
+msgid "Watch out for the active volcano!"
+msgstr ""
+
+msgctxt "#47"
+msgid "VOLCANO"
+msgstr ""
+
+msgctxt "#48"
+msgid "Survive the Fight"
+msgstr ""
+
+msgctxt "#49"
+msgid "Defend the Renfield Bomb until it explodes"
+msgstr ""
+
+msgctxt "#50"
+msgid "Renfield Bomb"
+msgstr ""
 
 msgctxt "#20"
 msgid "Air Support"
@@ -7842,9 +7940,420 @@ msgstr ""
 "LUFT\n"
 "UNTERSTÜTZUNG"
 
+msgctxt "#51"
+msgid "Defend the Artillery Support"
+msgstr ""
+
+msgctxt "#52"
+msgid "Defend the Artillery Unit"
+msgstr ""
+
+msgctxt "#53"
+msgid "Old Artillery"
+msgstr ""
+
+msgctxt "#54"
+msgid "Destroy the dam"
+msgstr ""
+
+msgctxt "#55"
+msgid "Old Earth Dam"
+msgstr ""
+
+msgctxt "#56"
+msgid "Defend the Satellite Launches"
+msgstr ""
+
+msgctxt "#58"
+msgid ""
+"Defend the 1st\n"
+"satellite launch\" or \"Defend the 1st satellite launch"
+msgstr ""
+
+msgctxt "#59"
+msgid ""
+"Defend the 2nd\n"
+"satellite launch\" or \"Defend the 2nd satellite launch"
+msgstr ""
+
+msgctxt "#60"
+msgid "Satellite Rocket"
+msgstr ""
+
+msgctxt "#61"
+msgid "Defend the Tanks"
+msgstr ""
+
+msgctxt "#62"
+msgid "Defend Archive Inc. Tanks (One Lost)"
+msgstr ""
+
+msgctxt "#63"
+msgid "undamaged"
+msgstr ""
+
+msgctxt "#64"
+msgid "Archive Tank"
+msgstr ""
+
+msgctxt "#65"
+msgid ""
+"Archive Inc \n"
+"Old Earth Tank"
+msgstr ""
+
+msgctxt "#98"
+msgid "damaged"
+msgstr ""
+
+msgctxt "#66"
+msgid "High Tides"
+msgstr ""
+
+msgctxt "#67"
+msgid "Marked tiles will turn to water at the start of the enemy turn."
+msgstr ""
+
+msgctxt "#68"
+msgid "TIDAL WAVES"
+msgstr ""
+
 msgctxt "#19"
 msgid "Partial"
 msgstr "Teilweise"
+
+msgctxt "#116,#145"
+msgid "Your bonus objective"
+msgstr ""
+
+msgctxt "#117"
+msgid "to defend this structure"
+msgstr ""
+
+msgctxt "#126"
+msgid "Kill all enemies before they retreat"
+msgstr ""
+
+msgctxt "#127,#133"
+msgid ""
+"Kill all enemies before \n"
+"they retreat"
+msgstr ""
+
+msgctxt "#131"
+msgid ""
+"This is a CEO mission briefing message. It is very atmospheric and exciting, "
+"giving you a closer look at the world and the mission you're about to engage "
+"in."
+msgstr ""
+
+msgctxt "#132"
+msgid ""
+"This is a CEO mission closing message. It reflects on how well the mission "
+"just went. It has glowing praise, or possibly it's rather insulting of your "
+"skills."
+msgstr ""
+
+msgctxt "#134"
+msgid "Less than 3 Grid Damage"
+msgstr ""
+
+msgctxt "#135"
+msgid "End with less than 4 Mech Damage"
+msgstr ""
+
+msgctxt "#136,#143"
+msgid "Block Vek Spawning 3 times"
+msgstr ""
+
+msgctxt "#137"
+msgid ""
+"Block Vek Spawning\n"
+"3 times"
+msgstr ""
+
+msgctxt "#138"
+msgid "Kill at least"
+msgstr ""
+
+msgctxt "#139"
+msgid "Protect the"
+msgstr ""
+
+msgctxt "#142"
+msgid "End battle with less than 4 Mech Damage"
+msgstr ""
+
+msgctxt "#144"
+msgid "Enemies"
+msgstr ""
+
+msgctxt "#146"
+msgid "to defend this structure."
+msgstr ""
+
+msgctxt "#147"
+msgid ""
+"You withdrew from the battlefield, leaving supplies and civilians behind."
+msgstr ""
+
+msgctxt "#148"
+msgid ""
+"All of your mechs have been disabled. An evacuation team will arrive shortly "
+"to recover your pilots and their wreckage."
+msgstr ""
+
+msgctxt "#111"
+msgid "Solar Farm"
+msgstr ""
+
+msgctxt "#112"
+msgid "Solar Farms"
+msgstr ""
+
+msgctxt "#113"
+msgid "Defend both Solar Farms"
+msgstr ""
+
+msgctxt "#114"
+msgid "Defend both Wind Farms"
+msgstr ""
+
+msgctxt "#115"
+msgid "Defend both Power Plants"
+msgstr ""
+
+msgctxt "#118"
+msgid "Defend the train"
+msgstr ""
+
+msgctxt "#119"
+msgid "Defend the damaged train"
+msgstr ""
+
+msgctxt "#120"
+msgid "The train is damaged and will no longer move"
+msgstr ""
+
+msgctxt "#121"
+msgid "If the train is blocked when moving, it will explode"
+msgstr ""
+
+msgctxt "#122"
+msgid "It is too damaged to continue. Defend it."
+msgstr ""
+
+msgctxt "#123"
+msgid "Supply Train"
+msgstr ""
+
+msgctxt "#124"
+msgid "Damaged Train"
+msgstr ""
+
+msgctxt "#125"
+msgid "Move forward 2 spaces, but will be destroyed if blocked."
+msgstr ""
+
+msgctxt "#128,#140"
+msgid "Do not kill the Volatile Vek"
+msgstr ""
+
+msgctxt "#129"
+msgid ""
+"Don't let the Volatile \n"
+"Vek die"
+msgstr ""
+
+msgctxt "#69"
+msgid "Defend the Prototype Renfield Bombs"
+msgstr ""
+
+msgctxt "#71"
+msgid "Prototype Bomb"
+msgstr ""
+
+msgctxt "#73"
+msgid ""
+"Marked tiles will become Chasms at the start of the enemy turn, killing any "
+"ground units present."
+msgstr ""
+
+msgctxt "#74"
+msgid "CATACLYSM"
+msgstr ""
+
+msgctxt "#76"
+msgid "Marked squares will sink into the earth, killing anything on them."
+msgstr ""
+
+msgctxt "#77"
+msgid "Defend the Earth Mover"
+msgstr ""
+
+msgctxt "#78"
+msgid "Earth Mover"
+msgstr ""
+
+msgctxt "#79"
+msgid "Destroy 2 mountains"
+msgstr ""
+
+msgctxt "#80"
+msgid ""
+"Destroy 2 mountains \n"
+"(Current: "
+msgstr ""
+
+msgctxt "#81"
+msgid "Sinkhole Hive"
+msgstr ""
+
+msgctxt "#83"
+msgid ""
+"Lightning will strike four spaces every turn, killing any unit on the marked "
+"tiles."
+msgstr ""
+
+msgctxt "#84"
+msgid "LIGHTNING STORM"
+msgstr ""
+
+msgctxt "#85"
+msgid "LIGHTNING"
+msgstr ""
+
+msgctxt "#86"
+msgid "Sandstorm"
+msgstr ""
+
+msgctxt "#87"
+msgid "All DUNES will turn to SMOKE, all SMOKE will be removed."
+msgstr ""
+
+msgctxt "#88"
+msgid "SANDSTORM"
+msgstr ""
+
+msgctxt "#89"
+msgid "Defend the Terraformer"
+msgstr ""
+
+msgctxt "#90"
+msgid "Terraform the grassland back to desert"
+msgstr ""
+
+msgctxt "#91"
+msgid "Area Blast"
+msgstr ""
+
+msgctxt "#92"
+msgid "Self-Destruct, damaging neighboring tiles."
+msgstr ""
+
+msgctxt "#93"
+msgid "Defend the Robots"
+msgstr ""
+
+msgctxt "#94"
+msgid "Defend the remaining Robot"
+msgstr ""
+
+msgctxt "#95"
+msgid "Robot Factories"
+msgstr ""
+
+msgctxt "#96"
+msgid "Robot Factory"
+msgstr ""
+
+msgctxt "#97"
+msgid "Defend both Robot Factories"
+msgstr ""
+
+msgctxt "#99"
+msgid "Break 5 buildings out of the ice"
+msgstr ""
+
+msgctxt "#100"
+msgid ""
+"Break 5 buildings out\n"
+"of the ice"
+msgstr ""
+
+msgctxt "#101"
+msgid "Freeze and defend both robots"
+msgstr ""
+
+msgctxt "#102"
+msgid "Freeze and defend the robots (one frozen)"
+msgstr ""
+
+msgctxt "#103"
+msgid ""
+"Freeze and defend \n"
+"both robots"
+msgstr ""
+
+msgctxt "#104"
+msgid "Freeze and defend the remaining robot"
+msgstr ""
+
+msgctxt "#106"
+msgid "Marked tiles will be frozen at the start of the enemy turn."
+msgstr ""
+
+msgctxt "#107"
+msgid "ICE STORM"
+msgstr ""
+
+msgctxt "#108"
+msgid "Freeze Tank"
+msgstr ""
+
+msgctxt "#109"
+msgid "Freeze Cannon"
+msgstr ""
+
+msgctxt "#110"
+msgid "Shoot a projectile that freezes targets"
+msgstr ""
+
+#~ msgctxt "scripts/text.lua_Tutorial_VolatileVek_Title"
+#~ msgid "Volatile Vek"
+#~ msgstr "Flüchtiges Vek"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Env_Cataclysm"
+#~ msgid "Cataclysmic Earthquakes"
+#~ msgstr "Kataklysmische Erdbeben"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Env_Lightning"
+#~ msgid "Lightning Storm"
+#~ msgstr "Gewitter"
+
+#~ msgctxt ""
+#~ "scripts/text.lua_TipTitle_Env_SnowStorm,scripts/text_tooltips."
+#~ "lua_TILE_TOOLTIPS__ice_storm_0"
+#~ msgid "Ice Storm"
+#~ msgstr "Eissturm"
+
+#~ msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__boss_0"
+#~ msgid "Hive Leader"
+#~ msgstr "Schwarmführer"
+
+#~ msgctxt ""
+#~ "scripts/text_weapons.lua_SpiderlingHatch1_Name,scripts/text_weapons."
+#~ "lua_WebeggHatch1_Name"
+#~ msgid "Spiderling Egg"
+#~ msgstr "Spinnenei"
+
+#~ msgctxt "#5"
+#~ msgid "Success"
+#~ msgstr "Erfolgreich"
+
+#~ msgctxt "#6"
+#~ msgid "Failure"
+#~ msgstr "Fehlgeschlagen"
 
 #~ msgctxt ""
 #~ "scripts/text_weapons.lua_DeploySkill_AcidTank_Name,scripts/missions/acid/"

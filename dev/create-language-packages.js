@@ -178,6 +178,9 @@ languages.forEach(function (langFile) {
     let lines = fileData.split('\n')
     for (let id in translationValues) {
       let row = shared.additionalTranslations[id]
+      if (!row) {
+        continue
+      }
       let text = row[0]
       let textEscaped = row[1].replace(/\%s/, '(' + shared.escapeRegex(text) + ')')
       let regex = new RegExp(textEscaped, 'g')

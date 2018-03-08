@@ -98,6 +98,9 @@ luaFiles.forEach(function (file) {
   let fileData = fs.readFileSync(file).toString()
   let lines = fileData.split('\n')
   shared.additionalTranslations.forEach(function (row, key) {
+    if(!row){
+      return
+    }
     let text = row[0]
     let textEscaped = row[1].replace(/\%s/, shared.escapeRegex(text))
     let regex = new RegExp(textEscaped)
