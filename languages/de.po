@@ -395,7 +395,7 @@ msgstr ""
 
 msgctxt "scripts/text.lua_Tutorial_VolatileVek_Title,#130"
 msgid "Volatile Vek"
-msgstr "Flüchtiger Vek"
+msgstr "Volatiler Vek"
 
 msgctxt "scripts/text.lua_Warning_Final"
 msgid ""
@@ -3562,7 +3562,7 @@ msgctxt "scripts/text.lua_SquadName_Filler"
 msgid "Time Travelers"
 msgstr "Zeitreisende"
 
-msgctxt "scripts/text.lua_TipTitle_Archive_A"
+msgctxt "scripts/text.lua_TipTitle_Archive_A,#159"
 msgid "Rift Walkers"
 msgstr "Rift Walkers"
 
@@ -3574,9 +3574,9 @@ msgstr ""
 "Dies waren die allerersten Mechs, die gegen die Vek kämpften. Sie sind "
 "effizient und zuverlässig."
 
-msgctxt "scripts/text.lua_TipTitle_Archive_B"
+msgctxt "scripts/text.lua_TipTitle_Archive_B,#162"
 msgid "Steel Judoka"
-msgstr "Steel Judoka"
+msgstr "Stahl Judaica"
 
 msgctxt "scripts/text.lua_TipText_Archive_B"
 msgid ""
@@ -3586,9 +3586,9 @@ msgstr ""
 "Diese Mechs sind auf Positionsmanipulationen spezialisiert, um die Vek "
 "gegeneinander zu richten."
 
-msgctxt "scripts/text.lua_TipTitle_Rust_A"
+msgctxt "scripts/text.lua_TipTitle_Rust_A,#160"
 msgid "Rusting Hulks"
-msgstr "Rusting Hulks"
+msgstr "Verrostete Hulks"
 
 msgctxt "scripts/text.lua_TipText_Rust_A"
 msgid ""
@@ -3598,9 +3598,9 @@ msgstr ""
 "R. S. T. Wettermanipulatoren ermöglichen es diesen Mechs, Rauchstürme überall "
 "zu nutzen."
 
-msgctxt "scripts/text.lua_TipTitle_Rust_B"
+msgctxt "scripts/text.lua_TipTitle_Rust_B,#163"
 msgid "Flame Behemoths"
-msgstr "Flame Behemoths"
+msgstr "Flammenbehemoths"
 
 msgctxt "scripts/text.lua_TipText_Rust_B"
 msgid "Invincible to flames, these Mechs aim to burn any threat to ashes."
@@ -3608,9 +3608,9 @@ msgstr ""
 "Unverwundbar für Flammen, zielen diese Mechs darauf ab, jede Bedrohung zu "
 "Asche zu verbrennen."
 
-msgctxt "scripts/text.lua_TipTitle_Pinnacle_A"
+msgctxt "scripts/text.lua_TipTitle_Pinnacle_A,#161"
 msgid "Zenith Guard"
-msgstr "Zenith Guard"
+msgstr "Zenith-Wache"
 
 msgctxt "scripts/text.lua_TipText_Pinnacle_A"
 msgid ""
@@ -3620,9 +3620,9 @@ msgstr ""
 "Die Beam-Technologie von Detritus und die Pinnacle Shield-Technologie bilden "
 "eine leistungsstarke Kombination."
 
-msgctxt "scripts/text.lua_TipTitle_Pinnacle_B"
+msgctxt "scripts/text.lua_TipTitle_Pinnacle_B,#164"
 msgid "Frozen Titans"
-msgstr "Frozen Titans"
+msgstr "Gefrorene Titanen"
 
 msgctxt "scripts/text.lua_TipText_Pinnacle_B"
 msgid ""
@@ -3644,7 +3644,7 @@ msgstr ""
 "R. S. T. Ingenieure entwarfen dieses Squad auf Basis der Vernichtungskraft "
 "von Blitzen."
 
-msgctxt "scripts/text.lua_TipTitle_Detritus_B"
+msgctxt "scripts/text.lua_TipTitle_Detritus_B,#165"
 msgid "Hazardous Mechs"
 msgstr "Gefährliche Mechs"
 
@@ -3675,9 +3675,9 @@ msgstr ""
 "Erstelle einen benutzerdefinierten Squad mit einem der Mechs, die du "
 "freigeschaltet hast."
 
-msgctxt "scripts/text.lua_TipTitle_Secret"
+msgctxt "scripts/text.lua_TipTitle_Secret,#166"
 msgid "Secret Squad"
-msgstr "Geheimer Squad"
+msgstr "Geheime Truppe"
 
 msgctxt "scripts/text.lua_TipText_Secret"
 msgid ""
@@ -6257,7 +6257,7 @@ msgctxt ""
 "lua_CentipedeAtk2_Description"
 msgid "Launch a volatile mass of goo, applying A.C.I.D. on nearby units."
 msgstr ""
-"Starten Sie eine flüchtige Masse von Goo, fügt Säure nahen Einheiten hinzu."
+"Starten Sie eine volatile Masse von Goo, fügt nahen Einheiten Säureschaden zu."
 
 msgctxt "scripts/text_weapons.lua_CentipedeAtk2_Name"
 msgid "Corrosive Vomit"
@@ -6285,7 +6285,7 @@ msgctxt ""
 "scripts/text_weapons.lua_FireflyAtk1_Description,scripts/text_weapons."
 "lua_FireflyAtk2_Description"
 msgid "Launch a volatile mass of goo."
-msgstr "Starte eine flüchtige Masse von Goo."
+msgstr "Starte eine volatile Masse von Goo."
 
 msgctxt "scripts/text_weapons.lua_FireflyAtk2_Name"
 msgid "Enhanced Thorax"
@@ -6349,7 +6349,7 @@ msgstr ""
 
 msgctxt "scripts/text_weapons.lua_BlobAtk2_Name"
 msgid "Volatile Guts"
-msgstr "Flüchtige Eingeweide"
+msgstr "Volatile Eingeweide"
 
 msgctxt "scripts/text_weapons.lua_SpiderAtk1_Name"
 msgid "Tiny Offspring"
@@ -8154,14 +8154,14 @@ msgstr "Gehe 2 Felder vor, wird aber bei Blockierung zerstört."
 
 msgctxt "#128,#140"
 msgid "Do not kill the Volatile Vek"
-msgstr "Töte den flüchtigen Vek nicht"
+msgstr "Töte den volatilen Vek nicht"
 
 msgctxt "#129"
 msgid ""
 "Don't let the Volatile \n"
 "Vek die"
 msgstr ""
-"Lassen Sie das flüchtigen Vek\n"
+"Lassen Sie den volatilen Vek\n"
 "nicht sterben"
 
 msgctxt "#69"
@@ -8323,6 +8323,90 @@ msgstr "Eiskanone"
 msgctxt "#110"
 msgid "Shoot a projectile that freezes targets"
 msgstr "Schieße ein Projektil das dass Ziel einfriert"
+
+msgctxt "#167"
+msgid "Earn VAL or more Corporate Reputation."
+msgstr "Verdiene VAL oder mehr Reputation"
+
+msgctxt "#168"
+msgid "Lose VAL or less total Grid Power."
+msgstr "Verliere VAL oder weniger gesamte Netzenergie"
+
+msgctxt "#169"
+msgid "Take VAL or less total Mech Damage"
+msgstr "Erhalte VAL oder weniger Gesamt Mech Schaden"
+
+msgctxt "#170"
+msgid "Don't fail any Bonus Objective."
+msgstr "Vebocke keine Bonusziel."
+
+msgctxt "#171"
+msgid "Earn VAL Grid Power or more."
+msgstr "Verdiene VAL oder mehr Netzenergie."
+
+msgctxt "#151"
+msgid "Robotics Lab"
+msgstr "Robotiklabor"
+
+msgctxt "#152"
+msgid "Old Earth Bar"
+msgstr "Alte Erdbar"
+
+msgctxt "#153"
+msgid "Corporate Tower"
+msgstr "Unternehmensturm"
+
+msgctxt "#154"
+msgid "Defense Lab"
+msgstr "Verteidigungslabor"
+
+msgctxt "#155"
+msgid "Shield Generator"
+msgstr "Schildgenerator"
+
+msgctxt "#156"
+msgid "Power Generator"
+msgstr "Stromgenerator"
+
+msgctxt "#157"
+msgid "Emergency Batteries"
+msgstr "Notfallbatterien"
+
+msgctxt "#158"
+msgid "Airfield"
+msgstr "Flugplatz"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Archive_A"
+#~ msgid "Rift Walkers"
+#~ msgstr "Rift Walkers"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Archive_B"
+#~ msgid "Steel Judoka"
+#~ msgstr "Steel Judoka"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Rust_A"
+#~ msgid "Rusting Hulks"
+#~ msgstr "Rusting Hulks"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Rust_B"
+#~ msgid "Flame Behemoths"
+#~ msgstr "Flame Behemoths"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Pinnacle_A"
+#~ msgid "Zenith Guard"
+#~ msgstr "Zenith Guard"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Pinnacle_B"
+#~ msgid "Frozen Titans"
+#~ msgstr "Frozen Titans"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Detritus_B"
+#~ msgid "Hazardous Mechs"
+#~ msgstr "Gefährliche Mechs"
+
+#~ msgctxt "scripts/text.lua_TipTitle_Secret"
+#~ msgid "Secret Squad"
+#~ msgstr "Geheimer Squad"
 
 #~ msgctxt "scripts/text.lua_Tutorial_VolatileVek_Title"
 #~ msgid "Volatile Vek"

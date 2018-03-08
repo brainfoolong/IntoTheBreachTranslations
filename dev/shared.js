@@ -164,9 +164,28 @@ const shared = {
     ['You withdrew from the battlefield, leaving supplies and civilians behind.', '"%s"'],
     ['All of your mechs have been disabled. An evacuation team will arrive shortly to recover your pilots and their wreckage.', '"%s"'],
     ['Current Damage:', '%s'],
-    ['Current:', '%s']
-
-
+    ['Current:', '%s'],
+    ['Robotics Lab', '"%s"'],
+    ['Old Earth Bar', '"%s"'],
+    ['Corporate Tower', '"%s"'],
+    ['Defense Lab', '"%s"'],
+    ['Shield Generator', '"%s"'],
+    ['Power Generator', '"%s"'],
+    ['Emergency Batteries', '"%s"'],
+    ['Airfield', '"%s"'],
+    ['Rift Walkers', '"%s"'],
+    ['Rusting Hulks', '"%s"'],
+    ['Zenith Guard', '"%s"'],
+    ['Steel Judoka', '"%s"'],
+    ['Flame Behemoths', '"%s"'],
+    ['Frozen Titans', '"%s"'],
+    ['Hazardous Mechs', '"%s"'],
+    ['Secret Squad', '"%s"'],
+    ['Earn VAL or more Corporate Reputation.', '"%s"'],
+    ['Lose VAL or less total Grid Power.', '"%s"'],
+    ['Take VAL or less total Mech Damage', '"%s"'],
+    ['Don\'t fail any Bonus Objective.', '"%s"'],
+    ['Earn VAL Grid Power or more.', '"%s"']
   ],
   '__additionalTranslationFiles': {
     'scripts/missions/acid/mission_acidtank.lua': {
