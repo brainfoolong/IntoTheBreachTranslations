@@ -23,20 +23,31 @@ languages.forEach(function (langFile) {
   }
   const language = langFile.substring(0, langFile.length - 3)
   const values = {}
+  const translationValues = {}
   const lines = fs.readFileSync(langDir + '/' + langFile).toString().split('\n')
   let poFileData = shared.parsePoFile(lines, true)
   for (let poId in poFileData) {
     const poData = poFileData[poId]
     poData.msgctxt.split(',').forEach(function (msgctxt) {
-      let matchAdditional = msgctxt.match(/(.*?\.lua)\#([0-9]+)/i)
+      let matchAdditionalFile = msgctxt.match(/(.*?\.lua)\#([0-9]+)/i)
+      let matchAdditionalKey = msgctxt.match(/^\#([0-9]+)/i)
       // handle additional translations
       let file = null
-      if (matchAdditional) {
-        file = matchAdditional[1]
+      if (matchAdditionalKey) {
+        translationValues[matchAdditionalKey[1]] = poData.msgstr.length ? poData.msgstr : null
+        file = matchAdditionalFile[1]
         if (typeof values[file] === 'undefined') {
           values[file] = {}
         }
-        values[file][matchAdditional[2]] = poData.msgstr.length ? poData.msgstr : poData.msgid
+        return
+      }
+      // handle additional translation files
+      if (matchAdditionalFile) {
+        file = matchAdditionalFile[1]
+        if (typeof values[file] === 'undefined') {
+          values[file] = {}
+        }
+        values[file][matchAdditionalFile[2]] = poData.msgstr.length ? poData.msgstr : poData.msgid
         return
       }
       let match = msgctxt.match(/(.*?\.lua)_(.*)/i)
@@ -80,23 +91,25 @@ languages.forEach(function (langFile) {
     let context = null
     let newContext = null
     // handle additional translations
-    if (typeof shared.additionalTranslationFiles[file] !== 'undefined') {
-      let translationLines = shared.additionalTranslationFiles[file]
-      for (let id in translationLines) {
-        let translationData = translationLines[id]
-        let text = translationData.text
-        translationData.lines.forEach(function (lineNr) {
-          lineNr--
-          let line = dataLines[lineNr]
-          let regex = new RegExp(shared.escapeRegex(text), 'g')
-          if (!line.match(regex)) {
-            throw 'Error - Could not find translation text \'' + text + '\' in original file \'' + file + ':' + lineNr + '\''
-          }
-          dataLines[lineNr] = line.replace(regex, valuesRow[id])
-        })
+    if (shared.additionalTranslationFiles) {
+      if (typeof shared.additionalTranslationFiles[file] !== 'undefined') {
+        let translationLines = shared.additionalTranslationFiles[file]
+        for (let id in translationLines) {
+          let translationData = translationLines[id]
+          let text = translationData.text
+          translationData.lines.forEach(function (lineNr) {
+            lineNr--
+            let line = dataLines[lineNr]
+            let regex = new RegExp(shared.escapeRegex(text), 'g')
+            if (!line.match(regex)) {
+              throw 'Error - Could not find translation text \'' + text + '\' in original file \'' + file + ':' + lineNr + '\''
+            }
+            dataLines[lineNr] = line.replace(regex, valuesRow[id])
+          })
+        }
+        gameFiles[file] = dataLines.join('\r\n')
+        continue
       }
-      gameFiles[file] = dataLines.join('\r\n')
-      continue
     }
     dataLines.forEach(function (line, lineNr) {
       const lineTrimmed = line.trim()
@@ -159,6 +172,30 @@ languages.forEach(function (langFile) {
     })
     gameFiles[file] = dataLines.join('\r\n')
   }
+  // handle additional translation files
+  let luaFiles = shared.getAllOtherLuaFiles(shared.config.gamesrc, [])
+  luaFiles.forEach(function (file) {
+    let fileRelative = file.substr(shared.config.gamesrc.length + 1)
+    let fileData = typeof gameFiles[fileRelative] !== 'undefined' ? gameFiles[fileRelative] : fs.readFileSync(file).toString()
+    fileData = fileData.replace(/\r/g, '')
+    let found = false
+    let lines = fileData.split('\n')
+    for (let id in translationValues) {
+      let row = shared.additionalTranslations[id]
+      let text = row[0]
+      let textEscaped = row[1].replace(/\%s/, shared.escapeRegex(text))
+      let regex = new RegExp(textEscaped, 'g')
+      lines.forEach(function (line, lineNr) {
+        if (line.match(regex)) {
+          lines[lineNr] = line.replace(regex, translationValues[id])
+          found = true
+        }
+      })
+    }
+    if (found) {
+      gameFiles[fileRelative] = lines.join('\r\n')
+    }
+  })
   // create new game files
   const zip = new require('node-zip')()
   for (let file in gameFiles) {

@@ -71,25 +71,48 @@ shared.translationFiles.forEach(function (translationFile) {
 })
 
 // handle additional translations
-for (let file in shared.additionalTranslationFiles) {
-  let fileData = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
-  let lines = fileData.split('\n')
-  let translationLines = shared.additionalTranslationFiles[file]
-  for (let id in translationLines) {
-    let data = translationLines[id]
-    let text = data.text
-    data.lines.forEach(function (lineNr) {
-      if (!lines[lineNr - 1].match(new RegExp(shared.escapeRegex(text)))) {
-        throw 'Error - Could not find translation text \'' + text + '\' in original file \'' + file + ':' + lineNr + '\''
-      }
-    })
+if (shared.additionalTranslationFiles) {
+  for (let file in shared.additionalTranslationFiles) {
+    let fileData = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
+    let lines = fileData.split('\n')
+    let translationLines = shared.additionalTranslationFiles[file]
+    for (let id in translationLines) {
+      let data = translationLines[id]
+      let text = data.text
+      data.lines.forEach(function (lineNr) {
+        if (!lines[lineNr - 1].match(new RegExp(shared.escapeRegex(text)))) {
+          throw 'Error - Could not find translation text \'' + text + '\' in original file \'' + file + ':' + lineNr + '\''
+        }
+      })
 
-    if (typeof valuesGrouped[text] === 'undefined') {
-      valuesGrouped[text] = []
+      if (typeof valuesGrouped[text] === 'undefined') {
+        valuesGrouped[text] = []
+      }
+      valuesGrouped[text].push(file + '#' + id)
     }
-    valuesGrouped[text].push(file + '#' + id)
   }
 }
+// handle additional translations
+let luaFiles = shared.getAllOtherLuaFiles(shared.config.gamesrc, [])
+luaFiles.forEach(function (file) {
+  let fileData = fs.readFileSync(file).toString()
+  let lines = fileData.split('\n')
+  shared.additionalTranslations.forEach(function (row, key) {
+    let text = row[0]
+    let textEscaped = row[1].replace(/\%s/, shared.escapeRegex(text))
+    let regex = new RegExp(textEscaped)
+    lines.forEach(function (line, lineNr) {
+      if (line.match(regex)) {
+        if (typeof valuesGrouped[text] === 'undefined') {
+          valuesGrouped[text] = []
+        }
+        if (valuesGrouped[text].indexOf('#' + key) === -1) {
+          valuesGrouped[text].push('#' + key)
+        }
+      }
+    })
+  })
+})
 
 const text = ['msgid ""', 'msgstr ""']
 for (let msgid in valuesGrouped) {

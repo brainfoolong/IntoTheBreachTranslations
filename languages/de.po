@@ -2740,7 +2740,7 @@ msgstr ""
 "contact@subsetgames.com wenn du willst das wir eine Wiederherstellung "
 "probieren.\n"
 "\n"
-"Es tut uns sehr leid."
+"Es tut uns sehr leid!"
 
 msgctxt "scripts/text.lua_Warning_ProfileCorrupted"
 msgid ""
@@ -2753,7 +2753,7 @@ msgstr ""
 "contact@subsetgames.com wenn du willst das wir eine Wiederherstellung "
 "probieren.\n"
 "\n"
-"Es tut uns sehr leid."
+"Es tut uns sehr leid!"
 
 msgctxt "scripts/text.lua_Menu_NoSave"
 msgid "WARNING: There is a file write error and your progress cannot be saved."
@@ -7708,9 +7708,7 @@ msgctxt ""
 msgid "Fire a projectile that applies A.C.I.D. to a single tile."
 msgstr "Feuere ein Projektil ab, das Säure auf ein Feld wirken lässt."
 
-msgctxt ""
-"scripts/text_weapons.lua_DeploySkill_AcidTank_Name,scripts/missions/acid/"
-"mission_acidtank.lua#3"
+msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_Name,#4"
 msgid "A.C.I.D. Tank"
 msgstr "Säurepanzer"
 
@@ -7758,27 +7756,121 @@ msgctxt "scripts/text_weapons.lua_DeploySkill_SGenerator_A_UpgradeDescription"
 msgid "Increases the Shield-Tank's HP to 3."
 msgstr "Erhöht die HP des Schild-Panzers auf 3."
 
-msgctxt "scripts/missions/acid/mission_acidtank.lua#0"
+msgctxt "#0"
 msgid "Kill 4 enemies inflicted with A.C.I.D."
-msgstr "Töte 4 Feinde mit Säure."
+msgstr "Töte 4 Feinde mit Säure"
 
-msgctxt "scripts/missions/acid/mission_acidtank.lua#1"
-msgid ""
-"Kill 4 enemies inflicted\n"
-"with A.C.I.D."
-msgstr "Töte 4 Feinde mit Säure."
-
-msgctxt "scripts/missions/acid/mission_acidtank.lua#2"
+msgctxt "#3"
 msgid "killed"
 msgstr "getötet"
 
-msgctxt "scripts/missions/acid/mission_acidtank.lua#4"
+msgctxt "#5"
 msgid "Success"
 msgstr "Erfolgreich"
 
-msgctxt "scripts/missions/acid/mission_acidtank.lua#5"
+msgctxt "#6"
 msgid "Failure"
 msgstr "Fehlgeschlagen"
+
+msgctxt "#7"
+msgid "Destroy the A.C.I.D. Vats"
+msgstr "Zerstöre Säurefässer"
+
+msgctxt "#10"
+msgid "Conveyors"
+msgstr "Förderer"
+
+msgctxt "#11"
+msgid ""
+"Conveyor Belts will push any unit on them in the marked direction at the "
+"start of the enemy turn."
+msgstr ""
+"Förderbändern schieben ein Objekt in die markierte Richtung am Beginn des "
+"Zuges."
+
+msgctxt "#12"
+msgid "CONVEYOR BELTS"
+msgstr "FÖRDERBÄNDER"
+
+msgctxt "#13"
+msgid "CONVEYORS"
+msgstr "FÖRDERER"
+
+msgctxt "#14"
+msgid "Defend the Disposal Unit"
+msgstr "Beschütze die Entsorgungseinheit"
+
+msgctxt "#15"
+msgid "Destroy all mountains"
+msgstr "Zerstöre alle Berge"
+
+msgctxt "#16"
+msgid "Mountains"
+msgstr "Berge"
+
+msgctxt "#17"
+msgid "Disposal"
+msgstr "Entsorgung"
+
+msgctxt "#18"
+msgid "A.C.I.D. Launcher"
+msgstr "Säure Launcher"
+
+msgctxt "#2"
+msgid "killed so far"
+msgstr "getötet"
+
+#~ msgctxt ""
+#~ "scripts/text_weapons.lua_DeploySkill_AcidTank_Name,scripts/missions/acid/"
+#~ "mission_acidtank.lua#3"
+#~ msgid "A.C.I.D. Tank"
+#~ msgstr "Säurepanzer"
+
+#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#0"
+#~ msgid "Kill 4 enemies inflicted with A.C.I.D."
+#~ msgstr "Töte 4 Feinde mit Säure."
+
+#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#1"
+#~ msgid ""
+#~ "Kill 4 enemies inflicted\n"
+#~ "with A.C.I.D."
+#~ msgstr "Töte 4 Feinde mit Säure."
+
+#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#2"
+#~ msgid "killed"
+#~ msgstr "getötet"
+
+#~ msgctxt ""
+#~ "scripts/missions/acid/mission_acidtank.lua#4,scripts/missions/acid/"
+#~ "mission_barrels.lua#1"
+#~ msgid "Success"
+#~ msgstr "Erfolgreich"
+
+#~ msgctxt ""
+#~ "scripts/missions/acid/mission_acidtank.lua#5,scripts/missions/acid/"
+#~ "mission_barrels.lua#2"
+#~ msgid "Failure"
+#~ msgstr "Fehler"
+
+#~ msgctxt "scripts/missions/acid/mission_barrels.lua#0"
+#~ msgid "Destroy the A.C.I.D. Vats"
+#~ msgstr "Zerstöre die Säurefässer"
+
+#~ msgctxt "scripts/missions/acid/mission_barrels.lua#3"
+#~ msgid "Destroy the Vats"
+#~ msgstr "Zerstöre die Fässer"
+
+#~ msgctxt "scripts/missions/acid/mission_barrels.lua#4"
+#~ msgid "Remain"
+#~ msgstr "übrig"
+
+#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#4"
+#~ msgid "Success"
+#~ msgstr "Erfolgreich"
+
+#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#5"
+#~ msgid "Failure"
+#~ msgstr "Fehlgeschlagen"
 
 #~ msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_Name"
 #~ msgid "A.C.I.D. Tank"
