@@ -14,8 +14,8 @@ const shared = {
     'Weapon_Texts = {': 'Weapon_Texts'
   },
   'additionalTranslations': [
-    ['Kill 4 enemies inflicted with A.C.I.D.', '"%s"'],
-    ['Kill 4 enemies inflicted\\nwith A.C.I.D.', '"%s"'],
+    ['Kill 4 enemies inflicted with A.C.I.D.', '"%s'],
+    ['Kill 4 enemies inflicted\\nwith A.C.I.D.', '"%s'],
     ['killed so far', '%s\\)"'],
     ['killed', '%s\\)"'],
     ['A.C.I.D. Tank', '"%s"'],
@@ -32,7 +32,11 @@ const shared = {
     ['Destroy all mountains', '"%s"'],
     ['Mountains', '"%s"'],
     ['Disposal', '"%s"'],
-    ['A.C.I.D. Launcher', '"%s"']
+    ['A.C.I.D. Launcher', '"%s"'],
+    ['Partial', '"%s"'],
+    ['Air Support', '"%s"'],
+    ['Bombs will be dropped on the marked spaces, killing any unit.', '"%s"'],
+    ['AIR SUPPORT', '"%s"']
   ],
   '__additionalTranslationFiles': {
     'scripts/missions/acid/mission_acidtank.lua': {

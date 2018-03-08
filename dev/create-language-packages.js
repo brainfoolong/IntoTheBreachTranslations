@@ -35,10 +35,6 @@ languages.forEach(function (langFile) {
       let file = null
       if (matchAdditionalKey) {
         translationValues[matchAdditionalKey[1]] = poData.msgstr.length ? poData.msgstr : null
-        file = matchAdditionalFile[1]
-        if (typeof values[file] === 'undefined') {
-          values[file] = {}
-        }
         return
       }
       // handle additional translation files
@@ -183,11 +179,13 @@ languages.forEach(function (langFile) {
     for (let id in translationValues) {
       let row = shared.additionalTranslations[id]
       let text = row[0]
-      let textEscaped = row[1].replace(/\%s/, shared.escapeRegex(text))
+      let textEscaped = row[1].replace(/\%s/, '(' + shared.escapeRegex(text) + ')')
       let regex = new RegExp(textEscaped, 'g')
       lines.forEach(function (line, lineNr) {
-        if (line.match(regex)) {
-          lines[lineNr] = line.replace(regex, translationValues[id])
+        let m = line.match(regex)
+        if (m) {
+          m[0] = m[0].replace(new RegExp(shared.escapeRegex(text), 'g'), translationValues[id])
+          lines[lineNr] = line.replace(regex, m[0])
           found = true
         }
       })
