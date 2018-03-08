@@ -1,9 +1,9 @@
 ![](https://img.shields.io/badge/Game_Version-1.0.17(3--6--2018)-green.svg) 
-![](https://img.shields.io/badge/DE__WorkingAlpha-72%25_Translated-orange.svg)
+![](https://img.shields.io/badge/DE__WorkingAlpha-80%25_Translated-orange.svg)
 # Into the Breach - Translations
 Inofficial Translations for PC Game Into the Breach. This is all fan made. You can help translating this game into your language. If used, it does directly modify some game files.
 
-Until now, a complete translation file for one language contains more than 1500 lines of text. A huge job that really take some time and that demands your stamina.
+Until now, a complete translation file for one language contains more than 1600 lines of text. A huge job that really take some time and that demands your stamina.
 
 ## Note
 I've contacted the Developer SubsetGames. This project is ok for them, right now. But maybe things will change in the future. Thanks for being open to fan mods.
@@ -13,7 +13,6 @@ I've contacted the Developer SubsetGames. This project is ok for them, right now
 * Other languages are missing contributors. Become one.
 
 ## Todos
-* Include missing mission translations
 * Include missing pilot/company texts and stories
 
 ## How to install
