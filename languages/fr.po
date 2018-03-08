@@ -2873,7 +2873,7 @@ msgstr "Défaite"
 
 msgctxt "scripts/text.lua_Stats_ScoreVictory"
 msgid "$1 Island Victory!"
-msgstr "$1 Victoire d'Île "
+msgstr "$1 Victoire d'Île !"
 
 msgctxt "scripts/text.lua_Stats_ScoreScore"
 msgid "Civilians Saved:"
@@ -2930,10 +2930,9 @@ msgctxt "scripts/text.lua_Stats_VekDestruction"
 msgid "Most Destructive"
 msgstr "Plus Destructeur"
 
-#, fuzzy
 msgctxt "scripts/text.lua_Stats_VekDestructionStat"
 msgid "Grid Damage:"
-msgstr "Grille de Dégâts"
+msgstr "Grille de Dégâts :"
 
 msgctxt "scripts/text.lua_Stats_ListButton"
 msgid "Back to List"
@@ -3301,7 +3300,7 @@ msgstr "Editer Raccourcis"
 
 msgctxt "scripts/text.lua_Button_Options_Default"
 msgid "Default Windowed"
-msgstr "Fenêtré par Défaut "
+msgstr "Fenêtré par Défaut"
 
 msgctxt "scripts/text.lua_Button_Options_Scale"
 msgid "Max Board Scale: $1"
@@ -3393,7 +3392,7 @@ msgstr "Menace Vek : Inarrêtable"
 
 msgctxt "scripts/text.lua_Opening_3"
 msgid "Mission: Failed              "
-msgstr "Mission : Echoué"
+msgstr "Mission : Echoué              "
 
 msgctxt "scripts/text.lua_Opening_4"
 msgid "Open a breach.        "
