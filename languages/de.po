@@ -3303,7 +3303,7 @@ msgstr "ERFOLGE"
 
 msgctxt "scripts/text.lua_Button_Escape_Quit"
 msgid "SAVE and QUIT"
-msgstr "Speichern und Ende"
+msgstr "SPEICHERN U. ENDE"
 
 msgctxt "scripts/text.lua_Button_Escape_Abandon"
 msgid "ABANDON TIMELINE"
