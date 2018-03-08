@@ -75,7 +75,7 @@ const shared = {
     ['Defend the 1st satellite launch', '"%s"'],
     ['Defend the 2nd satellite launch', '"%s"'],
     ['Satellite Rocket', '"%s"'],
-    ['Defend the Tanks', '"%s(\\n)*"'],
+    ['Defend the Tanks', '"%s'],
     ['Defend Archive Inc. Tanks (One Lost)', '"%s"'],
     ['undamaged', '%s\\)"'],
     ['Archive Tank', '"%s"'],
