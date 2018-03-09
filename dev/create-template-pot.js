@@ -139,7 +139,7 @@ luaFiles.forEach(function (file) {
           if (typeof valuesGrouped[v] === 'undefined') {
             valuesGrouped[v] = []
           }
-          valuesGrouped[v].push('~missions.csv' + md5(v))
+          valuesGrouped[v].push('~scripts/personalities/missions.csv_' + md5(v))
         }
       }
     } while (m)

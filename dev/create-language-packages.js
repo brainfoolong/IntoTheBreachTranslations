@@ -24,6 +24,7 @@ languages.forEach(function (langFile) {
   const language = langFile.substring(0, langFile.length - 3)
   const values = {}
   const translationValues = {}
+  const csvValues = {}
   const lines = fs.readFileSync(langDir + '/' + langFile).toString().split('\n')
   let poFileData = shared.parsePoFile(lines, true)
   for (let poId in poFileData) {
@@ -31,8 +32,15 @@ languages.forEach(function (langFile) {
     poData.msgctxt.split(',').forEach(function (msgctxt) {
       let matchAdditionalFile = msgctxt.match(/(.*?\.lua)\#([0-9]+)/i)
       let matchAdditionalKey = msgctxt.match(/^\#([0-9]+)/i)
-      // handle additional translations
+      let matchAdditionalCsv = msgctxt.match(/^\~(.*?)\.csv(.*?)/i)
+      // handle csv translations
       let file = null
+      if (matchAdditionalCsv) {
+        file = matchAdditionalCsv[1]
+        csvValues[matchAdditionalKey[1]] = poData.msgstr.length ? poData.msgstr : null
+        return
+      }
+      // handle additional translations
       if (matchAdditionalKey) {
         translationValues[matchAdditionalKey[1]] = poData.msgstr.length ? poData.msgstr : null
         return
