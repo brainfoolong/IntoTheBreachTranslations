@@ -5,6 +5,7 @@ const iconv = require('iconv-lite')
 const shared = require(__dirname + '/shared')
 const langDir = __dirname + '/../languages'
 const languages = fs.readdirSync(langDir)
+const md5 = require('md5')
 
 // get all translatable game files
 const gameFiles = {}
@@ -32,12 +33,15 @@ languages.forEach(function (langFile) {
     poData.msgctxt.split(',').forEach(function (msgctxt) {
       let matchAdditionalFile = msgctxt.match(/(.*?\.lua)\#([0-9]+)/i)
       let matchAdditionalKey = msgctxt.match(/^\#([0-9]+)/i)
-      let matchAdditionalCsv = msgctxt.match(/^\~(.*?)\.csv(.*?)/i)
+      let matchAdditionalCsv = msgctxt.match(/^\~(.*?\.csv)_(.*)/i)
       // handle csv translations
       let file = null
       if (matchAdditionalCsv) {
         file = matchAdditionalCsv[1]
-        csvValues[matchAdditionalKey[1]] = poData.msgstr.length ? poData.msgstr : null
+        if (typeof csvValues[file] === 'undefined') {
+          csvValues[file] = {}
+        }
+        csvValues[file][matchAdditionalCsv[2]] = poData.msgstr.length ? poData.msgstr : null
         return
       }
       // handle additional translations
@@ -207,6 +211,33 @@ languages.forEach(function (langFile) {
       gameFiles[fileRelative] = lines.join('\r\n')
     }
   })
+  // handle additional csv files
+  for (let file in csvValues) {
+    let fileData = typeof gameFiles[file] !== 'undefined' ? gameFiles[file] : fs.readFileSync(shared.config.gamesrc + '/' + file).toString()
+    fileData = fileData.replace(/\r/g, '')
+    let lines = fileData.split('\n')
+    lines.forEach(function (line, lineNr) {
+      if (lineNr <= 2) {
+        return
+      }
+      const re = /"(.{2,}?)"/g
+      let m
+      do {
+        m = re.exec(line)
+        if (m) {
+          const v = m[1].replace(/\n/g, '').replace(/\\n/g, '').replace(/^[",]+|[",\\]+$/g, '').trim()
+          if (v.length) {
+            const hash = md5(v)
+            if (typeof csvValues[file][hash] !== 'undefined') {
+              line = line.replace(new RegExp('([^\\w])(' + shared.escapeRegex(v) + ')([^\\w])', 'g'), '$1' + csvValues[file][hash] + '$3')
+              lines[lineNr] = line
+            }
+          }
+        }
+      } while (m)
+      gameFiles[file] = lines.join('\r\n')
+    })
+  }
   // create new game files
   const zip = new require('node-zip')()
   for (let file in gameFiles) {
