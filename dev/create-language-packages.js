@@ -5,6 +5,7 @@ const iconv = require('iconv-lite')
 const shared = require(__dirname + '/shared')
 const langDir = __dirname + '/../languages'
 const languages = fs.readdirSync(langDir)
+const md5 = require('md5')
 
 // get all translatable game files
 const gameFiles = {}
@@ -24,6 +25,7 @@ languages.forEach(function (langFile) {
   const language = langFile.substring(0, langFile.length - 3)
   const values = {}
   const translationValues = {}
+  const csvValues = {}
   const lines = fs.readFileSync(langDir + '/' + langFile).toString().split('\n')
   let poFileData = shared.parsePoFile(lines, true)
   for (let poId in poFileData) {
@@ -31,8 +33,18 @@ languages.forEach(function (langFile) {
     poData.msgctxt.split(',').forEach(function (msgctxt) {
       let matchAdditionalFile = msgctxt.match(/(.*?\.lua)\#([0-9]+)/i)
       let matchAdditionalKey = msgctxt.match(/^\#([0-9]+)/i)
-      // handle additional translations
+      let matchAdditionalCsv = msgctxt.match(/^\~(.*?\.csv)_(.*)/i)
+      // handle csv translations
       let file = null
+      if (matchAdditionalCsv) {
+        file = matchAdditionalCsv[1]
+        if (typeof csvValues[file] === 'undefined') {
+          csvValues[file] = {}
+        }
+        csvValues[file][matchAdditionalCsv[2]] = poData.msgstr.length ? poData.msgstr : null
+        return
+      }
+      // handle additional translations
       if (matchAdditionalKey) {
         translationValues[matchAdditionalKey[1]] = poData.msgstr.length ? poData.msgstr : null
         return
@@ -46,6 +58,7 @@ languages.forEach(function (langFile) {
         values[file][matchAdditionalFile[2]] = poData.msgstr.length ? poData.msgstr : poData.msgid
         return
       }
+      // the text*.lua files
       let match = msgctxt.match(/(.*?\.lua)_(.*)/i)
       file = match[1]
       if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua' || file === 'scripts/text_weapons.lua') {
@@ -86,7 +99,7 @@ languages.forEach(function (langFile) {
     const valuesRow = values[file]
     let context = null
     let newContext = null
-    // handle additional translations
+    // handle additional translations files
     if (shared.additionalTranslationFiles) {
       if (typeof shared.additionalTranslationFiles[file] !== 'undefined') {
         let translationLines = shared.additionalTranslationFiles[file]
@@ -107,6 +120,7 @@ languages.forEach(function (langFile) {
         continue
       }
     }
+    // the text*.lua files
     dataLines.forEach(function (line, lineNr) {
       const lineTrimmed = line.trim()
       dataLines[lineNr] = line
@@ -168,7 +182,7 @@ languages.forEach(function (langFile) {
     })
     gameFiles[file] = dataLines.join('\r\n')
   }
-  // handle additional translation files
+  // handle additional translation keys
   let luaFiles = shared.getAllOtherLuaFiles(shared.config.gamesrc, [])
   luaFiles.forEach(function (file) {
     let fileRelative = file.substr(shared.config.gamesrc.length + 1)
@@ -178,6 +192,9 @@ languages.forEach(function (langFile) {
     let lines = fileData.split('\n')
     for (let id in translationValues) {
       let row = shared.additionalTranslations[id]
+      if (!row) {
+        continue
+      }
       let text = row[0]
       let textEscaped = row[1].replace(/\%s/, '(' + shared.escapeRegex(text) + ')')
       let regex = new RegExp(textEscaped, 'g')
@@ -194,6 +211,33 @@ languages.forEach(function (langFile) {
       gameFiles[fileRelative] = lines.join('\r\n')
     }
   })
+  // handle additional csv files
+  for (let file in csvValues) {
+    let fileData = typeof gameFiles[file] !== 'undefined' ? gameFiles[file] : fs.readFileSync(shared.config.gamesrc + '/' + file).toString()
+    fileData = fileData.replace(/\r/g, '')
+    let lines = fileData.split('\n')
+    lines.forEach(function (line, lineNr) {
+      if (lineNr <= 2) {
+        return
+      }
+      const re = /"(.{2,}?)"/g
+      let m
+      do {
+        m = re.exec(line)
+        if (m) {
+          const v = m[1].replace(/\n/g, '').replace(/\\n/g, '').replace(/^[",]+|[",\\]+$/g, '').trim()
+          if (v.length) {
+            const hash = md5(v)
+            if (typeof csvValues[file][hash] !== 'undefined') {
+              line = line.replace(new RegExp('([^\\w])(' + shared.escapeRegex(v) + ')([^\\w])', 'g'), '$1' + csvValues[file][hash] + '$3')
+              lines[lineNr] = line
+            }
+          }
+        }
+      } while (m)
+      gameFiles[file] = lines.join('\r\n')
+    })
+  }
   // create new game files
   const zip = new require('node-zip')()
   for (let file in gameFiles) {

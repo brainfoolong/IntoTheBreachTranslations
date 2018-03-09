@@ -16,6 +16,9 @@ languages.forEach(function (langFile) {
     return
   }
   const language = langFile.substring(0, langFile.length - 3)
+  if(shared.config.langInGameDir !== language){
+    return
+  }
   const lines = fs.readFileSync(langDir + '/' + langFile).toString().split('\n')
   let poFileData = shared.parsePoFile(lines, false)
   let poFileDataFlat = shared.parsePoFile(lines, true)

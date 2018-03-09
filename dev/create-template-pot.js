@@ -2,8 +2,10 @@
 
 const fs = require('fs')
 const shared = require(__dirname + '/shared')
+const md5 = require('md5')
 
 const valuesGrouped = {}
+// the text*.lua files
 shared.translationFiles.forEach(function (translationFile) {
   const filedata = fs.readFileSync(shared.config.gamesrc + '/' + translationFile).toString()
   const lines = filedata.split('\n')
@@ -92,12 +94,15 @@ if (shared.additionalTranslationFiles) {
     }
   }
 }
-// handle additional translations
+// handle additional translation keys
 let luaFiles = shared.getAllOtherLuaFiles(shared.config.gamesrc, [])
 luaFiles.forEach(function (file) {
   let fileData = fs.readFileSync(file).toString()
   let lines = fileData.split('\n')
   shared.additionalTranslations.forEach(function (row, key) {
+    if (!row) {
+      return
+    }
     let text = row[0]
     let textEscaped = row[1].replace(/\%s/, shared.escapeRegex(text))
     let regex = new RegExp(textEscaped)
@@ -112,7 +117,34 @@ luaFiles.forEach(function (file) {
       }
     })
   })
-})
+});
+
+// handle missions.csv file
+(function () {
+  const parse = require('csv-parse/lib/sync')
+  let data = fs.readFileSync(shared.config.gamesrc + '/scripts/personalities/missions.csv').toString()
+  data = data.replace(/\r/g, '')
+  let lines = data.split('\n')
+  lines.forEach(function (line, lineNr) {
+    if (lineNr <= 2) {
+      return
+    }
+    const re = /"(.{2,}?)"/g
+    let m
+    do {
+      m = re.exec(line)
+      if (m) {
+        const v = m[1].replace(/\n/g, '').replace(/\\n/g, '').replace(/^[",]+|[",\\]+$/g, '').trim()
+        if (v.length) {
+          if (typeof valuesGrouped[v] === 'undefined') {
+            valuesGrouped[v] = []
+          }
+          valuesGrouped[v].push('~scripts/personalities/missions.csv_' + md5(v))
+        }
+      }
+    } while (m)
+  })
+})()
 
 const text = ['msgid ""', 'msgstr ""']
 for (let msgid in valuesGrouped) {

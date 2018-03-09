@@ -10,8 +10,12 @@
   },
   "dependencies": {
     "@google-cloud/translate": "^1.1.0",
+    "csv": "^2.0.0",
+    "csv-parse": "^2.0.4",
     "iconv-lite": "^0.4.19",
-    "node-zip": "^1.1.1"
+    "md5": "^2.2.1",
+    "node-zip": "^1.1.1",
+    "should": "^13.2.1"
   },
   "engines": {
     "node": ">=4.0.0"
