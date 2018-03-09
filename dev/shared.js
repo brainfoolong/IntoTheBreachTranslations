@@ -187,40 +187,10 @@ const shared = {
     ['Don\'t fail any Bonus Objective.', '"%s"'],
     ['Earn VAL Grid Power or more.', '"%s"']
   ],
-  '__additionalTranslationFiles': {
-    'scripts/missions/acid/mission_acidtank.lua': {
+  'additionalTranslationFiles': {
+    /*'scripts/missions/acid/mission_acidtank.lua': {
       0: {'text': 'Kill 4 enemies inflicted with A.C.I.D.', 'lines': [4, 18]},
-      1: {'text': 'Kill 4 enemies inflicted\\nwith A.C.I.D.', 'lines': [34]},
-      2: {'text': 'killed', 'lines': [18, 34]},
-      3: {'text': 'A.C.I.D. Tank', 'lines': [44]},
-      4: {'text': 'Success', 'lines': [26]},
-      5: {'text': 'Failure', 'lines': [28]},
-    },
-    'scripts/missions/acid/mission_barrels.lua': {
-      0: {'text': 'Destroy the A.C.I.D. Vats', 'lines': [6, 59]},
-      1: {'text': 'Success', 'lines': [42]},
-      2: {'text': 'Failure', 'lines': [40]},
-      3: {'text': 'Destroy the Vats', 'lines': [51]},
-      4: {'text': 'Remain', 'lines': [51]}
-    },
-    'scripts/missions/acid/mission_belt.lua': {
-      0: {'text': 'Conveyors', 'lines': [14]},
-      1: {
-        'text': 'Conveyor Belts will push any unit on them in the marked direction at the start of the enemy turn.',
-        'lines': [15]
-      },
-      2: {'text': 'CONVEYOR BELTS', 'lines': [16]},
-      3: {'text': 'CONVEYORS', 'lines': [18]},
-    },
-    'scripts/missions/acid/mission_disposal.lua': {
-      0: {'text': 'Defend the Disposal Unit', 'lines': [4, 41]},
-      1: {'text': 'Destroy all mountains', 'lines': [4, 42]},
-      2: {'text': 'Failure', 'lines': [50]},
-      3: {'text': 'Mountains', 'lines': [52]},
-      4: {'text': 'Disposal', 'lines': [54]},
-      5: {'text': 'Success', 'lines': [56]},
-      6: {'text': 'A.C.I.D. Launcher', 'lines': [68]}
-    }
+    },*/
   }
 }
 

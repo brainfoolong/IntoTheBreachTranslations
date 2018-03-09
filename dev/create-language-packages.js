@@ -46,6 +46,7 @@ languages.forEach(function (langFile) {
         values[file][matchAdditionalFile[2]] = poData.msgstr.length ? poData.msgstr : poData.msgid
         return
       }
+      // the text*.lua files
       let match = msgctxt.match(/(.*?\.lua)_(.*)/i)
       file = match[1]
       if (file === 'scripts/text.lua' || file === 'scripts/text_achievements.lua' || file === 'scripts/text_weapons.lua') {
@@ -86,7 +87,7 @@ languages.forEach(function (langFile) {
     const valuesRow = values[file]
     let context = null
     let newContext = null
-    // handle additional translations
+    // handle additional translations files
     if (shared.additionalTranslationFiles) {
       if (typeof shared.additionalTranslationFiles[file] !== 'undefined') {
         let translationLines = shared.additionalTranslationFiles[file]
@@ -107,6 +108,7 @@ languages.forEach(function (langFile) {
         continue
       }
     }
+    // the text*.lua files
     dataLines.forEach(function (line, lineNr) {
       const lineTrimmed = line.trim()
       dataLines[lineNr] = line
@@ -168,7 +170,7 @@ languages.forEach(function (langFile) {
     })
     gameFiles[file] = dataLines.join('\r\n')
   }
-  // handle additional translation files
+  // handle additional translation keys
   let luaFiles = shared.getAllOtherLuaFiles(shared.config.gamesrc, [])
   luaFiles.forEach(function (file) {
     let fileRelative = file.substr(shared.config.gamesrc.length + 1)
