@@ -1351,7 +1351,7 @@ msgstr "Ein zusätzlicher Alpha Vek wird beim Start der Mission anwesend sein"
 
 msgctxt "scripts/text.lua_TipTitle_Mission_Easy"
 msgid "Defense Grid Active"
-msgstr "Verteidigungsgitter aktiv"
+msgstr "Netz Verteidigung aktiv"
 
 msgctxt "scripts/text.lua_TipText_Mission_Easy"
 msgid "Some buildings start with a free Shield"
@@ -1733,15 +1733,15 @@ msgstr "Pilotierte Mech-Bewegung wird um 1 erhöht."
 
 msgctxt "scripts/text.lua_Pilot_GridName"
 msgid "Grid Defense Bonus"
-msgstr "Gitter-Verteidigungsbonus"
+msgstr "Netz-Verteidigungsbonus"
 
 msgctxt "scripts/text.lua_Pilot_GridShort"
 msgid "+3 Grid DEF"
-msgstr "+3 Gitter DEF"
+msgstr "+3 Netz DEF"
 
 msgctxt "scripts/text.lua_Pilot_GridDesc"
 msgid "Grid Defense increased by 3. This affects the chance of resisting Building Damage in combat."
-msgstr "Gitter Verteidigung um 3 erhöht. Dies wirkt sich auf die Chance aus, im Kampf Gebäudeschaden zu widerstehen."
+msgstr "Netz Verteidigung um 3 erhöht. Dies wirkt sich auf die Chance aus, im Kampf Gebäudeschaden zu widerstehen."
 
 msgctxt "scripts/text.lua_Pilot_ReactorName"
 msgid "Reactor Bonus"
@@ -2257,7 +2257,7 @@ msgid ""
 "\n"
 "If the problem persists email us at contact@subsetgames.com"
 msgstr ""
-"\"Into the Breach\" scheint keinen Dateizugriff zu haben, um den Fortschritt zu speichern. \n"
+"'Into the Breach' scheint keinen Dateizugriff zu haben, um den Fortschritt zu speichern. \n"
 "\n"
 "Bitte beenden Sie das Programm und prüfen Sie, ob Ihre Anti-Virus-Software es blockiert. \n"
 "\n"
@@ -2271,7 +2271,7 @@ msgid ""
 "\n"
 "If the problem persists email us at contact@subsetgames.com"
 msgstr ""
-"\"Into the Breach\" kann möglicherweise den Fortschritt nicht retten. \n"
+"'Into the Breach' kann möglicherweise den Fortschritt nicht retten. \n"
 "\n"
 "Bitte beenden Sie das Programm und prüfen Sie, ob Ihre Anti-Virus-Software es blockiert. \n"
 "\n"
@@ -2413,7 +2413,7 @@ msgstr "Meist zerstörerisch"
 
 msgctxt "scripts/text.lua_Stats_VekDestructionStat"
 msgid "Grid Damage:"
-msgstr "Gitterschaden:"
+msgstr "Netzschaden:"
 
 msgctxt "scripts/text.lua_Stats_ListButton"
 msgid "Back to List"
@@ -2537,7 +2537,7 @@ msgstr "Squad editieren"
 
 msgctxt "scripts/text.lua_Hangar_Custom_Locked"
 msgid "Unlock the Squad \"$1\" to use this Mech"
-msgstr "Schalte den Squad \"$1\" frei, um diesen Mech zu benutzen"
+msgstr "Schalte den Squad '$1' frei, um diesen Mech zu benutzen"
 
 msgctxt "scripts/text.lua_Hangar_Custom_Locked_Title"
 msgid "Locked Mech"
@@ -3941,7 +3941,7 @@ msgstr "Stürmisches Wetter"
 
 msgctxt "scripts/text_achievements.lua_Ach_Rust_A_2_Text"
 msgid "Deal 12 damage with Electric Smoke in a single battle"
-msgstr "Verursache 12 Schaden mit \"Elektrischer Rauch\" in einer einzigen Schlacht"
+msgstr "Verursache 12 Schaden mit Elektrischer Rauch in einer einzigen Schlacht"
 
 msgctxt "scripts/text_achievements.lua_Ach_Rust_A_2_Progress"
 msgid "Progress: $1 damage"
@@ -6264,7 +6264,7 @@ msgstr "Gebäude sind Immun"
 
 msgctxt "scripts/text_weapons.lua_Ranged_Artillerymech_A_UpgradeDescription,scripts/text_weapons.lua_Ranged_Defensestrike_A_UpgradeDescription,scripts/text_weapons.lua_Ranged_RainingVolley_A_UpgradeDescription"
 msgid "This attack will no longer damage Grid Buildings."
-msgstr "Dieser Angriff wird Gitterbauten nicht mehr beschädigen."
+msgstr "Dieser Angriff wird Gebäude nicht mehr beschädigen."
 
 msgctxt "scripts/text_weapons.lua_Ranged_Rockthrow_Name"
 msgid "Rock Accelerator"
@@ -7080,7 +7080,7 @@ msgstr "Dies ist eine CEO Nachricht zum Abschluss der Mission. Es reflektiert, w
 
 msgctxt "#134"
 msgid "Less than 3 Grid Damage"
-msgstr "Weniger als 3 Gitterschäden"
+msgstr "Weniger als 3 Netzschaden"
 
 msgctxt "#135"
 msgid "End with less than 4 Mech Damage"
@@ -7108,7 +7108,7 @@ msgstr "Beschütze die"
 
 msgctxt "#141"
 msgid "Take less than 3 Grid Damage"
-msgstr "Erhalte weniger als 3 Gitterschaden"
+msgstr "Erhalte weniger als 3 Netzschaden"
 
 msgctxt "#142"
 msgid "End battle with less than 4 Mech Damage"
@@ -7458,7 +7458,7 @@ msgstr "Meine Berater bestehen darauf, dass wir den Kampf verlieren. Sie bestehe
 
 msgctxt "~missions.csv333b24e7ea8eaea50665bce34bbb78eb"
 msgid "Don't think for a moment I'm falling for the 'time traveler' stories, but your Mechs - they are undeniably impressive."
-msgstr "Denk nicht für einen Moment, ich verliebe mich in die Geschichten von \"Zeitreisenden\", aber deine Mechs - sie sind unbestreitbar beeindruckend."
+msgstr "Denk nicht für einen Moment, ich verliebe mich in die Geschichten von 'Zeitreisenden', aber deine Mechs - sie sind unbestreitbar beeindruckend."
 
 msgctxt "~missions.csvf66070cfe207579e0f8991fa34db337c"
 msgid "You won't find me as gullible as my department heads. Whatever 'time traveler' nonsense you claim, it's your firepower we need."
@@ -7490,7 +7490,7 @@ msgstr "Ich habe von deinen Siegen gegen den Vek gehört, Kommandant. Wir hoffen
 
 msgctxt "~missions.csv8a7a8f3b1d4d22e65b16e9c657411d5b"
 msgid "Our accommodations are sparse, commander, but you and the #squad are welcome here. To quote our corporate motto, 'Detritus is at your disposal'."
-msgstr "Unsere Unterkünfte sind spärlich, Kommandant, aber du und das #squad sind hier willkommen. Um unser Firmenmotto zu zitieren \"Detritus steht dir bei\"."
+msgstr "Unsere Unterkünfte sind spärlich, Kommandant, aber du und das #squad sind hier willkommen. Um unser Firmenmotto zu zitieren 'Detritus steht dir bei'."
 
 msgctxt "~missions.csve1ae3f632522e50480210bf2dd555e22"
 msgid "Our island was once one of hundreds of Detritus disposal sites. Then the Vek came. But with your arrival, Detritus has hope again."
@@ -7638,7 +7638,7 @@ msgstr "Tu was du musst, Kommandant - die Vek müssen zurückgetrieben und unser
 
 msgctxt "~missions.csv2fd595355f2a2c0b2e096f0dadc4da19"
 msgid "Know that you and the #squad are our wall against the Vek, commander. We put our faith in you"
-msgstr "Wisse, dass du und der #Squad unsere Mauer gegen den Vek bist, Kommandant. Wir vertrauen auf dich"
+msgstr "Wisse, dass du und der #squad unsere Mauer gegen den Vek bist, Kommandant. Wir vertrauen auf dich"
 
 msgctxt "~missions.csv1ea593174ef54a135d44e345fd76f748"
 msgid "I have faith in you and the #squad, commander. Know that all of Detritus stands with you."
@@ -7662,7 +7662,7 @@ msgstr "Mit dieser gesicherten Region können wir unsere Technologie-Gewölbe ö
 
 msgctxt "~missions.csv244b6d2307b824878b1bc52267d8b011"
 msgid "That's the spirit we need if we're going to win this fight. Good work, both you and your... '#squad'."
-msgstr "Das ist der Spirit, den wir brauchen, wenn wir diesen Kampf gewinnen wollen. Gute Arbeit, sowohl du als auch dein ... \"#squad\"."
+msgstr "Das ist der Spirit, den wir brauchen, wenn wir diesen Kampf gewinnen wollen. Gute Arbeit, sowohl du als auch dein ... #squad."
 
 msgctxt "~missions.csv88b7943827484b410084768fa503800e"
 msgid "Excellent, you've gained ground - we'll hold it now, you and your squad keep advancing."
@@ -7866,7 +7866,7 @@ msgstr "Die Mechs sind so zerrissen, dass sie bereit sind für den Schrottplatz.
 
 msgctxt "~missions.csv58c9e1ddfb9a8ca3dbc75ee5dc56d105"
 msgid "We've had to call back engineers from the refugee centers to fix the damage to your '#squad'. Don't let this happen again."
-msgstr "Wir mussten Ingenieure aus den Flüchtlingszentren zurückrufen, um den Schaden an eurem \"#squad\" zu beheben. Lass das nicht noch einmal passieren."
+msgstr "Wir mussten Ingenieure aus den Flüchtlingszentren zurückrufen, um den Schaden an eurem #squad zu beheben. Lass das nicht noch einmal passieren."
 
 msgctxt "~missions.csv3ce41ea06a8daec2ed1c120bdeec8910"
 msgid "Do not allow your Mech's reinforced hull lead to complacency. Repairing its exoskeleton is a material-heavy process with considerable cost."
@@ -7882,7 +7882,7 @@ msgstr "Mir blieb keine andere Wahl, als alle Notfall-Ingenieure zuzuteilen, um 
 
 msgctxt "~missions.csvd1ab9c219f5374d20c7f54d6cd595be1"
 msgid "Our repair teams report - ah, I quote... 'there's more shredded metal than Mech' and conclude with an... unoptimistic... report of the chances of repair."
-msgstr "Unsere Reparaturteams berichten - ah, ich zitiere ... \"es gibt mehr geschreddertes Metall als Mech\" und schließt mit einem ... unoptimistischen ... Bericht über die Chancen einer Reparatur."
+msgstr "Unsere Reparaturteams berichten - ah, ich zitiere ... 'es gibt mehr geschreddertes Metall als Mech' und schließt mit einem ... unoptimistischen ... Bericht über die Chancen einer Reparatur."
 
 msgctxt "~missions.csv34eaa348f6fd11c89a26fcab9f434a1f"
 msgid "Our pilots report the #squad are so damaged they barely fit into the docking bays. We'll need to assign additional personnel for repairs."
@@ -8723,7 +8723,7 @@ msgstr "Vek bleibt immer noch in der Region. Aber zumindest mit den zerstörten 
 msgctxt "~missions.csv5376a2a6db99882e0a5a6286ef987445"
 msgid "Similar to 'generic' missions, but this one has Hornet Vek arriving out of massive holes in the groundinstead of Vek coming up from under the standard tiles. Where these holes came from has no explanation currently, so the text can address that."
 msgstr ""
-"Ähnlich wie bei \"generischen\" Missionen, bei denen jedoch Hornissen-Vek aus massiven Löchern im Boden kommt, anstatt von Vek unter den Standardfeldern. Wo diese Löcher herkommen, dafür gibt es derzeit keine Erklärung, die der Text erklären könnte."
+"Ähnlich wie bei 'generischen' Missionen, bei denen jedoch Hornissen-Vek aus massiven Löchern im Boden kommt, anstatt von Vek unter den Standardfeldern. Wo diese Löcher herkommen, dafür gibt es derzeit keine Erklärung, die der Text erklären könnte."
 
 msgctxt "~missions.csv69d958658d9b7cf6de6b2c2a343a9d6e"
 msgid "We're detecting strange Vek activity - flying Vek are emerging from underground hives beneath the island through erosion points."
@@ -8899,7 +8899,7 @@ msgstr "Ohne Energie sind deine Mechs wertlos. Vielleicht solltest du das nächs
 
 msgctxt "~missions.csv479d74bd9d82ce0a04b5848a31f4e35b"
 msgid "This site holds two warheads designed by a temporal physicist, Dr. Renfield, utilizing your 'breach' technology. R.S.T. was deemed the safest place to test them."
-msgstr "Diese Seite enthält zwei Gefechtsköpfe, die von einem Zeitphysiker, Dr. Renfield, entworfen wurden, der Ihre \"Breschen\" -Technologie nutzt. R. S. T. galt als der sicherste Ort, um sie zu testen."
+msgstr "Diese Seite enthält zwei Gefechtsköpfe, die von einem Zeitphysiker, Dr. Renfield, entworfen wurden, der Ihre 'Breschen' -Technologie nutzt. R. S. T. galt als der sicherste Ort, um sie zu testen."
 
 msgctxt "~missions.csv3fac80207d6e15effe0395c93f3ad5fb"
 msgid "Excellent, both prototypes survived intact. I can order Renfield and his team to move on to stage two."
@@ -9184,210 +9184,3 @@ msgstr "Die Teleporterseite gehört uns - wir werden diese Teleporter weiterhin 
 msgctxt "~missions.csv9ff5d860302490ae1f8dc95750af40d4"
 msgid "The site is back under our control - and following your example, we can use the teleporters against the Vek if they attack again."
 msgstr "Die Seite ist wieder unter unserer Kontrolle - und nach deinem Beispiel können wir die Teleporter gegen die Vek benutzen, wenn sie wieder angreifen."
-
-#~ msgctxt "scripts/text.lua_TipTitle_Limit,scripts/text.lua_Toggle_Framelimit"
-#~ msgid "Frame Limit"
-#~ msgstr "Frame Limit"
-
-#~ msgctxt "scripts/text.lua_TipText_Limit"
-#~ msgid ""
-#~ "Limit the FPS to 60.\n"
-#~ "\n"
-#~ "Recommended for most systems."
-#~ msgstr ""
-#~ "Limitiere FPS zu 60\n"
-#~ "\n"
-#~ "Empfohlen für die meisten Systeme."
-
-#~ msgctxt "scripts/text.lua_TipTitle_Shake,scripts/text.lua_Toggle_Screenshake"
-#~ msgid "Disable Screen Shake"
-#~ msgstr "Deaktiviere Screen Shake"
-
-#~ msgctxt "scripts/text.lua_TipText_Shake"
-#~ msgid ""
-#~ "Prevent the board / UI from shaking.\n"
-#~ "\n"
-#~ "This is common during combat when something deals damage."
-#~ msgstr ""
-#~ "Verhindere das schütteln des Boards / UI.\n"
-#~ "\n"
-#~ "Passiert meistens im Kampf wenn etwas Schaden macht."
-
-#~ msgctxt "scripts/text.lua_TipTitle_Coords"
-#~ msgid "Grid Coordinates Overlay"
-#~ msgstr "Gitterkoordinaten Overlay"
-
-#~ msgctxt "scripts/text.lua_TipText_Coords"
-#~ msgid ""
-#~ "Add coordinates to the board.\n"
-#~ "\n"
-#~ "Good for streaming, or whenever sharing the game in other forms."
-#~ msgstr ""
-#~ "Fügt Board Koordinaten hinzu.\n"
-#~ "\n"
-#~ "Gut für Streaming oder bei anderen Formen des Sharings."
-
-#~ msgctxt "scripts/text.lua_Warning_ProfileCorrupted"
-#~ msgid ""
-#~ "Your Profile File appears to be corrupted. Please contact us at contact@subsetgames.com if you'd like us to attempt to recover the data.\n"
-#~ "\n"
-#~ "Very sorry about the problem!"
-#~ msgstr ""
-#~ "Deine Profildatei scheint kaputt zu sein. Bitte kontaktiere uns auf contact@subsetgames.com wenn du willst das wir eine Wiederherstellung probieren.\n"
-#~ "\n"
-#~ "Es tut uns sehr leid!"
-
-#~ msgctxt "scripts/text.lua_Toggle_Grid"
-#~ msgid "Grid Coordinates"
-#~ msgstr "Gitterkoordinaten"
-
-#~ msgctxt ""
-#~ "scripts/text_weapons.lua_Passive_FriendlyFire_A_UpgradeDescription,scripts/text_weapons.lua_Passive_FriendlyFire_B_UpgradeDescription,scripts/text_weapons.lua_Prime_ShieldBash_B_UpgradeDescription,scripts/text_weapons."
-#~ "lua_Prime_Rockmech_A_UpgradeDescription,scripts/text_weapons.lua_Prime_Rockmech_B_UpgradeDescription,scripts/text_weapons.lua_Prime_RightHook_A_UpgradeDescription,scripts/text_weapons.lua_Prime_RightHook_B_UpgradeDescription,scripts/text_weapons."
-#~ "lua_Prime_Areablast_A_UpgradeDescription,scripts/text_weapons.lua_Prime_Areablast_B_UpgradeDescription,scripts/text_weapons.lua_Prime_Smash_B_UpgradeDescription,scripts/text_weapons.lua_Brute_Tankmech_A_UpgradeDescription,scripts/text_weapons."
-#~ "lua_Brute_Tankmech_B_UpgradeDescription,scripts/text_weapons.lua_Brute_Jetmech_A_UpgradeDescription,scripts/text_weapons.lua_Brute_Mirrorshot_A_UpgradeDescription,scripts/text_weapons.lua_Brute_Mirrorshot_B_UpgradeDescription,scripts/text_weapons."
-#~ "lua_Brute_PhaseShot_B_UpgradeDescription,scripts/text_weapons.lua_Brute_Shockblast_A_UpgradeDescription,scripts/text_weapons.lua_Brute_Shockblast_B_UpgradeDescription,scripts/text_weapons.lua_Brute_Splitshot_B_UpgradeDescription,scripts/"
-#~ "text_weapons.lua_Ranged_Rockthrow_A_UpgradeDescription,scripts/text_weapons.lua_Ranged_Rocket_A_UpgradeDescription,scripts/text_weapons.lua_Ranged_Rocket_B_UpgradeDescription,scripts/text_weapons.lua_Ranged_Wide_B_UpgradeDescription,scripts/"
-#~ "text_weapons.lua_Ranged_Dual_B_UpgradeDescription,scripts/text_weapons.lua_Support_Missiles_A_UpgradeDescription"
-#~ msgid "Increases damage by 1."
-#~ msgstr "Erhöht Schaden um 1."
-
-#~ msgctxt ""
-#~ "scripts/text_weapons.lua_Prime_Punchmech_B_UpgradeDescription,scripts/text_weapons.lua_Prime_RocketPunch_B_UpgradeDescription,scripts/text_weapons.lua_Prime_Shift_B_UpgradeDescription,scripts/text_weapons.lua_Brute_Heavyrocket_B_UpgradeDescription,"
-#~ "scripts/text_weapons.lua_Ranged_Artillerymech_B_UpgradeDescription"
-#~ msgid "Increases damage by 2."
-#~ msgstr "Erhöht Schaden um 2."
-
-#~ msgctxt "#78"
-#~ msgid "Earth Mover"
-#~ msgstr "Erdbeweger"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Archive_A"
-#~ msgid "Rift Walkers"
-#~ msgstr "Rift Walkers"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Archive_B"
-#~ msgid "Steel Judoka"
-#~ msgstr "Steel Judoka"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Rust_A"
-#~ msgid "Rusting Hulks"
-#~ msgstr "Rusting Hulks"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Rust_B"
-#~ msgid "Flame Behemoths"
-#~ msgstr "Flame Behemoths"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Pinnacle_A"
-#~ msgid "Zenith Guard"
-#~ msgstr "Zenith Guard"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Pinnacle_B"
-#~ msgid "Frozen Titans"
-#~ msgstr "Frozen Titans"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Detritus_B"
-#~ msgid "Hazardous Mechs"
-#~ msgstr "Gefährliche Mechs"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Secret"
-#~ msgid "Secret Squad"
-#~ msgstr "Geheimer Squad"
-
-#~ msgctxt "scripts/text.lua_Tutorial_VolatileVek_Title"
-#~ msgid "Volatile Vek"
-#~ msgstr "Flüchtiges Vek"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Env_Cataclysm"
-#~ msgid "Cataclysmic Earthquakes"
-#~ msgstr "Kataklysmische Erdbeben"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Env_Lightning"
-#~ msgid "Lightning Storm"
-#~ msgstr "Gewitter"
-
-#~ msgctxt "scripts/text.lua_TipTitle_Env_SnowStorm,scripts/text_tooltips.lua_TILE_TOOLTIPS__ice_storm_0"
-#~ msgid "Ice Storm"
-#~ msgstr "Eissturm"
-
-#~ msgctxt "scripts/text_tooltips.lua_STATUS_TOOLTIPS__boss_0"
-#~ msgid "Hive Leader"
-#~ msgstr "Schwarmführer"
-
-#~ msgctxt "scripts/text_weapons.lua_SpiderlingHatch1_Name,scripts/text_weapons.lua_WebeggHatch1_Name"
-#~ msgid "Spiderling Egg"
-#~ msgstr "Spinnenei"
-
-#~ msgctxt "#5"
-#~ msgid "Success"
-#~ msgstr "Erfolgreich"
-
-#~ msgctxt "#6"
-#~ msgid "Failure"
-#~ msgstr "Fehlgeschlagen"
-
-#~ msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_Name,scripts/missions/acid/mission_acidtank.lua#3"
-#~ msgid "A.C.I.D. Tank"
-#~ msgstr "Säurepanzer"
-
-#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#0"
-#~ msgid "Kill 4 enemies inflicted with A.C.I.D."
-#~ msgstr "Töte 4 Feinde mit Säure."
-
-#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#1"
-#~ msgid ""
-#~ "Kill 4 enemies inflicted\n"
-#~ "with A.C.I.D."
-#~ msgstr "Töte 4 Feinde mit Säure."
-
-#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#2"
-#~ msgid "killed"
-#~ msgstr "getötet"
-
-#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#4,scripts/missions/acid/mission_barrels.lua#1"
-#~ msgid "Success"
-#~ msgstr "Erfolgreich"
-
-#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#5,scripts/missions/acid/mission_barrels.lua#2"
-#~ msgid "Failure"
-#~ msgstr "Fehler"
-
-#~ msgctxt "scripts/missions/acid/mission_barrels.lua#0"
-#~ msgid "Destroy the A.C.I.D. Vats"
-#~ msgstr "Zerstöre die Säurefässer"
-
-#~ msgctxt "scripts/missions/acid/mission_barrels.lua#3"
-#~ msgid "Destroy the Vats"
-#~ msgstr "Zerstöre die Fässer"
-
-#~ msgctxt "scripts/missions/acid/mission_barrels.lua#4"
-#~ msgid "Remain"
-#~ msgstr "übrig"
-
-#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#4"
-#~ msgid "Success"
-#~ msgstr "Erfolgreich"
-
-#~ msgctxt "scripts/missions/acid/mission_acidtank.lua#5"
-#~ msgid "Failure"
-#~ msgstr "Fehlgeschlagen"
-
-#~ msgctxt "scripts/text_weapons.lua_DeploySkill_AcidTank_Name"
-#~ msgid "A.C.I.D. Tank"
-#~ msgstr "Säurepanzer"
-
-#~ msgctxt ""
-#~ "scripts/text_weapons.lua_Passive_FriendlyFire_A_UpgradeDescription,scripts/text_weapons.lua_Passive_FriendlyFire_B_UpgradeDescription,scripts/text_weapons.lua_Prime_ShieldBash_B_UpgradeDescription,scripts/text_weapons."
-#~ "lua_Prime_Rockmech_A_UpgradeDescription,scripts/text_weapons.lua_Prime_Rockmech_B_UpgradeDescription,scripts/text_weapons.lua_Prime_RightHook_A_UpgradeDescription,scripts/text_weapons.lua_Prime_RightHook_B_UpgradeDescription,scripts/text_weapons."
-#~ "lua_Prime_Areablast_A_UpgradeDescription,scripts/text_weapons.lua_Prime_Areablast_B_UpgradeDescription,scripts/text_weapons.lua_Prime_Smash_B_UpgradeDescription,scripts/text_weapons.lua_Brute_Tankmech_A_UpgradeDescription,scripts/text_weapons."
-#~ "lua_Brute_Tankmech_B_UpgradeDescription,scripts/text_weapons.lua_Brute_Jetmech_A_UpgradeDescription,scripts/text_weapons.lua_Brute_Mirrorshot_A_UpgradeDescription,scripts/text_weapons.lua_Brute_Mirrorshot_B_UpgradeDescription,scripts/text_weapons."
-#~ "lua_Brute_PhaseShot_B_UpgradeDescription,scripts/text_weapons.lua_Brute_Shockblast_A_UpgradeDescription,scripts/text_weapons.lua_Brute_Shockblast_B_UpgradeDescription,scripts/text_weapons.lua_Ranged_Rockthrow_A_UpgradeDescription,scripts/"
-#~ "text_weapons.lua_Ranged_Rocket_A_UpgradeDescription,scripts/text_weapons.lua_Ranged_Rocket_B_UpgradeDescription,scripts/text_weapons.lua_Ranged_Dual_B_UpgradeDescription,scripts/text_weapons.lua_Support_Missiles_A_UpgradeDescription"
-#~ msgid "Increases damage by 1."
-#~ msgstr "Erhöht den Schaden um 1."
-
-#~ msgctxt ""
-#~ "scripts/text_weapons.lua_Prime_Punchmech_B_UpgradeDescription,scripts/text_weapons.lua_Prime_RocketPunch_B_UpgradeDescription,scripts/text_weapons.lua_Prime_Shift_B_UpgradeDescription,scripts/text_weapons.lua_Brute_Heavyrocket_B_UpgradeDescription,"
-#~ "scripts/text_weapons.lua_Brute_Splitshot_B_UpgradeDescription,scripts/text_weapons.lua_Ranged_Artillerymech_B_UpgradeDescription,scripts/text_weapons.lua_Ranged_Wide_B_UpgradeDescription"
-#~ msgid "Increases damage by 2."
-#~ msgstr "Erhöht den Schaden um 2."
