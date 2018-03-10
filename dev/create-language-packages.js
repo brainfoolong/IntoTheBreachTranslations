@@ -8,12 +8,12 @@ const languages = fs.readdirSync(langDir)
 const md5 = require('md5')
 
 // get all translatable game files
-const gameFiles = {}
+const gameFilesOriginal = {}
 shared.translationFiles.forEach(function (file) {
-  gameFiles[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
+  gameFilesOriginal[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
 })
 for (let file in shared.additionalTranslationFiles) {
-  gameFiles[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
+  gameFilesOriginal[file] = fs.readFileSync(shared.config.gamesrc + '/' + file).toString().replace(/\r/g, '')
 }
 
 // for each .po translation file do create packages
@@ -21,6 +21,10 @@ languages.forEach(function (langFile) {
   // only want that .po files
   if (langFile.substr(langFile.length - 2) !== 'po') {
     return
+  }
+  const gameFiles = {}
+  for (let file in gameFilesOriginal) {
+    gameFiles[file] = gameFilesOriginal[file]
   }
   const language = langFile.substring(0, langFile.length - 3)
   const values = {}
@@ -94,6 +98,9 @@ languages.forEach(function (langFile) {
   }
   // goto each grouped translated value and pack it into the correct game file line
   for (let file in values) {
+    if (typeof gameFiles[file] === 'undefined') {
+      continue
+    }
     const data = gameFiles[file]
     const dataLines = data.split('\n')
     const valuesRow = values[file]
@@ -191,6 +198,9 @@ languages.forEach(function (langFile) {
     let found = false
     let lines = fileData.split('\n')
     for (let id in translationValues) {
+      if (typeof translationValues[id] === 'undefined' || translationValues[id] === null || !translationValues[id].length) {
+        continue
+      }
       let row = shared.additionalTranslations[id]
       if (!row) {
         continue
