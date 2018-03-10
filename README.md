@@ -35,9 +35,9 @@ I've contacted the Developer SubsetGames. This project is ok for them, right now
 ## How to test your translation
 1. Do everything from "contribute"
 2. Run `npm install` in the base directory of this repository
-3. Copy `dev/config.tpl.js` to `dev/config.js` and modify the config to your needs
+3. Change the file name from `dev/config.tpl.js` to `dev/config.js` and modify the config to your needs
 4. Run `dev/create-language-packages.js` via NodeJS
-5. Search the generated zipfile for your language in `packages` and follow the `installation` routine
+5. Search the generated zipfile for your language in `packages` and follow the `How to install` section
 6. Or: Modify `dev/config.js` to directly copy those files when executing `dev/create-language-packages.js`
 
 ## How does all this work in depth
