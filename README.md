@@ -1,5 +1,6 @@
 ![](https://img.shields.io/badge/Game_Version-1.0.17(3--6--2018)-green.svg) 
 ![](https://img.shields.io/badge/DE__WorkingAlpha-80%25_Translated-orange.svg)
+![](https://img.shields.io/badge/FR__DEV-orange.svg)
 # Into the Breach - Translations
 Inofficial Translations for PC Game Into the Breach. This is all fan made. You can help translating this game into your language. If used, it does directly modify some game files.
 
@@ -10,6 +11,7 @@ I've contacted the Developer SubsetGames. This project is ok for them, right now
 
 ## Downloads
 * German: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/de.zip
+* French: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/fr.zip
 * Other languages are missing contributors. Become one.
 
 ## Todos
