@@ -1,21 +1,20 @@
 ![](https://img.shields.io/badge/Game_Version-1.0.17(3--6--2018)-green.svg) 
-![](https://img.shields.io/badge/DE__WorkingAlpha-80%25_Translated-orange.svg)
-![](https://img.shields.io/badge/FR__WorkingAlpha-78%25_Translated-orange.svg)
+![](https://img.shields.io/badge/DE__Alpha-Playable-orange.svg)
+![](https://img.shields.io/badge/FR__Alpha-Playable-orange.svg)
 # Into the Breach - Translations
 Inofficial Translations for PC Game Into the Breach. This is all fan made. You can help translating this game into your language. If used, it does directly modify some game files.
 
-Until now, a complete translation file for one language contains more than 1600 lines of text. A huge job that really take some time and that demands your stamina.
+Until now, a complete translation file for one language contains more than 2000 lines of text. When all keys are included it grows up to 4000+. A huge job that really take some time and that demands your stamina.
 
-## Note
-I've contacted the Developer SubsetGames. This project is ok for them, right now. But maybe things will change in the future. Thanks for being open to fan mods.
+## General Status
+* Text-file based translation keys are almost complete and ready for translation, except most of pilot texts are missing, which are about 2000 more extra long lines to go
+* The fonts of the game don't support most of special chars in other languages, a fix is probably to modify the included game fonts
+* Hardcoded image translations are not changable by this tool as it requires to modify images directly out of game resources
 
 ## Downloads
-* German: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/de.zip
-* French: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/fr.zip
+* German alpha: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/de.zip
+* French alpha: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/fr.zip
 * Other languages are missing contributors. Become one.
-
-## Todos
-* Include missing pilot/company texts and stories
 
 ## How to install
 1. Download a language pack from the download list
@@ -45,8 +44,9 @@ I've contacted the Developer SubsetGames. This project is ok for them, right now
 ## How does all this work in depth
 This tools does work in 2 steps. First, it does directly parse all required game files, extract all translatable keys and create one big translatable `.pot` template file out of that. The `.pot` than can be edited by translators with free tools like PoEdit and will finally be saved to a `.po` file. The second step, to bring it back in game, is to parse the big `.po` file and assigning and replacing each translatable key to the correct game file and position. For this steps i have made 2 automated scripts that do all the work, namely `dev/create-template-pot.js` and `dev/create-language-packages.js`. This things do some magical stuff and will probably be just weird code for all non involved persons.
 
+## Note
+I've contacted the Developer SubsetGames. This project is ok for them, right now. But maybe things will change in the future. Thanks for being open to fan mods.
+
 ## Limitations
-* No cyrillic support
+* No cyrillic support, many special chars not supported
 * Not all texts can be translated, some are hardcoded
-
-
