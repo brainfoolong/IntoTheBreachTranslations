@@ -29,6 +29,7 @@ languages.forEach(function (langFile) {
   const language = langFile.substring(0, langFile.length - 3)
   const values = {}
   const translationValues = {}
+  const pilotValues = {}
   const csvValues = {}
   const lines = fs.readFileSync(langDir + '/' + langFile).toString().split('\n')
   let poFileData = shared.parsePoFile(lines, true)
@@ -37,6 +38,7 @@ languages.forEach(function (langFile) {
     poData.msgctxt.split(',').forEach(function (msgctxt) {
       let matchAdditionalFile = msgctxt.match(/(.*?\.lua)\#([0-9]+)/i)
       let matchAdditionalKey = msgctxt.match(/^\#([0-9]+)/i)
+      let matchAdditionalPilots = msgctxt.match(/^\#pilots([0-9]+)/i)
       let matchAdditionalCsv = msgctxt.match(/^\~(.*?\.csv)_(.*)/i)
       // handle csv translations
       let file = null
@@ -51,6 +53,11 @@ languages.forEach(function (langFile) {
       // handle additional translations
       if (matchAdditionalKey) {
         translationValues[matchAdditionalKey[1]] = poData.msgstr.length ? poData.msgstr : null
+        return
+      }
+      // handle additional pilots
+      if (matchAdditionalPilots) {
+        pilotValues[matchAdditionalPilots[1]] = poData.msgstr.length ? poData.msgstr : null
         return
       }
       // handle additional translation files
@@ -248,6 +255,18 @@ languages.forEach(function (langFile) {
       gameFiles[file] = lines.join('\r\n')
     })
   }
+  // handle additional pilots
+  (function () {
+    let file = 'scripts/personalities/pilots.csv'
+    let fileData =  fs.readFileSync(shared.config.gamesrc + '/'+file).toString()
+    fileData = fileData.replace(/\r/g, '')
+    shared.pilotsTranslation.forEach(function (text, key) {
+      if (typeof pilotValues[key] !== 'undefined') {
+        fileData = fileData.replace(new RegExp(shared.escapeRegex(text)), pilotValues[key])
+      }
+    })
+    gameFiles[file] = fileData
+  })()
   // create new game files
   const zip = new require('node-zip')()
   for (let file in gameFiles) {
