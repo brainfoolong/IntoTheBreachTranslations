@@ -261,7 +261,7 @@ languages.forEach(function (langFile) {
     let fileData =  fs.readFileSync(shared.config.gamesrc + '/'+file).toString()
     fileData = fileData.replace(/\r/g, '')
     shared.pilotsTranslation.forEach(function (text, key) {
-      if (typeof pilotValues[key] !== 'undefined') {
+      if (typeof pilotValues[key] !== 'undefined' && pilotValues[key] !== null && pilotValues[key].length) {
         fileData = fileData.replace(new RegExp(shared.escapeRegex(text)), pilotValues[key])
       }
     })
