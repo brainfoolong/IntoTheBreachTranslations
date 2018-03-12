@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Game_Version-1.0.17(3--6--2018)-green.svg) 
+![](https://img.shields.io/badge/Game_Version-1.0.20(3--8--2018)-green.svg) 
 ![](https://img.shields.io/badge/DE__Alpha-Playable-orange.svg)
 ![](https://img.shields.io/badge/FR__Alpha-Playable-orange.svg)
 # Into the Breach - Translations
