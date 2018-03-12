@@ -119,6 +119,16 @@ luaFiles.forEach(function (file) {
   })
 });
 
+// handle additional pilots translations
+shared.pilotsTranslation.forEach(function (text, key) {
+  if (typeof valuesGrouped[text] === 'undefined') {
+    valuesGrouped[text] = []
+  }
+  if (valuesGrouped[text].indexOf('#pilots' + key) === -1) {
+    valuesGrouped[text].push('#pilots' + key)
+  }
+});
+
 // handle missions.csv file
 (function () {
   const parse = require('csv-parse/lib/sync')
@@ -143,6 +153,30 @@ luaFiles.forEach(function (file) {
         }
       }
     } while (m)
+  })
+})();
+
+// handle pilots.csv file
+(function () {
+  const parse = require('csv-parse/lib/sync')
+  let data = fs.readFileSync(shared.config.gamesrc + '/scripts/personalities/pilots.csv').toString()
+  data = data.replace(/\r/g, '')
+  let lines = data.split('\n')
+  lines.forEach(function (line, lineNr) {
+    let columns = []
+    let ctx = null
+    let lastC = null
+    let column = 0
+    for(let char in line){
+      const c = line[char]
+      if(c === '"'){
+        ctx = 'str'
+        if(lastC === c){
+          ctx = null
+        }
+      }
+      lastC = c
+    }
   })
 })()
 
