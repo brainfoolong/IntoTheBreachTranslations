@@ -117,7 +117,7 @@ luaFiles.forEach(function (file) {
       }
     })
   })
-});
+})
 
 // handle additional pilots translations
 shared.pilotsTranslation.forEach(function (text, key) {
@@ -158,28 +158,26 @@ shared.pilotsTranslation.forEach(function (text, key) {
 
 // handle pilots.csv file
 (function () {
-  const parse = require('csv-parse/lib/sync')
   let data = fs.readFileSync(shared.config.gamesrc + '/scripts/personalities/pilots.csv').toString()
   data = data.replace(/\r/g, '')
   let lines = data.split('\n')
+  let validLine = false
   lines.forEach(function (line, lineNr) {
-    let columns = []
-    let ctx = null
-    let lastC = null
-    let column = 0
-    for(let char in line){
-      const c = line[char]
-      if(c === '"'){
-        ctx = 'str'
-        if(lastC === c){
-          ctx = null
+    if (line.match(/^Game States/) && line.trim().length) {
+      validLine = true
+    }
+    if (validLine) {
+      if (line.match(/^[^"].*?,"/)) {
+        line = line.substr(line.indexOf('"')).trim()
+        if(line.length){
+          console.log(line)
         }
       }
-      lastC = c
     }
   })
 })()
 
+return
 const text = ['msgid ""', 'msgstr ""']
 for (let msgid in valuesGrouped) {
   text.push('msgctxt "' + valuesGrouped[msgid].join(',') + '"')
