@@ -1,12 +1,12 @@
 {
   "7a611cb8db26e166677db7f79f3e9bae": {
-    "text": "Wenn du mit neuen Feinden konfrontiert wirst, solltest du dich über ihre Fähigkeiten informieren. \\n\\nHalte $1 während du mit dem Mauszeiger über der Einheit bist um sie zu untersuchen"
+    "text": "Wenn du mit neuen Feinden konfrontiert wirst, solltest du dich über ihre Fähigkeiten informieren. \n\nHalte $1 während du mit dem Mauszeiger über der Einheit bist um sie zu untersuchen"
   },
   "459cdfba3327e4147509600ac5274e04": {
     "text": "Einheiten untersuchen"
   },
   "707838e56b572a9b5dd23b103ad63943": {
-    "text": "Dies ist das Stromnetz. Wenn ein Gebäude beschädigt wird, wird es reduziert. \\n\\nWenn es auf Null reduziert ist, verlierst du."
+    "text": "Dies ist das Stromnetz. Wenn ein Gebäude beschädigt wird, wird es reduziert. \n\nWenn es auf Null reduziert ist, verlierst du."
   },
   "2bf97b37e0ebb32011b7a549c3ce28be": {
     "text": "Stromnetz"
@@ -18,13 +18,13 @@
     "text": "Gültige Ziele"
   },
   "8c948cedd526df19bb93034b8ad672fb": {
-    "text": "Jeder feindliche Angriff wird vorgewarnt. Im nächsten Zug greift dieser die Gebäude an. \\n\\nFahre mit der Maus über einen Gegner, um Details zu seinem Angriff zu sehen."
+    "text": "Jeder feindliche Angriff wird vorgewarnt. Im nächsten Zug greift dieser die Gebäude an. \n\nFahre mit der Maus über einen Gegner, um Details zu seinem Angriff zu sehen."
   },
   "2caaefba39a1799de7150e580fd8f600": {
     "text": "Feindliche Angriffe"
   },
   "6bd9a477bce827800b72d842bbdd1b11": {
-    "text": "Das ist dein Kampfmech. Er kann jedes angrenzende Feld erreichen. \\n\\nKlicke auf deinen Mech, bewege ihn näher zum Gegner und stoße ihn."
+    "text": "Das ist dein Kampfmech. Er kann jedes angrenzende Feld erreichen. \n\nKlicke auf deinen Mech, bewege ihn näher zum Gegner und stoße ihn."
   },
   "63f576609c53092d7264d07d5b80bfa4": {
     "text": "Kampf Mech"
@@ -33,10 +33,10 @@
     "text": "Deaktivierter Squad"
   },
   "5b6e7257af6df874b42fa879f8ecfd00": {
-    "text": "Alle deine Mechs sind deaktiviert. In normalen Kämpfen würden die Vek dann ihre Angriffe fortsetzen und die Mission würde enden. \\n\\nFür dieses Tutorial wurden deine Mechs vollständig repariert."
+    "text": "Alle deine Mechs sind deaktiviert. In normalen Kämpfen würden die Vek dann ihre Angriffe fortsetzen und die Mission würde enden. \n\nFür dieses Tutorial wurden deine Mechs vollständig repariert."
   },
   "bc801be4f12b39d1935e65b84748c512": {
-    "text": "Dein Stromnetz wurde auf Null reduziert. Normalerweise würde dies bedeuten, dass das Spiel vorbei ist. \\n\\nDa dies eine Simulation ist, kannst du weiterhin gegen den Vek kämpfen."
+    "text": "Dein Stromnetz wurde auf Null reduziert. Normalerweise würde dies bedeuten, dass das Spiel vorbei ist. \n\nDa dies eine Simulation ist, kannst du weiterhin gegen den Vek kämpfen."
   },
   "5282c58be05cdecc1308241480b66276": {
     "text": "Spiel ist aus"
@@ -51,13 +51,13 @@
     "text": "Schlage diesen Feind!"
   },
   "66b4cdda1eb071c99ca566b176bf5511": {
-    "text": "Der Schlag Ihres Mechs hat diese Einheit gestoßen. Sie wird jetzt einen neuen Standort angreifen! \\n\\nStöße können Gebäude vor feindlichen Angriffen schützen oder sogar Gegner einander angreifen lassen."
+    "text": "Der Schlag Ihres Mechs hat diese Einheit gestoßen. Sie wird jetzt einen neuen Standort angreifen! \n\nStöße können Gebäude vor feindlichen Angriffen schützen oder sogar Gegner einander angreifen lassen."
   },
   "16dfad33b74d8e4c77b57687b53e6c0d": {
     "text": "Feinde stoßen"
   },
   "e3329be7c31805454dac7585bb703cd3": {
-    "text": "Das ist dein Panzer Mech. \\n\\nEr schießt ein Projektil, das sich in einer geraden Linie bewegt, bis es auf ein anderes Objekt trifft."
+    "text": "Das ist dein Panzer Mech. \n\nEr schießt ein Projektil, das sich in einer geraden Linie bewegt, bis es auf ein anderes Objekt trifft."
   },
   "a63265e2590fcfe7a61ba6c5806d608e": {
     "text": "Tank Mech"
@@ -69,13 +69,13 @@
     "text": "Missionen abgeschlossen"
   },
   "a76906f62cdf1b770f2b66e0ee0a6e3f": {
-    "text": "Missionen haben auch Bonusziele. \\n\\nDurch das erfüllen erhältst du zusätzliche Ressourcen nach dem Kampf."
+    "text": "Missionen haben auch Bonusziele. \n\nDurch das erfüllen erhältst du zusätzliche Ressourcen nach dem Kampf."
   },
   "89f0c4114c402e287e2ed786df463063": {
     "text": "Bonusziele"
   },
   "06ceb4ba26e51c80e069d06f19cd6d00": {
-    "text": "Klicke auf eine Waffe, um sie zu benutzen. Die Zifferntasten funktionieren auch als Schnelltasten. \\n\\nBewegung ist nach dem abfeuern einer Waffe gesperrt."
+    "text": "Klicke auf eine Waffe, um sie zu benutzen. Die Zifferntasten funktionieren auch als Schnelltasten. \n\nBewegung ist nach dem abfeuern einer Waffe gesperrt."
   },
   "25fb77433fd72bb4999f090603f41223": {
     "text": "Waffe nutzen"
@@ -93,7 +93,7 @@
     "text": "Alte Erdtanks"
   },
   "c7fc05495bef77dcbf37de1658d63bf8": {
-    "text": "Dieser Terraformer steht während dieser Mission unter deiner Kontrolle. \\n\\nVerwende ihn, um Gras zu Sand zu machen."
+    "text": "Dieser Terraformer steht während dieser Mission unter deiner Kontrolle. \n\nVerwende ihn, um Gras zu Sand zu machen."
   },
   "67afce2a780e19d188c01e76dc0fcc98": {
     "text": "Terraformer"
@@ -105,10 +105,10 @@
     "text": "Volatiler Vek"
   },
   "bf4c61c58093b0c6acaaec1f1f98655b": {
-    "text": "Warnung: Diese finale Mission befindet sich noch in der Entwicklung. \\n\\nSie sollte mehr oder weniger spielbar sein. Viel Glück!"
+    "text": "Warnung: Diese finale Mission befindet sich noch in der Entwicklung. \n\nSie sollte mehr oder weniger spielbar sein. Viel Glück!"
   },
   "80cfd3dc2522979f617b789988caa81a": {
-    "text": "Warnung: Diese Sicherungsdatei wurde von einer früheren Version von Into the Breach erstellt. \\n\\nDa das Spiel noch in der Entwicklung ist, kann ich nicht die volle Rückwärtskompatibilität für jedes Update garantieren und es können Probleme mit dieser Speicherung auftreten. \\n\\nDas heißt, die Chancen stehen gut, dass Sie keine Probleme haben werden. Entschuldige die möglichen Probleme!"
+    "text": "Warnung: Diese Sicherungsdatei wurde von einer früheren Version von Into the Breach erstellt. \n\nDa das Spiel noch in der Entwicklung ist, kann ich nicht die volle Rückwärtskompatibilität für jedes Update garantieren und es können Probleme mit dieser Speicherung auftreten. \n\nDas heißt, die Chancen stehen gut, dass Sie keine Probleme haben werden. Entschuldige die möglichen Probleme!"
   },
   "26720c3c8efbb1bd1e01cc44f79f527e": {
     "text": "Betriebener Pilot"
@@ -120,7 +120,7 @@
     "text": "Säure"
   },
   "76d8ec0666c0fab587c5bf248c970921": {
-    "text": "Diese Einheit wird mit Säure befallen. Wenn die Verteidigung korrodiert ist, wird der ankommende Waffenschaden verdoppelt.\\n\\nAlle anderen Schäden (Stoß, Feuer, Blocken usw.) sind davon nicht betroffen."
+    "text": "Diese Einheit wird mit Säure befallen. Wenn die Verteidigung korrodiert ist, wird der ankommende Waffenschaden verdoppelt.\n\nAlle anderen Schäden (Stoß, Feuer, Blocken usw.) sind davon nicht betroffen."
   },
   "990c0f701cc2208ba127d2cb056e904f": {
     "text": "Diese Einheit ist GEFROREN. Sie kann sich nicht bewegen oder angreifen und bleibt solange eingefroren bis es Schaden nimmt."
@@ -138,22 +138,22 @@
     "text": "Energieschilde"
   },
   "3e9c5f7fa0b0fe9f7011fad81281cd13": {
-    "text": "Dies ist ein Schild. Es wird Schaden und irgendwelche negativen Effekte (Feuer, Einfrieren, Säure, usw.) blockieren. \\n\\nNur direkter Schaden entfernt den Schild. Nicht schädigende negative Effekte haben keine Auswirkungen."
+    "text": "Dies ist ein Schild. Es wird Schaden und irgendwelche negativen Effekte (Feuer, Einfrieren, Säure, usw.) blockieren. \n\nNur direkter Schaden entfernt den Schild. Nicht schädigende negative Effekte haben keine Auswirkungen."
   },
   "55dbfbe175ff6527d393b8ed5f5dbaf3": {
     "text": "Gepanzerte Einheit"
   },
   "202ce6b05b7cec61e6d4fddb1ea7034c": {
-    "text": "Diese Einheit ist gepanzert. Der gesamte ankommende Waffenschaden wird um 1 verringert.\\n\\nAlle anderen Schäden (Stoß, Feuer, Blocken usw.) sind davon nicht betroffen."
+    "text": "Diese Einheit ist gepanzert. Der gesamte ankommende Waffenschaden wird um 1 verringert.\n\nAlle anderen Schäden (Stoß, Feuer, Blocken usw.) sind davon nicht betroffen."
   },
   "e481cfb5e6c8b599acaecb8a61d588cb": {
-    "text": "Diese Mission hat einen besonderen Effekt, der in jedem Zug gilt. \\n\\nMauszeiger über das Umgebungssymbol, um weitere Informationen zu erhalten."
+    "text": "Diese Mission hat einen besonderen Effekt, der in jedem Zug gilt. \n\nMauszeiger über das Umgebungssymbol, um weitere Informationen zu erhalten."
   },
   "eef8f44c60f0bf53d874fe9ba034af30": {
     "text": "Umgebungseffekt"
   },
   "463e2f306203da28680be887ca694cb4": {
-    "text": "Das Stromnetz verbindet jede Firmeninsel. Jeglicher Schaden, der bei Missionen entsteht, bleibt bestehen. \\n\\nDer Vek verursachte vor deiner Ankunft Schaden, aber es gibt Möglichkeiten, ihn es wiederherzustellen."
+    "text": "Das Stromnetz verbindet jede Firmeninsel. Jeglicher Schaden, der bei Missionen entsteht, bleibt bestehen. \n\nDer Vek verursachte vor deiner Ankunft Schaden, aber es gibt Möglichkeiten, ihn es wiederherzustellen."
   },
   "51aa22fdfacf970f7b3f319b7979e913": {
     "text": "Beschädigtes Stromnetz"
@@ -171,61 +171,61 @@
     "text": "Verteidigung maximiert"
   },
   "0a8d9d72ab120bf3ac77c550a5da0c61": {
-    "text": "Dieses Gebäude widersteht Schäden! \\n\\nDie Chance eines Gebäudes, das einem Schaden standhalten kann, wird rechts neben der Stromleiste angezeigt."
+    "text": "Dieses Gebäude widersteht Schäden! \n\nDie Chance eines Gebäudes, das einem Schaden standhalten kann, wird rechts neben der Stromleiste angezeigt."
   },
   "a0a3dccc9517e02cb941135edf6b257c": {
     "text": "Verteidung"
   },
   "1599ec0d5be1a70a7c12c7d2401ddac7": {
-    "text": "Dieser feindliche Psion bietet allen Vek einen passiven Bonus. Wenn du es tötest, wird der Bonus entfernt. \\n\\nWähle Psion und fahre mit der Maus über sein Porträt unten links für weitere Informationen."
+    "text": "Dieser feindliche Psion bietet allen Vek einen passiven Bonus. Wenn du es tötest, wird der Bonus entfernt. \n\nWähle Psion und fahre mit der Maus über sein Porträt unten links für weitere Informationen."
   },
   "c138f9d49dd2760a15a5f020f6c5e228": {
     "text": "Vek Psion"
   },
   "f9aaa92e840cc96cc093859c10313f16": {
-    "text": "Diese Einheit wurde Festgebunden \\n\\nÜber die Statussymbole unten links nachsehen, was das bedeutet."
+    "text": "Diese Einheit wurde Festgebunden \n\nÜber die Statussymbole unten links nachsehen, was das bedeutet."
   },
   "d1232932ca07dbddb0e2187ea061ac5e": {
     "text": "Festgebundener Mech"
   },
   "32b6ac51c13ac392d2e9f3e3552be5f2": {
-    "text": "Du kannst die Inseln, die du freigeschaltet hast, in beliebiger Reihenfolge versuchen. \\n\\nDie Schwierigkeit von Vek wird abhängig davon skaliert, wie viele Inseln du in diesem Spiel absolviert hast."
+    "text": "Du kannst die Inseln, die du freigeschaltet hast, in beliebiger Reihenfolge versuchen. \n\nDie Schwierigkeit von Vek wird abhängig davon skaliert, wie viele Inseln du in diesem Spiel absolviert hast."
   },
   "b8999b7dea68d7944c0ce0ec7c4172d2": {
     "text": "Firmeninseln"
   },
   "e062c810ef865866d424beeb020c7c38": {
-    "text": "Eine feindliche Einheit wird hier im nächsten Zug auftauchen! \\n\\nDu kannst Feinde vorübergehend vom Spawnen abhalten, aber es wird die Einheit, die blockiert, beschädigt."
+    "text": "Eine feindliche Einheit wird hier im nächsten Zug auftauchen! \n\nDu kannst Feinde vorübergehend vom Spawnen abhalten, aber es wird die Einheit, die blockiert, beschädigt."
   },
   "6358c03cb8fdb25d688e0b1a339d14fb": {
     "text": "Auftauchende Feinde"
   },
   "9c4c96a2a6a710e683c99a81d88fe6a4": {
-    "text": "Der WALD auf diesem Feld hat Schaden genommen und ihn in Brand gesetzt. \\n\\nWenn eine Einheit in Brand steht, wird sie sich entzünden und in jedem Zug Schaden nehmen."
+    "text": "Der WALD auf diesem Feld hat Schaden genommen und ihn in Brand gesetzt. \n\nWenn eine Einheit in Brand steht, wird sie sich entzünden und in jedem Zug Schaden nehmen."
   },
   "55777724b549edc905b463c3ff7b3062": {
     "text": "Brennende Wälder"
   },
   "6a7284aedd257d8ca7e9c644d7efaf73": {
-    "text": "Dieser Mech brennt! Es wird in jedem Zug Schaden verursachen. \\n\\nMechs können Statuseffekte REPARIEREN, können aber im selben Zug angreifen, in dem sie sich reparieren."
+    "text": "Dieser Mech brennt! Es wird in jedem Zug Schaden verursachen. \n\nMechs können Statuseffekte REPARIEREN, können aber im selben Zug angreifen, in dem sie sich reparieren."
   },
   "d80bb429bc44e53c05e76e5d68ba121f": {
     "text": "Brennende Mechs"
   },
   "3ac6a0bb2ce1d49e7384b9af6a677088": {
-    "text": "Eure Mechs reparieren automatisch alle Schäden nach dem Kampf. \\n\\nWenn ein Mech auf 0 Gesundheit reduziert wird, stirbt der Pilot und der Mech wird für den Rest dieses Kampfes deaktiviert."
+    "text": "Eure Mechs reparieren automatisch alle Schäden nach dem Kampf. \n\nWenn ein Mech auf 0 Gesundheit reduziert wird, stirbt der Pilot und der Mech wird für den Rest dieses Kampfes deaktiviert."
   },
   "e863b25dbe80b436fe038c1a9f0d6b7b": {
     "text": "Beschädigte Mechs"
   },
   "0ba7ed3437d6f9303f93b8de455aa667": {
-    "text": "Dieser Mech wurde mit Säure übergossen! Es korrodiert die Rüstung der Einheit, wodurch alle eingehenden Schäden verdoppelt werden. \\n\\nMechs können Statuseffekte REPARIEREN, können aber nicht im selben Zug angreifen in dem sie sich reparieren."
+    "text": "Dieser Mech wurde mit Säure übergossen! Es korrodiert die Rüstung der Einheit, wodurch alle eingehenden Schäden verdoppelt werden. \n\nMechs können Statuseffekte REPARIEREN, können aber nicht im selben Zug angreifen in dem sie sich reparieren."
   },
   "dbaefb46881f6331ce2b585752d58fb5": {
     "text": "Mit Säure behaftete Mechs"
   },
   "437692ce132f09c01a128d89e772de00": {
-    "text": "Dieser Pod enthält Ausrüstung aus der Zukunft! \\n\\nDu kannst es mit deinem Mech sammeln oder einfach bis zum Ende des Kampfes verteidigen."
+    "text": "Dieser Pod enthält Ausrüstung aus der Zukunft! \n\nDu kannst es mit deinem Mech sammeln oder einfach bis zum Ende des Kampfes verteidigen."
   },
   "395dc55750e6d0d019128419ab303b38": {
     "text": "Zeitkapseln"
@@ -234,7 +234,7 @@
     "text": "Zerstörte Zeitkapseln"
   },
   "6c35e073cbc4bbe3f1b7cd7a63fadb95": {
-    "text": "Die Zeitkapsel auf diesem Feld wurde zerstört \\n\\nZeitkapseln werden zerstört, indem sie Schaden erleiden oder wenn ein Gegner darauf steht."
+    "text": "Die Zeitkapsel auf diesem Feld wurde zerstört \n\nZeitkapseln werden zerstört, indem sie Schaden erleiden oder wenn ein Gegner darauf steht."
   },
   "0f919302feb51711bce641b587c611fe": {
     "text": "Mechs können ihre Waffen nicht benutzen, wenn sie im Wasser stehen."
@@ -243,7 +243,7 @@
     "text": "Schwimmroboter"
   },
   "43cccc2cceaf16d6b4dbd54243515fb5": {
-    "text": "Mechs können ihre Waffen nicht benutzen, wenn sie im Wasser stehen. \\n\\nDu kannst 'Reset Bewegung' verwenden, wenn Sie es neu zu positionieren."
+    "text": "Mechs können ihre Waffen nicht benutzen, wenn sie im Wasser stehen. \n\nDu kannst 'Reset Bewegung' verwenden, wenn Sie es neu zu positionieren."
   },
   "3c099c43e5fcfc30aed5c7e036980a9a": {
     "text": "Dein Mech war deaktiviert! Sein Pilot wurde getötet und er wird für den Rest der Mission nicht in der Lage sein, zu handeln."
@@ -264,10 +264,10 @@
     "text": "In Objekte stoßen"
   },
   "bdcdfcdc465734e20522eaf4901e5959": {
-    "text": "Einheiten in andere Objekte stoßen fügt beiden 1 zusätzlichen Schaden zu! \\n\\nIn diesem Fall hat der zusätzliche Schaden die Einheit getötet!"
+    "text": "Einheiten in andere Objekte stoßen fügt beiden 1 zusätzlichen Schaden zu! \n\nIn diesem Fall hat der zusätzliche Schaden die Einheit getötet!"
   },
   "10a2152c0d8ae5942e724fdffd8126ef": {
-    "text": "Dieses Gebäude wurde beschädigt, daher wurde Ihr Stadt Stromnetz reduziert. \\n\\nDas primäre Ziel ist, dies zu verhindern!"
+    "text": "Dieses Gebäude wurde beschädigt, daher wurde Ihr Stadt Stromnetz reduziert. \n\nDas primäre Ziel ist, dies zu verhindern!"
   },
   "379d805c265b1c6346a54d4aec0ad94f": {
     "text": "Gebäudeschaden"
@@ -276,13 +276,13 @@
     "text": "Kampfsimulation"
   },
   "44e78706a90c1c3664dd55e22c735aa9": {
-    "text": "Es gibt eine Kampfsimulation, um neue Kommandanten mechanisierten Kämpfe zu erleichtern. \\n\\nMöchtest du die Simulation starten?"
+    "text": "Es gibt eine Kampfsimulation, um neue Kommandanten mechanisierten Kämpfe zu erleichtern. \n\nMöchtest du die Simulation starten?"
   },
   "1bff08e7db6e31680d1a3d42486ea90b": {
     "text": "Firmenreputation"
   },
   "d59aa9b9ec2e4c669787008db133f4db": {
-    "text": "Wenn Regionen sicherst und Bonusziele erfüllst, wird die Reputation bei den lokalen Firmen steigen. \\n\\n Du kannst am Ende der Insel Reputation für Equipment ausgeben."
+    "text": "Wenn Regionen sicherst und Bonusziele erfüllst, wird die Reputation bei den lokalen Firmen steigen. \n\n Du kannst am Ende der Insel Reputation für Equipment ausgeben."
   },
   "22aff7814c8084654ba8ee78c35fd697": {
     "text": "Reaktorkerne"
@@ -294,13 +294,13 @@
     "text": "Kerninstallation"
   },
   "e6fb98c5624a3ed4072469fb7e88011e": {
-    "text": "Du kannst diesen Button verwenden, um Reaktorkerne in einem Mech zu installieren. \\n\\nJeder Kern erhöht die maximale Reaktorenergie eines Mechs um eins."
+    "text": "Du kannst diesen Button verwenden, um Reaktorkerne in einem Mech zu installieren. \n\nJeder Kern erhöht die maximale Reaktorenergie eines Mechs um eins."
   },
   "2b2e32f3e41390e61ed36657b29f7262": {
     "text": "Waffenmodifikationen"
   },
   "12bd82aed2cb5883118c86cf4ba6c918": {
-    "text": "Du kannst die Reaktorenergie verwenden, um Waffenmodifikationen zu aktivieren. \\n\\nKlicke auf eine Mod, um sie zu aktivieren. Du kannst klicken, um die Energie wieder zu entfernen, wenn du sie woanders verwenden willst."
+    "text": "Du kannst die Reaktorenergie verwenden, um Waffenmodifikationen zu aktivieren. \n\nKlicke auf eine Mod, um sie zu aktivieren. Du kannst klicken, um die Energie wieder zu entfernen, wenn du sie woanders verwenden willst."
   },
   "40bd59e57e847f878c31b7b82d3ade48": {
     "text": "Neue Waffe"
@@ -318,7 +318,7 @@
     "text": "Altes Profil"
   },
   "7731a1c10c7907a15d4fa21e1a430baa": {
-    "text": "Das Spiel wurde aktualisiert und ältere Beta-Profile können nach diesen Änderungen auf einige Kuriositäten stoßen. \\n\\nDeine Errungenschaten Coins könnten jetzt aufgrund von Preisänderungen zuvor freigeschalteter Mechs negativ sein. Das Spiel funktioniert, du brauchst nur mehr Erfolge, um die Gewinnzone zu erreichen.\\n\\nWenn du gerade ein Spiel laufen hast, wird es möglicherweise nicht korrekt geladen. Ich hoffe, es funktioniert immer noch, aber ich entschuldige mich, wenn es nicht funktioniert."
+    "text": "Das Spiel wurde aktualisiert und ältere Beta-Profile können nach diesen Änderungen auf einige Kuriositäten stoßen. \n\nDeine Errungenschaten Coins könnten jetzt aufgrund von Preisänderungen zuvor freigeschalteter Mechs negativ sein. Das Spiel funktioniert, du brauchst nur mehr Erfolge, um die Gewinnzone zu erreichen.\n\nWenn du gerade ein Spiel laufen hast, wird es möglicherweise nicht korrekt geladen. Ich hoffe, es funktioniert immer noch, aber ich entschuldige mich, wenn es nicht funktioniert."
   },
   "80844af25d4df66651ef7ee68b38cb8c": {
     "text": "WAFFENEFFEKTE"
@@ -357,13 +357,13 @@
     "text": "MISSIONSBELOHNUNG"
   },
   "66d15d3e5f4dccbb25d584a1ff81e897": {
-    "text": "Jede Mission hat verschiedene potentielle Belohnungen für das Erreichen von Bonuszielen. \\n    Du wirst nicht in der Lage sein, jede Mission auf der Insel zu machen, also wähle sorgfältig!"
+    "text": "Jede Mission hat verschiedene potentielle Belohnungen für das Erreichen von Bonuszielen. \n    Du wirst nicht in der Lage sein, jede Mission auf der Insel zu machen, also wähle sorgfältig!"
   },
   "4936eb5172ee8b4a6d3384418cf22a26": {
     "text": "Energiekerne: Wird benutzt, um deine Mechs zu verbessern."
   },
   "b5aa901c009023cd6d1a38f39ec2364a": {
-    "text": "STROMNETZ: Stellt das Stromnetz wieder her. \\nWenn dein Stromnetz Null erreicht, verlierst du."
+    "text": "STROMNETZ: Stellt das Stromnetz wieder her. \nWenn dein Stromnetz Null erreicht, verlierst du."
   },
   "cebb52c118132d544ba1e4f55f4decea": {
     "text": "FIRMENREPUTATION: Verwendet, um Gegenstände zu kaufen, sobald die Insel sicher ist."
@@ -408,7 +408,7 @@
     "text": "Finale Mission"
   },
   "fd44c9f820e40ad4d8b5bbab895c096f": {
-    "text": "Du kannst die Endmission zu jedem Zeitpunkt abschließen, nachdem du zwei Firmneninseln gesichert hast.\\n\\nDie Schwierigkeit der Mission skaliert zu deinem aktuellen Fortschritt."
+    "text": "Du kannst die Endmission zu jedem Zeitpunkt abschließen, nachdem du zwei Firmneninseln gesichert hast.\n\nDie Schwierigkeit der Mission skaliert zu deinem aktuellen Fortschritt."
   },
   "0c30615662c8a83e6425402d8579356d": {
     "text": "Firmenreputation"
@@ -417,7 +417,7 @@
     "text": "Benutze Reputation, um Nachschub zu kaufen, sobald eine Insel gesichert ist."
   },
   "004f963ad95a1b04aa4daa8db393df17": {
-    "text": "Wird für das Upgrade von Mechs verwendet. \\n\\nÖffne den Mech-Upgrade-Bildschirm, indem du auf ein beliebiges Mech-Symbol auf der linken Seite klickst."
+    "text": "Wird für das Upgrade von Mechs verwendet. \n\nÖffne den Mech-Upgrade-Bildschirm, indem du auf ein beliebiges Mech-Symbol auf der linken Seite klickst."
   },
   "5a49ae6e2ed8c1a8507bf63d858af0fd": {
     "text": "Angriffsfolge"
@@ -435,13 +435,13 @@
     "text": "Zeigt die Reihenfolge an, in der die Aktionen während des gegnerischen Zuges ausgeführt werden. Schnelltaste: [$1]"
   },
   "a5704ef5d17d6e34e56b6c17a028d6ed": {
-    "text": "Wie lange spielst du gerade dein aktuelles Spiel? \\n\\nDu kannst dies im Menü Optionen ausblenden."
+    "text": "Wie lange spielst du gerade dein aktuelles Spiel? \n\nDu kannst dies im Menü Optionen ausblenden."
   },
   "1be009cd436fcd0e73748956ec0d30f9": {
     "text": "Spielzeit"
   },
   "dee6f1f8d87b1865581ad94a6134be20": {
-    "text": "Gehe zurück in der Zeit bis zum Beginn des aktuellen Zuges. Verfügbar nach mindestens einer Aktion. \\n\\nDu kannst das nur einmal pro Kampf tun."
+    "text": "Gehe zurück in der Zeit bis zum Beginn des aktuellen Zuges. Verfügbar nach mindestens einer Aktion. \n\nDu kannst das nur einmal pro Kampf tun."
   },
   "11a74e7644d07bfd0cd0b143fc7f25ba": {
     "text": "Zug zurück"
@@ -453,13 +453,13 @@
     "text": "Benutzte Züge zurücksetzen"
   },
   "410ed538eff6e2c2a1d00c404a1fa8b3": {
-    "text": "Gehe zurück in der Zeit bis zum Beginn des aktuellen Zuges. Verfügbar nach mindestens einer Aktion. \\n\\nDein Pilot 'Temporaler Reset' gibt dir einen zusätzlichen Reset pro Kampf. Du hast 2 übrig."
+    "text": "Gehe zurück in der Zeit bis zum Beginn des aktuellen Zuges. Verfügbar nach mindestens einer Aktion. \n\nDein Pilot 'Temporaler Reset' gibt dir einen zusätzlichen Reset pro Kampf. Du hast 2 übrig."
   },
   "e75be79cc30a237939127927e4f6ef66": {
-    "text": "Gehe zurück in der Zeit bis zum Beginn des aktuellen Zuges. Verfügbar nach mindestens einer Aktion. \\n\\nDu hast nur noch einen Reset."
+    "text": "Gehe zurück in der Zeit bis zum Beginn des aktuellen Zuges. Verfügbar nach mindestens einer Aktion. \n\nDu hast nur noch einen Reset."
   },
   "58793042a14774337a8ef97a9f0b851c": {
-    "text": "Ändert, wie schnell gegnerische Einheiten am Zug sind. \\n\\nVerlangsame es wenn du ein neuer Spieler bist um den Aktionen besser folgen zu können. Mit der Zeit kannst du es schneller einstellen."
+    "text": "Ändert, wie schnell gegnerische Einheiten am Zug sind. \n\nVerlangsame es wenn du ein neuer Spieler bist um den Aktionen besser folgen zu können. Mit der Zeit kannst du es schneller einstellen."
   },
   "636d534fd32c9bab11b7d1f7249cc728": {
     "text": "Kampfgeschwindigkeit"
@@ -474,13 +474,13 @@
     "text": "Tutorial Tipps"
   },
   "5ab415512413cd614cfa107376a28cda": {
-    "text": "Zeigen Sie während des Spiels relevante Tutorial-Popups an. \\n\\nEmpfehlenswert für neue Spieler."
+    "text": "Zeigen Sie während des Spiels relevante Tutorial-Popups an. \n\nEmpfehlenswert für neue Spieler."
   },
   "a91d719ef6749935489273ce124a2078": {
     "text": "Max. Boardskala"
   },
   "49b8396489a3e7374927c07d09f4b2db": {
-    "text": "Maximale Skalierung das Kampfboards anpassen.\\n\\nDies kann nützlich sein, um die Skalierung für größere Monitore zu verringern.\\n\\nDie Standardskalierung für das aktuelle Fenster ist: $1"
+    "text": "Maximale Skalierung das Kampfboards anpassen.\n\nDies kann nützlich sein, um die Skalierung für größere Monitore zu verringern.\n\nDie Standardskalierung für das aktuelle Fenster ist: $1"
   },
   "5b41b7ad8028c0826cb52fa13f21c844": {
     "text": "Standardfenster"
@@ -495,13 +495,13 @@
     "text": "Spieltimer UI"
   },
   "397122c5eae73af50ef59a0c036dec6f": {
-    "text": "Füge Spieltimer zur Benutzeroberfläche hinzu. \\n\\nHilfreich für Speedrunning oder den 'Blitzkrieg' Erfolg"
+    "text": "Füge Spieltimer zur Benutzeroberfläche hinzu. \n\nHilfreich für Speedrunning oder den 'Blitzkrieg' Erfolg"
   },
   "d5a644f40f4e1c62e5b3441094230181": {
     "text": "Farbenblinder Modus"
   },
   "9919d0e2fa6d4b0c00e47b0827fb0c16": {
-    "text": "Ändert einige Farben und fügt zusätzliche Symbole hinzu, um farbblinde Spieler zu unterstützen. \\n\\nLass uns wissen, ob du etwas verbessert haben möchtest."
+    "text": "Ändert einige Farben und fügt zusätzliche Symbole hinzu, um farbblinde Spieler zu unterstützen. \n\nLass uns wissen, ob du etwas verbessert haben möchtest."
   },
   "b815399b78eb8ad112c9cc2b124b0a39": {
     "text": "Größere Schriftarten"
@@ -525,31 +525,31 @@
     "text": "Stretch-Skalierung"
   },
   "18f137b6ff3c0457a49dc42d99a31a30": {
-    "text": "Stretche Bilder und UI für Anpassung an größere Auflösungen. \\n\\nHilfreich für 1440p oder mehr , wenn die Benutzeroberfläche zu klein ist, aber Bilder und Text möglicherweise etwas unscharf werden."
+    "text": "Stretche Bilder und UI für Anpassung an größere Auflösungen. \n\nHilfreich für 1440p oder mehr , wenn die Benutzeroberfläche zu klein ist, aber Bilder und Text möglicherweise etwas unscharf werden."
   },
   "e00a3f77b7f8f6c4241d7170b7b54204": {
     "text": "Frame Limit"
   },
   "f2a4fd376fd0558f952efebbd19bff2e": {
-    "text": "FPS Limit auf 60.\\n\\nEmpfohlen für die meisten Systeme."
+    "text": "FPS Limit auf 60.\n\nEmpfohlen für die meisten Systeme."
   },
   "5385b7a6956a92035bb449868e9a558a": {
     "text": "Bildwackeln deaktivieren"
   },
   "d85ca6373e8ab30c64ad7c6cf113cb39": {
-    "text": "Board soll nicht wackeln\\n\\nHäufig im Kampf wenn etwas Schaden erleidet."
+    "text": "Board soll nicht wackeln\n\nHäufig im Kampf wenn etwas Schaden erleidet."
   },
   "a69190c07853570b6f20653e21e9d291": {
     "text": "Koordinaten Overlay"
   },
   "46e9939579d71828c0be177ebfa097c2": {
-    "text": "Fügt Koordination dem Board hinzu.\\n\\nGut für Streaming oder anderen Formen des Sharings."
+    "text": "Fügt Koordination dem Board hinzu.\n\nGut für Streaming oder anderen Formen des Sharings."
   },
   "3f596df35ed674b02a12395160637c2e": {
     "text": "Stretch Skalierung nicht verfügbar"
   },
   "af32b8f2f98597096ccce48a95d23da2": {
-    "text": "Ihre Videotreiber unterstützen die dafür notwendigen Voraussetzungen nicht. \\n\\nBitte aktualisieren Sie oder wenden Sie sich an den Support, wenn Sie diese Funktion benötigen."
+    "text": "Ihre Videotreiber unterstützen die dafür notwendigen Voraussetzungen nicht. \n\nBitte aktualisieren Sie oder wenden Sie sich an den Support, wenn Sie diese Funktion benötigen."
   },
   "bab96f7bab32f2baa9ef400df0457ae4": {
     "text": "Kampfsieg"
@@ -597,13 +597,13 @@
     "text": "Gerettete Menschen"
   },
   "a2df8ef7e3c59dd9c2c7f852589c4b07": {
-    "text": "Die Anzahl der Personen, die du in dieser Zeitlinie gespeichert hast \\n\\nHöhere Schwierigkeiten haben mehr Menschen pro Gebäude im Kampf."
+    "text": "Die Anzahl der Personen, die du in dieser Zeitlinie gespeichert hast \n\nHöhere Schwierigkeiten haben mehr Menschen pro Gebäude im Kampf."
   },
   "da0ddf0e974d2a995c144c105615fd8e": {
     "text": "Mech-Reaktor"
   },
   "98e19fa07969dbd898a12cc9a3fc4784": {
-    "text": "Du kannst die Reaktorenergie nutzen, um deine Waffen zu verbessern oder zusätzliche Waffen zu aktivieren. \\n\\nReaktorkerne installieren, um den Reaktor eines Mechs zu verbessern."
+    "text": "Du kannst die Reaktorenergie nutzen, um deine Waffen zu verbessern oder zusätzliche Waffen zu aktivieren. \n\nReaktorkerne installieren, um den Reaktor eines Mechs zu verbessern."
   },
   "dc9c2de6f86e5cd8030a1ebe12234cc6": {
     "text": "Kerninstallation rückgängig machen"
@@ -627,7 +627,7 @@
     "text": "Mech-Klasse"
   },
   "017434f53d02c231132cb1207723f7d7": {
-    "text": "Die Mech-Klasse bestimmt, welche Waffenarten sie effizient einsetzen kann. \\n\\nWaffen, die nicht in derselben Klasse sind, kosten 1 zusätzliche Reaktorenergie."
+    "text": "Die Mech-Klasse bestimmt, welche Waffenarten sie effizient einsetzen kann. \n\nWaffen, die nicht in derselben Klasse sind, kosten 1 zusätzliche Reaktorenergie."
   },
   "d5cf9df13a50ebc53d2c83fa37f36adf": {
     "text": "Cyborg-Klasse"
@@ -663,13 +663,13 @@
     "text": "Normaler KI Pilot"
   },
   "511e9ab5d7600f006572aa98246d6753": {
-    "text": "Grundlegende KI-Piloten arbeiten bereits mit maximaler Effizienz und erhalten keine Erfahrung im Kampf. \\n\\nFinde überlegene menschliche Piloten oder fortgeschrittene KI-Piloten, um die grundlegende KI zu ersetzen."
+    "text": "Grundlegende KI-Piloten arbeiten bereits mit maximaler Effizienz und erhalten keine Erfahrung im Kampf. \n\nFinde überlegene menschliche Piloten oder fortgeschrittene KI-Piloten, um die grundlegende KI zu ersetzen."
   },
   "43aa5426efe811a1fdc8525da78fe233": {
-    "text": "Die prozentuale Chance, dass ein Gebäude einem Schaden standhält. \\n\\nHol dir Energie, wenn dein Stromnetz voll ist, um seine Verteidigung zu verbessern."
+    "text": "Die prozentuale Chance, dass ein Gebäude einem Schaden standhält. \n\nHol dir Energie, wenn dein Stromnetz voll ist, um seine Verteidigung zu verbessern."
   },
   "091818283f09c965c79714064c1021c0": {
-    "text": "Du verlierst, wenn dies Null erreicht. \\n\\nReduziert sich jedes Mal, wenn ein Gebäude mit Strom im Kampf beschädigt wird."
+    "text": "Du verlierst, wenn dies Null erreicht. \n\nReduziert sich jedes Mal, wenn ein Gebäude mit Strom im Kampf beschädigt wird."
   },
   "92e50f1862bb0cb44bcc3356c6a4f453": {
     "text": "Reaktorkern"
@@ -681,19 +681,19 @@
     "text": "Netzleistung"
   },
   "317fabcd8075160bb53ae14fd26fd687": {
-    "text": "Repariere Schäden an deinem Stromnetz. \\n\\nWenn das Stromnetz voll ist, wird es die Verteidigung dauerhaft erhöhen."
+    "text": "Repariere Schäden an deinem Stromnetz. \n\nWenn das Stromnetz voll ist, wird es die Verteidigung dauerhaft erhöhen."
   },
   "bd1ccae7fea0856388a7cc4afd2733ce": {
     "text": "Überlaste Netzleistung"
   },
   "b726ac65031efb497cf8fd47ec520f11": {
-    "text": "Dein Stromnetz ist voll. Zusätzliche Energie wird die Verteidigung permanent verbessern. \\n\\nDer Bonus verringert sich, je höher der Verteidigung ist, bis zu einem Maximum von +25."
+    "text": "Dein Stromnetz ist voll. Zusätzliche Energie wird die Verteidigung permanent verbessern. \n\nDer Bonus verringert sich, je höher der Verteidigung ist, bis zu einem Maximum von +25."
   },
   "55373e9fe31a06a62d921e9a863a0539": {
     "text": "Volle Netzleistung"
   },
   "393f77ed71d670753e143183f4986828": {
-    "text": "Das Stromnetz und die Verteidigung haben beide ihren maximalen Wert. \\n\\nDu kannst keine zusätzliche Energie kaufen."
+    "text": "Das Stromnetz und die Verteidigung haben beide ihren maximalen Wert. \n\nDu kannst keine zusätzliche Energie kaufen."
   },
   "808ad0f97ae33294540eae5c1850452b": {
     "text": "Standard Vek Bedrohung"
@@ -825,16 +825,16 @@
     "text": "Du hast noch Einheiten die agieren können. Sie werden ihren Zug auslassen."
   },
   "27df34f7234936e34e35d03e0d43c591": {
-    "text": "Geh zurück in die Zeit bis zum Start deines Zuges?\\n\\nEnergielimits bedeuten, dass du das nur einmal pro Kampf tun kannst."
+    "text": "Geh zurück in die Zeit bis zum Start deines Zuges?\n\nEnergielimits bedeuten, dass du das nur einmal pro Kampf tun kannst."
   },
   "87d62df299f9c30df2c9967837fc4640": {
-    "text": "Geh zurück in die Zeit bis zum Start deines Zuges?\\n\\nDein 'Temporaler Reset' Pilot bedeutet, dass du das zweimal in diesem Kampf machen kannst."
+    "text": "Geh zurück in die Zeit bis zum Start deines Zuges?\n\nDein 'Temporaler Reset' Pilot bedeutet, dass du das zweimal in diesem Kampf machen kannst."
   },
   "42ccda7cde67a92b38d8c7b9a20e50a1": {
-    "text": "Geh zurück in die Zeit bis zum Start deines Zuges?\\n\\nDu hast nur noch einen Reset."
+    "text": "Geh zurück in die Zeit bis zum Start deines Zuges?\n\nDu hast nur noch einen Reset."
   },
   "a943484028149ce0030ac99dbba74323": {
-    "text": "BEWEGUNG\\nRESET"
+    "text": "BEWEGUNG\nRESET"
   },
   "95923a2b042803ea802ae3fd256f487a": {
     "text": "RESET ZUG"
@@ -861,7 +861,7 @@
     "text": "TEST ABGESCHLOSSEN"
   },
   "78340d7fd2b71bb1a60192bd553fac24": {
-    "text": "[ Rechtsklick ] \\noder \\n [ $1 ] \\nzum Entwaffnen"
+    "text": "[ Rechtsklick ] \noder \n [ $1 ] \nzum Entwaffnen"
   },
   "de1c70a20d797811b2fd32facf64bbd4": {
     "text": "PASSIV"
@@ -909,7 +909,7 @@
     "text": "Verwendet pro Kampf: "
   },
   "a34e1dc448ef3ba0396e0ab25cc17303": {
-    "text": " Keine passende Mech-Klasse. \\n 1 Energie Strafe gilt."
+    "text": " Keine passende Mech-Klasse. \n 1 Energie Strafe gilt."
   },
   "aa3dc3c112ac677e6cd04c01c81542cc": {
     "text": "Nicht-Cyborg-Waffe"
@@ -1077,7 +1077,7 @@
     "text": "ZURÜCKSETZEN"
   },
   "e31f6de7f20569a62ab23e3f02aca8f1": {
-    "text": "Kosten eine zusätzliche \\n          Energie um es zu benutzen"
+    "text": "Kosten eine zusätzliche \n          Energie um es zu benutzen"
   },
   "60cc3864ebd095185b45f5a4c02076a0": {
     "text": "Falsche Klasse"
@@ -1146,10 +1146,10 @@
     "text": "Deine unbenutzte Firmenreputation wird verloren gehen, wenn du jetzt gehst."
   },
   "62daa3b47773659c18c039a1978db45f": {
-    "text": "Bist du sicher, dass Sie diesen Pilot der Insel dauerhaft zuweisen möchten?\\n(Gewährt Reputation)"
+    "text": "Bist du sicher, dass Sie diesen Pilot der Insel dauerhaft zuweisen möchten?\n(Gewährt Reputation)"
   },
   "e0ce18cca6c55c9cb80a085ab7088e53": {
-    "text": "Möchtest du diese Waffe wirklich spenden?\\n(Gewährt Reputation)"
+    "text": "Möchtest du diese Waffe wirklich spenden?\n(Gewährt Reputation)"
   },
   "0b04e61c3ef03b1f64fe6b4db05fa6b9": {
     "text": "Perfekte Insel!"
@@ -1179,25 +1179,25 @@
     "text": "Starte die Mission"
   },
   "7c6fdf410aa633e42124c504214f04d5": {
-    "text": "Wasser \\nProtokolliert"
+    "text": "Wasser \nProtokolliert"
   },
   "e2f81bb7c71981fceee2a4d1966b7910": {
-    "text": "Rauch \\nBlockierend"
+    "text": "Rauch \nBlockierend"
   },
   "17b3e7d8339512d58a6a3733b7ac3e90": {
-    "text": "Eis \\nBlockierend"
+    "text": "Eis \nBlockierend"
   },
   "d0e7641fa61b57d408f8849e693b1698": {
-    "text": "Nur\\nBonusbewegung"
+    "text": "Nur\nBonusbewegung"
   },
   "f07f5c5122ded39aaadaeff802b231b0": {
-    "text": "Lava \\nBlockierend"
+    "text": "Lava \nBlockierend"
   },
   "7b020280c113c4371d99243043121898": {
     "text": "Warnung: Vek Offensive"
   },
   "be55c75d32f3be960313b72dc2c79fd8": {
-    "text": "Vek überlaufen zwei Regionen auf der Insel.\\nThe Region die nicht gesichert wird ist für immer verloren."
+    "text": "Vek überlaufen zwei Regionen auf der Insel.\nThe Region die nicht gesichert wird ist für immer verloren."
   },
   "c9c9c146c630ca5ef9197c73c032f4a6": {
     "text": "ENERGIE"
@@ -1329,16 +1329,16 @@
     "text": "Du wirst alle Spielfortschritte und Freischaltungen verlieren. Das kann nicht rückgängig gemacht werden."
   },
   "c177be8ca84f6a46f8b2e3a09f7e235f": {
-    "text": "'Into the Breach' scheint keinen Dateizugriff zu haben, um den Fortschritt zu speichern. \\n\\nBitte beenden Sie das Programm und prüfen Sie, ob Ihre Anti-Virus-Software es blockiert. \\n\\nWenn das Problem weiterhin besteht, senden Sie uns eine E-Mail an contact@subsetgames.com"
+    "text": "'Into the Breach' scheint keinen Dateizugriff zu haben, um den Fortschritt zu speichern. \n\nBitte beenden Sie das Programm und prüfen Sie, ob Ihre Anti-Virus-Software es blockiert. \n\nWenn das Problem weiterhin besteht, senden Sie uns eine E-Mail an contact@subsetgames.com"
   },
   "d16c3253da73f8af5381b0d39b17b262": {
-    "text": "'Into the Breach' kann möglicherweise den Fortschritt nicht retten. \\n\\nBitte beenden Sie das Programm und prüfen Sie, ob Ihre Anti-Virus-Software es blockiert. \\n\\nWenn das Problem weiterhin besteht, senden Sie uns eine E-Mail an contact@subsetgames.com"
+    "text": "'Into the Breach' kann möglicherweise den Fortschritt nicht retten. \n\nBitte beenden Sie das Programm und prüfen Sie, ob Ihre Anti-Virus-Software es blockiert. \n\nWenn das Problem weiterhin besteht, senden Sie uns eine E-Mail an contact@subsetgames.com"
   },
   "c6509bbe47eb542d7231ac2211bbd21f": {
-    "text": "Dein Speicherstand scheint kaputt zu sein. Bitte kontaktiere uns auf contact@subsetgames.com wenn du willst das wir eine Wiederherstellung probieren.\\n\\nEs tut uns sehr leid!"
+    "text": "Dein Speicherstand scheint kaputt zu sein. Bitte kontaktiere uns auf contact@subsetgames.com wenn du willst das wir eine Wiederherstellung probieren.\n\nEs tut uns sehr leid!"
   },
   "a6646e1ac017816b1d0b4bb21f5b1988": {
-    "text": "Deine Profildatei ist kaputt. Bitte kontaktiere uns auf contact@subsetgames.com, falls du willst das wir dir helfen.\\n\\nEs tut uns sehr leid!"
+    "text": "Deine Profildatei ist kaputt. Bitte kontaktiere uns auf contact@subsetgames.com, falls du willst das wir dir helfen.\n\nEs tut uns sehr leid!"
   },
   "9dedab33b2690cbf03ce183c30bfbfd6": {
     "text": "WARNUNG: Es liegt ein Schreibfehler vor und dein Fortschritt kann nicht gespeichert werden."
@@ -1350,10 +1350,10 @@
     "text": "Warnung!"
   },
   "0cb8915b2d515aa7cb2cae8fd837ea75": {
-    "text": "Ihre Profildaten konnten nicht vollständig gelöscht werden. Es kann nur gelesen werden, oder es kann zusätzliche Dateien in seinem Ordner haben. Du kannst es manuell von hier löschen: \\n\\n"
+    "text": "Ihre Profildaten konnten nicht vollständig gelöscht werden. Es kann nur gelesen werden, oder es kann zusätzliche Dateien in seinem Ordner haben. Du kannst es manuell von hier löschen: \n\n"
   },
   "b5fb5250c024ab8f7ce39acdcf9a2b9f": {
-    "text": "Ihre Profildaten konnten nicht gelöscht werden. Dies ist ein bekanntes Problem in OS X. \\n\\nSie können Ihre Profildaten manuell von diesem Speicherort löschen: \\n\\n"
+    "text": "Ihre Profildaten konnten nicht gelöscht werden. Dies ist ein bekanntes Problem in OS X. \n\nSie können Ihre Profildaten manuell von diesem Speicherort löschen: \n\n"
   },
   "efd4e6493c7182a44e37a2650dd07ec7": {
     "text": "Siege:"
@@ -1548,7 +1548,7 @@
     "text": "Pilotenauswahl"
   },
   "c7d6c87ed362186829f37fe74d7a9f78": {
-    "text": "Letzter \\nReisender"
+    "text": "Letzter \nReisender"
   },
   "652f9189b5337418bdae6342da625b58": {
     "text": "Keine besondere Faehigkeit"
@@ -1614,13 +1614,13 @@
     "text": "Einfacher Modus"
   },
   "9738a07ce6f2876b6847bf080ea55738": {
-    "text": "Verringerte gegnerische Spawn-Raten.\\n\\nAnzahl um 50% reduziert."
+    "text": "Verringerte gegnerische Spawn-Raten.\n\nAnzahl um 50% reduziert."
   },
   "3d0e4034f2966109fd62ec5085b2b158": {
     "text": "Hard Modus"
   },
   "d36c30b2dc5ac66d1abe679b2368ef7f": {
-    "text": "Erhöhte Spawn-Raten und mehr Alpha Vek.\\n\\nAnzahl wird um 50% erhöht."
+    "text": "Erhöhte Spawn-Raten und mehr Alpha Vek.\n\nAnzahl wird um 50% erhöht."
   },
   "1e5f267aacbab9cc4eacb0eaedbc2997": {
     "text": "Schalte den Squad '$1' frei, um diese Farbe zu verwenden"
@@ -1632,13 +1632,13 @@
     "text": "Passive Ausrüstung wiederholen"
   },
   "8a8701e573e343348597f001d71fb7e2": {
-    "text": "Dein Mechsquad kann nicht mehrere Kopien derselben passiven Ausrüstung haben. \\n\\nDu kansst immer noch mit dem Squad spielen, aber die zusätzlichen Kopien der passiven Ausrüstung werden entfernt."
+    "text": "Dein Mechsquad kann nicht mehrere Kopien derselben passiven Ausrüstung haben. \n\nDu kansst immer noch mit dem Squad spielen, aber die zusätzlichen Kopien der passiven Ausrüstung werden entfernt."
   },
   "444409722579db9be3af7a3aa75e0c78": {
     "text": "Rein zufälliger Squad. Keine Einschränkungen für Klasse, Waffen oder Mech."
   },
   "21b423226488fdad1ba8cf58ad876d2e": {
-    "text": "Leicht eingeschränktes zufälliges Squad.\\n\\nAlle Mechs sind einzigartig und nicht aus derselben Klasse. Mechs haben nicht mehr als 4 Waffen insgesamt."
+    "text": "Leicht eingeschränktes zufälliges Squad.\n\nAlle Mechs sind einzigartig und nicht aus derselben Klasse. Mechs haben nicht mehr als 4 Waffen insgesamt."
   },
   "0829ea6734059d66e6bf87096b215dc1": {
     "text": "Vollbild"
@@ -1770,7 +1770,7 @@
     "text": "Drei Inseln"
   },
   "5369c09911827749a32cc41d80829a76": {
-    "text": "Weil du $1 abgeschlossen hast\\n\\n\\n\\n\\nIn zukünftigen Spielen kannst du entsperrte Inseln in beliebiger Reihenfolge besuchen."
+    "text": "Weil du $1 abgeschlossen hast\n\n\n\n\nIn zukünftigen Spielen kannst du entsperrte Inseln in beliebiger Reihenfolge besuchen."
   },
   "d09294dc756b4267807f2a7c4926b413": {
     "text": "Neues Squad verfügbar, beim Start eines neuen Spiels!"
@@ -2100,7 +2100,7 @@
     "text": "Sound Designers:"
   },
   "faa4665b3c11c83b9c5fc053231cfaaa": {
-    "text": "Joey Godard\\nJeff Tangsoc\\nKevin Regamey\\nCole Verderber"
+    "text": "Joey Godard\nJeff Tangsoc\nKevin Regamey\nCole Verderber"
   },
   "9f3c03009d95b2ccc04a7577d604d56d": {
     "text": "Sound Library:"
@@ -2151,22 +2151,22 @@
     "text": "QA Specialists:"
   },
   "201306df12a2519aaf2f1256e6b00558": {
-    "text": "Matthew Barnes\\nLucia Aldana"
+    "text": "Matthew Barnes\nLucia Aldana"
   },
   "c03194935124ab2880023d952948807f": {
     "text": "Thank you to our amazing community testers:"
   },
   "1915d9cbe9bc72d760d7a9430f2f0382": {
-    "text": "5thHorseman\\nAlfie275\\nchewbacca77\\nDarthcaboose\\nDiscord\\nFynn\\nJoni\\nKieve\\nLem\\nNick Patrick\\nRick Edmonds\\nSleeper Service\\n"
+    "text": "5thHorseman\nAlfie275\nchewbacca77\nDarthcaboose\nDiscord\nFynn\nJoni\nKieve\nLem\nNick Patrick\nRick Edmonds\nSleeper Service\n"
   },
   "5d0bd58e10b79127d9082df3ff9c84d1": {
     "text": "Special thank you for their advice and support:"
   },
   "77271b6ae88dc394d6706b849e3a0c50": {
-    "text": "Maria\\nAlison\\nMichael Nielsen\\nEstelle Tigani\\nAllison Thrower\\nBryan\\nIlona Koleda\\nEsther Oh"
+    "text": "Maria\nAlison\nMichael Nielsen\nEstelle Tigani\nAllison Thrower\nBryan\nIlona Koleda\nEsther Oh"
   },
   "717661adaa6ab0eb18cb8dec809f3c3c": {
-    "text": "and the rest of our family, friends,\\nand fellow indie developers"
+    "text": "and the rest of our family, friends,\nand fellow indie developers"
   },
   "ad3ec94f9d3681e69e39f7cac60460b9": {
     "text": "Production Babies:"
@@ -2658,7 +2658,7 @@
     "text": "Elektrischer Rauch"
   },
   "06fa7dc8bfeb4f583bebdfd15a8b75d2": {
-    "text": "Einheiten in Rauch können weder angreifen noch reparieren. \\nElektrizität beschädigt gegnerische Einheiten."
+    "text": "Einheiten in Rauch können weder angreifen noch reparieren. \nElektrizität beschädigt gegnerische Einheiten."
   },
   "73eff8cfab2da076e46746250a15ecc1": {
     "text": "Vek treffen ein"
@@ -2733,7 +2733,7 @@
     "text": "Abgrund"
   },
   "83a0c92aea6a1e6dd76edcdb92f615e3": {
-    "text": "Einheiten die darauf geschoben werden\\nwerden zerstört."
+    "text": "Einheiten die darauf geschoben werden\nwerden zerstört."
   },
   "7d3560ca9f563db60b2cd89a4e40544c": {
     "text": "Boden"
@@ -2742,7 +2742,7 @@
     "text": "Sand"
   },
   "c89bcef9e696b9c85d5350815e4db961": {
-    "text": "Wenn es beschädigt wird, wird es zu Rauch. \\nEinheiten in Smoke können weder angreifen noch reparieren."
+    "text": "Wenn es beschädigt wird, wird es zu Rauch. \nEinheiten in Smoke können weder angreifen noch reparieren."
   },
   "2aa45cd45784128a6eb56fa16c71f35a": {
     "text": "Berg"
@@ -2844,7 +2844,7 @@
     "text": "Evakuieren"
   },
   "88edb9d6510be365ccda6a352292da6e": {
-    "text": "Dieses Gebäude wird evakuiert\\nim nächsten Zug."
+    "text": "Dieses Gebäude wird evakuiert\nim nächsten Zug."
   },
   "9169ced57586de6e6126b7f2bd668245": {
     "text": "Dieses Feld wird zu Beginn des gegnerischen Spielzuges ein Abgrund."
@@ -3165,7 +3165,7 @@
     "text": "Erfahren"
   },
   "44b94d3515d8533125f39c47b4e9eaa0": {
-    "text": "Erhalte +2 Bonus XP \\nper Kill."
+    "text": "Erhalte +2 Bonus XP \nper Kill."
   },
   "d5ff54364f7d3103dc0bf37ae3fe5da4": {
     "text": "Startschild"
@@ -3249,13 +3249,13 @@
     "text": "Rockman"
   },
   "f527a32072e212b0db04006c10f76446": {
-    "text": "+3 Gesundheit und \\nImmun gegen Feuer."
+    "text": "+3 Gesundheit und \nImmun gegen Feuer."
   },
   "e073f96da948c492b3c2b233d22a9c44": {
     "text": "Zoltan"
   },
   "aab5247af5de489e220700abfc5a2a70": {
-    "text": "+1 Reaktorkern. Verringert Mech HP um 1. \\nErhalte Schild in jedem Zug."
+    "text": "+1 Reaktorkern. Verringert Mech HP um 1. \nErhalte Schild in jedem Zug."
   },
   "0a6d8caecdb62b9b8f278db13d1ec7b8": {
     "text": "Wurden gerettet!"
@@ -3276,7 +3276,7 @@
     "text": "Die Vek werden es jetzt bereuen!"
   },
   "44bfad45985d672b7e7b062fce6a972c": {
-    "text": "Hol mir meine Brille!\\nIch will das sehen!"
+    "text": "Hol mir meine Brille!\nIch will das sehen!"
   },
   "8b51fcf1edbf4ece858fa017335fc9e7": {
     "text": "Hör auf, am Fenster zu hängen!"
@@ -4431,7 +4431,7 @@
     "text": "Mantis Slash"
   },
   "4634466957f1205d76b798c659b2cc3a": {
-    "text": "Schädigt und stößt angrenzende Felder.\\nFliehe vom Eis."
+    "text": "Schädigt und stößt angrenzende Felder.\nFliehe vom Eis."
   },
   "37992a74909d2deccc50ec04d9bf0a4e": {
     "text": "Booster"
@@ -4593,7 +4593,7 @@
     "text": "Töte 4 Feinde mit Säure"
   },
   "a5fff85352015e9eb18e4bb0b56c5112": {
-    "text": "Töte 4 Feinde\\nmit Säure"
+    "text": "Töte 4 Feinde\nmit Säure"
   },
   "3e4b66d88f5511608fbd75a7b682c7e8": {
     "text": "getötet"
@@ -4608,7 +4608,7 @@
     "text": "Förderbänder schieben ein Objekt in die markierte Richtung, am Beginn des Zuges."
   },
   "833935b4539057005011ce6785cc8853": {
-    "text": "FÖRDER\\nBÄNDER"
+    "text": "FÖRDER\nBÄNDER"
   },
   "71f7422ebf2e2da3296daedfc597abc9": {
     "text": "FÖRDERER"
@@ -4716,7 +4716,7 @@
     "text": "Bomben werden an markierten Stellen fallen gelassen und töten Feinde."
   },
   "2453e9ec637406d9905bb0ce34bc1fb0": {
-    "text": "LUFT\\nUNTERSTÜTZUNG"
+    "text": "LUFT\nUNTERSTÜTZUNG"
   },
   "0936481946dd13343be73c7473784588": {
     "text": "Verteidige die Artillerieunterstützung"
@@ -4758,7 +4758,7 @@
     "text": "Archiv Tank"
   },
   "e93d8eadf5d2ed650086f629e95e1416": {
-    "text": "Archiv Inc\\nAlter Erdtank"
+    "text": "Archiv Inc\nAlter Erdtank"
   },
   "46cc0df55d22d6eb6c37cabbc09f5193": {
     "text": "beschädigt"
@@ -4785,7 +4785,7 @@
     "text": "Töte alle Feinde, bevor sie sich zurückziehen"
   },
   "c275bb736595af16e286b49a316de1a2": {
-    "text": "Töte alle Feinde\\nvor dem Rückzug"
+    "text": "Töte alle Feinde\nvor dem Rückzug"
   },
   "ddff0d5817e9abf08eb05ebc3a9ea973": {
     "text": "Dies ist eine CEO Briefing-Nachricht der Mission. Es ist sehr atmosphärisch und aufregend und gibt dir einen genaueren Einblick in die Welt und die Mission, in der du dich gerade befindest."
@@ -4803,7 +4803,7 @@
     "text": "Blockiere Vek Spawn 3 mal"
   },
   "4468106b119ce25bcd00795c42247164": {
-    "text": "Blockiere Vek Spawn\\n3 mal"
+    "text": "Blockiere Vek Spawn\n3 mal"
   },
   "6998faaa07f7573d034e960a988375d4": {
     "text": "Töte mindestens"
@@ -4878,7 +4878,7 @@
     "text": "Töte den volatilen Vek nicht"
   },
   "f6d0767246dfb19d759aeaa33c8447ad": {
-    "text": "Lassen Sie den volatilen Vek\\nnicht sterben"
+    "text": "Lassen Sie den volatilen Vek\nnicht sterben"
   },
   "4111a42c624f49b8f838195faef8d0c9": {
     "text": "Verteidige den Prototyp der Renfield Bombe"
@@ -4905,7 +4905,7 @@
     "text": "Zerstöre 2 Berge"
   },
   "b3e86e3235351bfeb404518556a268dc": {
-    "text": "Zerstöre 2 Berge\\n(Aktuell: "
+    "text": "Zerstöre 2 Berge\n(Aktuell: "
   },
   "f78273989efe476ff4c5fc6012686403": {
     "text": "Sinkloch-Bienenstock"
@@ -4968,7 +4968,7 @@
     "text": "Friere und verteidige die Roboter (einer eingefroren)"
   },
   "ebd1451d6c2951b2577fe266f7da3dc2": {
-    "text": "Frieren und verteidige\\nbeide Roboter"
+    "text": "Frieren und verteidige\nbeide Roboter"
   },
   "9dcf3e7c062860b660698df335479cbd": {
     "text": "Friere und verteidige den verbleibenden Roboter"
@@ -6379,5 +6379,122 @@
   },
   "9ff5d860302490ae1f8dc95750af40d4": {
     "text": "Die Seite ist wieder unter unserer Kontrolle - und nach deinem Beispiel können wir die Teleporter gegen die Vek benutzen, wenn sie wieder angreifen."
+  },
+  "c699604abfe199e0cca57b5a3c5fd650": {
+    "text": "Eigener Squad"
+  },
+  "9cf7b33240a8a9439fae8a8d3285bde2": {
+    "text": "Insel gesperrt"
+  },
+  "1de2d99872dafef5f4b36adda44ad304": {
+    "text": "Feure die Faust."
+  },
+  "23b22c523cd49256b4e6d7f0ce5e1004": {
+    "text": "Der Schild-Panzer feuert ein Projektil das entfernte Ziele abschirmt."
+  },
+  "21324ad813b808469116dcf7e079fb0e": {
+    "text": "Stößt über die Map, beschädigt und stößt das Ziel."
+  },
+  "c4b2216f1adbb3312503162684f650e3": {
+    "text": "Rauch hinterbei"
+  },
+  "f4d11cd0438f91c32c02106e07c7620a": {
+    "text": "Das Feld hinter wird zu Rauch."
+  },
+  "90458b796ce18da090c5c24f075a4f73": {
+    "text": "Nadelschuss"
+  },
+  "df09dbe9a86b4ea88607489ed0b43c65": {
+    "text": "Wird Nadeln auf die Feinde, stößt das entferntest getroffene Ziel."
+  },
+  "9bd7e824dd9ea6849849daf8f9f6c707": {
+    "text": "Reichweite & Schaden"
+  },
+  "5daf1f45aa0e7f70feee008ec09a90dc": {
+    "text": "Erhöht potentiell getroffene Feld um 1 und Schaden an allen Felder um 1."
+  },
+  "c6ed12daafdfebf68131863ffd8f5537": {
+    "text": "Explosiver Goo"
+  },
+  "d1fa86d2caa8d7f2b4b5f6d1194e49d1": {
+    "text": "Artillerieattacke die ein Feld schädigt und die angrenzenden Felder stößt."
+  },
+  "34f2aff9d04b5638da3d328f6f33f38c": {
+    "text": "+1 Feld"
+  },
+  "8737a58d6b197cbc93f4c4c4e48024d7": {
+    "text": "Erhöht Trefferbereich um 1 Feld."
+  },
+  "5f4e47fda7b305d50bf497602f8641a7": {
+    "text": "Säurekanone"
+  },
+  "57d6cca950529242c3284022b856c95b": {
+    "text": "Schießt ein Projektil das Säure zufügt."
+  },
+  "01289e7f320ded9f1d451f0a2951c487": {
+    "text": "Säure verschütten"
+  },
+  "3ce90cc47eb506dd0d111230a5696a33": {
+    "text": "Das aktuelle Feld wird ein Pool von Säure."
+  },
+  "d7c25e03c3e263266eccc5dce5a57c90": {
+    "text": "Disintegrator"
+  },
+  "a8279c8ae3a8ae8904e57190bc45fcd8": {
+    "text": "Löse alle Zielfelder mit Säure auf"
+  },
+  "f41f37e541d94e399888f95e5f27036c": {
+    "text": "Alter Erde Atillerie"
+  },
+  "df5186a5873ca5d52ee24bc63ee60aaf": {
+    "text": "Schwach gegen moderne Artillerie, aber noch immer hilfreich."
+  },
+  "c92022c3a49c9c9f8ddf84dca9c2dd91": {
+    "text": "Satellitenabschuss"
+  },
+  "5f1b81fc9bf7b6f99817fb4ccddac10c": {
+    "text": "Schießt einen Satelliten ins Weltall, zerstört den angrenzende Bereich."
+  },
+  "6e40a9d1ff3d5fd6993deb9fc03abe79": {
+    "text": "Verwandelt nahe Abgründe in normalen Grund."
+  },
+  "33ce64dd1e4acf873d181c9f64464938": {
+    "text": "Löscht alles Leben vor dem Terraformer aus."
+  },
+  "86b2a5d39fa5f4eed178edbab1f0c7c8": {
+    "text": "Cannon 8R Mark I"
+  },
+  "175c0f18078b49db39db08a409969bdc": {
+    "text": "Projektil das Ziel brennen lässt."
+  },
+  "fe2d0c28d7da6952bc6bde70c29ec6f1": {
+    "text": "Schweres Projektil das Ziel brennen lässt."
+  },
+  "6122a48b1e9f20766e68e66b191fc42d": {
+    "text": "Cannon 8R Mark II"
+  },
+  "de5767aeec47f46caf2770c245e7ef10": {
+    "text": "BKR Beam Mark I"
+  },
+  "eb86802cea3077262ab9944209019056": {
+    "text": "Durschlagender Schuss, Schaden nimmt auf Entfernung ab."
+  },
+  "5b5506855f51c3dc7d357ccbc3cde16f": {
+    "text": "BKR Beam Mark II"
+  },
+  "53510434fbfd29028100d26addb27518": {
+    "text": "Vk8 Rockets Mark I"
+  },
+  "bf98e0325d046fac68ff44c63532e5ff": {
+    "text": "Vk8 Rockets Mark II"
+  },
+  "e64362726e2ac5464fdc63cf5f3933a1": {
+    "text": "Minenleger"
+  },
+  "d388f14027b055aa8e26076289922be1": {
+    "text": "Legt eine Eismine."
+  },
+  "68f7e343cbbf9e009df8d98e203418f8": {
+    "text": "Töte 4 Feinde die mit Säure%%0behaftet sind"
   }
 }
