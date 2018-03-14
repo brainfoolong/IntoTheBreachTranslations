@@ -69,7 +69,7 @@ languageFiles.forEach(function (file) {
           match = regexFull.exec(fileData)
           if (match) {
             let a = match[0]
-            let b = match[0].replace(new RegExp(regexText), replaceText)
+            let b = match[0].replace(new RegExp(regexText), replaceText.replace(/\n/g, '\\n').replace(/"/g, '\\"'))
             fileData = fileData.replace(a, b)
           }
         }
