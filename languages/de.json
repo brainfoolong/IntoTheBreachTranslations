@@ -45,7 +45,7 @@
     "text": "Du kannst den Feind nicht von diesem Ort aus treffen. Benutze 'Bewegung zurücksetzen', um den Mech neu zu positionieren!"
   },
   "ec168cccb683e206e453fb2e080a16a3": {
-    "text": "Bewegung zurücksetzen"
+    "text": "Bewegung Reset"
   },
   "521ee863d8ed9299432c5c2442aae7a5": {
     "text": "Schlage diesen Feind!"
@@ -450,7 +450,7 @@
     "text": "Du kannst das nur einmal pro Kampf benutzen."
   },
   "8e0167e6b6e49dbba7b4b44dcf9c738d": {
-    "text": "Benutzte Züge zurücksetzen"
+    "text": "Züge zurücksetzen"
   },
   "410ed538eff6e2c2a1d00c404a1fa8b3": {
     "text": "Gehe zurück in der Zeit bis zum Beginn des aktuellen Zuges. Verfügbar nach mindestens einer Aktion. \n\nDein Pilot 'Temporaler Reset' gibt dir einen zusätzlichen Reset pro Kampf. Du hast 2 übrig."
@@ -840,7 +840,7 @@
     "text": "RESET ZUG"
   },
   "207536e5c45577267014f7eba561d561": {
-    "text": "VERBRAUCHT ZURÜCKSETZEN"
+    "text": "VERBRAUCHT"
   },
   "bfd4e50add4f4080189a629370fa3c7c": {
     "text": "Aktive Einheiten: "
