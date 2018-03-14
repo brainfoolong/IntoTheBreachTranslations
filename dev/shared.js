@@ -246,6 +246,23 @@ const shared = {
   }
 }
 
+shared.getLuaFiles = function (dir, filter, out) {
+  if (typeof out === 'undefined') out = []
+  const files = fs.readdirSync(dir)
+  files.forEach(function (file) {
+    let path = dir + '/' + file
+    if (fs.lstatSync(path).isDirectory()) {
+      shared.getLuaFiles(path, filter, out)
+    } else if (file.substr(-4) === '.lua') {
+      if (filter && !path.match(new RegExp(filter))) {
+        return
+      }
+      out.push(path)
+    }
+  })
+  return out
+}
+
 shared.getAllOtherLuaFiles = function (dir, out) {
   const files = fs.readdirSync(dir)
   files.forEach(function (file) {

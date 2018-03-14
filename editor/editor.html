@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Translation Editor</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="autosize.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+
+<div class="translation-form hidden">
+    <div class="top">
+        Sort:
+        <select name="sort_first">
+            <option value=""></option>
+            <option value="1">Translated first</option>
+            <option value="2">Untranslated first</option>
+        </select>
+        <select name="sort_second">
+            <option></option>
+            <option value="1">by original Text</option>
+            <option value="2">by translated Text</option>
+        </select>
+        <label><input type="checkbox" name="hide_translated"> Hide translated</label>
+        <label><input type="checkbox" name="hide_untranslated"> Hide untranslated</label>
+    </div>
+    <div class="main">
+        <div class="area">
+            <div class="row">
+                <div class="original"></div>
+                <div class="translated">
+                    <div class="background textarea"></div>
+                    <textarea class="textarea"></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom">
+        <span class="btn btn-info download">Download JSON</span>
+        <span class="btn btn-success upload">Upload to GitHub</span>
+        <span class="btn btn-danger reload">Reload Page</span>
+        <div class="status color-light"></div>
+    </div>
+</div>
+
+
+<div class="login-form">
+    <form name="login">
+        <h3>Brains Translation Editor for GitHub Repositories</h3>
+        This tool is designed to help you to translate a GitHub project, if it does provide translations.
+        <div class="spacer-small"></div>
+        <div class="spacer-big"></div>
+        <div class="spacer-big"></div>
+        <div class="spacer-small"></div>
+        <div class="form-field">
+            <div class="color-light">Your GitHub Username</div>
+            <div class="spacer-small"></div>
+            <input name="username" required>
+            <div class="spacer-big"></div>
+        </div>
+        <div class="form-field">
+            <div class="color-light">Your GitHub Private Access Token
+                <a href="https://github.com/settings/tokens" target="_blank">[Create one here with scope 'Repo']</a>
+            </div>
+            <div class="small color-light">Info: This is NOT your password. It's a secure token that you can revoke
+                everytime
+            </div>
+            <div class="spacer-small"></div>
+            <input name="token" required>
+            <div class="spacer-big"></div>
+        </div>
+        <div class="form-field">
+            <div class="color-light">Repository (username/repositoryname)</div>
+            <div class="small color-light">The repository to use</div>
+            <div class="spacer-small"></div>
+            <input name="repository" required pattern=".+?/.+">
+            <div class="spacer-big"></div>
+        </div>
+        <div class="form-field">
+            <div class="color-light">Relative path to template.json</div>
+            <div class="small color-light">This contains all original translation values. Example:
+                languages/template.json
+            </div>
+            <div class="spacer-small"></div>
+            <input name="template_path" required>
+            <div class="spacer-big"></div>
+        </div>
+        <div class="form-field">
+            <div class="color-light">Relative path to xx.json</div>
+            <div class="small color-light">This contains all your translated values. Example:
+                languages/de.json
+            </div>
+            <div class="spacer-small"></div>
+            <input name="language_path" required>
+            <div class="spacer-big"></div>
+        </div>
+        <input type="submit" name="login" class="btn" value="Let's go">
+    </form>
+</div>
+</body>
+</html>
