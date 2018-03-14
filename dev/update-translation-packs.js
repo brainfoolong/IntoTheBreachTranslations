@@ -29,9 +29,6 @@ languageFiles.forEach(function (file) {
   gameFiles = {}
   filesChanged = {}
   const language = fileSplit[0]
-  if (language !== 'de') {
-    return
-  }
   const languageFileData = JSON.parse(fs.readFileSync(langDir + '/' + file).toString())
   for (let id in languageFileData) {
     const languageData = languageFileData[id]
