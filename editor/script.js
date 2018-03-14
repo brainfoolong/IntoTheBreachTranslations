@@ -21,6 +21,18 @@
     }
   })
 
+  function base64Decode (str) {
+    return decodeURIComponent(Array.prototype.map.call(atob(str), function (c) {
+      return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2)
+    }).join(''))
+  }
+
+  function base64Encode (str) {
+    return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function (match, p1) {
+      return String.fromCharCode(parseInt(p1, 16))
+    }))
+  }
+
   function save () {
     localStorage.setItem('storageData', JSON.stringify(storage))
   }
@@ -88,7 +100,7 @@
   function setChangedValues () {
     $('textarea.changed').each(function () {
       var id = $(this).closest('.row').attr('data-id')
-      if(typeof storage.translations[id] === 'undefined'){
+      if (typeof storage.translations[id] === 'undefined') {
         storage.translations[id] = {}
       }
       storage.translations[id].text = $(this).val()
@@ -141,7 +153,7 @@
         setStatus('Uploading...')
         var sendData = {
           'message': 'upload from brains translation tool',
-          'content': btoa(createJsonFileData())
+          'content': base64Encode(createJsonFileData())
         }
         if (translationSha !== null) {
           sendData.sha = translationSha
@@ -174,7 +186,7 @@
 
       var all = $('.row')
       var empty = all.filter(function () {
-        return $(this).find("textarea").val() === ''
+        return $(this).find('textarea').val() === ''
       })
       switch ($(this).attr('name')) {
         case 'hide_untranslated':
@@ -199,8 +211,8 @@
         var ret = 0
         var vA = values[a.attr('data-id')] || ''
         var vB = values[b.attr('data-id')] || ''
-        if(vA) vA = vA.text.toLowerCase()
-        if(vB) vB = vB.text.toLowerCase()
+        if (vA) vA = vA.text.toLowerCase()
+        if (vB) vB = vB.text.toLowerCase()
         if (sorts['sort_first'].length) {
           vA = vA === '' ? 1 : 0
           vB = vB === '' ? 1 : 0
@@ -252,7 +264,7 @@
               alert('File ' + storage.repository.repository + '/' + storage.repository.template_path + ' not found')
               return
             }
-            template = atob(response.content)
+            template = base64Decode(response.content)
             try {
               template = JSON.parse(template)
             } catch (e) {
@@ -261,7 +273,10 @@
             }
             apiRequest('repos/' + storage.repository.repository + '/contents/' + storage.repository.language_path, 'get', function (response) {
               if (typeof response.content !== 'undefined') {
-                translation = JSON.parse(atob(response.content))
+                translation = JSON.parse(base64Decode(response.content))
+                for (var id in translation) {
+                  translation[id].text = translation[id].text.replace(/\\n/g, '\n').replace(/\\"/g, '\"')
+                }
                 translationSha = response.sha
               } else {
                 translation = null

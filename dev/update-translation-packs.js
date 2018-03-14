@@ -41,7 +41,8 @@ languageFiles.forEach(function (file) {
     if (templateData.files) {
       templateData.files.forEach(function (file) {
         let search = templateData.text.replace(/\n/g, '\\n').replace(/"/g, '\\"')
-        gameFiles[file] = loadGameFileSrc(file).replace(new RegExp('"' + shared.escapeRegex(search) + '"', 'g'), `"${languageData.text}"`)
+        let replace = languageData.text.replace(/\n/g, '\\n').replace(/"/g, '\\"')
+        gameFiles[file] = loadGameFileSrc(file).replace(new RegExp('"' + shared.escapeRegex(search) + '"', 'g'), `"${replace}"`)
         filesChanged[file] = true
       })
     }
@@ -52,7 +53,7 @@ languageFiles.forEach(function (file) {
     let fileData = loadGameFileSrc(file)
     for (let id in languageFileData) {
       const templateData = templateFileData[id]
-      if (!templateData.contexts) continue
+      if (!templateData || !templateData.contexts) continue
       const languageData = languageFileData[id]
       templateData.contexts.forEach(function (context) {
         let regexFull = context.regex.replace(/%s/, shared.escapeRegex(templateData.text))
@@ -61,8 +62,8 @@ languageFiles.forEach(function (file) {
         if (context.replace) {
           context.replace.forEach(function (str, i) {
             regexFull = regexFull.replace(new RegExp('%%' + i), '(' + str + ')')
-            regexText = regexFull.replace(new RegExp('%%' + i), '(' + str + ')')
-            replaceText = regexFull.replace(new RegExp('%%' + i), '(' + str + ')')
+            regexText = regexText.replace(new RegExp('%%' + i), '(' + str + ')')
+            replaceText = replaceText.replace(new RegExp('%%' + i), '$' + (i + 1))
           })
         }
         regexFull = new RegExp(regexFull, 'g')
@@ -70,7 +71,9 @@ languageFiles.forEach(function (file) {
         do {
           match = regexFull.exec(fileData)
           if (match) {
-            match[0] = match[0].replace(regexText, replaceText)
+            let a = match[0]
+            let b = match[0].replace(new RegExp(regexText), replaceText)
+            fileData = fileData.replace(a, b)
           }
         }
         while (match)
