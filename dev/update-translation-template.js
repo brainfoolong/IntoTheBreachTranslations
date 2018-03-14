@@ -106,6 +106,7 @@ const addTranslation = function (str, file, context) {
   // manual added strings
   const arr = [
     ['Kill 4 enemies inflicted%%0with A.C.I.D.', {'regex': '"%s', 'replace': ['( |\\\\n)']}],
+    ['Destroy %%0 Goos', {'regex': '"%s', 'replace': ['"..self.BlobDeaths.."']}],
   ]
   arr.forEach(function (row) {
     addTranslation(row[0], null, row[1])

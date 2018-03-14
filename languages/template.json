@@ -10766,5 +10766,17 @@
         ]
       }
     ]
+  },
+  "4d7d5a02407b3dcfa86e79b8619ae55c": {
+    "text": "Destroy %%0 Goos",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s",
+        "replace": [
+          "\"..self.BlobDeaths..\""
+        ]
+      }
+    ]
   }
 }
