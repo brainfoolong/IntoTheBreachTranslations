@@ -243,7 +243,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "bf4c61c58093b0c6acaaec1f1f98655b": {
     "text": "Warning: This final mission is still in development. \n\nIt is less polished and still being designed. \n\nYou should still find it roughly playable. Good luck!",
@@ -1714,7 +1718,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "8a59848be42a8d8c481212200e93d203": {
     "text": "The map will gradually break apart into a massive chasm",
@@ -1729,7 +1737,11 @@
       "scripts/text.lua",
       "scripts/text_tooltips.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "33d772191bfc614314d6b3fb12bffa85": {
     "text": "Ground tiles will periodically sink into chasms, taking any unit with them",
@@ -1743,7 +1755,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "4f91ab5e6ace84262b21eb3593d21293": {
     "text": "Dangerous lightning will threaten the map, killing anything it strikes",
@@ -1758,7 +1774,11 @@
       "scripts/text.lua",
       "scripts/text_tooltips.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "644a4c139ed090bda8e4de521bb68bb3": {
     "text": "Large areas of the map will periodically freeze solid",
@@ -4417,7 +4437,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "785da4706195b92ab1db907d761746ac": {
     "text": "These were the very first Mechs to fight against the Vek. They are efficient and reliable.",
@@ -4431,7 +4455,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "586c5cba8f7a428a4004db6b4acc8520": {
     "text": "These Mechs specialize in positional manipulation to turn the Vek against each other.",
@@ -4445,7 +4473,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "9e38f61bcd08513d8aaaae58fd3eb17c": {
     "text": "R.S.T. weather manipulators allow these Mechs to take advantage of smoke storms everywhere.",
@@ -4459,7 +4491,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "e9f91a3695d9456afe7ee4f19ca95597": {
     "text": "Invincible to flames, these Mechs aim to burn any threat to ashes.",
@@ -4473,7 +4509,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "e5271393ee90b1e2a50f9e197db5fea0": {
     "text": "Detritus' Beam technology and Pinnacle's Shield technology create a powerful combination.",
@@ -4487,7 +4527,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "121aa2733dd4693cee89329aa9b7b783": {
     "text": "These Titans rely on the Cryo Launcher, a powerful weapon that takes an experienced Pilot to master.",
@@ -4515,7 +4559,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "c2be2982554003a7f33aa759b4d8e159": {
     "text": "These Mechs have spectacular damage output but rely on nanobots feeding off dead Vek to stay alive.",
@@ -4557,7 +4605,11 @@
     "files": [
       "scripts/text.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "22366553684fec1651cacebe0ca83b0a": {
     "text": "Humanity's last hope are a blend of Machine and Vek created to defend Earth.",
@@ -8170,7 +8222,11 @@
     "files": [
       "scripts/text_tooltips.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "8a5a7c32c74427d365a6fd6fed28e1ff": {
     "text": "These are the most powerful Vek. Immune to water, they can be more challenging to kill.",
@@ -8471,7 +8527,11 @@
     "files": [
       "scripts/text_weapons.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "d691a42a85aa426c882f003158663b47": {
     "text": "Hatch into Spiderling.",
@@ -10424,7 +10484,11 @@
     "files": [
       "scripts/text_weapons.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "bb7ac2b5277f233662c4253597c4d867": {
     "text": "Deploy a Tank that can apply A.C.I.D. to targets.",
@@ -10662,7 +10726,11 @@
     "files": [
       "scripts/text_weapons.lua"
     ],
-    "contexts": []
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
   },
   "6e40a9d1ff3d5fd6993deb9fc03abe79": {
     "text": "Turn nearby Chasms into normal Ground.",
@@ -10776,6 +10844,1332 @@
         "replace": [
           "\"..self.BlobDeaths..\""
         ]
+      }
+    ]
+  },
+  "e24ad04b9ffc64451b22fa77813aa17e": {
+    "text": "killed so far",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "%s"
+      }
+    ]
+  },
+  "bc2fb7aee1583dd4bc9feb6903b0570d": {
+    "text": "Destroy the A.C.I.D. Vats",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "9a9dfc63c2c3369a5845ec7f4c161d1f": {
+    "text": "Destroy the Vats",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "b6b04c506b765164030807b855708543": {
+    "text": "Remain",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "0088e0a819abebbeb1455b36b5554fb8": {
+    "text": "Conveyors",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "d704b08e013a2fcbea549611cba764f6": {
+    "text": "Conveyor Belts will push any unit on them in the marked direction at the start of the enemy turn.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "833935b4539057005011ce6785cc8853": {
+    "text": "CONVEYOR BELTS",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "71f7422ebf2e2da3296daedfc597abc9": {
+    "text": "CONVEYORS",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "10d44295aabf612c01cf2f19eb96850f": {
+    "text": "Defend the Disposal Unit",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "265e1f2dae919214193bb7f5ef17a00b": {
+    "text": "Destroy all mountains",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "8e8c2adc91106422362ffd9b8b44e9a2": {
+    "text": "Mountains",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "45205658881be19832588221139d1136": {
+    "text": "Disposal",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "948fdc23d564a11712c84ce6e5278296": {
+    "text": "A.C.I.D. Launcher",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "44ffd38a6dea695cbe2b34efdcc6cf27": {
+    "text": "Partial",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "4fe2adbb0ebcd5b8b94208caff4203de": {
+    "text": "Air Support",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "4e445df2feda898d011435ca03f43c66": {
+    "text": "Bombs will be dropped on the marked spaces, killing any unit.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "2453e9ec637406d9905bb0ce34bc1fb0": {
+    "text": "AIR SUPPORT",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "3b87b898df39749c26af22f36aefc3c0": {
+    "text": "Destroy the Beetle Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "a6ff8e5fa1a427f0310162354e76d91f": {
+    "text": "Destroy the Bot Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "7fd9bb805fed1370d31df0f86c0f9fd6": {
+    "text": "Destroy the Firefly Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "bdfbd6278febc6386e0b4f22c46b89dc": {
+    "text": "Destroy 5 Goos",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "0e181f89f47654b86f3beb42f5cc08b8": {
+    "text": "Destroy",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s *\""
+      }
+    ]
+  },
+  "8df90e225d73cf9f3774356245405913": {
+    "text": "Large Goo",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "82230eb0432baf3c6cf7ac04a3bf3fb6": {
+    "text": "Medium Goo",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "eec601cfb9ce931a868a2428211c446f": {
+    "text": "Small Goo",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "b07b51fddc660515bcb0fdd1b3abc950": {
+    "text": "Destroy the Hornet Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "0457ba9ddd4ea0758cda16241fdf3e04": {
+    "text": "Hornet Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "402b2670bbf57cc185cf4c482dc92d73": {
+    "text": "Destroy the Psion Abomination",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "5ff723cc36a403d29195fbfebddd1ca3": {
+    "text": "Psion Abomination",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "5de0df926da4b1d48bdee7e5fd722bd7": {
+    "text": "Destroy the Scorpion Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "69505ad725e441b879b479a2800faba9": {
+    "text": "Scorpion Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "4eb213f40de95117474688c7ed440840": {
+    "text": "Destroy the Slug Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "e879dcec2c9829e557a0c440e72d215b": {
+    "text": "Slugling Egg",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "5ce729cb3100cf1b8d58866fbbb6efde": {
+    "text": "Destroy the Spider Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "4e3ea93cbb55d85d95c9e6228d816da8": {
+    "text": "Spider Leader",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "8bf8ac1a80abd4b3bed68e998cc69813": {
+    "text": "Caverns",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "8705034a8b4aa629a04eb5da167fc072": {
+    "text": "Watch out for falling rocks and lava!",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "c1258da2ebd7625dcb2a1bb6f176493e": {
+    "text": "Volcano",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "f300ab2b6ba5b24334ed614624edbcc4": {
+    "text": "Watch out for the active volcano!",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "152cd0044ac72f2702d6007811f80a7a": {
+    "text": "VOLCANO",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "b0fb59726bcdbeb9bb6f4754eb6dee44": {
+    "text": "Survive the Fight",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "b0f9535a381ff9db655fba0c698d0569": {
+    "text": "Defend the Renfield Bomb until it explodes",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "b5ff923c554c9b990c88e50fae838cf5": {
+    "text": "Renfield Bomb",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "0936481946dd13343be73c7473784588": {
+    "text": "Defend the Artillery Support",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "cae790fc049cb85e0a780c860913fe44": {
+    "text": "Defend the Artillery Unit",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "65719d805dfa6471f522889ecdd553a0": {
+    "text": "Old Artillery",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "bfb0049f5f95dbf9a85ba540df4750b3": {
+    "text": "Destroy the dam",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "3dc50d6c9764721975f4cf85df6f124d": {
+    "text": "Old Earth Dam",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "5bba7eb907a89f4c84409ffc6dd64ef7": {
+    "text": "Defend the Satellite Launches",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s *\""
+      }
+    ]
+  },
+  "0009afd4cc45528bb04f10c405836d54": {
+    "text": "(One Lost)",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "1348b010d1b4a0bda4a5dc515232e228": {
+    "text": "Defend the 1st satellite launch",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "4b0414970069383866c53b10415981c5": {
+    "text": "Defend the 2nd satellite launch",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "87a82458cb3750aa871ffff0e9287b32": {
+    "text": "Satellite Rocket",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "f3f1bee9b5bbd2cfa66521dc3205e5bc": {
+    "text": "Defend the Tanks",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s"
+      }
+    ]
+  },
+  "0eff1f67a7a01a58fc341c3cb736ac01": {
+    "text": "Defend Archive Inc. Tanks (One Lost)",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "092fe87ed5022c8d381615b12be6e96f": {
+    "text": "undamaged",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "%s\\)\""
+      }
+    ]
+  },
+  "fea59491c3a8dba1aa2a81439ff74534": {
+    "text": "Archive Tank",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "0a22cc941f7b001242be806fb7197eef": {
+    "text": "Archive Inc \\nOld Earth Tank",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "06d073d3714d78ecba9bac030145530d": {
+    "text": "High Tides",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "5b7686a4bd549a54d83d367317ef1e09": {
+    "text": "Marked tiles will turn to water at the start of the enemy turn.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "25f98a87fa7466585de205992971e082": {
+    "text": "TIDAL WAVES",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "4111a42c624f49b8f838195faef8d0c9": {
+    "text": "Defend the Prototype Renfield Bombs",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s *\""
+      }
+    ]
+  },
+  "36fe8cf03532f27f5fbcb0cbffe38728": {
+    "text": "Defend the Bombs",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s(\\n)*\""
+      }
+    ]
+  },
+  "564dcacf4c8361f02b730a0442775169": {
+    "text": "Prototype Bomb",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "71e4581e1c56a0b4141998a6a0c48623": {
+    "text": "Marked tiles will become Chasms at the start of the enemy turn, killing any ground units present.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "1ef89a02e4a86349810edcbd210434e6": {
+    "text": "CATACLYSM",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "493ab488e14fd8f758656528180c2007": {
+    "text": "Marked squares will sink into the earth, killing anything on them.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "f27d61c5e7759ac815675ae0c2a91677": {
+    "text": "Defend the Earth Mover",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "1ba254533468b3dd9b7d958d3e7c3bea": {
+    "text": "Destroy 2 mountains",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "ec11046a458b3f967889533a6c8440dc": {
+    "text": "Destroy 2 mountains \\n(Current: ",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "f78273989efe476ff4c5fc6012686403": {
+    "text": "Sinkhole Hive",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "36609b078daac3434eae1df8dec3b811": {
+    "text": "Lightning will strike four spaces every turn, killing any unit on the marked tiles.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "c2e0856cd016a1bd19d1d86f482079f8": {
+    "text": "LIGHTNING STORM",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "7c9003711a7936d7999017c1afa0dbc4": {
+    "text": "LIGHTNING",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "cb1d02cef2818bf17e1724c0b217b936": {
+    "text": "Sandstorm",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "bfcdf794fc05c63d99b6ddc961556d63": {
+    "text": "All DUNES will turn to SMOKE, all SMOKE will be removed.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "eda2f1df14f60a93416d9497de1e1b32": {
+    "text": "SANDSTORM",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "8b4a41673461c76ae931dc0e3dc75628": {
+    "text": "Defend the Terraformer",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "21d22222c0ca7eba59c7531a83da6b2b": {
+    "text": "Terraform the grassland back to desert",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "675bc05d704e351471702beeda9c7d2b": {
+    "text": "Area Blast",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "90a95d75428b0ae88f553992b07149d2": {
+    "text": "Self-Destruct, damaging neighboring tiles.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "ed32fad3140469c45f6bb75dbaf1fc38": {
+    "text": "Defend the Robots",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s *\""
+      }
+    ]
+  },
+  "fff365311f519a47a2344845e224ad1c": {
+    "text": "Defend the remaining Robot",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "f628c0b66da0be9149439e2481bc5515": {
+    "text": "Robot Factories",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "6a65a8f2b3c3be3f91e19862ad3cbdec": {
+    "text": "Robot Factory",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "f1dba6e703b07349d8fecc89918ffe99": {
+    "text": "Defend both Robot Factories",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "46cc0df55d22d6eb6c37cabbc09f5193": {
+    "text": "damaged",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "%s\\)\""
+      }
+    ]
+  },
+  "412c1830464908ab6c2662bc641382d2": {
+    "text": "Break 5 buildings out of the ice",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s"
+      }
+    ]
+  },
+  "0b42a26af0bfd918df0d3dc97206a5ed": {
+    "text": "Break 5 buildings out\\nof the ice",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s"
+      }
+    ]
+  },
+  "1041db21e1732de45db1a31409d5f3b9": {
+    "text": "Freeze and defend both robots",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "ad6d295d08f0007fff02f9d212b6ed4f": {
+    "text": "Freeze and defend the robots (one frozen)",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "3677762abac0537e206e1ff14b3fea4e": {
+    "text": "Freeze and defend \\nboth robots",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "9dcf3e7c062860b660698df335479cbd": {
+    "text": "Freeze and defend the remaining robot",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "406aa689e72ea92112a96a0c1f627498": {
+    "text": "Marked tiles will be frozen at the start of the enemy turn.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "5d512b000d8dfa977b9bca0d84c0c48f": {
+    "text": "ICE STORM",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "0c620541925bacc79dc53116965b4a19": {
+    "text": "Freeze Tank",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "dd6c6f3fbf1c5f4be8e5b10c8e208ca3": {
+    "text": "Freeze Cannon",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "63de51e87621e949587d9b06f00a0810": {
+    "text": "Shoot a projectile that freezes targets",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "0e6f70304077b8095f110ad66ed354fd": {
+    "text": "Solar Farm",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "db7ab99dbbbcabba712f5da217a15b41": {
+    "text": "Solar Farms",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "de816380f6e83a7495ab33e400dadb0f": {
+    "text": "Defend both Solar Farms",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "84cd8088085538d275e657eb61ea9834": {
+    "text": "Defend both Wind Farms",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "427d563aa4c8599b3c12d18b652b6966": {
+    "text": "Defend both Power Plants",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "17c402d603d457ac54e2279cbafe2501": {
+    "text": "Your bonus objective",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s *\""
+      },
+      {
+        "regex": "\"%s"
+      }
+    ]
+  },
+  "3e2a76e81ef1cfa252143524ae6ba9ea": {
+    "text": "to defend this structure",
+    "files": [],
+    "contexts": [
+      {
+        "regex": " *%s(\"|.)"
+      }
+    ]
+  },
+  "48569f4f4cdeb6d3de2596bfbac8765c": {
+    "text": "Defend the train",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s"
+      }
+    ]
+  },
+  "bdfa7a53a2b6b7e3de3fd3492db6410d": {
+    "text": "Defend the damaged train",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "084ad6826c3326cc091a57d4ce4eefee": {
+    "text": "The train is damaged and will no longer move",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "5d53826055c506476ae2a1bd35f8dd0f": {
+    "text": "If the train is blocked when moving, it will explode",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "a0804584f0cbb1fb1a1d2b59b3ba8231": {
+    "text": "It is too damaged to continue. Defend it.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "720bf69014f69cbf12974a4e41f2ccc1": {
+    "text": "Supply Train",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "0aab7d1792dea7a44864ca3c801851b0": {
+    "text": "Damaged Train",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "77402386db478d9113610af4f1243876": {
+    "text": "Move forward 2 spaces, but will be destroyed if blocked.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "7ad256905de3108167e06d311da8f532": {
+    "text": "Kill all enemies before they retreat",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "80d78f15781e2e4621b2a165139fa3a3": {
+    "text": "Kill all enemies before \\nthey retreat",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      },
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "ad5db6ac9e5575807057b074df742941": {
+    "text": "Do not kill the Volatile Vek",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      },
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "7b2b9148b3ba2bc1327c0a54505613b0": {
+    "text": "Don't let the Volatile \\nVek die",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "ddff0d5817e9abf08eb05ebc3a9ea973": {
+    "text": "This is a CEO mission briefing message. It is very atmospheric and exciting, giving you a closer look at the world and the mission you're about to engage in.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "1f6f04e9e368147e55fc170f35e7eed3": {
+    "text": "This is a CEO mission closing message. It reflects on how well the mission just went. It has glowing praise, or possibly it's rather insulting of your skills.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "055a2686266eb58757b79eefe037a1ad": {
+    "text": "Less than 3 Grid Damage",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s"
+      }
+    ]
+  },
+  "a38de2742a3dccdf0aaf799ac5a83bca": {
+    "text": "End with less than 4 Mech Damage",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s"
+      }
+    ]
+  },
+  "dad15ea258068b0bd62af51ad586c5ae": {
+    "text": "Block Vek Spawning 3 times",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s"
+      },
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "ce0306254687c4a96117bd98c67a4d66": {
+    "text": "Block Vek Spawning\\n3 times",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s"
+      }
+    ]
+  },
+  "6998faaa07f7573d034e960a988375d4": {
+    "text": "Kill at least",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s *\""
+      }
+    ]
+  },
+  "b1302cc6c105579890bdbafb9659024e": {
+    "text": "Protect the",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s *\""
+      }
+    ]
+  },
+  "26ade0d30cfbfa5cc6e253d67160bafe": {
+    "text": "Take less than 3 Grid Damage",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "b12f6f65259a3e89ca17833bab9b1c23": {
+    "text": "End battle with less than 4 Mech Damage",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "f181304e789fd0882df5cb02d232fc69": {
+    "text": "Enemies",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\" *%s[\\\\ n]*\""
+      }
+    ]
+  },
+  "5390d8f3425bd8f561e81805afe74235": {
+    "text": "to defend this structure.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "%s\""
+      }
+    ]
+  },
+  "223321533ecd98aac252b03ef151be68": {
+    "text": "You withdrew from the battlefield, leaving supplies and civilians behind.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "2088d1ad675f66a63e9b5855ece67ce8": {
+    "text": "All of your mechs have been disabled. An evacuation team will arrive shortly to recover your pilots and their wreckage.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "8d2f2e2646c3ba3077768456aaec6092": {
+    "text": "Current Damage:",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "%s"
+      }
+    ]
+  },
+  "83a3be00962f7ebef403da83d203e595": {
+    "text": "Current:",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "%s"
+      }
+    ]
+  },
+  "4f2fb5714562e61bd690c550124f1f63": {
+    "text": "Robotics Lab",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "b53aa67a1586e1c2541bd028043451a7": {
+    "text": "Old Earth Bar",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "67c8a02f6b33c1e905c36512fc72eb04": {
+    "text": "Corporate Tower",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "2f24020a8fcb25eea33e9600cc777aef": {
+    "text": "Defense Lab",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "53a311a65d8d9bcd0006e321b0222456": {
+    "text": "Shield Generator",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "61b90e4856e2ff75582279bfc672cdfc": {
+    "text": "Power Generator",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "dcabf90146010f025d53f21c4bd7ae8b": {
+    "text": "Emergency Batteries",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "20fe25f778b87e63f711e4adc4008ce1": {
+    "text": "Airfield",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "049ed6de030ce25082a6a5821d8b8200": {
+    "text": "Earn VAL or more Corporate Reputation.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "2774911939331fcecfedb62f4b97ea8e": {
+    "text": "Lose VAL or less total Grid Power.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "779c195d5f13925a09afb31294ad790d": {
+    "text": "Take VAL or less total Mech Damage",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "3591fc6be48ca6e3a373fbd92d3283c0": {
+    "text": "Don't fail any Bonus Objective.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
+      }
+    ]
+  },
+  "97e444541af17ade3bfa8c53a4796e38": {
+    "text": "Earn VAL Grid Power or more.",
+    "files": [],
+    "contexts": [
+      {
+        "regex": "\"%s\""
       }
     ]
   }
