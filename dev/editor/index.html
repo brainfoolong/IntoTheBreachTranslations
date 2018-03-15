@@ -5,7 +5,6 @@
     <title>Translation Editor</title>
     <link rel="stylesheet" href="style.css" type="text/css">
     <script src="jquery-3.3.1.min.js"></script>
-    <script src="autosize.min.js"></script>
     <script src="script.js"></script>
 </head>
 <body>
@@ -38,15 +37,26 @@
         </div>
     </div>
     <div class="bottom">
-        <span class="btn btn-info download">Download JSON</span>
-        <span class="btn btn-success upload">Upload to GitHub</span>
-        <span class="btn btn-danger reload">Reload Page</span>
+        <div class="mode-server">
+            <span class="btn btn-success save btn-info" data-action="save"
+                  data-tooltip="This will save the files on your disk">Save File</span>
+            <span class="btn btn-success save" data-action="save-generate"
+                  data-tooltip="This will save the files on your disk and also trigger pack generation and game file edit, if configured">Save File + Generate Packs</span>
+        </div>
+        <div class="mode-local">
+            <span class="btn btn-info download">Download JSON</span>
+            <span class="btn btn-success upload">Upload to GitHub</span>
+            <span class="btn btn-danger reload">Reload Page</span>
+        </div>
         <div class="status color-light"></div>
     </div>
 </div>
 
+<div class="page-load hidden">
+    <div>Page generation... Please wait...</div>
+</div>
 
-<div class="login-form">
+<div class="login-form mode-local hidden">
     <form name="login">
         <h3>Brains Translation Editor for GitHub Repositories</h3>
         This tool is designed to help you to translate a GitHub project, if it does provide translations.
@@ -99,5 +109,7 @@
         <input type="submit" name="login" class="btn" value="Let's go">
     </form>
 </div>
+
+<div class="tooltip hidden"></div>
 </body>
 </html>

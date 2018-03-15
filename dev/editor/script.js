@@ -4,7 +4,6 @@
   var translation = null
   template = window.translation || null
   var translationSha = null
-  var leaveMessage = null
   var storage = {
     'meta': {},
     'translations': {}
@@ -45,7 +44,13 @@
     }
   }
 
-  function apiRequest (url, method, callback, params) {
+  function apiRequest (method, params, callback) {
+    return $.post('api', {'method': method, 'params': params}, function (data) {
+      callback(JSON.parse(data))
+    })
+  }
+
+  function githubRequest (url, method, callback, params) {
     return $.ajax({
       'url': 'https://api.github.com/' + url,
       'data': params ? JSON.stringify(params) : null,
@@ -111,19 +116,18 @@
   function buildForm () {
     $('.login-form').addClass('hidden')
     $('.translation-form').removeClass('hidden')
+    $('.page-load').removeClass('hidden')
+    setTimeout(function () {
+      $('.page-load').addClass('hidden')
+    }, 1000)
     $('.translation-form').on('input change blur', 'textarea', function (e) {
       var t = $(e.target)
-      t.prev().html(textToHtml(t.val()))
+      var bg = t.prev()
+      bg.html(textToHtml(t.val()))
       if (e.type === 'input') {
         t.addClass('changed')
       } else if (e.type === 'blur' || e.type === 'focusout') {
         setChangedValues()
-      }
-    })
-    $('.translation-form').on('focus', 'textarea', function (e) {
-      if (!$(e.target).hasClass('activated')) {
-        autosize(e.target)
-        $(e.target).addClass('activated')
       }
     })
     var w = $('.translation-form .main .area')
@@ -136,13 +140,30 @@
       e.find('.original').html(textToHtml(template[i].text))
       w.append(e)
       if (text.length) {
-        autosize(e.find('textarea').val(text).trigger('change').addClass('activated'))
+        e.find('textarea').val(text).trigger('change')
       }
     }
     rowTpl.remove()
   }
 
   $(function () {
+    $(document).on('mouseenter', '[data-tooltip]', function (ev) {
+      var el = $('.tooltip').removeClass('hidden').html($(this).attr('data-tooltip'))
+      el.offset({'left': ev.pageX - (el.outerWidth() / 2), 'top': ev.pageY - el.outerHeight() - 10})
+    }).on('mouseleave', '[data-tooltip]', function (ev) {
+      $('.tooltip').addClass('hidden')
+    })
+    $('.btn.save').on('click', function () {
+      setChangedValues()
+      setStatus('Saving...')
+      apiRequest($(this).attr('data-action'), {'fileData': base64Encode(createJsonFileData())}, function (data) {
+        setStatus(data.message)
+        $('.changed').removeClass('changed')
+        translation = getMergedTranslations()
+        storage.translations = {}
+        save()
+      })
+    })
     $('.btn.download').on('click', function () {
       setChangedValues()
       downloadData(createJsonFileData(), storage.repository.language_path.match(/([a-z_\-0-9]+\.json)/i)[1])
@@ -158,7 +179,7 @@
         if (translationSha !== null) {
           sendData.sha = translationSha
         }
-        apiRequest('repos/' + storage.repository.repository + '/contents/' + storage.repository.language_path, 'put', function (response, status) {
+        githubRequest('repos/' + storage.repository.repository + '/contents/' + storage.repository.language_path, 'put', function (response, status) {
           if (status === 200 || status === 201) {
             setStatus('Upload done')
             $('.changed').removeClass('changed')
@@ -239,7 +260,21 @@
       })
       $('.translation-form .main .area').append(rows)
     })
-    // login form
+
+    // check if this is running in server mode
+    if (window.location.port) {
+      $('body').addClass('status-mode-server')
+      $('.page-load').removeClass('hidden')
+      apiRequest('init', null, function (data) {
+        template = data.template
+        translation = data.translation
+        buildForm()
+      })
+      return
+    }
+
+    $('body').addClass('status-mode-local')
+    // otherwise go ahead in local mode
     var loginForm = $(document.login)
     if (storage.repository) {
       for (var i in storage.repository) {
@@ -257,9 +292,9 @@
         'language_path': loginForm.find('[name=\'language_path\']').val()
       }
       save()
-      apiRequest('user/repos', 'get', function (response) {
+      githubRequest('user/repos', 'get', function (response) {
         if (response) {
-          apiRequest('repos/' + storage.repository.repository + '/contents/' + storage.repository.template_path, 'get', function (response) {
+          githubRequest('repos/' + storage.repository.repository + '/contents/' + storage.repository.template_path, 'get', function (response) {
             if (response.message === 'Not Found') {
               alert('File ' + storage.repository.repository + '/' + storage.repository.template_path + ' not found')
               return
@@ -271,7 +306,7 @@
               alert(e.message)
               return
             }
-            apiRequest('repos/' + storage.repository.repository + '/contents/' + storage.repository.language_path, 'get', function (response) {
+            githubRequest('repos/' + storage.repository.repository + '/contents/' + storage.repository.language_path, 'get', function (response) {
               if (typeof response.content !== 'undefined') {
                 translation = JSON.parse(base64Decode(response.content))
                 for (var id in translation) {

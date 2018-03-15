@@ -20,6 +20,14 @@ body {
     overflow-x: hidden;
 }
 
+.status-mode-server .mode-local {
+    display: none;
+}
+
+.status-mode-local .mode-server {
+    display: none;
+}
+
 input:not([type='checkbox']):not([type='submit']),
 select,
 textarea {
@@ -158,19 +166,25 @@ textarea {
 }
 
 .translation-form .translated {
+    position: relative;
     padding: 10px;
     background: #e5e5e5;
     border-radius: 10px;
+    overflow: hidden;
 }
 
 .translation-form textarea {
-
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    overflow: hidden;
+    height: 9999px;
+    color: #555555;
 }
 
 .translation-form .background {
-    overflow: visible;
-    height: 0;
     color: transparent;
+    white-space: pre;
 }
 
 .translation-form .background span {
@@ -190,7 +204,6 @@ textarea {
     font-size: 14px;
     font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
     line-height: 1.5;
-    color: #555555;
     background: 0;
     text-transform: none;
 }
@@ -206,4 +219,38 @@ textarea {
 
 .translation-form .bottom .status {
     padding-top: 10px;
+}
+
+.page-load {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: white;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-align: center;
+}
+
+.page-load div {
+    flex: 0 1 auto;
+    align-self: auto;
+}
+
+.tooltip {
+    position: absolute;
+    z-index: 2;
+    padding: 10px;
+    background: #222222;
+    color: white;
+    border-radius: 10px;
+    max-width: 300px;
 }
