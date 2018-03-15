@@ -1,0 +1,761 @@
+{
+  "7a611cb8db26e166677db7f79f3e9bae": {
+    "text": "Quando incontri nuovi nemici, assicurati di imparare le loro abilità. \\n\\nTieni premuto $1 mentre muovi il mouse su di loro per esaminarle"
+  },
+  "459cdfba3327e4147509600ac5274e04": {
+    "text": "Ispeziona unità"
+  },
+  "707838e56b572a9b5dd23b103ad63943": {
+    "text": "Questa è la rete elettrica. Ogni volta che un edificio viene danneggiato, verrà ridotta.\\n\\nSe raggiunge lo zero, perderai la partita."
+  },
+  "2bf97b37e0ebb32011b7a549c3ce28be": {
+    "text": "Rete elettrica"
+  },
+  "e1eeaad738817ac067225578a0baf0fa": {
+    "text": "Quando miri con un'arma, le caselle ARANCIONI ti mostrano dove puoi sparare."
+  },
+  "c29af426361d60b4091da004cf7ba362": {
+    "text": "Obbiettivi validi"
+  },
+  "8c948cedd526df19bb93034b8ad672fb": {
+    "text": "Ogni attacco nemico viene mostrato prima che accada. Nel prossimo turno, questo nemico attaccherà gli edifici.\\n\\nSposta il mouse su un nemico per vedere i dettagli sul suo attacco."
+  },
+  "2caaefba39a1799de7150e580fd8f600": {
+    "text": "Attacchi Nemici"
+  },
+  "6bd9a477bce827800b72d842bbdd1b11": {
+    "text": "Questo è il tuo Mech da Combattimento. Può sferrare un pugno su una qualsiasi casella adiacente.\\n\\nClicca sul tuo Mech, muovilo vicino al nemico, e colpiscilo con un pugno."
+  },
+  "63f576609c53092d7264d07d5b80bfa4": {
+    "text": "Mech da Combattimento"
+  },
+  "07d1a861e5aa7996bdddd5c0b3e2466d": {
+    "text": "Squadra Disabilitata"
+  },
+  "5b6e7257af6df874b42fa879f8ecfd00": {
+    "text": "Tutti i tuoi Mech sono stati disabilitati. In una battaglia normale, i Vek procederebbero con i loro attacchi e la missione finirebbe.\\n\\nPer questo tutorial, i tuoi Mech sono stati completamente riparati."
+  },
+  "bc801be4f12b39d1935e65b84748c512": {
+    "text": "La tua Rete Elettrica è stata ridotta a zero. Normalmente questo significherebbe la fine del gioco.\\n\\nDato che questa è una simulazione, puoi continuare a combattere i Vek."
+  },
+  "5282c58be05cdecc1308241480b66276": {
+    "text": "Fine della partita"
+  },
+  "5b6f7146d2509023195dc555be3e9ac0": {
+    "text": "Non puoi colpire il nemico da questa posizione. Usa 'Annulla spostamento' per riposizionare il Mech!"
+  },
+  "ec168cccb683e206e453fb2e080a16a3": {
+    "text": "Annulla Spostamento"
+  },
+  "521ee863d8ed9299432c5c2442aae7a5": {
+    "text": "Dai un pugno a questo nemico!"
+  },
+  "66b4cdda1eb071c99ca566b176bf5511": {
+    "text": "Il pugno del tuo Mech ha SPOSTATO questa unità. Adesso attaccherà una nuova posizione!\\n\\nGli spostamenti possono salvare gli edifici dagli attacchi dei nemici, o anche fare in modo che i nemici si colpiscano a vicenda."
+  },
+  "16dfad33b74d8e4c77b57687b53e6c0d": {
+    "text": "Spostare Nemici"
+  },
+  "e3329be7c31805454dac7585bb703cd3": {
+    "text": "Questo è il tuo Mech Tank.\\n\\nSpara proiettili che viaggiano in una linea retta finché non colpiscono un altro oggetto."
+  },
+  "a63265e2590fcfe7a61ba6c5806d608e": {
+    "text": "Mech Tank"
+  },
+  "39a08f694a07d512093ec0d3513db427": {
+    "text": "In ogni missione, si vince sconfiggendo i Mech o combattendoli finché non fuggono."
+  },
+  "309bf299cbdec310469975316bc5fff0": {
+    "text": "Completare le Missioni"
+  },
+  "a76906f62cdf1b770f2b66e0ee0a6e3f": {
+    "text": "Le Missioni hanno anche obbiettivi bonus.\\n\\nCompletare questi ultimi ti farà guadagnare risorse aggiuntive alla fine della battaglia."
+  },
+  "89f0c4114c402e287e2ed786df463063": {
+    "text": "Obbiettivi Bonus"
+  },
+  "06ceb4ba26e51c80e069d06f19cd6d00": {
+    "text": "Clicca su un'arma per usarla. I tasti numerici funzionano da scorciatoia.\\n\\nNon potrai muoverti dopo aver usato un'arma."
+  },
+  "25fb77433fd72bb4999f090603f41223": {
+    "text": "Uso dell'arma"
+  },
+  "ee10e3906c1e0aa88398d5376de5e784": {
+    "text": "Quando tutti i tuoi Mech hanno effettuato un'azione o non ci sono altre mosse da effettuare, premi questo tasto per finire il tuo turno."
+  },
+  "9cbfa3505beee11afb56b9734ce70797": {
+    "text": "Fine Turno"
+  },
+  "a6d277f01ac333493cb5210e8af9941f": {
+    "text": "I carri armati sono online e ora possono essere controllati!"
+  },
+  "1d1429166e9a65b4515610f7533fd326": {
+    "text": "Carri armati della Vecchia Terra"
+  },
+  "c7fc05495bef77dcbf37de1658d63bf8": {
+    "text": "Questa unità Terraformer è sotto il tuo controllo durante questa missione.\\n\\nUsala per trasformare le caselle Erba in caselle Sabbia."
+  },
+  "67afce2a780e19d188c01e76dc0fcc98": {
+    "text": "Terraformer"
+  },
+  "6b62349c25ded810315a3300e14a33f9": {
+    "text": "Il tuo obbiettivo bonus in questa missione è quello di non uccidere questo Vek."
+  },
+  "d6bf33cffeccd650ac978c2174c14717": {
+    "text": "Volatile Vek"
+  },
+  "bf4c61c58093b0c6acaaec1f1f98655b": {
+    "text": "Attenzione: Questa missione finale è ancora in sviluppo.\\n\\nÈ meno rifinita ed è ancora in fase di design.\\n\\nDovrebbe comunque essere giocabile. Buona fortuna!"
+  },
+  "80cfd3dc2522979f617b789988caa81a": {
+    "text": "Questo salvataggio è stato creato da una versione precedente di Into the Breach.\\n\\nDato che il gioco è ancora in sviluppo, non possiamo garantire una completa retrocompatibilità per ogni aggiornamento e potresti riscontrare problemi con questo salvataggio\\n\\nDetto questo, c'è una buona probabilità che non avrai nessun problema. Ci scusiamo per i possibili errori!"
+  },
+  "26720c3c8efbb1bd1e01cc44f79f527e": {
+    "text": "Pilota Attivo"
+  },
+  "ee8a17f0836a80f624a0107811302d9a": {
+    "text": "Questo pilota è una macchina Senziente e richiede un Nucleo d'Energia per attivare la sua abilità speciale."
+  },
+  "0885631fbbe3b144e38b51246bda1e70": {
+    "text": "A.C.I.D."
+  },
+  "76d8ec0666c0fab587c5bf248c970921": {
+    "text": "Questa unità è affetta dall'A.C.I.D. Con le sue difese corrose, il Danno da Armi sarà raddoppiato\\n\\nTutti gli altri danni (Spinta, Fuoco, Blocco, etc.) non sono interessati."
+  },
+  "990c0f701cc2208ba127d2cb056e904f": {
+    "text": "Questa unità è CONGELATA. Non può muoversi o attaccare e resterà Congelata fino a che non riceverà danno."
+  },
+  "f7b053392a3f92295be7c7eeb87b92d1": {
+    "text": "Unità Congelata"
+  },
+  "918368503143cd25a742ede437fd7be5": {
+    "text": "Questo Mech può usare la sua abilità di Riparazione per liberarsi dal ghiaccio, ma non potrà poi muoversi o attaccare."
+  },
+  "ac0801a93e0929c7fbbcc31de315117f": {
+    "text": "Mech Congelato"
+  },
+  "054e7073f969451524274340183160be": {
+    "text": "Scudi d'Energia"
+  },
+  "3e9c5f7fa0b0fe9f7011fad81281cd13": {
+    "text": "Questo è uno scudo. Bloccherà il danno e ogni tipo di effetto negativo(Fuoco, Congelamento, A.C.I.D., etc.)\\n\\nSolo il danno diretto rimuoverà lo scudo. Effetti negativi che non danneggiano non avranno alcun effetto."
+  },
+  "55dbfbe175ff6527d393b8ed5f5dbaf3": {
+    "text": "Unità Corazzata"
+  },
+  "202ce6b05b7cec61e6d4fddb1ea7034c": {
+    "text": "Questa unità è Corazzata. Tutto il danno da armi verrà ridotto di 1\\n\\nTutti gli altri danni(Spinta, Fuoco, Blocco, etc.) non sono influenzati."
+  },
+  "e481cfb5e6c8b599acaecb8a61d588cb": {
+    "text": "Questa missione ha un effetto speciale che accadrà ad ogni turno. \\n\\nSposta il mouse sull'icona nell'ambiente per ottenere più informazioni."
+  },
+  "eef8f44c60f0bf53d874fe9ba034af30": {
+    "text": "Effetto d'Ambiente"
+  },
+  "463e2f306203da28680be887ca694cb4": {
+    "text": "La Rete Elettrica collega ogni Isola della corporazione. Ogni danno subito nelle missioni persiste tra le Isole.\\n\\nI Vek hanno causato danni prima che tu arrivassi, ma ci saranno opportunità per ripristinare energia."
+  },
+  "51aa22fdfacf970f7b3f319b7979e913": {
+    "text": "Rete Elettrica Danneggiata"
+  },
+  "8077ed577b5c1d096e4fdd1276b68933": {
+    "text": "Se la tua Rete Elettrica è piena quando riceve energia in più, la tua Difesa della Rete aumenterà permanentemente."
+  },
+  "931042d5724ef210841bdc393b30383c": {
+    "text": "Rete Elettrica Sovraccaricata"
+  },
+  "893ad99a93770a513dd4e1257eaa7f5b": {
+    "text": "Puoi Sovraccaricare la tua Rete Elettrica per ottenere solo un +25 di Difesa."
+  },
+  "02a2feb5f56d4c184233dbde2d480402": {
+    "text": "Rete di Difesa Massimizzata"
+  },
+  "0a8d9d72ab120bf3ac77c550a5da0c61": {
+    "text": "Questo edificio ha resistito al danno!\\n\\nLe possibilità di un edificio di resistere al danno sono mostrate a destra della Barra d'Energia."
+  },
+  "a0a3dccc9517e02cb941135edf6b257c": {
+    "text": "Difesa della Rete"
+  },
+  "1599ec0d5be1a70a7c12c7d2401ddac7": {
+    "text": "Questo Psion nemico procura un bonus passivo a tutti i Vek. Ucciderlo rimuove il bonus.\\n\\nSeleziona lo Psion e passa il mouse sul suo ritratto in basso a sinistra per ulteriori informazioni."
+  },
+  "c138f9d49dd2760a15a5f020f6c5e228": {
+    "text": "Vek Psion"
+  },
+  "f9aaa92e840cc96cc093859c10313f16": {
+    "text": "Questa unità è stata IMMOBILIZZATA! \\n\\nSposta il mouse sulle icone di status in basso a sinistra per scoprire cosa significa."
+  },
+  "d1232932ca07dbddb0e2187ea061ac5e": {
+    "text": "Mech Immobilizzato"
+  },
+  "32b6ac51c13ac392d2e9f3e3552be5f2": {
+    "text": "Puoi tentare di completare le isole che hai sbloccato nell'ordine che preferisci.\\n\\nLa difficoltà dei Vek cambierà in base a quante isole hai completato in questa partita."
+  },
+  "b8999b7dea68d7944c0ce0ec7c4172d2": {
+    "text": "Isole di Corporazione"
+  },
+  "e062c810ef865866d424beeb020c7c38": {
+    "text": "Una unità nemica emergerà da qua nel prossimo turno!\\n\\nPuoi temporaneamente bloccare lo spuntare dei nemici, ma ciò danneggerà l'unità che blocca."
+  },
+  "6358c03cb8fdb25d688e0b1a339d14fb": {
+    "text": "Nemici Emergenti"
+  },
+  "9c4c96a2a6a710e683c99a81d88fe6a4": {
+    "text": "La FORESTA su questa casella ha preso danno, facendola diventare FUOCO.\\n\\nSe un'unità sosta sul Fuoco, andrà a fuoco e prenderà danno ad ogni turno."
+  },
+  "55777724b549edc905b463c3ff7b3062": {
+    "text": "Foresta Incendiata"
+  },
+  "6a7284aedd257d8ca7e9c644d7efaf73": {
+    "text": "Questo Mech sta andando a FUOCO! Prenderà un danno ad ogni turno. \\n\\nI Mech possono RIPARARE gli effetti di stato, ma non possono attaccare nello stesso turno in cui si riparano."
+  },
+  "d80bb429bc44e53c05e76e5d68ba121f": {
+    "text": "Mech a Fuoco"
+  },
+  "3ac6a0bb2ce1d49e7384b9af6a677088": {
+    "text": "I tuoi Mech ripareranno automaticamente tutti i danni dopo un combattimento,\\n\\nSe un Mech è ridotto a 0 HP , il Pilota muore e il Mech viene disabilitato per il resto di quella battaglia."
+  },
+  "e863b25dbe80b436fe038c1a9f0d6b7b": {
+    "text": "Mech Danneggiati"
+  },
+  "0ba7ed3437d6f9303f93b8de455aa667": {
+    "text": "Questo Mech è afflitto dall'A.C.I.D.! Corrode l'armatura dell'unità, causando il raddoppio di ogni danno ricevuto.\\n\\nI Mech possono RIPARARE i loro effetti di stato, ma non possono attaccare nello stesso turno in cui si riparano."
+  },
+  "dbaefb46881f6331ce2b585752d58fb5": {
+    "text": "Mech Acidi"
+  },
+  "437692ce132f09c01a128d89e772de00": {
+    "text": "Questa Capsula contiene equipaggiamento dal futuro!\\n\\nPuoi raccoglierla col tuo Mech, o semplicemente difenderla fino alla fine della battaglia."
+  },
+  "395dc55750e6d0d019128419ab303b38": {
+    "text": "Capsule del Tempo"
+  },
+  "b6ec73a78060c62d7f8bd670b1979cb7": {
+    "text": "Capsule del Tempo Distrutte"
+  },
+  "6c35e073cbc4bbe3f1b7cd7a63fadb95": {
+    "text": "La Capsula del Tempo su questa casella è stata distrutta!\\n\\nLe Capsule del Tempo vengono distrutte prendendo danno o se un nemico prende danno mentre si trova su di esse."
+  },
+  "0f919302feb51711bce641b587c611fe": {
+    "text": "I Mech non possono usare le loro armi mentre sono nell'Acqua."
+  },
+  "c2776d13d3d1df3cd9fdf48e52c2b507": {
+    "text": "Robot Nuotatori"
+  },
+  "43cccc2cceaf16d6b4dbd54243515fb5": {
+    "text": "I Mech non possono usare le loro armi mentre sono nell'Acqua. \\n\\nPuoi usare Annulla Mossa se vuoi riposizionarlo."
+  },
+  "3c099c43e5fcfc30aed5c7e036980a9a": {
+    "text": "Il tuo Mech è stato disabilitato! Il suo Pilota è stato ucciso e il Mech non sarà in grado di agire per il resto della missione."
+  },
+  "bc89ebeb017ff0bcaed0ec2a480c1830": {
+    "text": "Mech Disabilitati"
+  },
+  "b3a0629013f1e5b9029e083c3478b891": {
+    "text": "Questa unità è caduta in Acqua, morendo all'istante!"
+  },
+  "bc1397275c67ae37c48a484c6724a179": {
+    "text": "Unità in Affogamento"
+  },
+  "e1749f019dcb8a90143ad537dfb5d9f6": {
+    "text": "Spingere le unità nelle cose danneggia ulteriormente di 1 entrambi gli oggetti!"
+  },
+  "6b565ba9f1ef3e7a5f5a256c63b4d3e3": {
+    "text": "Spinta negli Oggetti"
+  },
+  "bdcdfcdc465734e20522eaf4901e5959": {
+    "text": "Spingere le unità nelle cose danneggia ulteriormente di 1 entrambi gli oggetti!\\n\\nIn questo caso, il danno extra ha ucciso l'unità!"
+  },
+  "10a2152c0d8ae5942e724fdffd8126ef": {
+    "text": "Questa casella con edificio è stata danneggiata, quindi la Rete Elettrica della tua città è stata ridotta.\\n\\nIl tuo obbiettivo principale è evitare che ciò accada!"
+  },
+  "379d805c265b1c6346a54d4aec0ad94f": {
+    "text": "Danno Edifici"
+  },
+  "05f2e37ca3898aaccc5c346e6bca3e09": {
+    "text": "Simulazione di Combattimento"
+  },
+  "44e78706a90c1c3664dd55e22c735aa9": {
+    "text": "C'è una Simulazione di Combattimento disponibile per tenere i nuovi Commanders aggiornati col combattimento meccanizzato.\\n\\nVorresti lanciare la simulazione?"
+  },
+  "1bff08e7db6e31680d1a3d42486ea90b": {
+    "text": "Reputazione di Corporazione"
+  },
+  "d59aa9b9ec2e4c669787008db133f4db": {
+    "text": "Completando le regioni e gli obbiettivi bonus, la tua reputazione con la Corporazione locale aumenterà.\\n\\nPuoi spendere la tua reputazione su scorte alla fine dell'isola."
+  },
+  "22aff7814c8084654ba8ee78c35fd697": {
+    "text": "Nuclei di Energia"
+  },
+  "6ec9ccb14daf75cf8b961fa0fb98cd14": {
+    "text": "Adesso hai un Nucleo di Energia! Apri la Schermata di Potenziamento di un Mech e installalo."
+  },
+  "81c278a1b9d9ebe3cf79563b94f5a964": {
+    "text": "Installazione Nucleo"
+  },
+  "e6fb98c5624a3ed4072469fb7e88011e": {
+    "text": "Puoi usare questo tasto per installare un Nucleo di Energia in un Mech\\n\\nOgni Nucleo aumenterà il numero massimo di nuclei del Mech di uno."
+  },
+  "2b2e32f3e41390e61ed36657b29f7262": {
+    "text": "Modifiche all'Arma"
+  },
+  "12bd82aed2cb5883118c86cf4ba6c918": {
+    "text": "Puoi usare i Nuclei d'energia per attivare le modifiche alle armi.\\n\\nClicca su una modifica per alimentarla. Puoi sempre cliccare ancora per rimuovere il nucleo se vuoi utilizzarlo da qualche altra parte."
+  },
+  "40bd59e57e847f878c31b7b82d3ade48": {
+    "text": "Nuova Arma"
+  },
+  "69442465b9a3acde37fde8e03d53c4ec": {
+    "text": "Hai appena ottenuto una nuova arma! Puoi equipaggiarla nella Schermata di Potenziamento."
+  },
+  "d714a9ecbaa64cfb68fc4ac8b39e55e8": {
+    "text": "Nuovo Pilota"
+  },
+  "528bc322dd901052d982bb08adce56bd": {
+    "text": "Hai appena ottenuto un nuovo Pilota! Puoi assegnarlo nella Schermata di Potenziamento."
+  },
+  "6eba1606a089097cd73d0a8084f4d12a": {
+    "text": "Vecchio Profilo"
+  },
+  "7731a1c10c7907a15d4fa21e1a430baa": {
+    "text": "Questo gioco è stato aggiornato e vecchi profili in beta potrebbero incontrare alcune stranezze dopo questi cambiamenti.\\n\\nIl tuo totale delle Monete Achievement potrebbe essere negativo ora a causa di alcuni cambiamenti nel prezzo dei Mech precedentemente sbloccati. Il gioco è funzionante, ti serviranno solo più achievements per metterti in pari.\\n\\nSe hai una partita in corso, potrebbe non essere caricata correttamente. Spero funzioni ancora, ma chiedo scusa se non sarà così."
+  },
+  "80844af25d4df66651ef7ee68b38cb8c": {
+    "text": "EFFETTI DELLE ARMI"
+  },
+  "01977e7dd9e00e08a93003b340f537bd": {
+    "text": "Quando si mira con un'arma o si esamina un attacco nemico, delle icone ti mostreranno esattamente cosa succederà."
+  },
+  "921efa431848c0b8807d3f5145d0eece": {
+    "text": "SPINTA"
+  },
+  "1e9bab002b8a01217b17aa1a0aa24319": {
+    "text": "Una freccia su una casella significa che un'unità su quella casella verrà spinta"
+  },
+  "806bb06d54f268f1d2ce74bde5b48f34": {
+    "text": "DANNO"
+  },
+  "7e5a105f4e2854102fab018055030ccb": {
+    "text": "Un numero su una casella significa che l'unità su quella casella verrà danneggiata"
+  },
+  "9805b01d06fe7e350ab9971e9ec1ed3d": {
+    "text": "SPINTA + DANNO"
+  },
+  "6d73bec2f6ce0a5ceaf59c9553570b10": {
+    "text": "Alcune armi possono causare multipli effetti su una singola casella"
+  },
+  "9fb41a63eaffbc1043f1862daff8d83d": {
+    "text": "MECH D'ARTIGLIERIA"
+  },
+  "338fc5a8f29ad0357372a0ae4c550504": {
+    "text": "Le armi d'Artiglieria possono sparare oltre ostacoli come le montagne, ma non possono sparare nelle caselle adiacenti al Mech."
+  },
+  "6d8b40fac33c32e2da88dec68bf07009": {
+    "text": "L'arma del Mech di Artiglieria danneggerà solo l'unità nella casella CENTRALE, mentre le unità adiacenti verranno spostate."
+  },
+  "707ca03b73cafda1372f1864b6062369": {
+    "text": "PREMI MISSIONE"
+  },
+  "66d15d3e5f4dccbb25d584a1ff81e897": {
+    "text": "Ogni missione ha diversi premi ottenibili dopo aver completato obbiettivi bonus\\n   Non sarai in grado di completare ogni missione sull'Isola, quindi scegli attentamente!"
+  },
+  "4936eb5172ee8b4a6d3384418cf22a26": {
+    "text": "NUCLEI DI ENERGIA: Usati per potenziare i tuoi Mech."
+  },
+  "b5aa901c009023cd6d1a38f39ec2364a": {
+    "text": "ENERGIA ELETTRICA: Ripristina la tua Rete Elettrica. Se la tua Rete Elettrica raggiunge lo zero, perdi."
+  },
+  "cebb52c118132d544ba1e4f55f4decea": {
+    "text": "REPUTAZIONE CON CORP.: Usata per acquistare oggetti una volta che l'isola è completata."
+  },
+  "2cecb339d96e5c3a68ccee30c296d341": {
+    "text": "ATTENZIONE: Missioni con più potenziali premi avranno pericoli aggiuntivi!"
+  },
+  "024d3bb40c88cea7482b1035cd2f8132": {
+    "text": "Safeguard Valley"
+  },
+  "1f294cb55b014fbbe612d04b3e7a0790": {
+    "text": "MISSIONE FINALE"
+  },
+  "ad4957b59cd2d66a919a756a8410e5c7": {
+    "text": "Dopo aver completato due isole, la Missione Finale è disponibile per essere completata."
+  },
+  "7b29ca96ada2afa3aadbcf55cd61a1ed": {
+    "text": "Difficoltà"
+  },
+  "25992de388d93be872ec73f4707ce6c2": {
+    "text": "La difficoltà di questa battaglia cambia in base al tuo attuale progresso. Combattere ora sarà una sfida ora tanto quanto lo sarà dopo aver completato altre isole"
+  },
+  "c810409f5618a8da64536b0467be8465": {
+    "text": "Popolazione"
+  },
+  "fbce892c4df0bde1edd65dc50c23150b": {
+    "text": "Completare più isole prima della Missione Finale ti permetterà di salvare più persone e aumentare il tuo punteggio finale."
+  },
+  "10d6a178165846c71d7a0bda4acd3729": {
+    "text": "Inizia simulazione"
+  },
+  "0d3627289b893d3eea08e52589ed06ae": {
+    "text": "Rifiuta"
+  },
+  "a435041423488ab3375eca52073ae449": {
+    "text": "No, so cosa sto facendo (Nascondi TUTTI gli aiuti futuri)"
+  },
+  "0720d6bb46b792f10e3a45427f3a48ba": {
+    "text": "(Clicca per chiudere)"
+  },
+  "24fab18a13b823d7a61b26f470f57397": {
+    "text": "Missione Finale"
+  },
+  "fd44c9f820e40ad4d8b5bbab895c096f": {
+    "text": "Puoi completare la Missione Finale in qualsiasi momento dopo aver completato due Isole.\\n\\nLa difficoltà della missione si adatta al tuo progresso corrente."
+  },
+  "0c30615662c8a83e6425402d8579356d": {
+    "text": "Reputazione di Corporazione"
+  },
+  "b3f4360620275006d782f4db1f489ac8": {
+    "text": "Usa i punti di reputazione per acquistare risorse una volta che l'Isola è completata."
+  },
+  "004f963ad95a1b04aa4daa8db393df17": {
+    "text": "Usati per potenziare i tuoi Mech\\n\\nApri il menù di potenziamento dei Mech cliccando sul ritratto di un Mech a sinistra."
+  },
+  "5a49ae6e2ed8c1a8507bf63d858af0fd": {
+    "text": "Ordine di Attacco"
+  },
+  "a596380bd51b69aa2155b2dbba57fa48": {
+    "text": "Passa il mouse qui o premi il tasto ALT per mostrare l'ordine di attacco dei nemici."
+  },
+  "753abf3ede1416a8038de91a36183063": {
+    "text": "Menù di Gioco[ESC]"
+  },
+  "ee33308acaf27504b6c7da8f41d0c677": {
+    "text": "Apri il Menù di Gioco"
+  },
+  "6e57d3f52375c99387a38b8b778507ae": {
+    "text": "Mostra l'ordine in cui le azioni verranno eseguite nel turno nemico. Scorciatoia: [$1]"
+  },
+  "a5704ef5d17d6e34e56b6c17a028d6ed": {
+    "text": "Da quanto tempo è in corso la partita corrente.\\n\\nPuoi nascondere questo timer nel menù delle Opzioni."
+  },
+  "1be009cd436fcd0e73748956ec0d30f9": {
+    "text": "Tempo di Gioco"
+  },
+  "dee6f1f8d87b1865581ad94a6134be20": {
+    "text": "Torna indietro all'inizio del turno corrente. Disponibile dopo aver eseguito almeno un'azione.\\n\\nPuoi usare questa opzione solo una volta per ogni battaglia."
+  },
+  "11a74e7644d07bfd0cd0b143fc7f25ba": {
+    "text": "Resetta Turno"
+  },
+  "53202e43f748b602c490a68fe9bad3e9": {
+    "text": "Puoi usarlo solo una volta per battaglia."
+  },
+  "8e0167e6b6e49dbba7b4b44dcf9c738d": {
+    "text": "Reset del Turno Usato"
+  },
+  "410ed538eff6e2c2a1d00c404a1fa8b3": {
+    "text": "Torna indietro all'inizio del turno corrente. Disponibile dopo aver eseguito almeno un'azione.\\n\\nIl tuo Pilota ti concede un Reset extra per ogni battaglia. Te ne restano 2."
+  },
+  "e75be79cc30a237939127927e4f6ef66": {
+    "text": "Torna indietro all'inizio del turno corrente. Disponibile dopo aver eseguito almeno un'azione.\\n\\nTe ne resta 1."
+  },
+  "58793042a14774337a8ef97a9f0b851c": {
+    "text": "Modifica quanto velocemente le unità nemiche eseguono il suo turno. \\n\\nRallentalo se sei nuovo e hai problemi nel seguire le azioni del nemico, velocizzalo se hai esperienza e ti trovi comodo col combattimento."
+  },
+  "636d534fd32c9bab11b7d1f7249cc728": {
+    "text": "Velocità di Combattimento"
+  },
+  "f8a6d97c40e2bf9bde3a7820b9409b46": {
+    "text": "Termina questo tentativo e manda un Pilota indietro nel tempo per riprovare."
+  },
+  "3ea8824b0fa2da618a2f9273df783a24": {
+    "text": "Abbandona Timeline"
+  },
+  "1ecb4f10c83526214185d6be00217aa8": {
+    "text": "Suggerimenti"
+  },
+  "5ab415512413cd614cfa107376a28cda": {
+    "text": "Mostra dei Suggerimenti durante il gioco.\\n\\nEstremamente consigliato per i nuovi giocatori."
+  },
+  "a91d719ef6749935489273ce124a2078": {
+    "text": "Massima Scala del Tabellone"
+  },
+  "49b8396489a3e7374927c07d09f4b2db": {
+    "text": "Modifica la Scala di rendering del tabellone.\\n\\nPuò essere utile per diminuire la scala per monitor più grandi.\\n\\nLa scala corrente è : $1"
+  },
+  "5b41b7ad8028c0826cb52fa13f21c844": {
+    "text": "Finestra di Default"
+  },
+  "0ae0d23a1d1e5a47b6b515fb341073d6": {
+    "text": "Ripristina il gioco alla sua finestra di default da 720p. Raccomandato per lo streaming."
+  },
+  "830d838b2aa6fa9551a8349928e3a8d4": {
+    "text": "L'audio è correntemente muto"
+  },
+  "d3f5bd513b8312ef2dbb63c42da3f09f": {
+    "text": "Timer di Gioco"
+  },
+  "397122c5eae73af50ef59a0c036dec6f": {
+    "text": "Aggiunge un Timer di Gioco all'Interfaccia.\\n\\nUtile per ottenere l'achievement 'Lightning War' o per fare speedrun"
+  },
+  "d5a644f40f4e1c62e5b3441094230181": {
+    "text": "Modalità per Daltonici"
+  },
+  "9919d0e2fa6d4b0c00e47b0827fb0c16": {
+    "text": "Cambia alcuni colori e aggiunge icone addizionali per aiutare i giocatori daltonici.\\n\\nFacci sapere se vorresti migliorare qualcosa di questa impostazione."
+  },
+  "b815399b78eb8ad112c9cc2b124b0a39": {
+    "text": "Caratteri più grandi"
+  },
+  "1b8f5b9ea9f46d4922ebea93e2b5d768": {
+    "text": "Aumenta la dimensione dei suggerimenti, i dialoghi e altri importanti messaggi."
+  },
+  "10dc669edffd8954b46c6f05674d404c": {
+    "text": "Caratteri più grandi non disponibili"
+  },
+  "a3ccfd0681598a863fb206fd129922c0": {
+    "text": "La tua finestra attuale è troppo piccola per supportare caratteri più grandi."
+  },
+  "c97fe6459d5b99e1e80b224b88eb1308": {
+    "text": "Conferma di Fine Turno"
+  },
+  "fd2227cbec643184bb0f5a5bda07c278": {
+    "text": "Ricevi una conferma quando tenti di finire il tuo turno e hai ancora azioni disponibili."
+  },
+  "aa52321202ba66df200d8a3c6455b8ae": {
+    "text": "Adatta Scaling"
+  },
+  "18f137b6ff3c0457a49dc42d99a31a30": {
+    "text": "Adatta la grafica a risoluzioni maggiori. \\n\\nUtile per monitor alte risoluzioni (1440p o più) se l'interfaccia è troppo piccola, ma potrebbe rendere i messaggi e l'arte poco definita."
+  },
+  "e00a3f77b7f8f6c4241d7170b7b54204": {
+    "text": "Limite di Frame"
+  },
+  "f2a4fd376fd0558f952efebbd19bff2e": {
+    "text": "Limita gli FPS a 60.\\n\\nRaccomandato per la maggior parte dei sistemi."
+  },
+  "5385b7a6956a92035bb449868e9a558a": {
+    "text": "Disabilita l'Agitazione di Schermo"
+  },
+  "d85ca6373e8ab30c64ad7c6cf113cb39": {
+    "text": "Disattiva l'agitazione dell'Interfaccia.\\n\\nL'agitamento è comunque durante il combattimento quando qualcuno arreca danno."
+  },
+  "a69190c07853570b6f20653e21e9d291": {
+    "text": "Overlay Griglia Coordinate"
+  },
+  "46e9939579d71828c0be177ebfa097c2": {
+    "text": "Aggiunge le Coordinate al tabellone.\\n\\nBuono per lo streaming, o per altre forme di condivisione del gioco."
+  },
+  "3f596df35ed674b02a12395160637c2e": {
+    "text": "Adattamento dello Scaling non disponibile"
+  },
+  "af32b8f2f98597096ccce48a95d23da2": {
+    "text": "I tuoi Driver Video non supportano i requisiti necessari per questo. \\n\\nPerfavore aggiornali o contatta il supporto se necessiti di questa feature."
+  },
+  "bab96f7bab32f2baa9ef400df0457ae4": {
+    "text": "Vittoria"
+  },
+  "8df71f7944386174f76bddb63a3c3f93": {
+    "text": "Tutti i nemici si ritireranno in $1 turni"
+  },
+  "9d5761f598618bf5b7bc3e5d63278821": {
+    "text": "Tutti i nemici si ritireranno in 1 turno"
+  },
+  "62bce0e2b23ca80f249c65c60c423465": {
+    "text": "Vittoria Finale"
+  },
+  "f0208e95aacb83ae7f0b582be1d8bd04": {
+    "text": "La bomba esploderà in $1 turni"
+  },
+  "228bd85e6d4ac6ec7dbb735d34af3c9c": {
+    "text": "La bomba esploderà in 1 turno"
+  },
+  "e5d10477760b163e7259b83d4319fdf1": {
+    "text": "Obbiettivo Reputazione"
+  },
+  "0f86a7a62e0290290b14fc25eb96088e": {
+    "text": "Premia con Reputazione di Corporazione, usata per comprare equipaggiamento."
+  },
+  "409602372e7828f68985967893d7acd6": {
+    "text": "Capsula del Tempo"
+  },
+  "5b6c8b9eaaf2cd1d9d374e746bdaaf4b": {
+    "text": "I contenuti di una Capsula del Tempo potrebbero essere utili per le battaglie future."
+  },
+  "fc10bb73ac355809216337afe80a6025": {
+    "text": "Obbiettivo Energia"
+  },
+  "46d8e5a217c800965f72380f97a79788": {
+    "text": "Ristora Energia alla Rete Elettrica"
+  },
+  "116f6f341d3c4c0e9fdb9812f68fd257": {
+    "text": "Obbiettivo Nucleo d'Energia"
+  },
+  "72f54b33842023f43b6281f05b573879": {
+    "text": "Premia con un Nucleo d'Energia, usato per potenziare i Mech."
+  },
+  "35385665232000555c3244c28fa43c01": {
+    "text": "Persone salvate"
+  },
+  "a2df8ef7e3c59dd9c2c7f852589c4b07": {
+    "text": "Il numero di persone che hai salvato in questa linea del tempo\\n\\nAlte difficoltà hanno più persone negli edifici durante una battaglia."
+  },
+  "da0ddf0e974d2a995c144c105615fd8e": {
+    "text": "Reattore Mech"
+  },
+  "98e19fa07969dbd898a12cc9a3fc4784": {
+    "text": "Puoi usare l'Energia dei Nuclei per migliorare le tue armi, o aggiungerne altre. \\n\\nInstalla i Nuclei d'Energia per potenziare il reattore di un Mech."
+  },
+  "dc9c2de6f86e5cd8030a1ebe12234cc6": {
+    "text": "Annulla installazione Nucleo"
+  },
+  "c227bc9c19b8812927eaf729c39a5811": {
+    "text": "Annulla le recenti installazioni di Nuclei."
+  },
+  "3f75236c198e61a36278c9b4e683a554": {
+    "text": "Vita del Mech"
+  },
+  "2b3b96a68f47d77d67bb7b18b7373ce7": {
+    "text": "Movimento del Mech"
+  },
+  "4543cc2c0177253ab1fd013f0ff6dfee": {
+    "text": "Vita Zoltan"
+  },
+  "41e9d05f2b9f12ee3c92fc4f3681329f": {
+    "text": "Il Pilota Zoltan annulla l'incremento di HP di questo Mech"
+  },
+  "f576f1534f073b69bd2b12b2f6f6835f": {
+    "text": "Classe Mech"
+  },
+  "017434f53d02c231132cb1207723f7d7": {
+    "text": "La Classe del Mech determina che tipo di arma può usare in modo efficacie. \\n\\nLe armi che non sono della stessa classe costeranno 1 Nucleo d'Energia extra."
+  },
+  "d5cf9df13a50ebc53d2c83fa37f36adf": {
+    "text": "Classe Cyborg"
+  },
+  "ad96412935725387ad576dfa618bca97": {
+    "text": "La classe Cyborg richiede 1 Nucleo d'Energia extra per usare una qualsiasi arma non-Cyborg."
+  },
+  "29567db37756671ae54d5de9e9207c7e": {
+    "text": "Clicca per rinominare questo Pilota."
+  },
+  "70326ea284f0c634899cb2c15a82d075": {
+    "text": "Rinomina Pilota"
+  },
+  "bbcdc4fab1fa97e34a92724064560671": {
+    "text": "Clicca per rinominare questo Mech."
+  },
+  "392324aecc0796bf9c94400dce6f2e01": {
+    "text": "Rinomina Mech"
+  },
+  "571df67815f4d8195b1065bc16400dde": {
+    "text": "Livello Massimo"
+  },
+  "e90147a4fc12ba444efd16deba1e975e": {
+    "text": "Questo pilota ha sbloccato tutte le sue abilità!"
+  },
+  "78e54b610ad1cad353979efcd86f23d8": {
+    "text": "Esperienza Pilota"
+  },
+  "93e6a10800f59909453ee9617e85b86c": {
+    "text": "Quando questo pilota guadagnerà più esperienza nel combattimento, sbloccherà ulteriori abilità."
+  },
+  "9ade0a05965702d1fd6ed158cb202ab9": {
+    "text": "Pilota AI di Base"
+  },
+  "511e9ab5d7600f006572aa98246d6753": {
+    "text": "Le AI di Base operano già alla loro massima efficienza e non guadagnano esperienza in combattimento. \\n\\nTrova Piloti umani superiori, o AI Avanzate, per sostituire questa AI di Base."
+  },
+  "43aa5426efe811a1fdc8525da78fe233": {
+    "text": "La possibilità in percentuale che un edificio qualsiasi resista del danno. \\n\\nAumenta la percentuale guadagnando Energia quando la Rete Elettrica è piena."
+  },
+  "091818283f09c965c79714064c1021c0": {
+    "text": "Perdi se questa raggiunge lo zero. \\n\\nRidotta ogni volta che un Edificio viene danneggiato in combattimento."
+  },
+  "92e50f1862bb0cb44bcc3356c6a4f453": {
+    "text": "Nuclei d'Energia"
+  },
+  "3d7c1d9caf54fe5ea41ec3e212947d2a": {
+    "text": "I Nuclei d'Energia sono usati per potenziare i tuoi Mech tra le missioni."
+  },
+  "a176718fa5943c72a6a5c09b65e12bf6": {
+    "text": "Energia Elettrica"
+  },
+  "317fabcd8075160bb53ae14fd26fd687": {
+    "text": "Ripara il danno alla tua Rete Elettrica. \\n\\nSe la tua Rete Elettrica è piena, questo aumenterà permanentemente la tua percentuale di Difesa della Rete."
+  },
+  "bd1ccae7fea0856388a7cc4afd2733ce": {
+    "text": "Sovraccarica Rete"
+  },
+  "b726ac65031efb497cf8fd47ec520f11": {
+    "text": "La tua Rete Elettrica è satura. Ulteriore Energia potenzierà permanentemente la tua Difesa di Rete. \\n\\nIl bonus diminuirà all'aumentare della tua Difesa, fino ad un massimo di +25."
+  },
+  "55373e9fe31a06a62d921e9a863a0539": {
+    "text": "Rete Satura"
+  },
+  "393f77ed71d670753e143183f4986828": {
+    "text": "Sia la tua Rete che la tua Difesa di Rete sono al loro massimo valore. \\n\\nNon puoi acquistare ulteriore Energia."
+  },
+  "808ad0f97ae33294540eae5c1850452b": {
+    "text": "Minaccia Vek Standard"
+  },
+  "fe7e147807891f03cf46873ff8e255ff": {
+    "text": "Nessuna caratteristica speciale per questa missione"
+  },
+  "ef74cd57fc2ce3aac14403bf0c8c2090": {
+    "text": "Alta Minaccia Vek"
+  },
+  "4de97a385dbe577d4790467be2a360ea": {
+    "text": "Un ulteriore Vek Alpha sarà presente all'inizio della missione"
+  },
+  "0966ca09ec3e93f68508f61bf136538b": {
+    "text": "Difesa di Rete Attiva"
+  },
+  "b4826c7865e6f895cb0286c8b34d0905": {
+    "text": "Alcuni edifici partono con uno Scudo gratuito"
+  },
+  "0b0087d6590e96026425585a92828444": {
+    "text": "Nastri Trasportatori"
+  },
+  "019800612108220ffdaa9ad88aaac463": {
+    "text": "I nastri trasportatori spostano le unità nella mappa"
+  },
+  "f662e444c858b1082516e129a3c2e57f": {
+    "text": "Attacchi Aerei"
+  },
+  "ba385690a57dd86e07d7da021e24ff96": {
+    "text": "Un bombardiere colpirà periodicamente alcune aree della mappa"
+  },
+  "f0b0fcc23a5d2998dc2eddf3486d9d6a": {
+    "text": "Maremoti"
+  },
+  "9a2fedc2c86524c55ebaab91a14d438d": {
+    "text": "La mappa sarà lentamente inondata dall'acqua"
+  },
+  "9b31e080d6601480ba04166103188cb6": {
+    "text": "Terremoti catastrofici"
+  },
+  "8a59848be42a8d8c481212200e93d203": {
+    "text": "La mappa si aprirà in un enorme abisso"
+  },
+  "8bb30d7ba228b0bc3cb77f2e2828269d": {
+    "text": "Attività Sismica"
+  },
+  "33d772191bfc614314d6b3fb12bffa85": {
+    "text": "Le caselle di Terra sprofonderanno in un abisso periodicamente, portando qualsiasi unità con loro"
+  },
+  "954b994d8ba7c63cdd2e6199cfbcb49d": {
+    "text": "Tempesta di Fulmini"
+  },
+  "4f91ab5e6ace84262b21eb3593d21293": {
+    "text": "Dei pericolosi Tuoni minacceranno la mappa, uccidendo qualsiasi cosa colpiranno"
+  },
+  "3f6e913a16d2d8cfc70add85a552881b": {
+    "text": "Tempesta di Ghiaccio"
+  },
+  "644a4c139ed090bda8e4de521bb68bb3": {
+    "text": "Grandi aree della mappa si congeleranno periodicamente"
+  },
+  "9b9deb31726b572bb7786fdf9a973307": {
+    "text": "Questa Isola-Museo ricrea la Vecchia Terra com'era prima che l'oceano si innalzasse e cancellasse quasi completamente l'umanità."
+  }
+}

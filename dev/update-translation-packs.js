@@ -37,14 +37,28 @@ module.exports = function () {
       // convert specific files
       if (templateData.files) {
         templateData.files.forEach(function (file) {
-          let search = templateData.text.replace(/\n/g, '\\n').replace(/"/g, '\\"')
-          let replace = languageData.text.replace(/\n/g, '\\n').replace(/"/g, '\\"')
-          gameFiles[file] = loadGameFileSrc(file).replace(new RegExp('"' + shared.escapeRegex(search) + '"', 'g'), `"${replace}"`)
+          let search = templateData.text
+          let replace = languageData.text
+          let fileData = loadGameFileSrc(file)
+          if (file.substr(-4) === '.csv') {
+            search = search.replace(/\"/g, '""')
+            replace = replace.replace(/\"/g, '""')
+          } else {
+            search = search.replace(/\n/g, '\\n').replace(/"/g, '\\"')
+            replace = replace.replace(/\n/g, '\\n').replace(/"/g, '\\"')
+          }
+          if (templateData.contexts && templateData.contexts[0] && templateData.contexts[0].quote === false) {
+            search = shared.escapeRegex(search)
+          } else {
+            search = '"' + shared.escapeRegex(search) + '"'
+            replace = '"' + replace + '"'
+          }
+          gameFiles[file] = fileData.replace(new RegExp(search, 'g'), replace)
           filesChanged[file] = true
         })
       }
     }
-    // go through all files via contexts
+    // go through all files via manual contexts
     luaFiles.forEach(function (fileAbsolute) {
       const file = fileAbsolute.substr(shared.config.gamesrc.length + 1)
       let fileData = loadGameFileSrc(file)
@@ -53,6 +67,9 @@ module.exports = function () {
         if (!templateData || !templateData.contexts) continue
         const languageData = languageFileData[id]
         templateData.contexts.forEach(function (context) {
+          if (context.mode !== 'manual') {
+            return
+          }
           let regexFull = context.regex.replace(/%s/, shared.escapeRegex(templateData.text))
           let regexText = templateData.text
           let replaceText = languageData.text

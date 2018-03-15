@@ -160,9 +160,29 @@ textarea {
     padding: 10px;
 }
 
+.translation-form .row {
+    display: table;
+    padding-bottom: 10px;
+}
+
+.translation-form .row.need-review .left {
+    background: #ff9466;
+}
+
+.translation-form .left {
+    display: table-cell;
+    width: 50px;
+}
+
+.translation-form .right {
+    display: table-cell;
+    padding-left: 10px;
+    width: 100%;
+}
+
 .translation-form .original {
     padding: 10px;
-    white-space: pre;
+    white-space: pre-wrap;
 }
 
 .translation-form .translated {
@@ -180,20 +200,28 @@ textarea {
     overflow: hidden;
     height: 9999px;
     color: #555555;
+    white-space: pre-wrap;
+    resize: none;
+    width: calc(100% - 20px) !important;
 }
 
 .translation-form .background {
     color: transparent;
-    white-space: pre;
+    white-space: pre-wrap;
+    min-height: 15px;
 }
 
 .translation-form .background span {
     color: black;
 }
 
-.translation-form .background span.red {
+.translation-form span.red {
     background: #ffaca5;
     color: #b0000f;
+}
+
+.translation-form span.orange {
+    background: #ffdfa1;
 }
 
 .translation-form .textarea {

@@ -4,6 +4,7 @@ const fs = require('fs')
 const luaparse = require('luaparse')
 const shared = require(__dirname + '/shared')
 const md5 = require('md5')
+const csv = require('csv-parse/lib/sync')
 
 let translationKeys = {}
 const addTranslation = function (str, file, context) {
@@ -60,50 +61,64 @@ const addTranslation = function (str, file, context) {
     })
   })
 })();
-// parse lua text* files
+
+// handle missions.csv file
 (function () {
-  const files = shared.getLuaFiles(shared.config.gamesrc, '/scripts/text(\.|_)')
-  const tableExpressionParse = function (data) {
-    let ret = []
-    if (data.type !== 'TableConstructorExpression') {
-      return null
+  let data = fs.readFileSync(shared.config.gamesrc + '/scripts/personalities/missions.csv').toString()
+  data = data.replace(/\r/g, '')
+  let lines = data.split('\n')
+  lines.forEach(function (line, lineNr) {
+    if (lineNr <= 2) {
+      return
     }
-    data.fields.forEach(function (field) {
-      if (field.type === 'TableKeyString' || field.type === 'TableValue') {
-        if (field.value.type === 'StringLiteral') {
-          if (field.value.value.trim().length) {
-            ret.push(field.value.value)
-          }
-        } else if (field.value.type === 'TableConstructorExpression') {
-          const arr = tableExpressionParse(field.value)
-          if (arr) {
-            arr.forEach(function (value) {
-              ret.push(value)
-            })
-          }
+    const re = /"(.{2,}?)"/g
+    let m
+    do {
+      m = re.exec(line)
+      if (m) {
+        const v = m[1].replace(/\n/g, '').replace(/\\n/g, '').replace(/^[",]+|[",\\]+$/g, '').trim()
+        if (v.length) {
+          addTranslation(v, 'scripts/personalities/missions.csv')
         }
       }
-    })
-    return ret
-  }
-  files.forEach(function (file) {
-    const fileRelative = file.substr(shared.config.gamesrc.length + 1)
-    const ast = luaparse.parse(fs.readFileSync(file).toString())
-    ast.body.forEach(function (row) {
-      const vars = row.variables ? row.variables[0] : null
-      const init = row.init ? row.init[0] : null
-      if (init && vars && vars.name.match(/Global_Texts|Achievement_Texts|TILE_TOOLTIPS|STATUS_TOOLTIPS|PilotSkills|PopEvent|Weapon_Texts/)) {
-        tableExpressionParse(init).forEach(function (str) {
-          addTranslation(str, fileRelative)
-        })
-      }
-    })
+    } while (m)
   })
 })();
 
-// parse lua missions/* files
+// handle pilots.csv file
 (function () {
-  // manual added strings
+  const file = 'scripts/personalities/pilots.csv'
+  const data = csv(fs.readFileSync(shared.config.gamesrc + '/' + file).toString(), {'columns': true})
+  data.forEach(function (row, lineNr) {
+    if (lineNr <= 3) return
+    for (let id in row) {
+      let rowValue = row[id].trim()
+      if (rowValue.length) {
+        let options = {}
+        if (rowValue.substr(0, 1) !== '"') {
+          addTranslation(rowValue, file, {"quote" : false})
+        } else {
+          try {
+            let subValue = csv(rowValue, options)
+            subValue.forEach(function (rows) {
+              rows.forEach(function (value) {
+                value = value.trim()
+                if (value.length && !value.match(/\:\:|;|--|:\.:/)) {
+                  addTranslation(value, file)
+                }
+              })
+            })
+          } catch (e) {
+
+          }
+        }
+      }
+    }
+  })
+})();
+
+// manually added strings
+(function () {
   const arr = [
     ['Kill 4 enemies inflicted%%0with A.C.I.D.', {'regex': '"%s', 'replace': ['( |\\\\n)']}],
     ['Destroy %%0 Goos', {'regex': '"%s', 'replace': ['"..self.BlobDeaths.."']}],
@@ -246,7 +261,7 @@ const addTranslation = function (str, file, context) {
     ['Take less than 3 Grid Damage', {'regex': '"%s"'}],
     ['End battle with less than 4 Mech Damage', {'regex': '"%s"'}],
     ['Block Vek Spawning 3 times', {'regex': '"%s"'}],
-    ['Enemies', {'regex': '" *%s[\\\\ n]*"'}],
+    //['Enemies', {'regex': '" *%s[\\\\ n]*"'}],
     ['Your bonus objective', {'regex': '"%s'}],
     ['to defend this structure.', {'regex': '%s"'}],
     ['You withdrew from the battlefield, leaving supplies and civilians behind.', {'regex': '"%s"'}],
@@ -276,6 +291,7 @@ const addTranslation = function (str, file, context) {
     ['Earn VAL Grid Power or more.', {'regex': '"%s"'}]
   ]
   arr.forEach(function (row) {
+    row[1].mode = 'manual'
     addTranslation(row[0], null, row[1])
   })
 })()

@@ -13,13 +13,14 @@ languageFiles.forEach(function (file) {
   }
   const language = fileSplit[0]
   const jsonFile = langDir + '/' + language + '.json'
+  let languageData = {}
   if (fs.existsSync(jsonFile)) {
+    languageData = JSON.parse(fs.readFileSync(jsonFile).toString())
     return
   }
 
   const poLines = fs.readFileSync(langDir + '/' + file).toString().split('\n')
   const poData = shared.parsePoFile(poLines, true)
-  const languageData = {}
   for (let id in poData) {
     let text = poData[id].msgid.replace(/\\n/ig, '\n').replace(/\\"/ig, '"')
     let hash = md5(text)

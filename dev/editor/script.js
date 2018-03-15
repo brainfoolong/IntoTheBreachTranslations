@@ -82,6 +82,7 @@
 
   function textToHtml (str) {
     str = str.replace(/\n/ig, '<span class="red">\\n</span><br/>')
+    str = str.replace(/( {2,})|( +)$|^( +)$/ig, '<span class="orange" data-tooltip="Multiple white spaces, make sure you keep this">$1</span>')
     return str
   }
 
@@ -103,12 +104,16 @@
   }
 
   function setChangedValues () {
-    $('textarea.changed').each(function () {
-      var id = $(this).closest('.row').attr('data-id')
+    $('.row.changed').each(function () {
+      var id = $(this).attr('data-id')
       if (typeof storage.translations[id] === 'undefined') {
         storage.translations[id] = {}
       }
-      storage.translations[id].text = $(this).val()
+      storage.translations[id].text = $(this).find('textarea').val()
+      delete storage.translations[id].review
+      if ($(this).find('.review-required').prop('checked')) {
+        storage.translations[id].review = true
+      }
     })
     save()
   }
@@ -125,7 +130,7 @@
       var bg = t.prev()
       bg.html(textToHtml(t.val()))
       if (e.type === 'input') {
-        t.addClass('changed')
+        t.closest('.row').addClass('changed')
       } else if (e.type === 'blur' || e.type === 'focusout') {
         setChangedValues()
       }
@@ -134,11 +139,15 @@
     var values = getMergedTranslations()
     var rowTpl = w.find('.row')
     for (var i in template) {
+      var translatedValue = values[i]
       var e = rowTpl.clone()
-      var text = typeof values[i] !== 'undefined' ? values[i].text : ''
+      var text = typeof translatedValue !== 'undefined' ? translatedValue.text : ''
       e.attr('data-id', i)
       e.find('.original').html(textToHtml(template[i].text))
       w.append(e)
+      if (translatedValue && translatedValue.review) {
+        e.addClass('need-review').find('.review-required').prop('checked', true)
+      }
       if (text.length) {
         e.find('textarea').val(text).trigger('change')
       }
@@ -149,7 +158,17 @@
   $(function () {
     $(document).on('mouseenter', '[data-tooltip]', function (ev) {
       var el = $('.tooltip').removeClass('hidden').html($(this).attr('data-tooltip'))
-      el.offset({'left': ev.pageX - (el.outerWidth() / 2), 'top': ev.pageY - el.outerHeight() - 10})
+      var l = ev.pageX - (el.outerWidth() / 2)
+      var t = ev.pageY - el.outerHeight() - 10
+      if (l < 10) {
+        l = 10
+      } else if (l > screen.width - 10) {
+        l = screen.width - 10
+      }
+      if (t < 10) {
+        t = ev.pageY + 10
+      }
+      el.offset({'left': l, 'top': t})
     }).on('mouseleave', '[data-tooltip]', function (ev) {
       $('.tooltip').addClass('hidden')
     })
@@ -163,6 +182,9 @@
         storage.translations = {}
         save()
       })
+    })
+    $(document).on('change', '.review-required', function () {
+      $(this).closest('.row').toggleClass('need-review', this.checked).addClass('changed')
     })
     $('.btn.download').on('click', function () {
       setChangedValues()
