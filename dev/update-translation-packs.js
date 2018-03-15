@@ -88,10 +88,10 @@ module.exports = function () {
               let a = match[0]
               let b = match[0].replace(new RegExp(regexText), replaceText.replace(/\n/g, '\\n').replace(/"/g, '\\"'))
               fileData = fileData.replace(a, b)
+              filesChanged[file] = true
             }
           }
           while (match)
-          filesChanged[file] = true
         })
       }
       if (typeof filesChanged[file] !== 'undefined') {
@@ -100,7 +100,7 @@ module.exports = function () {
     })
     // create new game files
     const zipArchive = new zip()
-    for (let file in gameFiles) {
+    for (let file in filesChanged) {
       let fileData = gameFiles[file]
       fileData = iconv.encode(new Buffer(fileData), 'latin1')
       zipArchive.file(file, fileData)
@@ -109,6 +109,11 @@ module.exports = function () {
         fs.writeFileSync(shared.config.gamedir + '/' + file, fileData)
       }
     }
+    // store zip into packages folder
+    fs.writeFileSync(__dirname + '/../packages/' + language + '.zip', zipArchive.generate({
+      base64: false,
+      compression: 'DEFLATE'
+    }), 'binary')
   })
 }
 module.exports()

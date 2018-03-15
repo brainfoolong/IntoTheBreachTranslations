@@ -224,20 +224,30 @@
         }, 200)
       }
     })
-    $('.translation-form .top input').on('change', function () {
+    var checkboxes = $('.translation-form .top input').filter('[type=\'checkbox\']')
+    checkboxes.on('change', function () {
       var v = this.checked
+
+      var filters = {}
+      checkboxes.each(function () {
+        filters[$(this).attr('name')] = this.checked
+      })
 
       var all = $('.row')
       var empty = all.filter(function () {
         return $(this).find('textarea').val() === ''
       })
-      switch ($(this).attr('name')) {
-        case 'hide_untranslated':
-          empty.toggleClass('hidden', v)
-          break
-        case 'hide_translated':
-          all.not(empty).toggleClass('hidden', v)
-          break
+
+      all.removeClass('hidden')
+
+      if(filters.hide_untranslated){
+        empty.addClass('hidden')
+      }
+      if(filters.hide_translated){
+        all.not(empty).addClass('hidden')
+      }
+      if(filters.only_review){
+        all.addClass('hidden').filter(".need-review").removeClass('hidden')
       }
     })
     var selects = $('.translation-form .top select')
