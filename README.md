@@ -7,13 +7,14 @@ Inofficial Translations for PC Game Into the Breach. This is all fan made. You c
 Until now, a complete translation file for one language contains more than 2000 lines of text. When all keys are included it grows up to 4000+. A huge job that really take some time and that demands your stamina.
 
 ## General Status
-* Text-file based translation keys are almost complete and ready for translation, except most of pilot texts are missing, which are about 2000 more extra long lines to go
+* Text-file based translation keys are complete, somewhat, and ready for translation
 * The fonts of the game don't support most of special chars in other languages, a fix is probably to modify the included game fonts
 * Hardcoded image translations are not changable by this tool as it requires to modify images directly out of game resources
 
 ## Downloads
 * German alpha: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/de.zip
 * French alpha: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/fr.zip
+* Italian pre-alpha: https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/it.zip
 * Other languages are missing contributors. Become one.
 
 ## How to install
