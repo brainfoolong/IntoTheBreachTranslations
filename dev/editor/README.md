@@ -8,7 +8,7 @@ This tool was especially designed for this repository. It give you an out-of-the
 * Clone on your disk
 * Run `npm install` in root directory, where `package.json` is
 * Copy `dev/config.tpl.js` to `dev/config.js` and modify it to your needs
-* Run `node server.js` in this directory and open up `http://localhost:6161` in your browser - Chrome works best here
+* Goto `dev/editor` and run `node server.js` in this directory and open up `http://localhost:6161` in your browser - Chrome works best here
 * Do your translations
 * When finished, commit changes to your fork and do a pull request back to this repository
 
