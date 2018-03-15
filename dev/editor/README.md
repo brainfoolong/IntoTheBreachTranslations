@@ -12,9 +12,8 @@ This tool was especially designed for this repository. It give you an out-of-the
 * When finished, commit changes to your fork and do a pull request back to this repository
 
 ## No dependency way
-It's possible to start right away without the requirements for NodeJs.
+It's possible to start right away without the requirements for NodeJs and without the requirement to download the project.
 * Fork this repository
-* Clone/Download on your disk
-* Open `dev/editor/index.html` with your browser - Chrome works best here
+* Open https://cdn.rawgit.com/brainfoolong/IntoTheBreachTranslations/master/dev/editor/index.html with your browser - Chrome works best here
 * Follow editor descriptions
 * When finished do a pull request back to this repository
