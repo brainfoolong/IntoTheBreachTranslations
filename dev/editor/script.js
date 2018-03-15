@@ -273,6 +273,7 @@
       return
     }
 
+    $('.login-form').removeClass('hidden')
     $('body').addClass('status-mode-local')
     // otherwise go ahead in local mode
     var loginForm = $(document.login)
