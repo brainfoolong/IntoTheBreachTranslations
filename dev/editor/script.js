@@ -262,7 +262,7 @@
     })
 
     // check if this is running in server mode
-    if (window.location.port) {
+    if (window.location.port && window.location.port !== '80' && window.location.port !== '443') {
       $('body').addClass('status-mode-server')
       $('.page-load').removeClass('hidden')
       apiRequest('init', null, function (data) {
