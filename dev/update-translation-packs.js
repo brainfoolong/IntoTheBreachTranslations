@@ -82,9 +82,6 @@ module.exports = function () {
             })
           }
           regexFull = new RegExp(regexFull, 'g')
-          if (id === '68f7e343cbbf9e009df8d98e203418f8' && file === 'scripts/missions/acid/mission_acidtank.lua') {
-            console.log(regexFull, regexText, replaceText, fileData.match(regexFull))
-          }
           let match = null
           do {
             match = regexFull.exec(fileData)

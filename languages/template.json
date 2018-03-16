@@ -56,7 +56,8 @@
   "63f576609c53092d7264d07d5b80bfa4": {
     "text": "Combat Mech",
     "files": [
-      "scripts/text.lua"
+      "scripts/text.lua",
+      "scripts/pawns.lua"
     ]
   },
   "07d1a861e5aa7996bdddd5c0b3e2466d": {
@@ -6630,7 +6631,8 @@
   "36f3d3482f624ca4c769f7d6cbc6197d": {
     "text": "Burrower",
     "files": [
-      "scripts/text_tooltips.lua"
+      "scripts/text_tooltips.lua",
+      "scripts/pawns.lua"
     ]
   },
   "411700aaf62a07581eb3bb0927de3caf": {
@@ -7348,7 +7350,8 @@
   "5ba45f2f47087ce0da6f91c80e3e429a": {
     "text": "Spiderling Egg",
     "files": [
-      "scripts/text_weapons.lua"
+      "scripts/text_weapons.lua",
+      "scripts/pawns.lua"
     ],
     "contexts": [
       {
@@ -9324,6 +9327,576 @@
     "text": "Deploy a single Freeze mine.",
     "files": [
       "scripts/text_weapons.lua"
+    ]
+  },
+  "75f0de05ac7c7c8e38fb8215694bc050": {
+    "text": "Cannon Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "6bbc4842c584ffdd9f654ff425e0d329": {
+    "text": "Artillery Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "2126fdde07c7642f0cb6fa0a81863664": {
+    "text": "Judo Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "5dae74325c004ae3a1560c717f472248": {
+    "text": "Siege Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "4396a119b8455feb5b85b0e5c889040d": {
+    "text": "Gravity Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "8b06d08e8c940f66d9391e96abe2d097": {
+    "text": "Rocket Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "d5aed68e56557f3f00a257434ef94e8f": {
+    "text": "Jet Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "f207184cca9a264e44c2ca0732087d32": {
+    "text": "Pulse Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "0a514a9c73feb735f4c5ba50563675ee": {
+    "text": "Flame Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "8eeaf558d391ab1bb27ad0a24db52a94": {
+    "text": "Meteor Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "8f144a413e17a39536774f11ef572412": {
+    "text": "Swap Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "7c76714b651bdde4564f93eebba62ed1": {
+    "text": "Laser Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "626f2d4c4aa4e9b1268065afe7d2a350": {
+    "text": "Charge Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "ebafd94d21502f5556f74bac7b1e5ae4": {
+    "text": "Defense Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "b2701b3faaf7f2161e5b706eac2c5999": {
+    "text": "Aegis Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "790d23999cc0f9567492e3d8082142ce": {
+    "text": "Mirror Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "b1678493cce10f778db3e819168553f3": {
+    "text": "Ice Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "d92ac4cca3ce9c9f2d0aa54afedd29fa": {
+    "text": "Lightning Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "6d613a1082d62c801ee44e259af1b1c0": {
+    "text": "Hook Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "d9b456b51b92221d5cfeb6f52d2d4b86": {
+    "text": "Boulder Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "875fd5688d6cde9b8c492cccef408038": {
+    "text": "Leap Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "09ec03f2b8ffa07748e91cbf9ac77091": {
+    "text": "Unstable Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "bfcc0895766aecc2eb8acaecb0b18835": {
+    "text": "Nano Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "278875695fcaac9987a45e379f3fc74e": {
+    "text": "Techno-Beetle",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "861066178398aa9952feef98b8ed1f38": {
+    "text": "Techno-Hornet",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "c7014d5dc4a42ce0c6068bb6d5f4e5ee": {
+    "text": "Techno-Scarab",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "e0c9637ccbe3486997d4bd0ac5c2cae1": {
+    "text": "Rock Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "1fe092475cb2d7bc460597f29b8e8422": {
+    "text": "Combat Drone",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "69b1bb5428d3a97c61a4c9dc15c3db84": {
+    "text": "Civilian Support",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "0a4738f5f155a9da49346028d434268a": {
+    "text": "Civilian Tank",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "59fce4450a3b11a079380f5579f0a372": {
+    "text": "Civilian Artillery",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "3c62c506e7a82bd42cc78d678b8afe7c": {
+    "text": "Boulder",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "437e62ebf8a773dcdf35c2bbd5f5b7a6": {
+    "text": "Defense Turret",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "80212e46299571495f6060abeaf57449": {
+    "text": "Blobber",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "8c9f37a59ea67abb5e87f96926bb1a8c": {
+    "text": "Alpha Blobber",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "e8016c85ada38bdc5fac616ec1318047": {
+    "text": "Blob",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "080dcb0cc25a7de7ca0d16ddfd76f74e": {
+    "text": "Alpha Blob",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "5d0f5219d1a5557d70758202f92e0076": {
+    "text": "Scorpion",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "fab4c9aaa073753ed68d8cea36b53fa1": {
+    "text": "Alpha Scorpion",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "e344a4e3a128f4d2297fd379f7c2962d": {
+    "text": "Firefly",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "b9b4d7ca211512787d2defdab96040e2": {
+    "text": "Alpha Firefly",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "862e14690d1a332958f454c3c71e4e7b": {
+    "text": "Leaper",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "a8101297565c19fadd30821ac760fcbf": {
+    "text": "Alpha Leaper",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "1811944b9abeaa2ec9c73902103631c7": {
+    "text": "Beetle",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "89d9739a647b537ddf3834f1cbaeedde": {
+    "text": "Alpha Beetle",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "a9fd3ff5b6ff3cd3f3a1a900e46295f8": {
+    "text": "Scarab",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "53a8f722e88c399600a957fc9796670b": {
+    "text": "Alpha Scarab",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "ff174d64774d5421545e1b38ded8db2f": {
+    "text": "Crab",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "1f9e5a121c3fc3499463f8d592b51d68": {
+    "text": "Alpha Crab",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "d51f75acaec50891f1c4266571497092": {
+    "text": "Centipede",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "f76755f9f210979019d91d3613e523ef": {
+    "text": "Alpha Centipede",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "06c160cf55d41fbb8eaaa0ca36faa66d": {
+    "text": "Digger",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "4a9c96354fa8612d7507713cae33c9f9": {
+    "text": "Alpha Digger",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "8eda22ed69c3317f592ca1ba97867881": {
+    "text": "Hornet",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "24337948eb76171c88d03f8f1c1a8a98": {
+    "text": "Alpha Hornet",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "a5e635fa28d2bb2767d95a3158d6c63a": {
+    "text": "Gardener",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "ed3ce914aa575ee37ef8532bc1954058": {
+    "text": "Soldier Psion",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "726de626bb29b46da89205a236b9c8ad": {
+    "text": "Shell Psion",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "54cbbf0eb2c89ef11c412f970dd2ade7": {
+    "text": "Blood Psion",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "d26c7d085aabd6b0901c9bc286911c74": {
+    "text": "Blast Psion",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "7d796e27c33c4e66b8e55a8f74596db5": {
+    "text": "Psion Tyrant",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "b4d68660c4a56181cd886fe5ecc08f71": {
+    "text": "Spider",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "a146db3f7ccf20756eaa1902a51c387d": {
+    "text": "Alpha Spider",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "964ff4a636a971da902393bf27bb96c2": {
+    "text": "Spiderling",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "13061d4a572d85ef435c56f5ce7cc390": {
+    "text": "Alpha Spiderling",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "8040bf718305f9d77dbf7735859e9b49": {
+    "text": "Alpha Burrower",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "9edda8d98f5a2d13a818d6ac2aa661e3": {
+    "text": "A.C.I.D. Scorpion",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "ac8bab38b915efcb3d94fcd6804760cd": {
+    "text": "A.C.I.D. Hornet",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "6a185e6e206d10592a099332b825b06c": {
+    "text": "A.C.I.D. Firefly",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "688753a416338633c06b4829c017b82e": {
+    "text": "Cannon-Bot",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "a189dbc1fc88f5f01a647353c053549d": {
+    "text": "Cannon-Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "430c9d636495f6f77e5055f999896a9e": {
+    "text": "Artillery-Bot",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "fadb37663abcdd46174171265a5270ff": {
+    "text": "Artillery-Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "280499cfcd74a22ae3482048c499a232": {
+    "text": "Laser-Bot",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "943613aa1868e392454b0d1d9cde8baa": {
+    "text": "Laser-Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "5903005cc09bc8deeb113854b45854ab": {
+    "text": "Mine-Bot",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "892f380802a56614333af881d6c7554b": {
+    "text": "Mine-Mech",
+    "files": [
+      "scripts/pawns.lua"
+    ]
+  },
+  "4f2fb5714562e61bd690c550124f1f63": {
+    "text": "Robotics Lab",
+    "files": [
+      "scripts/structures.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "b53aa67a1586e1c2541bd028043451a7": {
+    "text": "Old Earth Bar",
+    "files": [
+      "scripts/structures.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "67c8a02f6b33c1e905c36512fc72eb04": {
+    "text": "Corporate Tower",
+    "files": [
+      "scripts/structures.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "2f24020a8fcb25eea33e9600cc777aef": {
+    "text": "Defense Lab",
+    "files": [
+      "scripts/structures.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "58426d9d4ba407908b95156b7e0aecba": {
+    "text": "Coal Plant",
+    "files": [
+      "scripts/structures.lua"
+    ]
+  },
+  "9d08ac5ef94ce646ed311540f856865f": {
+    "text": "Clinic",
+    "files": [
+      "scripts/structures.lua"
+    ]
+  },
+  "53a311a65d8d9bcd0006e321b0222456": {
+    "text": "Shield Generator",
+    "files": [
+      "scripts/structures.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "61b90e4856e2ff75582279bfc672cdfc": {
+    "text": "Power Generator",
+    "files": [
+      "scripts/structures.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "dcabf90146010f025d53f21c4bd7ae8b": {
+    "text": "Emergency Batteries",
+    "files": [
+      "scripts/structures.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "20fe25f778b87e63f711e4adc4008ce1": {
+    "text": "Airfield",
+    "files": [
+      "scripts/structures.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
     ]
   },
   "8a55f81685ce71ac854a45ade12a8d72": {
@@ -32822,6 +33395,33 @@
       }
     ]
   },
+  "5275ddd87e59aa49379e84e60b4ee8b8": {
+    "text": "Firefly Leader",
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "3d9269c0279467cc0c6251a38e53b8c5": {
+    "text": "Bot Leader",
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "1187c308cfb225c65c5c11f68c034b16": {
+    "text": "Boss Heal",
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
   "e24ad04b9ffc64451b22fa77813aa17e": {
     "text": "killed so far",
     "contexts": [
@@ -33929,10 +34529,6 @@
       {
         "regex": "\"%s",
         "mode": "manual"
-      },
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
       }
     ]
   },
@@ -34022,78 +34618,6 @@
     "contexts": [
       {
         "regex": "%s",
-        "mode": "manual"
-      }
-    ]
-  },
-  "4f2fb5714562e61bd690c550124f1f63": {
-    "text": "Robotics Lab",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "b53aa67a1586e1c2541bd028043451a7": {
-    "text": "Old Earth Bar",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "67c8a02f6b33c1e905c36512fc72eb04": {
-    "text": "Corporate Tower",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "2f24020a8fcb25eea33e9600cc777aef": {
-    "text": "Defense Lab",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "53a311a65d8d9bcd0006e321b0222456": {
-    "text": "Shield Generator",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "61b90e4856e2ff75582279bfc672cdfc": {
-    "text": "Power Generator",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "dcabf90146010f025d53f21c4bd7ae8b": {
-    "text": "Emergency Batteries",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "20fe25f778b87e63f711e4adc4008ce1": {
-    "text": "Airfield",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
         "mode": "manual"
       }
     ]

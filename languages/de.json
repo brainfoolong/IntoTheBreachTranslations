@@ -4632,7 +4632,7 @@
     "text": "Zerstöre den Alpha Bot"
   },
   "7fd9bb805fed1370d31df0f86c0f9fd6": {
-    "text": "Töte die Alpha Feuerfliege"
+    "text": "Töte die Alpha Fliege"
   },
   "e24ad04b9ffc64451b22fa77813aa17e": {
     "text": "getötet"
@@ -6508,5 +6508,254 @@
   },
   "36fe8cf03532f27f5fbcb0cbffe38728": {
     "text": "Beschütze die Bomben"
+  },
+  "5275ddd87e59aa49379e84e60b4ee8b8": {
+    "text": "Fliegenführer"
+  },
+  "3d9269c0279467cc0c6251a38e53b8c5": {
+    "text": "Bot Führer"
+  },
+  "1187c308cfb225c65c5c11f68c034b16": {
+    "text": "Bossheilung"
+  },
+  "75f0de05ac7c7c8e38fb8215694bc050": {
+    "text": "Kanonen Mech"
+  },
+  "6bbc4842c584ffdd9f654ff425e0d329": {
+    "text": "Artillerie Mech"
+  },
+  "8b06d08e8c940f66d9391e96abe2d097": {
+    "text": "Raketen Mech"
+  },
+  "d5aed68e56557f3f00a257434ef94e8f": {
+    "text": "Jet Mech"
+  },
+  "f207184cca9a264e44c2ca0732087d32": {
+    "text": "Puls Mech"
+  },
+  "0a514a9c73feb735f4c5ba50563675ee": {
+    "text": "Flammen Mech"
+  },
+  "8eeaf558d391ab1bb27ad0a24db52a94": {
+    "text": "Meteor Mech"
+  },
+  "8f144a413e17a39536774f11ef572412": {
+    "text": "Tausch Mech"
+  },
+  "7c76714b651bdde4564f93eebba62ed1": {
+    "text": "Laser Mech"
+  },
+  "626f2d4c4aa4e9b1268065afe7d2a350": {
+    "text": "Ladungs-Mech"
+  },
+  "ebafd94d21502f5556f74bac7b1e5ae4": {
+    "text": "Defensiv Mech"
+  },
+  "d92ac4cca3ce9c9f2d0aa54afedd29fa": {
+    "text": "Blitz Mech"
+  },
+  "6d613a1082d62c801ee44e259af1b1c0": {
+    "text": "Haken Mech"
+  },
+  "d9b456b51b92221d5cfeb6f52d2d4b86": {
+    "text": "Felsblock Mech"
+  },
+  "e0c9637ccbe3486997d4bd0ac5c2cae1": {
+    "text": "Stein Mech"
+  },
+  "1fe092475cb2d7bc460597f29b8e8422": {
+    "text": "Kampfdrohne"
+  },
+  "69b1bb5428d3a97c61a4c9dc15c3db84": {
+    "text": "Zivilsupport"
+  },
+  "0a4738f5f155a9da49346028d434268a": {
+    "text": "Zivilpanzer"
+  },
+  "59fce4450a3b11a079380f5579f0a372": {
+    "text": "Zivile Artillerie"
+  },
+  "3c62c506e7a82bd42cc78d678b8afe7c": {
+    "text": "Felsblock"
+  },
+  "437e62ebf8a773dcdf35c2bbd5f5b7a6": {
+    "text": "Verteidigungsturm"
+  },
+  "80212e46299571495f6060abeaf57449": {
+    "text": "Blobber"
+  },
+  "8c9f37a59ea67abb5e87f96926bb1a8c": {
+    "text": "Alpha Blobber"
+  },
+  "e8016c85ada38bdc5fac616ec1318047": {
+    "text": "Blob"
+  },
+  "080dcb0cc25a7de7ca0d16ddfd76f74e": {
+    "text": "Alpha Blob"
+  },
+  "5d0f5219d1a5557d70758202f92e0076": {
+    "text": "Skorpion"
+  },
+  "fab4c9aaa073753ed68d8cea36b53fa1": {
+    "text": "Alpha Skorpion"
+  },
+  "e344a4e3a128f4d2297fd379f7c2962d": {
+    "text": "Fliege"
+  },
+  "b9b4d7ca211512787d2defdab96040e2": {
+    "text": "Alpha Fliege"
+  },
+  "862e14690d1a332958f454c3c71e4e7b": {
+    "text": "Leaper"
+  },
+  "a8101297565c19fadd30821ac760fcbf": {
+    "text": "Alpha Leaper"
+  },
+  "1811944b9abeaa2ec9c73902103631c7": {
+    "text": "Käfer"
+  },
+  "89d9739a647b537ddf3834f1cbaeedde": {
+    "text": "Alpha Käfer"
+  },
+  "a9fd3ff5b6ff3cd3f3a1a900e46295f8": {
+    "text": "Skarabäus"
+  },
+  "53a8f722e88c399600a957fc9796670b": {
+    "text": "Alpha Skarabäus"
+  },
+  "ff174d64774d5421545e1b38ded8db2f": {
+    "text": "Krabbe"
+  },
+  "1f9e5a121c3fc3499463f8d592b51d68": {
+    "text": "Alpha Krabbe"
+  },
+  "d51f75acaec50891f1c4266571497092": {
+    "text": "Tausendfüßler"
+  },
+  "f76755f9f210979019d91d3613e523ef": {
+    "text": "Alpha Tausendfüßler"
+  },
+  "06c160cf55d41fbb8eaaa0ca36faa66d": {
+    "text": "Gräber"
+  },
+  "4a9c96354fa8612d7507713cae33c9f9": {
+    "text": "Alpha Gräber"
+  },
+  "8eda22ed69c3317f592ca1ba97867881": {
+    "text": "Hornisse"
+  },
+  "24337948eb76171c88d03f8f1c1a8a98": {
+    "text": "Alpha Hornisse"
+  },
+  "a5e635fa28d2bb2767d95a3158d6c63a": {
+    "text": "Gärtner"
+  },
+  "ed3ce914aa575ee37ef8532bc1954058": {
+    "text": "Soldaten-Psion"
+  },
+  "b4d68660c4a56181cd886fe5ecc08f71": {
+    "text": "Spinne"
+  },
+  "a146db3f7ccf20756eaa1902a51c387d": {
+    "text": "Alpha Spinne"
+  },
+  "964ff4a636a971da902393bf27bb96c2": {
+    "text": "Junge Spinne"
+  },
+  "13061d4a572d85ef435c56f5ce7cc390": {
+    "text": "Junge Alpha Spinne"
+  },
+  "688753a416338633c06b4829c017b82e": {
+    "text": "Kanonen-Bot"
+  },
+  "a189dbc1fc88f5f01a647353c053549d": {
+    "text": "Kanonen-Mech"
+  },
+  "430c9d636495f6f77e5055f999896a9e": {
+    "text": "Artillerie-Bot"
+  },
+  "fadb37663abcdd46174171265a5270ff": {
+    "text": "Artillerie-Mech"
+  },
+  "280499cfcd74a22ae3482048c499a232": {
+    "text": "Laser-Bot"
+  },
+  "943613aa1868e392454b0d1d9cde8baa": {
+    "text": "Laser-Mech"
+  },
+  "5903005cc09bc8deeb113854b45854ab": {
+    "text": "Minen-Bot"
+  },
+  "892f380802a56614333af881d6c7554b": {
+    "text": "Minen-Mech"
+  },
+  "b2701b3faaf7f2161e5b706eac2c5999": {
+    "text": "Ägider Mech"
+  },
+  "790d23999cc0f9567492e3d8082142ce": {
+    "text": "Spiegel Mech"
+  },
+  "b1678493cce10f778db3e819168553f3": {
+    "text": "Eis Mech"
+  },
+  "875fd5688d6cde9b8c492cccef408038": {
+    "text": "Sprung Mech"
+  },
+  "09ec03f2b8ffa07748e91cbf9ac77091": {
+    "text": "Instabiler Mech"
+  },
+  "bfcc0895766aecc2eb8acaecb0b18835": {
+    "text": "Nano Mech"
+  },
+  "278875695fcaac9987a45e379f3fc74e": {
+    "text": "Techno-Käfer"
+  },
+  "861066178398aa9952feef98b8ed1f38": {
+    "text": "Techno-Hornisse"
+  },
+  "c7014d5dc4a42ce0c6068bb6d5f4e5ee": {
+    "text": "Techno-Skarabäus"
+  },
+  "726de626bb29b46da89205a236b9c8ad": {
+    "text": "Rüstungs-Psion"
+  },
+  "54cbbf0eb2c89ef11c412f970dd2ade7": {
+    "text": "Blut-Psion"
+  },
+  "d26c7d085aabd6b0901c9bc286911c74": {
+    "text": "Explosiver-Psion"
+  },
+  "7d796e27c33c4e66b8e55a8f74596db5": {
+    "text": "Psion Tyrann"
+  },
+  "8040bf718305f9d77dbf7735859e9b49": {
+    "text": "Alpha Gräber"
+  },
+  "9edda8d98f5a2d13a818d6ac2aa661e3": {
+    "text": "Säure Skorpion"
+  },
+  "ac8bab38b915efcb3d94fcd6804760cd": {
+    "text": "Säure Hornisse"
+  },
+  "6a185e6e206d10592a099332b825b06c": {
+    "text": "Säure Fliege"
+  },
+  "58426d9d4ba407908b95156b7e0aecba": {
+    "text": "Kohlekraftwerk"
+  },
+  "9d08ac5ef94ce646ed311540f856865f": {
+    "text": "Klinik"
+  },
+  "2126fdde07c7642f0cb6fa0a81863664": {
+    "text": "Judo Mech"
+  },
+  "5dae74325c004ae3a1560c717f472248": {
+    "text": "Belagerungs-Mech"
+  },
+  "4396a119b8455feb5b85b0e5c889040d": {
+    "text": "Gravitations-Mech"
+  },
+  "47b76be85300e175c977956f8850cbfa": {
+    "text": ""
   }
 }
