@@ -196,7 +196,8 @@
     "text": "Terraformer",
     "files": [
       "scripts/text.lua",
-      "scripts/text_weapons.lua"
+      "scripts/text_weapons.lua",
+      "scripts/missions/sand/mission_terraform.lua"
     ]
   },
   "6b62349c25ded810315a3300e14a33f9": {
@@ -208,7 +209,8 @@
   "d6bf33cffeccd650ac978c2174c14717": {
     "text": "Volatile Vek",
     "files": [
-      "scripts/text.lua"
+      "scripts/text.lua",
+      "scripts/missions/mission_volatile.lua"
     ],
     "contexts": [
       {
@@ -1475,7 +1477,8 @@
   "9b31e080d6601480ba04166103188cb6": {
     "text": "Cataclysmic Earthquakes",
     "files": [
-      "scripts/text.lua"
+      "scripts/text.lua",
+      "scripts/missions/sand/mission_cataclysm.lua"
     ],
     "contexts": [
       {
@@ -1494,7 +1497,8 @@
     "text": "Seismic Activity",
     "files": [
       "scripts/text.lua",
-      "scripts/text_tooltips.lua"
+      "scripts/text_tooltips.lua",
+      "scripts/missions/sand/mission_crack.lua"
     ],
     "contexts": [
       {
@@ -1512,7 +1516,8 @@
   "954b994d8ba7c63cdd2e6199cfbcb49d": {
     "text": "Lightning Storm",
     "files": [
-      "scripts/text.lua"
+      "scripts/text.lua",
+      "scripts/missions/sand/mission_lightning.lua"
     ],
     "contexts": [
       {
@@ -1531,7 +1536,8 @@
     "text": "Ice Storm",
     "files": [
       "scripts/text.lua",
-      "scripts/text_tooltips.lua"
+      "scripts/text_tooltips.lua",
+      "scripts/missions/snow/mission_snowstorm.lua"
     ],
     "contexts": [
       {
@@ -7086,7 +7092,8 @@
   "e43a10af863ca84cbb60b65a7bc3458a": {
     "text": "Hive Leader",
     "files": [
-      "scripts/text_tooltips.lua"
+      "scripts/text_tooltips.lua",
+      "scripts/missions/bosses/slug.lua"
     ],
     "contexts": [
       {
@@ -7351,6 +7358,7 @@
     "text": "Spiderling Egg",
     "files": [
       "scripts/text_weapons.lua",
+      "scripts/missions/bosses/spider.lua",
       "scripts/pawns.lua"
     ],
     "contexts": [
@@ -8755,7 +8763,8 @@
   "20d7151dafb44530441de64e8f206639": {
     "text": "Mech Repair",
     "files": [
-      "scripts/text_weapons.lua"
+      "scripts/text_weapons.lua",
+      "scripts/weapons_support.lua"
     ]
   },
   "e80bc79f842d52548b78313ad0c17749": {
@@ -8845,7 +8854,8 @@
   "5b8eb12e12b7f1ca83aab2534012eb3c": {
     "text": "Targeted Strike",
     "files": [
-      "scripts/text_weapons.lua"
+      "scripts/text_weapons.lua",
+      "scripts/weapons_structure.lua"
     ]
   },
   "210f15fd8e89e40a636965f2553f62a1": {
@@ -9031,7 +9041,9 @@
   "b516f99a894f451a05024026b3b60b16": {
     "text": "A.C.I.D. Tank",
     "files": [
-      "scripts/text_weapons.lua"
+      "scripts/text_weapons.lua",
+      "scripts/missions/acid/mission_acidtank.lua",
+      "scripts/weapons_deploy.lua"
     ],
     "contexts": [
       {
@@ -9229,7 +9241,8 @@
   "c92022c3a49c9c9f8ddf84dca9c2dd91": {
     "text": "Satellite Launch",
     "files": [
-      "scripts/text_weapons.lua"
+      "scripts/text_weapons.lua",
+      "scripts/missions/grass/mission_satellites.lua"
     ]
   },
   "5f1b81fc9bf7b6f99817fb4ccddac10c": {
@@ -9242,6 +9255,7 @@
     "text": "Earth Mover",
     "files": [
       "scripts/text_weapons.lua",
+      "scripts/missions/sand/mission_filler.lua",
       "scripts/personalities/missions.csv"
     ],
     "contexts": [
@@ -9327,6 +9341,468 @@
     "text": "Deploy a single Freeze mine.",
     "files": [
       "scripts/text_weapons.lua"
+    ]
+  },
+  "fae86ea7f6501a10fa287b5e391dd916": {
+    "text": "Pepsi Co",
+    "files": [
+      "scripts/corporations.lua"
+    ]
+  },
+  "86ac311a92f73106e3263869862c22dd": {
+    "text": "Archive, Inc.",
+    "files": [
+      "scripts/corporations.lua"
+    ]
+  },
+  "bd30a4c06f0ffbf28d3e8cd507c224ba": {
+    "text": "R.S.T. Corporation",
+    "files": [
+      "scripts/corporations.lua"
+    ]
+  },
+  "82dde728b276e862977dfdcca39a9f77": {
+    "text": "Pinnacle Robotics",
+    "files": [
+      "scripts/corporations.lua"
+    ]
+  },
+  "4c1602ee972ff038ff7315df5194af92": {
+    "text": "Detritus Disposal",
+    "files": [
+      "scripts/corporations.lua"
+    ]
+  },
+  "b39d6aa2db64247241f35ef8d3977c12": {
+    "text": "Unnamed Pawn",
+    "files": [
+      "scripts/global.lua"
+    ]
+  },
+  "90e18fd124cc35ea819e4f9f2ba3cf1c": {
+    "text": "Weapon Name",
+    "files": [
+      "scripts/global.lua"
+    ]
+  },
+  "1fc7ad22c6a15c6a2c0143e35628d203": {
+    "text": "Acid Vat",
+    "files": [
+      "scripts/missions/acid/mission_barrels.lua"
+    ]
+  },
+  "0088e0a819abebbeb1455b36b5554fb8": {
+    "text": "Conveyors",
+    "files": [
+      "scripts/missions/acid/mission_belt.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "948fdc23d564a11712c84ce6e5278296": {
+    "text": "A.C.I.D. Launcher",
+    "files": [
+      "scripts/missions/acid/mission_disposal.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "01ed11f8f8a72cf4988710fd690041cc": {
+    "text": "Laser Thingy",
+    "files": [
+      "scripts/missions/acid/mission_laser.lua"
+    ]
+  },
+  "88497022ab062adb6e92439c5a76b613": {
+    "text": "Trash Compactor",
+    "files": [
+      "scripts/missions/acid/mission_piston.lua"
+    ]
+  },
+  "79084d974c844fcfd5b056e16dae1f82": {
+    "text": "Beetle Leader",
+    "files": [
+      "scripts/missions/bosses/beetle.lua"
+    ]
+  },
+  "1187c308cfb225c65c5c11f68c034b16": {
+    "text": "Boss Heal",
+    "files": [
+      "scripts/missions/bosses/bot.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "3d9269c0279467cc0c6251a38e53b8c5": {
+    "text": "Bot Leader",
+    "files": [
+      "scripts/missions/bosses/bot.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "5275ddd87e59aa49379e84e60b4ee8b8": {
+    "text": "Firefly Leader",
+    "files": [
+      "scripts/missions/bosses/firefly.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "8df90e225d73cf9f3774356245405913": {
+    "text": "Large Goo",
+    "files": [
+      "scripts/missions/bosses/goo.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "82230eb0432baf3c6cf7ac04a3bf3fb6": {
+    "text": "Medium Goo",
+    "files": [
+      "scripts/missions/bosses/goo.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "eec601cfb9ce931a868a2428211c446f": {
+    "text": "Small Goo",
+    "files": [
+      "scripts/missions/bosses/goo.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "0457ba9ddd4ea0758cda16241fdf3e04": {
+    "text": "Hornet Leader",
+    "files": [
+      "scripts/missions/bosses/hornet.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "5ff723cc36a403d29195fbfebddd1ca3": {
+    "text": "Psion Abomination",
+    "files": [
+      "scripts/missions/bosses/psion.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "69505ad725e441b879b479a2800faba9": {
+    "text": "Scorpion Leader",
+    "files": [
+      "scripts/missions/bosses/scorpion.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "a0e7f7b0da98eac97e6f14247b6a14f2": {
+    "text": "XXXx",
+    "files": [
+      "scripts/missions/bosses/scorpion.lua"
+    ]
+  },
+  "e879dcec2c9829e557a0c440e72d215b": {
+    "text": "Slugling Egg",
+    "files": [
+      "scripts/missions/bosses/slug.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "4e3ea93cbb55d85d95c9e6228d816da8": {
+    "text": "Spider Leader",
+    "files": [
+      "scripts/missions/bosses/spider.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "8bf8ac1a80abd4b3bed68e998cc69813": {
+    "text": "Caverns",
+    "files": [
+      "scripts/missions/final/env_final.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "c1258da2ebd7625dcb2a1bb6f176493e": {
+    "text": "Volcano",
+    "files": [
+      "scripts/missions/final/env_volcano.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "b5ff923c554c9b990c88e50fae838cf5": {
+    "text": "Renfield Bomb",
+    "files": [
+      "scripts/missions/final/mission_final_two.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "4fe2adbb0ebcd5b8b94208caff4203de": {
+    "text": "Air Support",
+    "files": [
+      "scripts/missions/grass/mission_airstrike.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "cfa0eaa63ed4bd5c372718e7871bc5f4": {
+    "text": "Artillery Support",
+    "files": [
+      "scripts/missions/grass/mission_artillery.lua"
+    ]
+  },
+  "65719d805dfa6471f522889ecdd553a0": {
+    "text": "Old Artillery",
+    "files": [
+      "scripts/missions/grass/mission_artillery.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "3dc50d6c9764721975f4cf85df6f124d": {
+    "text": "Old Earth Dam",
+    "files": [
+      "scripts/missions/grass/mission_dam.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "87a82458cb3750aa871ffff0e9287b32": {
+    "text": "Satellite Rocket",
+    "files": [
+      "scripts/missions/grass/mission_satellites.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "fea59491c3a8dba1aa2a81439ff74534": {
+    "text": "Archive Tank",
+    "files": [
+      "scripts/missions/grass/mission_tanks.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "06d073d3714d78ecba9bac030145530d": {
+    "text": "High Tides",
+    "files": [
+      "scripts/missions/grass/mission_tides.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "70d529695c253d17e992cb9265abc57f": {
+    "text": "Mission",
+    "files": [
+      "scripts/missions/missions.lua"
+    ]
+  },
+  "720bf69014f69cbf12974a4e41f2ccc1": {
+    "text": "Supply Train",
+    "files": [
+      "scripts/missions/mission_train.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "0aab7d1792dea7a44864ca3c801851b0": {
+    "text": "Damaged Train",
+    "files": [
+      "scripts/missions/mission_train.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "ad6195dd4b069d1698b9a706b4141efb": {
+    "text": "Choo Choo",
+    "files": [
+      "scripts/missions/mission_train.lua"
+    ]
+  },
+  "368fe771261fcb18f7988833c9294a20": {
+    "text": "Tutorial",
+    "files": [
+      "scripts/missions/mission_tutorial.lua"
+    ]
+  },
+  "564dcacf4c8361f02b730a0442775169": {
+    "text": "Prototype Bomb",
+    "files": [
+      "scripts/missions/sand/mission_bomb.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "39ff70066768167954e65c919c3364f6": {
+    "text": "Display of Force",
+    "files": [
+      "scripts/missions/sand/mission_force.lua"
+    ]
+  },
+  "f78273989efe476ff4c5fc6012686403": {
+    "text": "Sinkhole Hive",
+    "files": [
+      "scripts/missions/sand/mission_holes.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "cb1d02cef2818bf17e1724c0b217b936": {
+    "text": "Sandstorm",
+    "files": [
+      "scripts/missions/sand/mission_sandstorm.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "675bc05d704e351471702beeda9c7d2b": {
+    "text": "Area Blast",
+    "files": [
+      "scripts/missions/sand/mission_trapped.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "0c620541925bacc79dc53116965b4a19": {
+    "text": "Freeze Tank",
+    "files": [
+      "scripts/missions/snow/snow_helper.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
+    ]
+  },
+  "dd6c6f3fbf1c5f4be8e5b10c8e208ca3": {
+    "text": "Freeze Cannon",
+    "files": [
+      "scripts/missions/snow/snow_helper.lua"
+    ],
+    "contexts": [
+      {
+        "regex": "\"%s\"",
+        "mode": "manual"
+      }
     ]
   },
   "75f0de05ac7c7c8e38fb8215694bc050": {
@@ -9890,13 +10366,56 @@
   "20fe25f778b87e63f711e4adc4008ce1": {
     "text": "Airfield",
     "files": [
-      "scripts/structures.lua"
+      "scripts/structures.lua",
+      "scripts/weapons_structure.lua"
     ],
     "contexts": [
       {
         "regex": "\"%s\"",
         "mode": "manual"
       }
+    ]
+  },
+  "ccc0377a8afbf50e7094f5c23a8af223": {
+    "text": "INVALID",
+    "files": [
+      "scripts/weapons_base.lua"
+    ]
+  },
+  "a03c78cae8453f4dd95563e5741aaf4c": {
+    "text": "TBA",
+    "files": [
+      "scripts/weapons_base.lua"
+    ]
+  },
+  "76cd867189a32ad1a85605a47bd8a255": {
+    "text": "Support Tank",
+    "files": [
+      "scripts/weapons_deploy.lua"
+    ]
+  },
+  "d43c682e48b02a8176b678332ea57bc1": {
+    "text": "Shield Tank",
+    "files": [
+      "scripts/weapons_deploy.lua"
+    ]
+  },
+  "5dc5378794c12453a87c27a397b6b973": {
+    "text": "Support IceTank",
+    "files": [
+      "scripts/weapons_deploy.lua"
+    ]
+  },
+  "26c6d132c7630bec4643d4005ed47bd0": {
+    "text": "Pull Tank",
+    "files": [
+      "scripts/weapons_deploy.lua"
+    ]
+  },
+  "71ae938bf409d98e5878e704720676bc": {
+    "text": "Repair Bots",
+    "files": [
+      "scripts/weapons_structure.lua"
     ]
   },
   "8a55f81685ce71ac854a45ade12a8d72": {
@@ -33395,33 +33914,6 @@
       }
     ]
   },
-  "5275ddd87e59aa49379e84e60b4ee8b8": {
-    "text": "Firefly Leader",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "3d9269c0279467cc0c6251a38e53b8c5": {
-    "text": "Bot Leader",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "1187c308cfb225c65c5c11f68c034b16": {
-    "text": "Boss Heal",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "e24ad04b9ffc64451b22fa77813aa17e": {
     "text": "killed so far",
     "contexts": [
@@ -33451,15 +33943,6 @@
   },
   "b6b04c506b765164030807b855708543": {
     "text": "Remain",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "0088e0a819abebbeb1455b36b5554fb8": {
-    "text": "Conveyors",
     "contexts": [
       {
         "regex": "\"%s\"",
@@ -33498,7 +33981,7 @@
     "text": "Defend the Disposal Unit",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -33530,26 +34013,8 @@
       }
     ]
   },
-  "948fdc23d564a11712c84ce6e5278296": {
-    "text": "A.C.I.D. Launcher",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "44ffd38a6dea695cbe2b34efdcc6cf27": {
     "text": "Partial",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "4fe2adbb0ebcd5b8b94208caff4203de": {
-    "text": "Air Support",
     "contexts": [
       {
         "regex": "\"%s\"",
@@ -33620,44 +34085,8 @@
       }
     ]
   },
-  "8df90e225d73cf9f3774356245405913": {
-    "text": "Large Goo",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "82230eb0432baf3c6cf7ac04a3bf3fb6": {
-    "text": "Medium Goo",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "eec601cfb9ce931a868a2428211c446f": {
-    "text": "Small Goo",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "b07b51fddc660515bcb0fdd1b3abc950": {
     "text": "Destroy the Hornet Leader",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "0457ba9ddd4ea0758cda16241fdf3e04": {
-    "text": "Hornet Leader",
     "contexts": [
       {
         "regex": "\"%s\"",
@@ -33674,26 +34103,8 @@
       }
     ]
   },
-  "5ff723cc36a403d29195fbfebddd1ca3": {
-    "text": "Psion Abomination",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "5de0df926da4b1d48bdee7e5fd722bd7": {
     "text": "Destroy the Scorpion Leader",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "69505ad725e441b879b479a2800faba9": {
-    "text": "Scorpion Leader",
     "contexts": [
       {
         "regex": "\"%s\"",
@@ -33710,15 +34121,6 @@
       }
     ]
   },
-  "e879dcec2c9829e557a0c440e72d215b": {
-    "text": "Slugling Egg",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "5ce729cb3100cf1b8d58866fbbb6efde": {
     "text": "Destroy the Spider Leader",
     "contexts": [
@@ -33728,35 +34130,8 @@
       }
     ]
   },
-  "4e3ea93cbb55d85d95c9e6228d816da8": {
-    "text": "Spider Leader",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "8bf8ac1a80abd4b3bed68e998cc69813": {
-    "text": "Caverns",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "8705034a8b4aa629a04eb5da167fc072": {
     "text": "Watch out for falling rocks and lava!",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "c1258da2ebd7625dcb2a1bb6f176493e": {
-    "text": "Volcano",
     "contexts": [
       {
         "regex": "\"%s\"",
@@ -33800,20 +34175,11 @@
       }
     ]
   },
-  "b5ff923c554c9b990c88e50fae838cf5": {
-    "text": "Renfield Bomb",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "0936481946dd13343be73c7473784588": {
     "text": "Defend the Artillery Support",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -33822,16 +34188,7 @@
     "text": "Defend the Artillery Unit",
     "contexts": [
       {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "65719d805dfa6471f522889ecdd553a0": {
-    "text": "Old Artillery",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -33845,29 +34202,11 @@
       }
     ]
   },
-  "3dc50d6c9764721975f4cf85df6f124d": {
-    "text": "Old Earth Dam",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "5bba7eb907a89f4c84409ffc6dd64ef7": {
     "text": "Defend the Satellite Launches",
     "contexts": [
       {
-        "regex": "\"%s *\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "0009afd4cc45528bb04f10c405836d54": {
-    "text": "(One Lost)",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -33876,7 +34215,7 @@
     "text": "Defend the 1st satellite launch",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -33885,16 +34224,7 @@
     "text": "Defend the 2nd satellite launch",
     "contexts": [
       {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "87a82458cb3750aa871ffff0e9287b32": {
-    "text": "Satellite Rocket",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -33908,8 +34238,8 @@
       }
     ]
   },
-  "0eff1f67a7a01a58fc341c3cb736ac01": {
-    "text": "Defend Archive Inc. Tanks (One Lost)",
+  "84ce909816e88c3d6857df53c488a6ea": {
+    "text": "Defend Archive Inc. Tanks",
     "contexts": [
       {
         "regex": "\"%s\"",
@@ -33926,26 +34256,8 @@
       }
     ]
   },
-  "fea59491c3a8dba1aa2a81439ff74534": {
-    "text": "Archive Tank",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "e93d8eadf5d2ed650086f629e95e1416": {
     "text": "Archive Inc \nOld Earth Tank",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "06d073d3714d78ecba9bac030145530d": {
-    "text": "High Tides",
     "contexts": [
       {
         "regex": "\"%s\"",
@@ -33975,7 +34287,7 @@
     "text": "Defend the Prototype Renfield Bombs",
     "contexts": [
       {
-        "regex": "\"%s *\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -33984,16 +34296,16 @@
     "text": "Defend the Bombs",
     "contexts": [
       {
-        "regex": "\"%s(\\n)*\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
   },
-  "564dcacf4c8361f02b730a0442775169": {
-    "text": "Prototype Bomb",
+  "0009afd4cc45528bb04f10c405836d54": {
+    "text": "(One Lost)",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "%s",
         "mode": "manual"
       }
     ]
@@ -34029,7 +34341,7 @@
     "text": "Defend the Earth Mover",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -34038,25 +34350,16 @@
     "text": "Destroy 2 mountains",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "%s",
         "mode": "manual"
       }
     ]
   },
-  "b3e86e3235351bfeb404518556a268dc": {
-    "text": "Destroy 2 mountains \n(Current: ",
+  "a4d509ffa65265cb3bff48c9e1022ea0": {
+    "text": "(Current: ",
     "contexts": [
       {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "f78273989efe476ff4c5fc6012686403": {
-    "text": "Sinkhole Hive",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
+        "regex": "%s",
         "mode": "manual"
       }
     ]
@@ -34088,15 +34391,6 @@
       }
     ]
   },
-  "cb1d02cef2818bf17e1724c0b217b936": {
-    "text": "Sandstorm",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
   "bfcdf794fc05c63d99b6ddc961556d63": {
     "text": "All DUNES will turn to SMOKE, all SMOKE will be removed.",
     "contexts": [
@@ -34119,22 +34413,13 @@
     "text": "Defend the Terraformer",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
   },
   "21d22222c0ca7eba59c7531a83da6b2b": {
     "text": "Terraform the grassland back to desert",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "675bc05d704e351471702beeda9c7d2b": {
-    "text": "Area Blast",
     "contexts": [
       {
         "regex": "\"%s\"",
@@ -34155,7 +34440,7 @@
     "text": "Defend the Robots",
     "contexts": [
       {
-        "regex": "\"%s *\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -34164,7 +34449,7 @@
     "text": "Defend the remaining Robot",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -34236,7 +34521,7 @@
     "text": "Freeze and defend the robots (one frozen)",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -34245,7 +34530,7 @@
     "text": "Freeze and defend \nboth robots",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -34254,7 +34539,7 @@
     "text": "Freeze and defend the remaining robot",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -34270,24 +34555,6 @@
   },
   "5d512b000d8dfa977b9bca0d84c0c48f": {
     "text": "ICE STORM",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "0c620541925bacc79dc53116965b4a19": {
-    "text": "Freeze Tank",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "dd6c6f3fbf1c5f4be8e5b10c8e208ca3": {
-    "text": "Freeze Cannon",
     "contexts": [
       {
         "regex": "\"%s\"",
@@ -34384,7 +34651,7 @@
     "text": "Defend the damaged train",
     "contexts": [
       {
-        "regex": "\"%s\"",
+        "regex": "\"%s",
         "mode": "manual"
       }
     ]
@@ -34409,24 +34676,6 @@
   },
   "a0804584f0cbb1fb1a1d2b59b3ba8231": {
     "text": "It is too damaged to continue. Defend it.",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "720bf69014f69cbf12974a4e41f2ccc1": {
-    "text": "Supply Train",
-    "contexts": [
-      {
-        "regex": "\"%s\"",
-        "mode": "manual"
-      }
-    ]
-  },
-  "0aab7d1792dea7a44864ca3c801851b0": {
-    "text": "Damaged Train",
     "contexts": [
       {
         "regex": "\"%s\"",

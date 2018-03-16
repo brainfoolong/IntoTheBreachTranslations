@@ -8,6 +8,9 @@ const csv = require('csv-parse/lib/sync')
 
 let translationKeys = {}
 const addTranslation = function (str, file, context, data) {
+  if (!str.trim().length) {
+    return
+  }
   const hash = md5(str)
   if (typeof translationKeys[hash] === 'undefined') {
     translationKeys[hash] = {
@@ -68,12 +71,11 @@ const addTranslation = function (str, file, context, data) {
       }
     })
   })
-  files = shared.getLuaFiles(shared.config.gamesrc, '/scripts/(pawns|structures)\.')
+  files = shared.getLuaFiles(shared.config.gamesrc)
   files.forEach(function (file) {
     const fileRelative = file.substr(shared.config.gamesrc.length + 1)
     const ast = luaparse.parse(fs.readFileSync(file).toString())
     ast.body.forEach(function (row) {
-      const vars = row.variables ? row.variables[0] : null
       const init = row.init ? row.init[0] : null
       let fields = []
       if (init && init.fields) {
@@ -163,7 +165,7 @@ const addTranslation = function (str, file, context, data) {
     ['Conveyor Belts will push any unit on them in the marked direction at the start of the enemy turn.', {'regex': '"%s"'}],
     ['CONVEYOR BELTS', {'regex': '"%s"'}],
     ['CONVEYORS', {'regex': '"%s"'}],
-    ['Defend the Disposal Unit', {'regex': '"%s"'}],
+    ['Defend the Disposal Unit', {'regex': '"%s'}],
     ['Destroy all mountains', {'regex': '"%s"'}],
     ['Mountains', {'regex': '"%s"'}],
     ['Disposal', {'regex': '"%s"'}],
@@ -200,36 +202,36 @@ const addTranslation = function (str, file, context, data) {
     ['Survive the Fight', {'regex': '"%s"'}],
     ['Defend the Renfield Bomb until it explodes', {'regex': '"%s"'}],
     ['Renfield Bomb', {'regex': '"%s"'}],
-    ['Defend the Artillery Support', {'regex': '"%s"'}],
-    ['Defend the Artillery Unit', {'regex': '"%s"'}],
+    ['Defend the Artillery Support', {'regex': '"%s'}],
+    ['Defend the Artillery Unit', {'regex': '"%s'}],
     ['Old Artillery', {'regex': '"%s"'}],
     ['Destroy the dam', {'regex': '"%s"'}],
     ['Old Earth Dam', {'regex': '"%s"'}],
-    ['Defend the Satellite Launches', {'regex': '"%s *"'}],
-    ['(One Lost)', {'regex': '"%s"'}],
-    ['Defend the 1st satellite launch', {'regex': '"%s"'}],
-    ['Defend the 2nd satellite launch', {'regex': '"%s"'}],
+    ['Defend the Satellite Launches', {'regex': '"%s'}],
+    ['Defend the 1st satellite launch', {'regex': '"%s'}],
+    ['Defend the 2nd satellite launch', {'regex': '"%s'}],
     ['Satellite Rocket', {'regex': '"%s"'}],
     ['Defend the Tanks', {'regex': '"%s'}],
-    ['Defend Archive Inc. Tanks (One Lost)', {'regex': '"%s"'}],
+    ['Defend Archive Inc. Tanks', {'regex': '"%s"'}],
     ['undamaged', {'regex': '%s\\)"'}],
     ['Archive Tank', {'regex': '"%s"'}],
     ['Archive Inc \nOld Earth Tank', {'regex': '"%s"'}],
     ['High Tides', {'regex': '"%s"'}],
     ['Marked tiles will turn to water at the start of the enemy turn.', {'regex': '"%s"'}],
     ['TIDAL WAVES', {'regex': '"%s"'}],
-    ['Defend the Prototype Renfield Bombs', {'regex': '"%s *"'}],
-    ['Defend the Bombs', {'regex': '"%s(\\n)*"'}],
+    ['Defend the Prototype Renfield Bombs', {'regex': '"%s'}],
+    ['Defend the Bombs', {'regex': '"%s'}],
+    ['(One Lost)', {'regex': '%s'}],
     ['Prototype Bomb', {'regex': '"%s"'}],
     ['Cataclysmic Earthquakes', {'regex': '"%s"'}],
     ['Marked tiles will become Chasms at the start of the enemy turn, killing any ground units present.', {'regex': '"%s"'}],
     ['CATACLYSM', {'regex': '"%s"'}],
     ['Seismic Activity', {'regex': '"%s"'}],
     ['Marked squares will sink into the earth, killing anything on them.', {'regex': '"%s"'}],
-    ['Defend the Earth Mover', {'regex': '"%s"'}],
+    ['Defend the Earth Mover', {'regex': '"%s'}],
     ['Earth Mover', {'regex': '"%s"'}],
-    ['Destroy 2 mountains', {'regex': '"%s"'}],
-    ['Destroy 2 mountains \n(Current: ', {'regex': '"%s"'}],
+    ['Destroy 2 mountains', {'regex': '%s'}],
+    ['(Current: ', {'regex': '%s'}],
     ['Sinkhole Hive', {'regex': '"%s"'}],
     ['Lightning Storm', {'regex': '"%s"'}],
     ['Lightning will strike four spaces every turn, killing any unit on the marked tiles.', {'regex': '"%s"'}],
@@ -238,12 +240,12 @@ const addTranslation = function (str, file, context, data) {
     ['Sandstorm', {'regex': '"%s"'}],
     ['All DUNES will turn to SMOKE, all SMOKE will be removed.', {'regex': '"%s"'}],
     ['SANDSTORM', {'regex': '"%s"'}],
-    ['Defend the Terraformer', {'regex': '"%s"'}],
+    ['Defend the Terraformer', {'regex': '"%s'}],
     ['Terraform the grassland back to desert', {'regex': '"%s"'}],
     ['Area Blast', {'regex': '"%s"'}],
     ['Self-Destruct, damaging neighboring tiles.', {'regex': '"%s"'}],
-    ['Defend the Robots', {'regex': '"%s *"'}],
-    ['Defend the remaining Robot', {'regex': '"%s"'}],
+    ['Defend the Robots', {'regex': '"%s'}],
+    ['Defend the remaining Robot', {'regex': '"%s'}],
     ['Robot Factories', {'regex': '"%s"'}],
     ['Robot Factory', {'regex': '"%s"'}],
     ['Defend both Robot Factories', {'regex': '"%s"'}],
@@ -251,9 +253,9 @@ const addTranslation = function (str, file, context, data) {
     ['Break 5 buildings out of the ice', {'regex': '"%s'}],
     ['Break 5 buildings out\nof the ice', {'regex': '"%s'}],
     ['Freeze and defend both robots', {'regex': '"%s"'}],
-    ['Freeze and defend the robots (one frozen)', {'regex': '"%s"'}],
-    ['Freeze and defend \nboth robots', {'regex': '"%s"'}],
-    ['Freeze and defend the remaining robot', {'regex': '"%s"'}],
+    ['Freeze and defend the robots (one frozen)', {'regex': '"%s'}],
+    ['Freeze and defend \nboth robots', {'regex': '"%s'}],
+    ['Freeze and defend the remaining robot', {'regex': '"%s'}],
     ['Ice Storm', {'regex': '"%s"'}],
     ['Marked tiles will be frozen at the start of the enemy turn.', {'regex': '"%s"'}],
     ['ICE STORM', {'regex': '"%s"'}],
@@ -268,7 +270,7 @@ const addTranslation = function (str, file, context, data) {
     ['Your bonus objective', {'regex': '"%s *"'}],
     ['to defend this structure', {'regex': ' *%s("|\.)'}],
     ['Defend the train', {'regex': '"%s'}],
-    ['Defend the damaged train', {'regex': '"%s"'}],
+    ['Defend the damaged train', {'regex': '"%s'}],
     ['The train is damaged and will no longer move', {'regex': '"%s"'}],
     ['If the train is blocked when moving, it will explode', {'regex': '"%s"'}],
     ['It is too damaged to continue. Defend it.', {'regex': '"%s"'}],
