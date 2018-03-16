@@ -3708,16 +3708,16 @@
     "text": "Kleine Nachkommen"
   },
   "ac9427c869c5efeafa31c274dfacbc27": {
-    "text": "Wirf ein klebriges Ei, aus dem ein Spinnentier schlüpft."
+    "text": "Wirf ein klebriges Ei, aus dem eine junge Spinne schlüpft."
   },
   "25e0e4e5c8a614a83cbab154530c440f": {
     "text": "Große Nachkommen"
   },
   "5ba45f2f47087ce0da6f91c80e3e429a": {
-    "text": "Spinnendes Ei"
+    "text": "Ei von junger Spinne"
   },
   "d691a42a85aa426c882f003158663b47": {
-    "text": "In Spiderling eintauchen."
+    "text": "Junge Spinne ausbrüten"
   },
   "43313210b46dbcc7562f35541b6583ab": {
     "text": "Alle anderen Vek erhalten +1 Gesundheit, solange der Psion lebt."
@@ -6757,5 +6757,80 @@
   },
   "47b76be85300e175c977956f8850cbfa": {
     "text": ""
+  },
+  "76cd867189a32ad1a85605a47bd8a255": {
+    "text": "Supportpanzer"
+  },
+  "d43c682e48b02a8176b678332ea57bc1": {
+    "text": "Schildpanzer"
+  },
+  "5dc5378794c12453a87c27a397b6b973": {
+    "text": "Support Eispanzer"
+  },
+  "26c6d132c7630bec4643d4005ed47bd0": {
+    "text": "Zieh-Panzer"
+  },
+  "fae86ea7f6501a10fa287b5e391dd916": {
+    "text": "Pepsi Co"
+  },
+  "86ac311a92f73106e3263869862c22dd": {
+    "text": "Archive, Inc."
+  },
+  "bd30a4c06f0ffbf28d3e8cd507c224ba": {
+    "text": "R.S.T. Corporation"
+  },
+  "82dde728b276e862977dfdcca39a9f77": {
+    "text": "Pinnacle Robotics"
+  },
+  "4c1602ee972ff038ff7315df5194af92": {
+    "text": "Detritus Disposal"
+  },
+  "b39d6aa2db64247241f35ef8d3977c12": {
+    "text": "Soldat ohne Namen"
+  },
+  "90e18fd124cc35ea819e4f9f2ba3cf1c": {
+    "text": "Waffenname"
+  },
+  "1fc7ad22c6a15c6a2c0143e35628d203": {
+    "text": "Säurefass"
+  },
+  "01ed11f8f8a72cf4988710fd690041cc": {
+    "text": "Laserding"
+  },
+  "88497022ab062adb6e92439c5a76b613": {
+    "text": "Müllpresse"
+  },
+  "79084d974c844fcfd5b056e16dae1f82": {
+    "text": "Käfer Führer"
+  },
+  "a0e7f7b0da98eac97e6f14247b6a14f2": {
+    "text": "XXx"
+  },
+  "cfa0eaa63ed4bd5c372718e7871bc5f4": {
+    "text": "Artillerie Support"
+  },
+  "70d529695c253d17e992cb9265abc57f": {
+    "text": "Mission"
+  },
+  "ad6195dd4b069d1698b9a706b4141efb": {
+    "text": "Choo Choo"
+  },
+  "368fe771261fcb18f7988833c9294a20": {
+    "text": "Tutorial"
+  },
+  "39ff70066768167954e65c919c3364f6": {
+    "text": "Kraftanzeige"
+  },
+  "ccc0377a8afbf50e7094f5c23a8af223": {
+    "text": "INVALID"
+  },
+  "a03c78cae8453f4dd95563e5741aaf4c": {
+    "text": "TBA"
+  },
+  "71ae938bf409d98e5878e704720676bc": {
+    "text": "Reparatur-Bot"
+  },
+  "a4d509ffa65265cb3bff48c9e1022ea0": {
+    "text": "(Aktuell:"
   }
 }

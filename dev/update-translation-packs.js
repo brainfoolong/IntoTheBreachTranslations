@@ -16,24 +16,30 @@ module.exports = function () {
     return gameFiles[file]
   }
 
+  const readmeFile = __dirname + '/../README.md'
+  let readmeFileData = fs.readFileSync(readmeFile).toString()
   const langDir = __dirname + '/../languages'
   const templateFileData = JSON.parse(fs.readFileSync(langDir + '/template.json').toString())
   const languageFiles = fs.readdirSync(langDir)
   const luaFiles = shared.getLuaFiles(shared.config.gamesrc)
+  const templateCount = Object.keys(templateFileData).length
 
   languageFiles.forEach(function (file) {
     const fileSplit = file.split('.')
     if (fileSplit[1] !== 'json' || file === 'template.json') {
       return
     }
+    let languageCount = 0
     gameFiles = {}
     filesChanged = {}
     const language = fileSplit[0]
     const languageFileData = JSON.parse(fs.readFileSync(langDir + '/' + file).toString())
+
     for (let id in languageFileData) {
       const languageData = languageFileData[id]
       const templateData = templateFileData[id]
       if (!templateData) continue
+      languageCount++
       // convert specific files
       if (templateData.files) {
         templateData.files.forEach(function (file) {
@@ -115,6 +121,10 @@ module.exports = function () {
       base64: false,
       compression: 'DEFLATE'
     }), 'binary')
+    // readme file updates
+    const translated = Math.ceil(languageCount / templateCount * 100)
+    readmeFileData = readmeFileData.replace(new RegExp('(https://img\.shields\.io/badge/' + language + '_-)([0-9]+)', 'ig'), '$1' + translated)
   })
+  fs.writeFileSync(readmeFile, readmeFileData)
 }
 module.exports()
