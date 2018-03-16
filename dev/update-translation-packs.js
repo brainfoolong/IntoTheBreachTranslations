@@ -40,19 +40,20 @@ module.exports = function () {
           let search = templateData.text
           let replace = languageData.text
           let fileData = loadGameFileSrc(file)
+          // csv files have another escape char than the lua files
           if (file.substr(-4) === '.csv') {
             search = search.replace(/\"/g, '""')
             replace = replace.replace(/\"/g, '""')
           } else {
-            search = search.replace(/\n/g, '\\n').replace(/"/g, '\\"')
-            replace = replace.replace(/\n/g, '\\n').replace(/"/g, '\\"')
+            search = shared.sanitizeForRegex(search)
+            replace = shared.sanitizeForRegex(replace)
           }
-          if (templateData.contexts && templateData.contexts[0] && templateData.contexts[0].quote === false) {
-            search = shared.escapeRegex(search)
-          } else {
-            search = '"' + shared.escapeRegex(search) + '"'
-            replace = '"' + replace + '"'
+          // check if we have no quote enabled
+          if (templateData.data && typeof templateData.data.quote !== 'undefined' && !templateData.data.quote) {
+            gameFiles[file] = fileData.replace(new RegExp(shared.escapeRegex(search), 'g'), replace)
           }
+          search = '"' + shared.escapeRegex(search) + '"'
+          replace = '"' + replace + '"'
           gameFiles[file] = fileData.replace(new RegExp(search, 'g'), replace)
           filesChanged[file] = true
         })
@@ -70,8 +71,8 @@ module.exports = function () {
           if (context.mode !== 'manual') {
             return
           }
-          let regexFull = context.regex.replace(/%s/, shared.escapeRegex(templateData.text))
-          let regexText = templateData.text
+          let regexFull = context.regex.replace(/%s/, shared.sanitizeForRegex(templateData.text, true))
+          let regexText = shared.sanitizeForRegex(templateData.text, true)
           let replaceText = languageData.text
           if (context.replace) {
             context.replace.forEach(function (str, i) {
@@ -81,12 +82,15 @@ module.exports = function () {
             })
           }
           regexFull = new RegExp(regexFull, 'g')
+          if (id === '68f7e343cbbf9e009df8d98e203418f8' && file === 'scripts/missions/acid/mission_acidtank.lua') {
+            console.log(regexFull, regexText, replaceText, fileData.match(regexFull))
+          }
           let match = null
           do {
             match = regexFull.exec(fileData)
             if (match) {
               let a = match[0]
-              let b = match[0].replace(new RegExp(regexText), replaceText.replace(/\n/g, '\\n').replace(/"/g, '\\"'))
+              let b = match[0].replace(new RegExp(regexText), shared.sanitizeForRegex(replaceText))
               fileData = fileData.replace(a, b)
               filesChanged[file] = true
             }

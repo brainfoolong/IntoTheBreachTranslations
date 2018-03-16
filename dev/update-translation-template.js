@@ -7,18 +7,26 @@ const md5 = require('md5')
 const csv = require('csv-parse/lib/sync')
 
 let translationKeys = {}
-const addTranslation = function (str, file, context) {
+const addTranslation = function (str, file, context, data) {
   const hash = md5(str)
   if (typeof translationKeys[hash] === 'undefined') {
     translationKeys[hash] = {
-      'text': str,
-      'files': [],
-      'contexts': []
+      'text': str
     }
   }
   const o = translationKeys[hash]
-  if (file && o.files.indexOf(file) === -1) o.files.push(file)
-  if (context && o.contexts.indexOf(file) === -1) o.contexts.push(context)
+  if (file) {
+    if (!o.files) o.files = []
+    if (o.files.indexOf(file) === -1) o.files.push(file)
+  }
+  if (context) {
+    if (!o.contexts) o.contexts = []
+    if (o.contexts.indexOf(file) === -1) o.contexts.push(context)
+  }
+  if (data) {
+    if (!o.data) o.data = {}
+    o.data = Object.assign(o.data, data)
+  }
 };
 
 // parse lua text* files
@@ -96,14 +104,14 @@ const addTranslation = function (str, file, context) {
       if (rowValue.length) {
         let options = {}
         if (rowValue.substr(0, 1) !== '"') {
-          addTranslation(rowValue, file, {"quote" : false})
+          addTranslation(rowValue, file, null, {'quote': false})
         } else {
           try {
             let subValue = csv(rowValue, options)
             subValue.forEach(function (rows) {
               rows.forEach(function (value) {
                 value = value.trim()
-                if (value.length && !value.match(/\:\:|;|--|:\.:/)) {
+                if (value.length && !value.match(/\:\:|;|\-\-|:\.:|\|/)) {
                   addTranslation(value, file)
                 }
               })
@@ -122,6 +130,9 @@ const addTranslation = function (str, file, context) {
   const arr = [
     ['Kill 4 enemies inflicted%%0with A.C.I.D.', {'regex': '"%s', 'replace': ['( |\\\\n)']}],
     ['Destroy %%0 Goos', {'regex': '"%s', 'replace': ['"..self.BlobDeaths.."']}],
+    ['Firefly Leader', {'regex': '"%s"'}],
+    ['Bot Leader', {'regex': '"%s"'}],
+    ['Boss Heal', {'regex': '"%s"'}],
     ['killed so far', {'regex': '%s'}],
     ['A.C.I.D. Tank', {'regex': '"%s"'}],
     ['Destroy the A.C.I.D. Vats', {'regex': '"%s"'}],
@@ -260,8 +271,6 @@ const addTranslation = function (str, file, context) {
     ['Do not kill the Volatile Vek', {'regex': '"%s"'}],
     ['Take less than 3 Grid Damage', {'regex': '"%s"'}],
     ['End battle with less than 4 Mech Damage', {'regex': '"%s"'}],
-    ['Block Vek Spawning 3 times', {'regex': '"%s"'}],
-    //['Enemies', {'regex': '" *%s[\\\\ n]*"'}],
     ['Your bonus objective', {'regex': '"%s'}],
     ['to defend this structure.', {'regex': '%s"'}],
     ['You withdrew from the battlefield, leaving supplies and civilians behind.', {'regex': '"%s"'}],
@@ -288,7 +297,8 @@ const addTranslation = function (str, file, context) {
     ['Lose VAL or less total Grid Power.', {'regex': '"%s"'}],
     ['Take VAL or less total Mech Damage', {'regex': '"%s"'}],
     ['Don\'t fail any Bonus Objective.', {'regex': '"%s"'}],
-    ['Earn VAL Grid Power or more.', {'regex': '"%s"'}]
+    ['Earn VAL Grid Power or more.', {'regex': '"%s"'}],
+    ['Enemies', {'regex': '" %s'}]
   ]
   arr.forEach(function (row) {
     row[1].mode = 'manual'

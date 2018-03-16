@@ -177,7 +177,7 @@
     "text": "Verteidung"
   },
   "1599ec0d5be1a70a7c12c7d2401ddac7": {
-    "text": "Dieser feindliche Psion bietet allen Vek einen passiven Bonus. Wenn du es tötest, wird der Bonus entfernt. \n\nWähle Psion und fahre mit der Maus über sein Porträt unten links für weitere Informationen."
+    "text": "Dieser feindliche Psion bietet allen Vek einen passiven Bonus. Wenn du ihn tötest, wird der Bonus entfernt. \n\nWähle Psion und fahre mit der Maus über sein Porträt unten links für weitere Informationen."
   },
   "c138f9d49dd2760a15a5f020f6c5e228": {
     "text": "Vek Psion"
@@ -621,7 +621,7 @@
     "text": "Zoltans Gesundheit"
   },
   "41e9d05f2b9f12ee3c92fc4f3681329f": {
-    "text": "Der Zoltan Pilot verhindert, dass die HP dieses Mechs erhöht wird"
+    "text": "Der Zoltan Pilot verhindert, dass die Gesundheit dieses Mechs erhöht wird"
   },
   "f576f1534f073b69bd2b12b2f6f6835f": {
     "text": "Mech-Klasse"
@@ -771,7 +771,7 @@
     "text": "Feuerschaden"
   },
   "0bb103e27ee77adae62ff1f376dd6a2b": {
-    "text": "Psion regenerieren"
+    "text": "Regenerierungs-Psion"
   },
   "da210a68c0870c8acde752e246ec9f71": {
     "text": "Psion Tentakel"
@@ -954,7 +954,7 @@
     "text": "Gesundheitsbonus"
   },
   "f263ab37dcdcf97c87a2b3836a80b575": {
-    "text": "+2 Mech HP"
+    "text": "+2 Mech Gesundheit"
   },
   "47e697a8b054e1019a35d12a2bfa5542": {
     "text": "Pilotierte Mech-Gesundheit wird um 2 erhöht."
@@ -1809,7 +1809,7 @@
     "text": "PSION REGENERATION"
   },
   "66da54b16da3ad2a5c61f2691947680f": {
-    "text": "PSION ATTACK"
+    "text": "PSION ATTACKE"
   },
   "9d274aed4c3a5045525ce2734ad7d265": {
     "text": "AKTION VERFÜGBAR"
@@ -2412,7 +2412,7 @@
     "text": "Glücklicher Anfang"
   },
   "eecb35cec7df49abfb319556476bc559": {
-    "text": "Schlage das Spiel (beliebig lang), ohne einen Reputation auszugeben"
+    "text": "Beende das Spiel (beliebig lang), ohne einen Reputation auszugeben"
   },
   "aeab441ea73e706cb8c6fd3ed9167496": {
     "text": "Fehlgeschlagen: Verbrauchte Reputation"
@@ -2427,7 +2427,7 @@
     "text": "Mech-Spezialist"
   },
   "c0a601f62ddfd080696ea3b7504ad244": {
-    "text": "Schlage das Spiel mit 3 gleichen Mechs"
+    "text": "Beende das Spiel mit 3 gleichen Mechs"
   },
   "63ada6cc3bf653a955ce7e17f4dee54c": {
     "text": "Unmöglich: Der aktuelle Squad erfüllt die Anforderungen nicht"
@@ -2436,19 +2436,19 @@
     "text": "Klassenspezialist"
   },
   "72102cc693f3079b0d20ed4e38e6cc4d": {
-    "text": "Schlage das Spiel mit 3 verschiedenen Mechs aus derselben Klasse"
+    "text": "Beende das Spiel mit 3 verschiedenen Mechs aus derselben Klasse"
   },
   "bfc2bec852ae7bea41744a07b3cba306": {
     "text": "Flugspezialist"
   },
   "0da2f769570bb9cfa532087a459aefd6": {
-    "text": "Schlage das Spiel mit 3 fliegenden Mechs"
+    "text": "Beende das Spiel mit 3 fliegenden Mechs"
   },
   "bcc975a11d46828fed5f191495a86ea1": {
     "text": "Wässriges Grab"
   },
   "58284b17bd1a24fd373cc14aeb8ab4a7": {
-    "text": "Ertränke 3 Feinde in Wasser in einer einzigen Schlacht"
+    "text": "Ertränke in einer Schlacht 3 Feinde in Wasser"
   },
   "e923fa604c547a1d4f88fe8d65b1f7ef": {
     "text": "Fortschritt: $1 ertrunken"
@@ -2478,7 +2478,7 @@
     "text": "Unwissende Verbündete"
   },
   "72ec56b762989f0dae8fb046c37898cc": {
-    "text": "Lass in einem Kampf 4 Feinde durch feindliches Feuer sterben"
+    "text": "Lass in einem Kampf 4 Feinde durch Feuer sterben"
   },
   "1eaadc631c2ac84cced14bac47783773": {
     "text": "Fortschritt: $1 getötet"
@@ -2493,7 +2493,7 @@
     "text": "Überlastet"
   },
   "2017da19cf10fd60353c524ff4d52e7f": {
-    "text": "Überlaste dein Netz zweimal, indem du Energie verdienst  oder kaufst, wenn es voll ist"
+    "text": "Überlaste dein Netz zweimal, indem du Energie verdienst oder kaufst, wenn es voll ist"
   },
   "47845556cac0c1bc7e2c21271f05405b": {
     "text": "Fortschritt: Überlastet $1 / 2"
@@ -2511,7 +2511,7 @@
     "text": "Perfekte Schlacht"
   },
   "ad00857262295aba34d2d5f91f819dc3": {
-    "text": "Nimm keinen Mech oder Gebäude-Schaden in einer einzigen Schlacht (Reparierter Schaden ist immer noch Schaden)"
+    "text": "Nimm in einer Schlacht keinen Mech oder Gebäude-Schaden (Reparierter Schaden ist immer noch Schaden)"
   },
   "bf3bf3ae653d9e6cc560d64c06ae1d4a": {
     "text": "Fehlgeschlagen: $1 beschädigt"
@@ -2604,7 +2604,7 @@
     "text": "Bleib dran"
   },
   "df02a098b1636be16a061ac905b9a8a8": {
-    "text": "Blockiere 4 auftauchende Vek in einer einzigen Runde"
+    "text": "Blockiere 4 Vek in einer einzigen Runde"
   },
   "80dd330a5c08653498c49a219a124543": {
     "text": "Heilung"
@@ -2640,7 +2640,7 @@
     "text": "Wald"
   },
   "2cc4044087609890c0d4a0dd5a11ef92": {
-    "text": "Wenn es beschädigt wird, brennt es."
+    "text": "Wenn er beschädigt wird, brennt er."
   },
   "2d31850ad1a3d48c080994eb0f688d8f": {
     "text": "Waldbrand"
@@ -2652,13 +2652,13 @@
     "text": "Rauch"
   },
   "d198823e5b3e1058bbdc74d18e8fd797": {
-    "text": "Einheiten in Rauch können weder angreifen noch reparieren."
+    "text": "Einheiten im Rauch können weder angreifen noch reparieren."
   },
   "817feaa7e6efb63c48a00f8522deb833": {
     "text": "Elektrischer Rauch"
   },
   "06fa7dc8bfeb4f583bebdfd15a8b75d2": {
-    "text": "Einheiten in Rauch können weder angreifen noch reparieren. \nElektrizität beschädigt gegnerische Einheiten."
+    "text": "Einheiten im Rauch können weder angreifen noch reparieren. \nElektrizität beschädigt gegnerische Einheiten."
   },
   "73eff8cfab2da076e46746250a15ecc1": {
     "text": "Vek treffen ein"
@@ -2688,13 +2688,13 @@
     "text": "Zivilgebäude"
   },
   "6747a8b368a8452df077a1201be7835a": {
-    "text": "Das Stromnetz wird reduziert, wenn Strukturen beschädigt werden."
+    "text": "Das Stromnetz wird beschädigt, wenn Strukturen beschädigt werden."
   },
   "438c7520e8f84c36362be71ab6458229": {
     "text": "Evakuiertes Gebäude"
   },
   "aa3ee7ec81be84f40e0a540c0a567fe2": {
-    "text": "Keine Wirkung bei Beschädigung."
+    "text": "Keiner mehr hier, kann ruhig zerstört werden."
   },
   "a9d554c1017360e0916c65e972c1b44b": {
     "text": "Bauschutt"
@@ -2709,19 +2709,19 @@
     "text": "Eis"
   },
   "16eaa969e870591f322727564f06cd95": {
-    "text": "Wird bei Zerstörung in Wasser verwandelt. Muss zweimal getroffen werden."
+    "text": "Wird bei Scahden zu Wasser. Muss zweimal getroffen werden."
   },
   "5de23b03935f650b16a405bc2b3989ea": {
-    "text": "Säureeis"
+    "text": "Gefrorene Säure"
   },
   "ecbdcbbda1f5878c010c4a8c2bac2326": {
-    "text": "Verwandelt sich in ein Säurefeld wenn es zerstört, zurzeit aber sicher zum stehen."
+    "text": "Verwandelt sich in ein Säurefeld wenn es Schaden nimmt, , aber momentan ist es sicher."
   },
   "14c582a67aa73b80493ddd47ea287db1": {
     "text": "Gefrorene Lava"
   },
   "48fc444966133b7941228939cdc9bb69": {
-    "text": "Wird bei der Zerstörung zu Lava, aber momentan ist es sicher."
+    "text": "Wird bei Schaden zu Lava, aber momentan ist es sicher."
   },
   "163d3f36867800ed6fde1aea67afa327": {
     "text": "Beschädigtes Eis"
@@ -2733,7 +2733,7 @@
     "text": "Abgrund"
   },
   "83a0c92aea6a1e6dd76edcdb92f615e3": {
-    "text": "Einheiten die darauf geschoben werden\nwerden zerstört."
+    "text": "Einheiten die darauf stehen werden\nwerden im Nichts versinken und getötet."
   },
   "7d3560ca9f563db60b2cd89a4e40544c": {
     "text": "Boden"
@@ -2742,25 +2742,25 @@
     "text": "Sand"
   },
   "c89bcef9e696b9c85d5350815e4db961": {
-    "text": "Wenn es beschädigt wird, wird es zu Rauch. \nEinheiten in Smoke können weder angreifen noch reparieren."
+    "text": "Wenn er beschädigt wird, wird er zu Rauch. \nEinheiten in Rauch können weder angreifen noch reparieren."
   },
   "2aa45cd45784128a6eb56fa16c71f35a": {
     "text": "Berg"
   },
   "6a8a41b6042dae71180f21f854f40c43": {
-    "text": "Blockiert Bewegung und Geschosse. Beschädige es zweimal, um es zu zerstören."
+    "text": "Blockiert Bewegung und Geschosse. Beschädige ihn zweimal, um ihn zu zerstören."
   },
   "0b2c65034b43c0e639807942825bc81e": {
     "text": "Beschädigter Berg"
   },
   "01fe68bcbf2ecc73eb613bd1b32f669f": {
-    "text": "Blockiert Bewegung und Geschosse. Ein Treffer wird es zerstören."
+    "text": "Blockiert Bewegung und Geschosse. Ein Treffer wird ihn zerstören."
   },
   "a473b12b763af6f9a4922d78504122a0": {
     "text": "Wasser"
   },
   "903ce2407e4165db0b965f6535e9a23f": {
-    "text": "Einheiten können nicht in Wasser angreifen. Die meisten nicht fliegenden Feinde sterben in Wasser."
+    "text": "Einheiten können im Wasser nicht angreifen. Die meisten nicht fliegenden Feinde sterben im Wasser."
   },
   "9655fb433572ae13d3db308c6b35e78d": {
     "text": "Säure"
@@ -2778,7 +2778,7 @@
     "text": "Säurebad"
   },
   "b0eedc468fac49eecc1f8197a3d38021": {
-    "text": "Verursacht Säure auf der 1. Einheit, die auf diesen Raum tritt."
+    "text": "Die erste Einheit die hier steht wird mit Säure behaftet."
   },
   "948806098b5a47a93d709f0c406d73db": {
     "text": "Gefrorene Säure"
@@ -2787,10 +2787,10 @@
     "text": "Niedrige Temperaturen haben die Säure gefrieren lassen."
   },
   "7ae421947aba0ffbcf348d031998fb4a": {
-    "text": "Zerstört, wenn sie vom Feind beschädigt oder zertrampelt wird. Sammle mit einem Mech oder verteidige es bis zum Rückzug von Vek."
+    "text": "Wird zerstört, wenn es vom Feind beschädigt oder zertrampelt wird. Sammle es mit einem Mech oder verteidige es bis zum Rückzug der Vek."
   },
   "b44a16fbb7bab48136dc5164cdf24399": {
-    "text": "Merkwürdiger Pod"
+    "text": "Merkwürdige Kapsel"
   },
   "6a87d3e6f0645d13193c8039cfed0103": {
     "text": "Seltsames Objekt"
@@ -2811,10 +2811,10 @@
     "text": "Unbesiegbar wenn eingefroren. Jeder Schaden wird das Eis zerstören."
   },
   "54f95a5e234dd10a3244a98632ba45cb": {
-    "text": "Eintreffend"
+    "text": "Kommt"
   },
   "8472ee1acd4dab558f270fc694f7900d": {
-    "text": "Vek wird hier im nächsten Zug eintreffen. Jede Einheit, die diesen Raum blockiert, erhält einen Schaden."
+    "text": "Vek wird hier im nächsten Zug auftauchen. Jede Einheit, die dieses Feld blockiert, erhält einen Schaden."
   },
   "e7bb517fc64fa519b26ccf3770f432c5": {
     "text": "Flut"
@@ -2832,10 +2832,10 @@
     "text": "Alte Erdmine"
   },
   "1e045c1b8921c31537e4f2a777d111ea": {
-    "text": "Jede Einheit, die auf diesem Feld stoppt, wird die Mine auslösen und getötet werden."
+    "text": "Jede Einheit, die auf diesem Feld stoppt, wird die Mine auslösen und dabei getötet."
   },
   "85c985b3a3889905c7c40d5767b1451f": {
-    "text": "Mine einfrieren"
+    "text": "Eismine"
   },
   "3f3e4fb9fbd536475700366beac2246b": {
     "text": "Jede Einheit, die auf diesem Feld stoppt, wird eingefroren."
@@ -2853,13 +2853,13 @@
     "text": "Blitzschlag"
   },
   "69ff8b753d3bb65d62265e58770cbb9b": {
-    "text": "Ein Blitz wird hier zuschlagen und jede Einheit töten."
+    "text": "Ein Blitz wird hier einschlagen und jede Einheit töten."
   },
   "917605e34918548aceecc19886332080": {
     "text": "Fallender Stein"
   },
   "5b30bec47bc847e82f2e02eb1f08f7cc": {
-    "text": "Ein Stein wird hier fallen und jede Einheit töten."
+    "text": "Ein Stein wird hier einschlagen und jede Einheit töten."
   },
   "63ff5b952a52df82b39d2fc57107d184": {
     "text": "Tentakeln"
@@ -2871,10 +2871,10 @@
     "text": "Lavastrom"
   },
   "bfbbadc7b5f73636f049cf2329460139": {
-    "text": "Das Feld hier wird zu Lava."
+    "text": "Das Feld wird zu Lava."
   },
   "230eabab7e8327f12d37332b795f498a": {
-    "text": "Vulkanisches Projektil"
+    "text": "Vulkanischer Auswurf"
   },
   "67e444a66deb7bf17449b29f205e6ad3": {
     "text": "Ein Feuerball wird hier einschlagen und alles zerstören."
@@ -2886,7 +2886,7 @@
     "text": "Wiese"
   },
   "2fd55862490e8fab59aa6cb07bb5687b": {
-    "text": "Ihr Bonusziel ist es, Gras in Sand zu verwandeln."
+    "text": "Das Bonusziel ist es, Gras in Sand zu verwandeln."
   },
   "c3ddb9a2c6b40be7e6d3fb3368867904": {
     "text": "Terraformiert"
@@ -2907,7 +2907,7 @@
     "text": "Dieses Feld drückt jede Einheit in die Richtung, die auf dem Band markiert ist."
   },
   "dd6964af6659efd019c4d07cac6e3d07": {
-    "text": "Teleporter-Pad"
+    "text": "Teleporter"
   },
   "5a4dc40389df4d6efb73e0d2c7021ed3": {
     "text": "Beenden die Bewegung hier, um sich zum passenden Pad zu teleportieren. Tauscht Platz mit anderer Einheit."
@@ -2922,7 +2922,7 @@
     "text": "Belebende Sporen"
   },
   "79c91d3ad6a2762fefc15befc0a3cd09": {
-    "text": "Der Soldat Psion liefert allen Vek +1 HP."
+    "text": "Der Soldat Psion liefert allen Vek +1 Gesundheit."
   },
   "36f3d3482f624ca4c769f7d6cbc6197d": {
     "text": "Gräber"
@@ -2931,13 +2931,13 @@
     "text": "Dieser Vek wird sich nach einem oder mehreren Beschädigungen im Untergrund verstecken."
   },
   "67e5588c1026d324e21b5989307d1d45": {
-    "text": "Die Psion Abomination verbessert alle Vek. Sie gewinnen +1 HP, Regeneration und explodieren beim Tod."
+    "text": "Diese Psion Abscheulichkeit verbessert alle Vek. Sie gewinnen +1 Gesundheit, Regeneration und explodieren beim Tod."
   },
   "fa6afdba74f0efe521a768266ecea070": {
     "text": "Vom Hive erfasst"
   },
   "b1403593e14797ba61a4b34271d8522b": {
-    "text": "Der Psion Tyrant fügt allen verbündeten Einheiten in jedem Zug 1 Schaden zu."
+    "text": "Der Psion Tyrann fügt allen verbündeten Einheiten in jedem Zug 1 Schaden zu."
   },
   "0281d7a5fc53d3fea4b05e8d1ed3b6d5": {
     "text": "Gehärteter Panzer"
@@ -2958,16 +2958,16 @@
     "text": "Regeneration"
   },
   "a26213e6ab54112384f61d34763ceba7": {
-    "text": "Der Blutpsion heilt alle Vek 1 Punkt in jedem Zug."
+    "text": "Der Blutpsion heilt alle Vek um 1 Punkt in jedem Zug."
   },
   "563a9a4e9958c7a6007f1e0af9207889": {
     "text": "Explosiver Zerfall"
   },
   "3605e029f48bf1c3fcb83794d61d0e5f": {
-    "text": "Der Explosions-Psion wird alle Vek beim Tod zum Explodieren bringen und den benachbarten Feldern 1 Schaden zufügen."
+    "text": "Der Explosions-Psion lässt alle getöteten Vek explodieren, was wiederum den benachbarten Felder 1 Schaden zufügt."
   },
   "3aceefcb377d1b14f39762a5f8ced083": {
-    "text": "Explodiert beim Tod und fügt benachbarten Feldern 1 Schadenspunkt zu."
+    "text": "Explodiert beim Tod und fügt benachbarten Feldern 1 Schaden zu."
   },
   "fb1bf8a5fb1f84fc46f2f4b717d6a91b": {
     "text": "Diese Einheit wird vom Förderband in die markierte Richtung geschoben."
@@ -2979,7 +2979,7 @@
     "text": "Wenn eine andere Einheit das BLAUE-Teleport-Pad verwendet, tauscht diese Einheit die Positionen mit ihr aus."
   },
   "c57a9ae97267666b151fe636f28fae17": {
-    "text": "+2 Bewegung für einen Zug."
+    "text": "+2 Bewegung für EINEN Zug."
   },
   "d67f84eefb99608ca4c764d2abab2fe6": {
     "text": "Festgebunden"
@@ -2988,7 +2988,7 @@
     "text": "Einheiten, die von Vek festgebunden wurden, können sich nicht bewegen, aber sie können trotzdem angreifen."
   },
   "61e6002116b89628df5c5c354f3a1343": {
-    "text": "Nicht angetrieben"
+    "text": "Ohne Energie"
   },
   "75313d5159a1decaa981875c6e2a5c19": {
     "text": "Einheiten ohne Energie sind inaktiv und können sich nicht bewegen oder angreifen."
@@ -2997,58 +2997,58 @@
     "text": "Massiv"
   },
   "9afcaeaff22ec34df4e4bffe4f32d269": {
-    "text": "Massive Einheiten können in Wasser laufen (aber Wasser verhindert das Schießen)."
+    "text": "Massive Einheiten können im Wasser laufen, aber sie können nicht schießen."
   },
   "88090e6b4ce449b1204f909a4fb2b062": {
-    "text": "Versenkt"
+    "text": "Steht im Wasser"
   },
   "57757b3a7d366ba0dcbeb6027564ec12": {
-    "text": "Waffen funktionieren nicht, wenn sie in Wasser getaucht sind."
+    "text": "Waffen funktionieren nicht, wenn sie im Wasser stehen."
   },
   "eac248ae295c1ec4745b6ade2f566c0d": {
-    "text": "Eingetaucht in Säure"
+    "text": "Steht in Säure"
   },
   "bb64da23b45d49713c9bf693a6de5387": {
-    "text": "Waffen funktionieren nicht und der untergetauchte Mech wird mit Säure"
+    "text": "Waffen funktionieren nicht und der Mech steht in korrodierender Säure."
   },
   "2310a0a3efe9402932e2066b95d15c0e": {
-    "text": "In Lava eingetaucht"
+    "text": "Steht in Lava"
   },
   "8c61c99a3b8cc0f72d5f5a7e2daee1d4": {
-    "text": "Waffen funktionieren nicht und der untergetauchte Mech ist in Flammen."
+    "text": "Waffen funktionieren nicht und der Mech brennt in der Lava."
   },
   "bd2b7e5f85a6ea65065c4ebc6d7c95bb": {
     "text": "Feuer"
   },
   "e483615c5db4f61462cb1e99834ff9a3": {
-    "text": "Einheiten in Feuer erleiden zu Beginn jeder Runde 1 Schaden."
+    "text": "Brennende Einheiten erleiden zu Beginn jeden Zuges 1 Schaden."
   },
   "08f358adc9c26810b99227dd66358197": {
     "text": "Auf Wald"
   },
   "32a84ea24f035e7c973dc7731795761a": {
-    "text": "Feld brennt bei Kontakt mit Feuer und stellt ein großes Risiko für diese Einheit dar."
+    "text": "Feld brennt nach einem Angriff und verbrennt jede Einheit die darauf steht."
   },
   "f874e4758784c580b472b4c8ad419c1a": {
     "text": "Auf Sand"
   },
   "99ca27b89e12e746ff19758836b2d0c8": {
-    "text": "Das Feld wird bei einem Schaden in Rauch verwandelt und verhindert, dass diese Einheit angreift."
+    "text": "Das Feld wird sich bei einem Schaden in Rauch verwandelt und verhindert, dass diese Einheit angreift."
   },
   "d9b51ad1f53056b10741080232ae84e0": {
     "text": "Auf Eis"
   },
   "43906eca2eedb31a07801d4356cc8b38": {
-    "text": "Wenn ein Feld zweimal Schaden nimmt, wird es zu Wasser."
+    "text": "Wenn das Feld zweimal Schaden nimmt, wird es zu Wasser."
   },
   "858bd1d3afd94226181e677854d0fa2e": {
     "text": "Auf beschädigtem Eis"
   },
   "e8648ae3308988171eae024fc599db81": {
-    "text": "Beschädigtes Eis wird wieder Wasser, wenn es wieder beschädigt wird."
+    "text": "Beschädigtes Eis wird zu Wasser, wenn es nochmal beschädigt wird."
   },
   "9532006c58c04ae4a4458e3622c1dab1": {
-    "text": "Korrodierende Säure."
+    "text": "Korrodierende Säure"
   },
   "eed294a4bf885b4d688650faa11b9638": {
     "text": "Waffenschaden gegen diese Einheit wird verdoppelt. Alle anderen Schäden (Stoß, Blockieren, Feuer usw.) sind nicht betroffen."
@@ -3057,7 +3057,7 @@
     "text": "Spawn blockieren"
   },
   "6a0a109e0797f8f52970897cc1f1c829": {
-    "text": "Die neue feindliche Einheit wird hier nicht erscheinen, aber diese Einheit wird 1 Schaden erleiden."
+    "text": "Der Vek wird hier nicht erscheinen, aber diese Einheit wird 1 Schaden erleiden."
   },
   "bc93fd0fa19ed26b6adf8293ada55404": {
     "text": "Rauch"
@@ -3069,7 +3069,7 @@
     "text": "Energieschild"
   },
   "91e4c65170cbc8ea8d4b7c631f799836": {
-    "text": "Schilde blockieren den Schaden und alle negativen Effekte (Feuer, Frieren, Säure, etc.). Nur direkter Schaden wird den Schild entfernen."
+    "text": "Schilde blockieren den Schaden und alle negativen Effekte (Feuer, Frieren, Säure, etc.). Nur direkter Schaden wird den Schild zerstören."
   },
   "1eae2f1c24a0da1af7024a7ddd39f04c": {
     "text": "Zoltan Schild"
@@ -3093,7 +3093,7 @@
     "text": "Kickoff-Booster"
   },
   "bde3965037346756f90adda362392dd9": {
-    "text": "+2 Bewegungen in diesem Zug."
+    "text": "+2 Bewegung in diesem Zug."
   },
   "2d9ba52a4e1031947763c56341cb3baf": {
     "text": "Sidestep"
@@ -3123,7 +3123,7 @@
     "text": "Feuer Immunität"
   },
   "9e41274fa5c0fd59347c9683318aeb28": {
-    "text": "Diese Einheit kann nicht auf Feuer gesetzt werden"
+    "text": "Diese Einheit kann nicht brennen"
   },
   "138c16509efef993847a9472c837e0cd": {
     "text": "Rauch-Immunität"
@@ -3135,25 +3135,25 @@
     "text": "Selbstreparierend"
   },
   "e5b0ef5eb092fd79116fbbc212b2b7c1": {
-    "text": "Bei einer Beschädigung schirmt sich diese Einheit ab und bereitet sich auf Heilung vor."
+    "text": "Bei einer Beschädigung schirmt sich diese Einheit ab und bereitet sich auf die Heilung vor."
   },
   "d490e452d79be614b146ece9d02536c9": {
-    "text": "Umwelt Gefahr"
+    "text": "Umweltgefahr"
   },
   "c51611f1dadc11a951f2f656547ef87d": {
-    "text": "Der Umgebungseffekt beeinflusst diesen Raum in der nächsten Runde"
+    "text": "Der Umgebungseffekt beeinflusst diese Region im nächsten Zug"
   },
   "8bb6584e3b9a244f5311c0c5fda08c6f": {
     "text": "Alpha-Einheit"
   },
   "bbd4d69b9d587fcc3fd2f92d818e3773": {
-    "text": "Alpha-Einheiten sind mächtiger als ihre Standardgegenstücke"
+    "text": "Alpha-Einheiten sind mächtiger als die normalen Vertreter dieser Spezies."
   },
   "e43a10af863ca84cbb60b65a7bc3458a": {
     "text": "Schwarmführer"
   },
   "8a5a7c32c74427d365a6fd6fed28e1ff": {
-    "text": "Dies sind die mächtigsten Vek. Sie sind immun gegen Wasser und können schwieriger zu töten sein."
+    "text": "Dies sind die mächtigsten Vek. Sie sind immun gegen Wasser und sind schwieriger zu töten."
   },
   "fd4670e3a935e4d8399524b237284af8": {
     "text": "Ausweichen"
@@ -3165,7 +3165,7 @@
     "text": "Erfahren"
   },
   "44b94d3515d8533125f39c47b4e9eaa0": {
-    "text": "Erhalte +2 Bonus XP \nper Kill."
+    "text": "Erhalte +2 Bonus XP \npro Kill."
   },
   "d5ff54364f7d3103dc0bf37ae3fe5da4": {
     "text": "Startschild"
@@ -3253,9 +3253,6 @@
   },
   "e073f96da948c492b3c2b233d22a9c44": {
     "text": "Zoltan"
-  },
-  "aab5247af5de489e220700abfc5a2a70": {
-    "text": "+1 Reaktorkern. Verringert Mech HP um 1. \nErhalte Schild in jedem Zug."
   },
   "0a6d8caecdb62b9b8f278db13d1ec7b8": {
     "text": "Wurden gerettet!"
@@ -3723,10 +3720,10 @@
     "text": "In Spiderling eintauchen."
   },
   "43313210b46dbcc7562f35541b6583ab": {
-    "text": "Alle anderen Vek erhalten +1 HP, solange der Psion lebt."
+    "text": "Alle anderen Vek erhalten +1 Gesundheit, solange der Psion lebt."
   },
   "2ade1ae44c2650727ea33d337d530cd0": {
-    "text": "Alle anderen Vek explodieren beim Tod, fügen angrenzenden Feldern 1 Schaden hinzu."
+    "text": "Alle anderen Vek explodieren beim Tod und fügen angrenzenden Feldern 1 Schaden hinzu."
   },
   "8236997ec043138eb820cd9fad91925c": {
     "text": "Vom Hive erfasst"
@@ -3786,7 +3783,7 @@
     "text": "Wirf 2-3 Spinneneier."
   },
   "e67382afc7ff44c7b190ad9015fd4aa7": {
-    "text": "Alle anderen Vek erhalten +1 HP, Regeneration und explodieren beim Tod."
+    "text": "Alle anderen Vek erhalten +1 Gesundheit, Regeneration und explodieren beim Tod."
   },
   "10252390311d4836228079908db7680d": {
     "text": "Gegen Flammen Immun"
@@ -3822,7 +3819,7 @@
     "text": "Vernetzte Rüstung"
   },
   "9ecc3c1ce69dfa36f557908ec07ef9fd": {
-    "text": "Alle Mechs erhalten +1 HP."
+    "text": "Alle Mechs erhalten +1 Gesundheit."
   },
   "c45888e43ba684f0c58ccb6d7cb4e1b4": {
     "text": "+1 Gesundheit"
@@ -3852,7 +3849,7 @@
     "text": "Psion Empfänger"
   },
   "2dea855bb61e9f7ded52670eb4a73c51": {
-    "text": "Mechs benutzen Boni von Vek Psion."
+    "text": "Mechs benutzen Boni von Vek Psionen."
   },
   "c55fdec758464d4c6fa4214658452a7e": {
     "text": "Mechs erhalten +1 Bewegung, wenn sie nebeneinander ihren Zug starten."
@@ -4365,7 +4362,7 @@
     "text": "Umgebe dich mit Rauch, um dich gegen Feinde in der Nähe zu verteidigen."
   },
   "f81506f3bb9cb3dd80683420f534ce9a": {
-    "text": "Blockiert rauch für sich selbst und Verbündete."
+    "text": "Blockiert Rauch für sich selbst und Verbündete."
   },
   "0230e207ca1f5afbdcc8b25e561de864": {
     "text": "Schildprojektor"
@@ -4383,13 +4380,13 @@
     "text": "Feuerstrahl"
   },
   "d7151491151c0ac339a6162737df30c2": {
-    "text": "Feuere einen Strahl, der Feuer in einer Linie anwendet."
+    "text": "Ein Feuerstrahl der alles verbrennt."
   },
   "0a174a4e92eab81aeccf4bdf65d67f42": {
     "text": "Froststrahl"
   },
   "1338978bbeb755725e710f6a84f70c2d": {
-    "text": "Feuere einen Strahl, der alles in einer Linie einfriert."
+    "text": "Ein Eisstrahl, der alles einfriert."
   },
   "1488b4373f8c54607327cabe2af2704a": {
     "text": "Schildarray"
@@ -4443,7 +4440,7 @@
     "text": "Rauchbomben"
   },
   "9d21c31d2211aa02b1bfadd96c3f3404": {
-    "text": "Fliege über die Ziele, während du Rauch fallen lässt."
+    "text": "Fliegt über ein Ziel und lässt eine Rauchbombe fallen."
   },
   "3ade7e6fbb853cc6c5a033a8f26b8272": {
     "text": "Erhöht den möglichen Bewegungsbereich um 1."
@@ -4452,7 +4449,7 @@
     "text": "Wärmekonverter"
   },
   "062b0415bc24261e79e16c4fde5302e3": {
-    "text": "Friert das Feld vorne, verbrennt das Feld hinterbei."
+    "text": "Friert das Feld vorne ein, verbrennt das Feld hinterbei."
   },
   "886a095a0420f937734a87e8e6ac5584": {
     "text": "Selbstzerstörung"
@@ -4476,16 +4473,16 @@
     "text": "Reparatur"
   },
   "d7d3c5dfe9c8d569feb2c90bc30e2d17": {
-    "text": "Heile alle Spielereinheiten (einschließlich deaktivierter Mechs)."
+    "text": "Heilt alle Spielereinheiten (einschließlich deaktivierter Mechs)."
   },
   "0d8159beea8945e2a7141179d935b04f": {
     "text": "Sperrfeuer"
   },
   "9f2c1f3bf3aa5369b0120ce8e2a3ab34": {
-    "text": "Feuert eine Sperrfeuer ab, die jeden Gegner auf der Karte trifft."
+    "text": "Eine Sperrfeuer, das jeden Gegner auf der Karte trifft."
   },
   "44daee06e2c93443ed80dfe516d3b231": {
-    "text": "Windstrom"
+    "text": "Windstoss"
   },
   "57542caad1a7bcc9c968368ff11a95a5": {
     "text": "Stoße alle Einheiten in eine Richtung."
@@ -4494,16 +4491,16 @@
     "text": "Unbegrenzte Verwendung"
   },
   "8b070a7eb07e467cf6edd4fc699a3574": {
-    "text": "Eis Regeneration"
+    "text": "Eisgenerator"
   },
   "17643b66c1bd18a3d5cb11c7630744da": {
     "text": "Friere dich und in der Nähe liegende Felder ein."
   },
   "270e074f3b6882a75a48769d48f515ba": {
-    "text": "Effektbereich ums 1 vergrößert."
+    "text": "Effektbereich um 1 vergrößert."
   },
   "67c9033b46676a71c2d6059700fd4fbe": {
-    "text": "Stock Kanone"
+    "text": "Kanone"
   },
   "914aa65eb1dfbd9289eaf25954528a6e": {
     "text": "Feuere ein Projektil ab, das das Ziel verschiebt."
@@ -4515,7 +4512,7 @@
     "text": "Leichter Panzer"
   },
   "2f3b10027bd38bbba8f8f847fb85943c": {
-    "text": "Setze einen kleinen Panzer ein, um im Kampf zu helfen."
+    "text": "Setze einen kleinen Panzer ein, der dir im Kampf hilft."
   },
   "fc8d371202457f5d69bf978a35f39bf8": {
     "text": "Erhöht die maximale Gesundheit des Panzers auf 3."
@@ -4533,7 +4530,7 @@
     "text": "Feuert ein Projektil ab, das ein einzelnes Feld abschirmt."
   },
   "71da68260801a825611ee18451f3805e": {
-    "text": "Schild-Tank"
+    "text": "Schildpanzer"
   },
   "d0bd5a9751b32dcb0a13a5dd44fffed4": {
     "text": "Stelle einen Schild-Panzer auf, der Verbündeten Schilde geben kann."
@@ -4545,7 +4542,7 @@
     "text": "Erhöht die maximale Gesundheit des Schild-Panzers auf 3."
   },
   "4ad6aca084bcddab8ad9644d87d81268": {
-    "text": "Der Shield-Tank feuert stattdessen ein Projektil ab, mit dem du entfernte Ziele abschirmen kannst."
+    "text": "Der Schildpanzer feuert ein Projektil ab, mit dem du entfernte Ziele abschirmen kannst."
   },
   "83b57542809b141584055788a17b3f85": {
     "text": "Säureschuss"
@@ -4566,28 +4563,28 @@
     "text": "Der Angriff des Panzers stößt auch sein Ziel."
   },
   "b0692a3481700a755b63f11401a05e26": {
-    "text": "Ziehschuss"
+    "text": "Ziehen"
   },
   "6e2364ff2c9dccd8e880a120f25b1214": {
-    "text": "Zieht ein einzelnes Feld."
+    "text": "Zieht etwas and ihn ran."
   },
   "a1f36a2172ae79c6fb3bb84e760b3e74": {
-    "text": "Pull-Tank"
+    "text": "Zieh-Panzer"
   },
   "0645e77caf0c801b9587fa91eba03671": {
-    "text": "Setze einen Pull-Tank, der Ziele mit einem Projektil ziehen kann."
+    "text": "Setze einen Zieh-Panzer, der Ziele mit einem Projektil ziehen kann."
   },
   "3819280b6403208376aac82eb6ea5d37": {
-    "text": "Erhöht die maximale Gesundheit des Pull-Tanks auf 3."
+    "text": "Erhöht die maximale Gesundheit des Zieh-Panzer auf 3."
   },
   "74f3ae2330040ba25b122ffb57f06f00": {
-    "text": "Verleiht dem Pull-Tank die Fähigkeit zu fliegen."
+    "text": "Verleiht dem Zieh-Panzer die Fähigkeit zu fliegen."
   },
   "c238545012e4ab3e42a6f69b8d4aa2d4": {
-    "text": "Stelle einen Schild-Panzer auf, der Verbündeten Schilde geben kann."
+    "text": "Stelle einen Schildpanzer auf, der Verbündeten Schilde geben kann."
   },
   "ffb85c0b937bed4f7707642f01a51f7f": {
-    "text": "Erhöht die HP des Schild-Panzers auf 3."
+    "text": "Erhöht die Gesundheit des Schildpanzers auf 3."
   },
   "eb7d2582ba33d3a8f60afeafa4d7fc16": {
     "text": "Töte 4 Feinde mit Säure"
@@ -4602,7 +4599,7 @@
     "text": "Zerstöre Säurefässer"
   },
   "0088e0a819abebbeb1455b36b5554fb8": {
-    "text": "Förderer"
+    "text": "Förderband"
   },
   "d704b08e013a2fcbea549611cba764f6": {
     "text": "Förderbänder schieben ein Objekt in die markierte Richtung, am Beginn des Zuges."
@@ -4611,7 +4608,7 @@
     "text": "FÖRDER\nBÄNDER"
   },
   "71f7422ebf2e2da3296daedfc597abc9": {
-    "text": "FÖRDERER"
+    "text": "FÖRDERBÄNDER"
   },
   "10d44295aabf612c01cf2f19eb96850f": {
     "text": "Beschütze die Entsorgungseinheit"
@@ -4629,13 +4626,13 @@
     "text": "Säure Launcher"
   },
   "3b87b898df39749c26af22f36aefc3c0": {
-    "text": "Zerstöre den Käferführer"
+    "text": "Töte den Alpha Käfer"
   },
   "a6ff8e5fa1a427f0310162354e76d91f": {
-    "text": "Zerstöre den Botführer"
+    "text": "Zerstöre den Alpha Bot"
   },
   "7fd9bb805fed1370d31df0f86c0f9fd6": {
-    "text": "Zerstöre den Feuerfliegen-Anführer"
+    "text": "Töte die Alpha Feuerfliege"
   },
   "e24ad04b9ffc64451b22fa77813aa17e": {
     "text": "getötet"
@@ -4647,43 +4644,43 @@
     "text": "Zerstöre"
   },
   "8df90e225d73cf9f3774356245405913": {
-    "text": "Großer Goo"
+    "text": "Fetter Goo"
   },
   "82230eb0432baf3c6cf7ac04a3bf3fb6": {
-    "text": "Mittlerer Goo"
+    "text": "Weniger fetter Goo"
   },
   "eec601cfb9ce931a868a2428211c446f": {
     "text": "Kleiner Goo"
   },
   "b07b51fddc660515bcb0fdd1b3abc950": {
-    "text": "Zerstört den Hornissenführer"
+    "text": "Töte die Alpha Hornisse"
   },
   "0457ba9ddd4ea0758cda16241fdf3e04": {
-    "text": "Hornissenführer"
+    "text": "Alpha Hornisse"
   },
   "402b2670bbf57cc185cf4c482dc92d73": {
-    "text": "Zerstöre die Psion-Monstrosität"
+    "text": "Töte die Psion-Monstrosität"
   },
   "5ff723cc36a403d29195fbfebddd1ca3": {
     "text": "Psion-Monstrosität"
   },
   "5de0df926da4b1d48bdee7e5fd722bd7": {
-    "text": "Zerstört den Skorpionführer"
+    "text": "Töte den Alpha Skorpion"
   },
   "69505ad725e441b879b479a2800faba9": {
-    "text": "Skorpionführer"
+    "text": "Alpha Skorpion"
   },
   "4eb213f40de95117474688c7ed440840": {
-    "text": "Zerstöre den Schnecken-Anführer"
+    "text": "Töte die Alpha Schnecke"
   },
   "e879dcec2c9829e557a0c440e72d215b": {
     "text": "Schneckenei"
   },
   "5ce729cb3100cf1b8d58866fbbb6efde": {
-    "text": "Zerstöre den Spinnenführer"
+    "text": "Töte die Alpha Spinne"
   },
   "4e3ea93cbb55d85d95c9e6228d816da8": {
-    "text": "Spinne Führer"
+    "text": "Alpha Spinne"
   },
   "8bf8ac1a80abd4b3bed68e998cc69813": {
     "text": "Höhlen"
@@ -4809,7 +4806,7 @@
     "text": "Töte mindestens"
   },
   "b1302cc6c105579890bdbafb9659024e": {
-    "text": "Beschütze die"
+    "text": "Beschütze"
   },
   "26ade0d30cfbfa5cc6e253d67160bafe": {
     "text": "Erhalte weniger als 3 Netzschaden"
@@ -5181,7 +5178,7 @@
     "text": "Technologie aus der Zukunft schützt die Technologie von Vergangenheit! Hat das einen poetischen Klang, nicht wahr? Hoffen wir, dass die Zukunft der Aufgabe gewachsen ist."
   },
   "5bc9c21e901fa8323a6febc30dc2f4ad": {
-    "text": "Ein Großteil der Alten Erde und ihrer Geschichte ging verloren, als die Ozeane aufstiegen. Wir müssen schützen, was noch übrig ist. Wenn die Vek uns zerstören, können diese Artefakte alles sein, was von unserer Zivilisation übrig geblieben ist."
+    "text": "Ein Großteil der Alten Erde und ihrer Geschichte ging verloren, als die Ozeane aufstiegen. Wir müssen schützen, was noch übrig ist. Wenn die Vek uns auslöschen, können diese Artefakte alles sein, was von unserer Zivilisation übrig geblieben ist."
   },
   "934f322cbd24b0298c83dc58f25eaaa0": {
     "text": "Flüchtlinge, die in geschützten Städten des 21. Jahrhunderts leben, waren nicht das, was die Archivgründer beabsichtigten, aber wir müssen alle so gut wie möglich beherbergen."
@@ -5565,7 +5562,7 @@
     "text": "Diese Region hat immer noch unberührte alte Straßen und tropisches Design! Lass die Vek nicht an die Oberfläche, sie werden Chaos anrichten!"
   },
   "e6db1c3d983092e41ca852af32fced2a": {
-    "text": "Diese Region ist eines der letzten Ackerländer an der R.S.T. Lass den Vek es nicht zerstören."
+    "text": "Diese Region ist eines der letzten Ackerländer an der R.S.T. Lass die Vek sie nicht zerstören."
   },
   "8b15cd4d38a0757f14f658344b3587f1": {
     "text": "Es gibt Mikrobots, die die Oberfläche dieser Region bedecken. Wenn die Vek die Oberfläche durchbrechen, könnte es Millionen Leben kosten."
@@ -5574,7 +5571,7 @@
     "text": "Auf den silikatischen Ebenen entwickelt sich hier ein fragiles Ökosystem des neuen Maschinenlebens. Wenn zu viele Vek durchbrechen, wird das Ökosystem zerstört."
   },
   "9798c95cdcd0cd600736e03e72143bed": {
-    "text": "Säure kann Nester unter diesem Sektor zerstören - aber wir brauchen dich, um die Vek vom Auftauchen abzuhalten, damit die Säure Zeit hat, ihre Arbeit zu tun."
+    "text": "Säure kann Nester unter diesem Sektor zerstören - aber wir brauchen dich, um die Vek zurückzudrängen, damit die Säure Zeit hat, ihre Arbeit zu tun."
   },
   "7aeaa1cf7a5f84124d588ed5420da40b": {
     "text": "Wir haben versucht, in die Vek-Nester in dieser Region vorzudringen, aber sie tauchen auf, um zu entkommen. Halte so viele wie möglich unter der Erde gefangen."
@@ -6003,10 +6000,10 @@
     "text": "Zerstöre 2 Berge"
   },
   "8270a854e7b6fba39f1ffc9bf49eae43": {
-    "text": "Wir müssen uns aggressiv bewegen. Wir brauchen dich, um so viel Landmasse in der Region zu zerstören, wie du kannst, bevor die Vek die Berge als Nest benutzen."
+    "text": "Wir müssen uns aggressiv bewegen. Wir brauchen dich, um so viel Landmasse in der Region zu zerstören wie möglich, bevor die Vek ihre Nester in den Bergen bauen."
   },
   "a697f192cb9580d89e6c76551c50d0e8": {
-    "text": "Wir müssen die Vek zurücktreiben - töte alles, was du kannst, und zerstöre dann die Bergketten, bevor sie zu Nestern werden."
+    "text": "Wir müssen die Vek zurücktreiben - töte alles, was du kannst, und zerstöre dann die Bergketten, bevor sie dort Nester bauen."
   },
   "2da9dc629bb0026270ea8e92f7533360": {
     "text": "Gut gemacht. Normalerweise würde ich einen stabilen Boden in jedem Teil von R.S.T. begrüßen. - aber nicht, wenn diese stabile Landmasse den Vek zugute kommt."
@@ -6090,7 +6087,7 @@
     "text": "Politik). Obwohl Justin besorgt ist, dass es verwirrend ist, warum der Spieler hübsches Land zerstören möchte, weil die Mission nicht klarstellt, warum zerstörtes Grünland einen strategischen Unterschied macht."
   },
   "6caa5289043b5db7aeb026e81ba783ab": {
-    "text": "Wir müssen einen unserer Terraformer aktivieren, um einen Vek-Nest unter der Oberfläche zu zerstören."
+    "text": "Wir müssen einen unserer Terraformer aktivieren, um ein Vek-Nest unter der Oberfläche zu zerstören."
   },
   "e2a16d78f4217ebe80ce2517d0672387": {
     "text": "Verwende den Terraformer auf dem Boden in diesem Sektor. Wir können nicht zulassen, dass Vek die stabile Landmasse zur Brut nutzten; die ganze Region könnte verloren gehen."
@@ -6273,7 +6270,7 @@
     "text": "Gut zu sehen, dass du aufgetaut bist. Ich arbeite daran, die schurkischen Kryo-Naniten einzudämmen, und die Stürme in der Region haben bereits aufgehört."
   },
   "21f837884f150a855449ca6d0cf1038a": {
-    "text": "Ein Vek-Nest liegt direkt unter den Entsorgungsbehältern in dieser Region. Sprengen die Bottiche und der chemische Abfluss wird das Nest zerstören."
+    "text": "Ein Vek-Nest liegt direkt unter den Entsorgungsbehältern in dieser Region. Sprengen die Fässer und der chemische Abfluss wird das Nest zerstören."
   },
   "fa83ced380418ee02369ded08be90aa6": {
     "text": "Die Fässer in dieser Region enthalten giftige Chemikalien für die Vek - zerstöre sie, und die Vek werden den Sektor räumen."
@@ -6498,7 +6495,7 @@
     "text": "Töte 4 Feinde die mit Säure%%0behaftet sind"
   },
   "4d7d5a02407b3dcfa86e79b8619ae55c": {
-    "text": "Zerstöre %%0 Goos"
+    "text": "Töte %%0 Goos"
   },
   "9a9dfc63c2c3369a5845ec7f4c161d1f": {
     "text": "Zerstöre die Fässer"
