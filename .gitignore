@@ -4,3 +4,4 @@ dev/config.js
 *.mo
 dev/dat-*
 !dev/dat-files-modified
+!dev/dat-generated
