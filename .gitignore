@@ -2,3 +2,5 @@
 node_modules
 dev/config.js
 *.mo
+dev/dat-*
+!dev/dat-files-modified
