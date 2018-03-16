@@ -6203,5 +6203,289 @@
   },
   "3006058611005e5a9cbbcbb667c21e2e": {
     "text": "#main_mech : Détruit\nEfficacité Tactique: Compromise"
+  },
+  "7f32f9bf8568ff894ad41e1486c41b60": {
+    "text": "#main_reverse : Évaluation...\nEfficacité Tactique : Augmentée"
+  },
+  "285ad0d5e343e64210577400a4467d41": {
+    "text": "#main_second rapports dans ... vérifications de sécurité complètes, armes en ligne."
+  },
+  "4036e820c285f9bbeb6b56df72ad388a": {
+    "text": "#main_second !"
+  },
+  "b89e25a520ea57c992d26fcb3a2b3a89": {
+    "text": "#main_second, attention où vous tirez !"
+  },
+  "53b111de0c3a6ae90e2f451a08c73178": {
+    "text": "#main_second, au rapport ! Qu'est-ce que vous faites ?!"
+  },
+  "f7e53c330fe6ef57030cfe03a9759b56": {
+    "text": "#main_second, vous et moi allons parler quand nous reviendrons ..."
+  },
+  "e194c6e6bb8c4e7ce781097414d5f844": {
+    "text": "#self_full mobilité compromise par des Veks."
+  },
+  "b4829256d2805eef023b8c4f682a333b": {
+    "text": "#self_full promotion enregistrée. Nouveaux protocoles de gestion téléchargeables dès maintenant."
+  },
+  "6ecfec1affedecc78ae7aa4e6ea46938": {
+    "text": "#self_full non-déclassé."
+  },
+  "0609c1a4c6955bcd3e1156639b7a8cb9": {
+    "text": "#self_mech n'a pas réussi à protéger l'occupant principal. Soumissions d'un réprimande officielle."
+  },
+  "c26ff1665cadc48114d2cd5dd23374c1": {
+    "text": "Coque #self_mech a été renforcée."
+  },
+  "8b17747d8177807f7184919ab700199f": {
+    "text": "#self_mech retenu par un Vek hostile. Mouvement impossible."
+  },
+  "fb3063b42920c12fce10f2339b9d89ef": {
+    "text": "#self_mech, en attente."
+  },
+  "e66c93576cf8131b97967c26d7841870": {
+    "text": "#self_reverse! Kc'chht ! KC'CHHT !"
+  },
+  "d7c69577d426e5e904f1371cae223753": {
+    "text": "#self_second, prêt à engager le combat."
+  },
+  "56c4eba3256f470ea2be7e1f9bb59394": {
+    "text": "#self_second, au rapport."
+  },
+  "f80fb217c5a58a5e885b3f1422d19ceb": {
+    "text": "#squad - si quelqu'un trouve un tir propre sur le barrage, faites-le !",
+    "review": true
+  },
+  "718d69e6d5b2494cfc46d8a8de63719d": {
+    "text": "#squad - déplacez-vous pour bloquer le Vek, ne laissez aucun d'entre eux faire surface !"
+  },
+  "5e33fa4d39ba603f57483e2706de6f0d": {
+    "text": "#squad - nous devons nous concentrer sur la prévention de l'émergence du Vek."
+  },
+  "6e4c55873c03f3319ed43724fba81a08": {
+    "text": "#squad ont été recyclés."
+  },
+  "d030ba99d946835e551a98f20be65d75": {
+    "text": "#squad ! Essayez de vous positionner entre le Vek et les cryo-mines !"
+  },
+  "36e3efad07cfc4dc8e22ebb220eac377": {
+    "text": "#squad, êtes-vous là ? On obtient des signaux étranges sur les capteurs ... Est-ce que vous allez bien ?"
+  },
+  "5a123593258046b97fe17278549005b4": {
+    "text": "#squad, Couvrez tous les points d'émergence Vek !"
+  },
+  "fc3dac231cc53c1d8eea4852a5a978d2": {
+    "text": "#squad, ne laissez pas les Veks faire surface ! Utilisez vos Mechs pour les arrêter !"
+  },
+  "2f8cf57d753c9c17ba0a2f134a469d99": {
+    "text": "#squad, formation sur moi.",
+    "review": true
+  },
+  "2ead50b36b216fabdebb72a6c4487a61": {
+    "text": "#squad, dégagez de la zone de bombardement !",
+    "review": true
+  },
+  "b21b96b79742fe1d68b8c7cbfef2aec7": {
+    "text": "#squad, gardez à l'esprit que nous devons niveler ces montagnes avant de partir."
+  },
+  "05d8e342f856e05198e7447adafd9ec7": {
+    "text": "#squad, déplacez-vous pour bloquer le Vek émergeant ... avec vos Mechs si vous le devez !"
+  },
+  "5e9ed0fa6340a4be0380553d5bf5146d": {
+    "text": "#squad, au rapport. Brèche localisée avec succès."
+  },
+  "063b279e5bd5a72df28766d9e17a62dc": {
+    "text": "#squad, restez à l'écart de la rampe de lancement ou vous serez réduit en cendres !"
+  },
+  "6d99c3fb39789670bbdf16455ed93895": {
+    "text": "#squad, vous devez être félicité - les capteurs confirment que les Veks ont été repoussés. Le secteur est à nouveau le nôtre."
+  },
+  "b9f0c53fbb8536119a213bb96e5795c4": {
+    "text": "#squad ... Nous avons détecté plusieurs points d'émergence potentiels de Vek . Soyez prêt."
+  },
+  "8fb0637832b612213ab8a33a00e06a37": {
+    "text": "... E-E-Est-ce que cette p-p-promotion signifie p-p-plus de missions de combat ?"
+  },
+  "c5aaf3a0559ce09d0047ea957261184e": {
+    "text": "... La vache ! Ça me donne mal à la tête.",
+    "review": true
+  },
+  "01403df661e08c5f1d1d7ba7b2104787": {
+    "text": "... Avez-vous détecté un problème étrange dans vos capteurs ?"
+  },
+  "a7b8395f882dd6cccd0df92aef7ecbcd": {
+    "text": "... Les unités d'élimination de ce genre sont une raison pour laquelle je me porte volontaire comme pilote."
+  },
+  "c2e271c0f30860240e5af246fdc20dbe": {
+    "text": "... Même moi je ne pouvais pas réparer ça."
+  },
+  "9ae6fe3b00c30ddd01cd23b4f08703ea": {
+    "text": "... L'usine est partie."
+  },
+  "4a58ea5262848970afcbaa9849bb2539": {
+    "text": "... Ai-je déjà utilisé cela dans une autre ligne temporelle ?"
+  },
+  "2532af2e32bde47c1a19a623a1fc3542": {
+    "text": "... J'espère qu'ils ont travaillé sur cette anomalie avec cela dans cette ligne temporelle."
+  },
+  "5702e360a74cdda62971bacae09dcef6": {
+    "text": "...Je n'ai pas besoin de cela."
+  },
+  "5be14850b213301ce1ccb79ae6db5b2f": {
+    "text": "... J'ai détruit une montagne."
+  },
+  "ec1c9d582567a5c647783753ecf27f26": {
+    "text": "... J'espère que les caméras étaient éteintes quand j'ai été désactivé."
+  },
+  "3a7bf8a8fbc61520f6ad085657f88d2e": {
+    "text": "... Je pense que la centrale électrique est définitivement fermée."
+  },
+  "2356d0ba390bd290bf41a32349c199d9": {
+    "text": "... Je me demande si un autre moi est à l'intérieur de ce Pod."
+  },
+  "1de0ad003b743c266164faabb08d5cbe": {
+    "text": "... Je rapporterai la perte de l'usine à Zénith personnellement."
+  },
+  "ffed12ab3519dded982734ace4acd237": {
+    "text": "... Si vous pensez que cela est nécessaire, Commandant."
+  },
+  "eed28f444a3732e03be46f52d5926b50": {
+    "text": "... Est-ce censé briller comme ça ?"
+  },
+  "695aa618fc563b433572ac9be414ca1d": {
+    "text": "... Est-ce un test ?"
+  },
+  "9d01b612d76f8e84fa1af4ed7662e774": {
+    "text": "... Collectez les signaux étranges provenant de cette montagne, Commandant."
+  },
+  "168518bf679828407cd413d2386393e6": {
+    "text": "... Collectez les signaux étranges sous la glace, Commandant."
+  },
+  "19c4431128b450b07251aee0b89010d9": {
+    "text": "... Le réacteur fait dresser mes cheveux."
+  },
+  "6c8398a060a25ca3307130cde23eda8c": {
+    "text": "... Un tel s-s-soulagement."
+  },
+  "3d9e8961c29f957017dbc0c4f6c5327e": {
+    "text": "... Dis à Kern que j'ai combattu jusqu'à la fin."
+  },
+  "c529d32775c6847881ba2667063bcbd7": {
+    "text": "... Cette unité d'élimination est une raison pour laquelle je ne manque pas de travailler à Détritus."
+  },
+  "57ec17cc1cad30796032a5fd8ad73453": {
+    "text": "... Le pouvoir de ces Mechs m’effraie parfois."
+  },
+  "3104412f180546a42d3fac01466b8b71": {
+    "text": "... C'est pour chaque ligne temporelle qu'ils ont détruit."
+  },
+  "386f90695511693566aceaa1fe80745b": {
+    "text": "...Est-ce que cette central électrique est sur le point d'exploser ?"
+  },
+  "4b3c3da1ec44acda0dc6ba0091262b15": {
+    "text": "... Que faites-vous à mon Mech ?"
+  },
+  "6747b1af2c56cfd733c97883a8479a49": {
+    "text": "...Quel est cet enfer ?"
+  },
+  "b03f496b10802b76dc4d9ce6870d6099": {
+    "text": "1 pour l'#squad ! Vek : 0 !"
+  },
+  "d84795f8f8fa671ca9301f4d73bca3ad": {
+    "text": "100% des cuves ont été détruites et les produits chimiques se libèrent. Nos capteurs détectent déjà une activité Vek réduite dans la région."
+  },
+  "73e2ddbb8dcd6422f1b760037cdc9be6": {
+    "text": "100% de succès. C'est le nombre que le PDG Singh aime voir."
+  },
+  "66b3a9adc4ad2834348132927415da85": {
+    "text": "Bien ! #main_first, tu deviens bon à ça !"
+  },
+  "493f29ea386c693bbc2582db25af66ba": {
+    "text": "[ #self_mech amélioration complète ]"
+  },
+  "841c669c5f839edcf45835c51b4fa822": {
+    "text": "[ Puissance #self_mech détournée vers de nouveaux systèmes ]"
+  },
+  "6c8b13d9a60a21d50e2d813f8f06a24b": {
+    "text": "[ Notification #squad : le barrage est toujours intact ]"
+  },
+  "1c03a313a2a8ba935568566404533a9f": {
+    "text": "[ 2 Veks supprimés. Cause des suppressions: Pilote #main_second ]"
+  },
+  "ea2c23bd303586d47860996159853128": {
+    "text": "[ 2 Veks supprimés. Cause des suppressions: Vek rivale ]"
+  },
+  "be69760d6e911abf43612e9e70bed334": {
+    "text": "[ 2 Vek ont été supprimés ]"
+  },
+  "066fd418999a4472850a49ce1e547947": {
+    "text": "[ 2 menaces Vek en retraite]"
+  },
+  "d26c8028910a63c2b2e72ddcc4166d6a": {
+    "text": "[ 2 menaces Vek en retraite. Raison du retrait : Pilote #main_second ]"
+  },
+  "848227693fda234c67eefb7096965340": {
+    "text": "[ 2 menaces Vek en retraite. Raison du retrait : Vek rivaux ]"
+  },
+  "cd0b5a8a1f0caae5dba09d3f54dc0d69": {
+    "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a été détruit ayant subit des dégâts lors de l'atterrissage ]"
+  },
+  "4e97398d2c187b5a6fdbbc6f50917811": {
+    "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a été détecté ]"
+  },
+  "f91ff75e95de236cc3a6e51e058e7790": {
+    "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a atterri à proximité]"
+  },
+  "e0c38e49d03dce4253133e60652c7dd7": {
+    "text": "[ Un Vek a été empêché un autre Vek de faire surface ]"
+  },
+  "c31c5a7f04b6f9dd0afd5a92e38d049a": {
+    "text": "[ Un Vek a fait surface. Verrouillage des capteurs sur lui ]"
+  },
+  "9f3314d66366d0af3bc391423677c4e5": {
+    "text": "[ Un Vek tente de faire surface sous cette unité Mech ]"
+  },
+  "d7ef1129db82494bb360368954fdac5b": {
+    "text": "[ A.C.I.D. libéré ]"
+  },
+  "29d3cff880a4ab6f40ab878258a81446": {
+    "text": "[ L'engin Alien contient un occupant extra-terrestre et une langue de construction inconnue ]",
+    "review": true
+  },
+  "72c357c6a23f9e943fab64c6e074febd": {
+    "text": "[ Les chars d'archives sont actifs ]"
+  },
+  "0fa90898dfcf9929bbcff15302b97db7": {
+    "text": "[ Chars d'archives : les signaux d'appels \"Daddy Warbucks\", \"Mama Bear\", sont maintenant activés ]"
+  },
+  "eecd79d4c568b62e4fa93073ca528596": {
+    "text": "[ Att : Commandant. La ligne temporelle actuel a subi une défaillance catastrophique du système ]"
+  },
+  "79cac401645dff57dd4895c77d26e9b0": {
+    "text": "[ Att : Commandant. La puissance du réseau est presque épuisée ]"
+  },
+  "764b6f27388da714337e0200549ee1a8": {
+    "text": "[ Att : Commandant. Rapport de réactivation avec succès suite à une défaillance du système ]"
+  },
+  "e5b5767a935703cc96352d1f8d70e801": {
+    "text": "[ Att : Commandant: Lancement des protocoles de brèche temporelle ]"
+  },
+  "1ceadd6ddcbfa2e6d6a5ab5637f15fff": {
+    "text": "[ Att : PDG de Pinnacle : Zénith. C'est #self_reverse, provenant d'une ligne temporelle sauvée. Ma banque de données contient des documents essentiels pour la victoire contre le Vek ]"
+  },
+  "ac81cdc76a6502099d3597e087c5ff79": {
+    "text": "[ Att : PDG de Pinnacle : Zénith. C'est #self_reverse, provenant d'une ligne temporelle compromise. Ma banque de données contient des documents essentiels à la survie des humains et des robots. ]"
+  },
+  "c8f2a128a153b3766cab3e4b935ae540": {
+    "text": "[ Att : Zénith. #self_reverse, transmission numéro de désignation et Ligne Temporelle Mortelle vers les archives Pinnacle ]"
+  },
+  "b6f020c64fb03778d05e4750e4ee14aa": {
+    "text": "[ Att : Zénith. #main_reverse, transmission numéro de désignation et Ligne Temporelle Mortelle vers les archives Pinnacle ]"
+  },
+  "75201a3522b7481c2baa996eef3e200a": {
+    "text": "[ Tentative de projection de réplique ... calcul en cours...]"
+  },
+  "b77bc814889707f80a95f2f34c923701": {
+    "text": "[ Bombe amorcée ]"
   }
 }
