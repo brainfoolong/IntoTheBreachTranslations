@@ -29,13 +29,13 @@ const addTranslation = function (str, file, context, data) {
   }
 };
 
-// parse lua text* files
+// parse lua files
 (function () {
-  const files = shared.getLuaFiles(shared.config.gamesrc, '/scripts/text(\.|_)')
+  let files = shared.getLuaFiles(shared.config.gamesrc, '/scripts/(text\.|text_)')
   const tableExpressionParse = function (data) {
     let ret = []
     if (data.type !== 'TableConstructorExpression') {
-      return null
+      return []
     }
     data.fields.forEach(function (field) {
       if (field.type === 'TableKeyString' || field.type === 'TableValue') {
@@ -66,6 +66,27 @@ const addTranslation = function (str, file, context, data) {
           addTranslation(str, fileRelative)
         })
       }
+    })
+  })
+  files = shared.getLuaFiles(shared.config.gamesrc, '/scripts/(pawns|structures)\.')
+  files.forEach(function (file) {
+    const fileRelative = file.substr(shared.config.gamesrc.length + 1)
+    const ast = luaparse.parse(fs.readFileSync(file).toString())
+    ast.body.forEach(function (row) {
+      const vars = row.variables ? row.variables[0] : null
+      const init = row.init ? row.init[0] : null
+      let fields = []
+      if (init && init.fields) {
+        fields = init.fields
+      }
+      if (init && init.type === 'TableCallExpression' && init.arguments && init.arguments.fields) {
+        fields = init.arguments.fields
+      }
+      fields.forEach(function (value) {
+        if (value.type === 'TableKeyString' && value.key.name === 'Name') {
+          addTranslation(value.value.value, fileRelative)
+        }
+      })
     })
   })
 })();
