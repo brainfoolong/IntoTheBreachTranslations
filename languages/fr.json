@@ -1209,7 +1209,7 @@
     "text": "DÉFENSE"
   },
   "29b3996a28cce1263a7e318ca39f5828": {
-    "text": "Fin Tour"
+    "text": "Fin de Tour"
   },
   "b9f5c797ebbf55adccdd8539a65a0241": {
     "text": "Désactivé"
@@ -1353,7 +1353,7 @@
     "text": "Les données de votre profil n'ont pas pu être entièrement supprimées. Il peut être en lecture seule, ou il peut y avoir des fichiers supplémentaires dans son dossier. Vous pouvez les supprimer manuellement à partir de cet emplacement : \n\n"
   },
   "b5fb5250c024ab8f7ce39acdcf9a2b9f": {
-    "text": "Les données de votre profil n'ont pas pu être supprimées. C'est un problème connu sous OS X. \n\nVous pouvez supprimer manuellement les données de votre profil à partir de cet emplacement : \\n\\n"
+    "text": "Les données de votre profil n'ont pas pu être supprimées. C'est un problème connu sous OS X. \n\nVous pouvez supprimer manuellement les données de votre profil à partir de cet emplacement : \n\n"
   },
   "efd4e6493c7182a44e37a2650dd07ec7": {
     "text": "Victoires :"
@@ -1518,7 +1518,7 @@
     "text": "Modifier Escouade"
   },
   "615624fc402dfb915b3d2898e4eb68f9": {
-    "text": "Débloquer l'Escouade \\\"$1\\\" pour utiliser ce Mech"
+    "text": "Débloquer l'Escouade \"$1\" pour utiliser ce Mech"
   },
   "78f8c33ffd5fe9d5b9304c6095875134": {
     "text": "Mech Verrouillé"
@@ -2815,7 +2815,7 @@
     "text": "Émergent"
   },
   "8472ee1acd4dab558f270fc694f7900d": {
-    "text": "Un Vek va émerger ici au prochain tour. Toute unité bloquant cet endroit subira un dégât."
+    "text": "Un Vek va émerger ici au prochain tour. Toute unité bloquant cet endroit subira 1 de dégât."
   },
   "e7bb517fc64fa519b26ccf3770f432c5": {
     "text": "Tuile Haute"
@@ -3166,7 +3166,7 @@
     "text": "Expérimenté"
   },
   "44b94d3515d8533125f39c47b4e9eaa0": {
-    "text": "Gagne +2 XP en Bonus\\npar tuer."
+    "text": "Gagne +2 XP en Bonus\npar tuer."
   },
   "d5ff54364f7d3103dc0bf37ae3fe5da4": {
     "text": "Bouclier de Départ"
@@ -3250,13 +3250,13 @@
     "text": "Rockman"
   },
   "f527a32072e212b0db04006c10f76446": {
-    "text": "+3 de Santé et\\nImmunisé contre le Feu."
+    "text": "+3 de Santé et\nImmunisé contre le Feu."
   },
   "e073f96da948c492b3c2b233d22a9c44": {
     "text": "Zoltan"
   },
   "aab5247af5de489e220700abfc5a2a70": {
-    "text": "+1 Noyau Réacteur.\\nRéduit HP Mech à 1.\\nGagne Bouclier à chaque tour."
+    "text": "+1 Noyau Réacteur.\nRéduit HP Mech à 1.\nGagne Bouclier à chaque tour."
   },
   "0a6d8caecdb62b9b8f278db13d1ec7b8": {
     "text": "Nous sommes sauvés !"
@@ -5064,13 +5064,13 @@
     "review": true
   },
   "8c46c91cee3cc5cbd262ac34749c23a8": {
-    "text": "Abe Isamu [R.S.T.] Parfois appelé en plaisantant \\\"Sincère Abe\\\" dans de précédente lignes Temporelles, rien ne pourrait être plus loin de la vérité. Au cours des premières années de l'arrivée au pouvoir du PDG Kern, Abe a servi comme «Nettoyeur» (assassin et «boîte noire»), et il a eu de nombreux noms et identités au service de R.S.T. afin s'occuper des «questions difficiles» qui se poseraient et qui devraient être traitées par la société. Il est impitoyable quand on lui donne un objectif (dans ce cas, combattre le Vek), et sert de support au sol dans sa chronologie originale avant de voler un Mech d'un pilote mourant et d'utiliser sa technologie de brèche pour échapper à la ligne de temps. dans l'île volcanique. Depuis lors, \\\"\\\" Abe \\\"\\\" a suivi les ordres de son premier PDG Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne de temps soit vaincu ... une tâche désespérée, mais \\\"\\\" Abe \\\"\\\" réalise qu'il a peu d'autres se battre pour, et même s'il devait rester dans une chronologie qu'il a sauvé, il ne pouvait pas faire face à l'idée que d'autres échéances étaient encore en danger. Il n'a pas encore rencontré sa copie, et si oui, il ne peut pas les reconnaître en raison de la chirurgie et de la fluctuation des identités que son travail exigeait avant l'attaque Vek."
+    "text": "Abe Isamu [R.S.T.] Parfois appelé en plaisantant \"Sincère Abe\" dans de précédente lignes Temporelles, rien ne pourrait être plus loin de la vérité. Au cours des premières années de l'arrivée au pouvoir du PDG Kern, Abe a servi comme «Nettoyeur» (assassin et «boîte noire»), et il a eu de nombreux noms et identités au service de R.S.T. afin s'occuper des «questions difficiles» qui se poseraient et qui devraient être traitées par la société. Il est impitoyable quand on lui donne un objectif (dans ce cas, combattre le Vek), et sert de support au sol dans sa chronologie originale avant de voler un Mech d'un pilote mourant et d'utiliser sa technologie de brèche pour échapper à la ligne de temps. dans l'île volcanique. Depuis lors, \"\" Abe \"\" a suivi les ordres de son premier PDG Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne de temps soit vaincu ... une tâche désespérée, mais \"\" Abe \"\" réalise qu'il a peu d'autres se battre pour, et même s'il devait rester dans une chronologie qu'il a sauvé, il ne pouvait pas faire face à l'idée que d'autres échéances étaient encore en danger. Il n'a pas encore rencontré sa copie, et si oui, il ne peut pas les reconnaître en raison de la chirurgie et de la fluctuation des identités que son travail exigeait avant l'attaque Vek."
   },
   "e7f3774d2366e0e9985236f6022b0733": {
-    "text": "Harold Schmidt [Archives] Harold est aussi proche qu'ils viennent à une ingénierie \\\"\\\" sociopath \\\"\\\" (ce n'est pas le terme clinique - collègues de travail dans les délais antérieurs utilisé pour l'appeler un \\\"\\\" technopathe \\\"\\\", mais même ce n'est pas un terme précis pour son manque d'empathie et de compétences sociales). Il trouve les humains mal à l'aise et confus, et prend du réconfort dans le bricolage avec la robotique et les machines qui ont des règles claires et des raisons de ce qu'ils font. Dans sa chronologie originale, il servit un bref mandat à Detritus (où il semblait s'ennuyer et peu communicatif), puis fut repoussé de Pinnacle à cause de son examen psychologique, puis trouva une maison dans les archives, étudiant et faisant des travaux de restauration sur la robotique. Il a d'abord appliqué à l'appel ouvert d'Archive pour la formation de pilote afin qu'il puisse le rapprocher de la technologie Mech, puis il a découvert qu'il a bien réussi l'examen pilote (mieux que la plupart des bénévoles d'Archives), et il a accepté de servir comme soldat. un moyen de lui donner accès à la pointe de la technologie Mech. (Notez que Harold ne supporte aucune malveillance envers Detritus et Pinnacle, et qu'ils ne lui portent aucune mauvaise volonté ... cependant, le prédécesseur de Singh et Zenith ont vu le manque d'empathie d'Harold, et ils craignaient que cela ne mène à des accidents. ou mépris de la vie humaine pendant qu'il exerçait ses fonctions.)"
+    "text": "Harold Schmidt [Archives] Harold est aussi proche qu'ils viennent à une ingénierie \"\" sociopath \"\" (ce n'est pas le terme clinique - collègues de travail dans les délais antérieurs utilisé pour l'appeler un \"\" technopathe \"\", mais même ce n'est pas un terme précis pour son manque d'empathie et de compétences sociales). Il trouve les humains mal à l'aise et confus, et prend du réconfort dans le bricolage avec la robotique et les machines qui ont des règles claires et des raisons de ce qu'ils font. Dans sa chronologie originale, il servit un bref mandat à Detritus (où il semblait s'ennuyer et peu communicatif), puis fut repoussé de Pinnacle à cause de son examen psychologique, puis trouva une maison dans les archives, étudiant et faisant des travaux de restauration sur la robotique. Il a d'abord appliqué à l'appel ouvert d'Archive pour la formation de pilote afin qu'il puisse le rapprocher de la technologie Mech, puis il a découvert qu'il a bien réussi l'examen pilote (mieux que la plupart des bénévoles d'Archives), et il a accepté de servir comme soldat. un moyen de lui donner accès à la pointe de la technologie Mech. (Notez que Harold ne supporte aucune malveillance envers Detritus et Pinnacle, et qu'ils ne lui portent aucune mauvaise volonté ... cependant, le prédécesseur de Singh et Zenith ont vu le manque d'empathie d'Harold, et ils craignaient que cela ne mène à des accidents. ou mépris de la vie humaine pendant qu'il exerçait ses fonctions.)"
   },
   "88dcad697554f66bbf6a120c5107cb14": {
-    "text": "Prospero [détritus] Dans son calendrier original, Prospero était un robot recycleur de Detritus. Son travail consistait à surveiller la sécurité de la région dans les sites d'élimination de détritus, mais il a été gravement endommagé dans un accident d'élimination (c'était dans les jours avant que Vikram était le PDG). Le robot \\\"recycleur recyclé\\\" a été vendu à prix réduit à Archive comme jardinier pour certaines des réserves naturelles, et il a semblé prendre à l'œuvre, traduisant ses connaissances de la chimie et la technologie de recyclage pour aider à cultiver des jardins (et quand n'était pas capable de faire ceci, il dévorerait tous les livres sur la botanique, la biologie, et même les livres spirituels liés à la croissance et à la croissance de toutes les formes de vie). Il serait probablement resté un jardinier hulking tranquille si ce n'était de l'émergence du Vek. Lorsque le Vek a éclaté sur Archive, le robot a suivi ses directives pour protéger les réserves naturelles ... et a vu le Vek comme rien de plus que des parasites de jardin à éliminer pour protéger les plantes. Lorsque les archives furent en mesure d'envoyer des renforts dans la région, ils découvrirent que Prospero gardait tranquillement son jardin, maintenant fertilisé avec des cadavres Vek."
+    "text": "Prospero [détritus] Dans son calendrier original, Prospero était un robot recycleur de Detritus. Son travail consistait à surveiller la sécurité de la région dans les sites d'élimination de détritus, mais il a été gravement endommagé dans un accident d'élimination (c'était dans les jours avant que Vikram était le PDG). Le robot \"recycleur recyclé\" a été vendu à prix réduit à Archive comme jardinier pour certaines des réserves naturelles, et il a semblé prendre à l'œuvre, traduisant ses connaissances de la chimie et la technologie de recyclage pour aider à cultiver des jardins (et quand n'était pas capable de faire ceci, il dévorerait tous les livres sur la botanique, la biologie, et même les livres spirituels liés à la croissance et à la croissance de toutes les formes de vie). Il serait probablement resté un jardinier hulking tranquille si ce n'était de l'émergence du Vek. Lorsque le Vek a éclaté sur Archive, le robot a suivi ses directives pour protéger les réserves naturelles ... et a vu le Vek comme rien de plus que des parasites de jardin à éliminer pour protéger les plantes. Lorsque les archives furent en mesure d'envoyer des renforts dans la région, ils découvrirent que Prospero gardait tranquillement son jardin, maintenant fertilisé avec des cadavres Vek."
   },
   "8a55f81685ce71ac854a45ade12a8d72": {
     "text": "Vous avez accompli toutes les missions Archivés, un accomplissement surprenant ! Je vous en pris, vous et l'#squad acceptez cela comme des remerciements."
@@ -5263,7 +5263,7 @@
     "text": "Avec cette région sécurisée, nous pouvons ouvrir nos Vestiges Technologiques. Voyons quelle autre technologie de l'Ancienne Terre nous pouvons utiliser contre les Veks !"
   },
   "244b6d2307b824878b1bc52267d8b011": {
-    "text": "C'est l'esprit dont nous avons besoin si nous voulons gagner ce combat. Bon travail, à la fois vous et votre ... \\\"#squad\\\"."
+    "text": "C'est l'esprit dont nous avons besoin si nous voulons gagner ce combat. Bon travail, à la fois vous et votre ... \"#squad\"."
   },
   "88b7943827484b410084768fa503800e": {
     "text": "Excellent, vous avez gagné du terrain - nous le conserverons à présent, vous et votre équipe continuez d'avancer."
@@ -5428,7 +5428,7 @@
     "text": "Je n'ai eu d'autre choix que d'assigner toutes les divisions d'ingénierie d'urgence pour réparer votre Mechs. Cela compromettra sérieusement les efforts de défense de Détritus."
   },
   "d1ab9c219f5374d20c7f54d6cd595be1": {
-    "text": "Nos équipes de réparation rapportent - ah, je cite ... \\\"il y a plus de métal déchiqueté que de Mech\\\" et concluent avec un ... non optimiste ... rapport des chances de réparation."
+    "text": "Nos équipes de réparation rapportent - ah, je cite ... \"il y a plus de métal déchiqueté que de Mech\" et concluent avec un ... non optimiste ... rapport des chances de réparation."
   },
   "34eaa348f6fd11c89a26fcab9f434a1f": {
     "text": "Nos pilotes rapportent que l'#squad est tellement endommagé qu'ils ne rentrent quasiment pas dans les baies d'amarrage. Nous devrons affecter du personnel supplémentaire pour les réparations."
@@ -5755,7 +5755,7 @@
     "text": "Interceptez les Veks dans ce secteur, mais ne faites pas de mal au Vek Volant - manipulez-le sans le tuer ou les dégâts seront catastrophiques."
   },
   "ebf2c2b3ba7db06bd709b3dc4fd3a31f": {
-    "text": "Nous avons identifié un Vek Volant dans ce secteur, Commandant - \\\"encouragez-le\\\" à se retirer - sans le tuer."
+    "text": "Nous avons identifié un Vek Volant dans ce secteur, Commandant - \"encouragez-le\" à se retirer - sans le tuer."
   },
   "2a4e4445636a6cdbe523f30a2203e4fe": {
     "text": "Je suis sûr que ce Vek explosif sera de retour, mais au moins rien n'a été endommagé. Hmm... Nous devrions doubler la protection contre les explosions des vestiges avant qu'il ne revienne ..."
@@ -5899,7 +5899,7 @@
     "text": "Citoyens #corp présent dans ce bâtiment - ils sont en sécurité !"
   },
   "b274d919769dd7b94ea910fafefbabc3": {
-    "text": ""
+    "text": "L'infrastructure #corp est à risque. Retraite de Veks de la zone de combat."
   },
   "0009afd4cc45528bb04f10c405836d54": {
     "text": "(Un perdu)"
@@ -6101,5 +6101,107 @@
   },
   "6a88b2cc74bfe013d5bae98900ae90ae": {
     "text": "#main_first !"
+  },
+  "2a247e0fa362e9796ac31d23cf65d723": {
+    "text": "#corp n'est pas prêt d'aimer ça ..."
+  },
+  "c0d214c29a3b9724afab73d8aec78cc6": {
+    "text": "Défaillance du Réseau Électrique #corp."
+  },
+  "636434962003195e4a162e1767ee98a0": {
+    "text": "Le Réseau Électrique #corp est proche de l'effondrement."
+  },
+  "26c2791cbb07acd811e43cda2bb26330": {
+    "text": "La structure #corp a résisté à l'agression."
+  },
+  "4fdec5dd3170d7e1097a6569726f2277": {
+    "text": "Train #corp compromis mais non détruit."
+  },
+  "f388a99e1c99ff3f37c5e449522d4712": {
+    "text": "Train #corp détruit. Conseiller de réutiliser la coque du train comme pot géant à arbres.",
+    "review": true
+  },
+  "caf3e6e09309f599d230bc460cff0aae": {
+    "text": "Train #corp désassembler."
+  },
+  "6d30487f45c232f806166c8907769325": {
+    "text": "Train #corp a été détruit. Conseiller d'enlever le chemin de fer pour créer plus de terres arables."
+  },
+  "163ec2ec90642613360463d4c22ccbb5": {
+    "text": "Train #corp a expérimenté un accident. Recommander l'exécution et le remplacement des pièces offensantes."
+  },
+  "ea42c4bea704796cf85dfad72b2a3ada": {
+    "text": "Train #corp partiellement démonté."
+  },
+  "0a4997ea614675a827b2980ddeb54e66": {
+    "text": "Train #corp détruit ! Nous l'avons perdu."
+  },
+  "58e5f8737eac43dd16fe06a9519e9024": {
+    "text": "Train #corp nécessite réparation avant de dépasser la garantie."
+  },
+  "75735da788beed64e39348d23efac2df": {
+    "text": "Les réparations du train #corp sont couvertes par la garantie."
+  },
+  "960ee6fc54bbaddd747d4ceefd9acbc0": {
+    "text": "Train #corp détruit. Concentrer le feu sur les Veks."
+  },
+  "b2c89efeb694245b8c2617d07a53eb64": {
+    "text": "#corp comptait sur ce train."
+  },
+  "492c6b87c43447c26fcd12181f34c5cc": {
+    "text": "#corp, nous avons le lancement !"
+  },
+  "0bcdbdbe76e6e6757b4ce5415c923b34": {
+    "text": "#main_full a été optimisé. Mise à jour des routines Vekticide."
+  },
+  "13c2c04dc78f02dd9a263dc03927841b": {
+    "text": "#main_full a cessé de fonctionner."
+  },
+  "0349ecd444eed8ac3e1dd8b32501c5a8": {
+    "text": "#main_full promotion enregistrée."
+  },
+  "916ffa710883e2cd2c3edbc86c0f4889": {
+    "text": "#main_full ! P-P-pas toi aussi ..."
+  },
+  "3d0afe3d257ef81239a137db9c7f6e27": {
+    "text": "Les signes de vie de #main_full ont cessé."
+  },
+  "1ae0a90f3235ea8251ebb096b700d0db": {
+    "text": "#main_full, vous vous souviendrez."
+  },
+  "d799e8778a833dab8c40631fce9a0879": {
+    "text": "#main_mech numéro de désignation enregistré pour le prochain pilote qualifié."
+  },
+  "0b558e5b581a967a7f134523d25ae4ac": {
+    "text": "#main_mech a été jugé inapte au service actif."
+  },
+  "b87ff586bb4e771eba6d6104e3d25e27": {
+    "text": "#main_mech n'a pas réussi à protéger son hôte. Demande que le Mech soit discipliné."
+  },
+  "4dab578e7ad7adddd03e29621011871f": {
+    "text": "#main_mech agit maintenant comme une obstruction au combat."
+  },
+  "52370ee430f4f35d551888d9ce43e1ea": {
+    "text": "#main_mech est maintenant prêt pour le prochain pilote.",
+    "review": true
+  },
+  "b96455fcd8947a3912c84f6de35b136c": {
+    "text": "#main_mech est en panne !",
+    "review": true
+  },
+  "457968d66cc6ae8b203294910321cc97": {
+    "text": "Les parties de #main_mech ont échoué dans leur mission principale de protéger leur hôte."
+  },
+  "56a6ab8bf65dddda4d99f16a1c26bf3a": {
+    "text": "Le pilote de #main_mech a réalisé une synergie avec son partenaire."
+  },
+  "59c0aebe089e1ace10583ac6825284f3": {
+    "text": "L'ensemble des compétences de #main_mech ont réussi à supprimer tous les Veks de la zone de travail menacée."
+  },
+  "1cedeffddcd0e365b5808d0927edd0e1": {
+    "text": "La formation #main_mech de son pilote a réussi."
+  },
+  "3006058611005e5a9cbbcbb667c21e2e": {
+    "text": "#main_mech : Détruit\nEfficacité Tactique: Compromise"
   }
 }
