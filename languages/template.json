@@ -13500,7 +13500,7 @@
     }
   },
   "22285fd47a9f69885d64fdf481211cbd": {
-    "text": "Pilot #main_second: Deceased\\nTactical Efficiency: Compromised",
+    "text": "Pilot #main_second: Deceased\nTactical Efficiency: Compromised",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -13773,7 +13773,7 @@
     }
   },
   "3006058611005e5a9cbbcbb667c21e2e": {
-    "text": "#main_mech: Destroyed\\nTactical Efficiency: Compromised",
+    "text": "#main_mech: Destroyed\nTactical Efficiency: Compromised",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -13992,7 +13992,7 @@
     ]
   },
   "21a04cbf1812055dcf4064b12226b0c4": {
-    "text": "[ Initiating breach farewell protocol ]\\n[ All Pinnacle thanks you, #squad ]",
+    "text": "[ Initiating breach farewell protocol ]\n[ All Pinnacle thanks you, #squad ]",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -14175,7 +14175,7 @@
     }
   },
   "6b80712939a4aa9fff4a01522b0a9df9": {
-    "text": "Status: Power Grid collapsing\\nVek: Unstoppable",
+    "text": "Status: Power Grid collapsing\nVek: Unstoppable",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -14412,7 +14412,7 @@
     }
   },
   "5eef590b2a8643e0ec556a7f95b9e1ef": {
-    "text": "Humanity: Destroyed\\nInitiate: Time breach",
+    "text": "Humanity: Destroyed\nInitiate: Time breach",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -16434,7 +16434,7 @@
     }
   },
   "224a14e63d19b821dc8e57ce4026ef95": {
-    "text": "Update: Mission successful\\nObjective: Completed",
+    "text": "Update: Mission successful\nObjective: Completed",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -17547,7 +17547,7 @@
     }
   },
   "2c0b7dd529494969b46e6e93e6f7d00a": {
-    "text": "Update: Target acquired\\nMission: Destroy Vek hive",
+    "text": "Update: Target acquired\nMission: Destroy Vek hive",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -21672,7 +21672,7 @@
     }
   },
   "7f32f9bf8568ff894ad41e1486c41b60": {
-    "text": "#main_reverse: Evaluating...\\nTactical Efficiency: Increased",
+    "text": "#main_reverse: Evaluating...\nTactical Efficiency: Increased",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -22131,7 +22131,7 @@
     }
   },
   "a6d5766f7df4e2fee99525bf48100258": {
-    "text": "Update: Vek submerged\\nSecondary Update: Vek life signs have ceased",
+    "text": "Update: Vek submerged\nSecondary Update: Vek life signs have ceased",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -23844,7 +23844,7 @@
     ]
   },
   "7398af875550623223e58a6a02456f36": {
-    "text": "Update: Target destroyed\\nCause of Death: Friendly Fire",
+    "text": "Update: Target destroyed\nCause of Death: Friendly Fire",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -24660,19 +24660,19 @@
     ]
   },
   "bdf76be9809156208cc3765b05a99b76": {
-    "text": "Tactical Efficiency: Optimal+\\nUpdate: Cataloguing new tactics",
+    "text": "Tactical Efficiency: Optimal+\nUpdate: Cataloguing new tactics",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
   },
   "bf1b36df7344c28258d3b766adc656ff": {
-    "text": "Update: Targets destroyed\\nCause of Death: Friendly fire",
+    "text": "Update: Targets destroyed\nCause of Death: Friendly fire",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
   },
   "3daf43f47ea44823b54671b868712d6b": {
-    "text": "Update: Targets deleted\\nCause: IFF failure",
+    "text": "Update: Targets deleted\nCause: IFF failure",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -24831,7 +24831,7 @@
     }
   },
   "eeeb74daf62b0f97bf6bc5db586916bb": {
-    "text": "Accessing: Region topography\\nUpdated: Mountain deleted",
+    "text": "Accessing: Region topography\nUpdated: Mountain deleted",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -25479,7 +25479,7 @@
     ]
   },
   "3f56c2b36a4991e98f440f069940e858": {
-    "text": "Accessing: Island pop. database\\nUpdated: Civilians lost",
+    "text": "Accessing: Island pop. database\nUpdated: Civilians lost",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -25947,7 +25947,7 @@
     ]
   },
   "3afa4e5717b5bf2f30c76d1883a44e65": {
-    "text": "Update: Tactical algorithms\\nUpdating: Civilian priority",
+    "text": "Update: Tactical algorithms\nUpdating: Civilian priority",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -26484,7 +26484,7 @@
     ]
   },
   "6b33a4b9ea7fdf7cbad569dcbc8a9458": {
-    "text": "Scanning: Train schematics\\nDiagnostic: Recoverable",
+    "text": "Scanning: Train schematics\nDiagnostic: Recoverable",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -26670,7 +26670,7 @@
     ]
   },
   "61d7df5899ffac084d98e587e7a9399c": {
-    "text": "Update: Train destroyed\\nObjective: Failed",
+    "text": "Update: Train destroyed\nObjective: Failed",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -28071,13 +28071,13 @@
     }
   },
   "d76fe98f0157b28c9c7b6188862f52fc": {
-    "text": "Accessing: Region topography\\nUpdated: River now online",
+    "text": "Accessing: Region topography\nUpdated: River now online",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
   },
   "bccdcdfa34d3b6cd935219a1fdedecfd": {
-    "text": "Update: Vek tunneling prevented\\nCause: Water barrier",
+    "text": "Update: Vek tunneling prevented\nCause: Water barrier",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -28857,7 +28857,7 @@
     }
   },
   "5401628e1edb0c5eaf4051457e1a88ba": {
-    "text": "Warning: Detonation detected\\nCause: Proximity mine",
+    "text": "Warning: Detonation detected\nCause: Proximity mine",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -29265,7 +29265,7 @@
     }
   },
   "32c9f59861aae67aa84095f00348276e": {
-    "text": "Accessing: Region topography\\nUpdated: Terraforming successful",
+    "text": "Accessing: Region topography\nUpdated: Terraforming successful",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -29436,7 +29436,7 @@
     }
   },
   "fa80e47577ce338a9da543a1257d1815": {
-    "text": "Accessing: Region topography\\nUpdated: Canyon added to database",
+    "text": "Accessing: Region topography\nUpdated: Canyon added to database",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -30204,13 +30204,13 @@
     }
   },
   "6da7da095ccfc90e5742c0212e3a1da3": {
-    "text": "Update: Vek in hibernation mode\\nCause: Pinnacle cryo-mine",
+    "text": "Update: Vek in hibernation mode\nCause: Pinnacle cryo-mine",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
   },
   "119153225a93b47cf2d88e324f375f19": {
-    "text": "Update: Vek mobility at 0%\\nCause: Pinnacle cryo-mine",
+    "text": "Update: Vek mobility at 0%\nCause: Pinnacle cryo-mine",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -31044,13 +31044,13 @@
     }
   },
   "0c35db130bb2a58b1b1dc8452ef5e481": {
-    "text": "Update: Vek in hibernation mode\\nCause: Meteorological",
+    "text": "Update: Vek in hibernation mode\nCause: Meteorological",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
   },
   "d2f1792a727684d99b390eeaa1ea22b4": {
-    "text": "Update: Vek mobility at 0%\\nCause: Meteorological",
+    "text": "Update: Vek mobility at 0%\nCause: Meteorological",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -31233,19 +31233,19 @@
     ]
   },
   "33f789f1e7f1a9e9c5396d7e7a345e8f": {
-    "text": "Warning: Mobility compromised\\nCause: Meteorological",
+    "text": "Warning: Mobility compromised\nCause: Meteorological",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
   },
   "b257ed02f2386efed0062f923e695e3d": {
-    "text": "Warning: Mobility at 0%\\nCause: Meteorological",
+    "text": "Warning: Mobility at 0%\nCause: Meteorological",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
   },
   "fa3023d5812b1e146c0bb2ad16a1d8b8": {
-    "text": "Warning: Mobility compromised\\nCause: Unfavorable weather conditions",
+    "text": "Warning: Mobility compromised\nCause: Unfavorable weather conditions",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
@@ -31428,13 +31428,13 @@
     }
   },
   "10eee25799113419544e753d88eb3786": {
-    "text": "Update: Target decommissioned\\nArchiving: Factory serial number to casualty reports",
+    "text": "Update: Target decommissioned\nArchiving: Factory serial number to casualty reports",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
   },
   "c1d1d0fa1cc967fe9369660d8eeed9bd": {
-    "text": "Update: Target deactivated\\nArchiving: Factory serial number to casualty reports",
+    "text": "Update: Target deactivated\nArchiving: Factory serial number to casualty reports",
     "files": [
       "scripts/personalities/pilots.csv"
     ]
