@@ -5,7 +5,7 @@ This are the tools to automatically parse all game files for language keys. To r
 ## Resource.dat pack/unpack/modify
 The `resource.dat` file contains images and fonts files for the game. Maybe you have to modify it for your language. In preparation you must setup your `config.js` as described bellow.
 * To unpack the resource.dat run `node resource-dat-unpack.js` - It will extract the resource files into `dat-files-extracted`
-* To re-pack the resource.dat run `node resource-dat-unpack.js` - `dat-files-extracted/*` and `dat-files-modified/{language}/*` into `dat-generated/resource.dat`
+* To re-pack the resource.dat run `node resource-dat-pack.js`. The `dat-files-extracted/*` and `dat-files-modified/{language}/*` will be merged into `dat-generated/resource.dat`
   * If you have modified files for the resource.dat, copy it into `dat-files-modified/{language}`, create the folder if not exist. This will be taken when you run the pack tool.
     
 ## generate the .zip files and update your game files
