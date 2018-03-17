@@ -25,7 +25,7 @@ module.exports = function () {
    * @param relativePath
    */
   function readDirectory (relativePath) {
-    let path = extractFolder + relativePath
+    let path = extractFolder + '/' + shared.config.langInGameDir + relativePath
     if (fs.existsSync(path)) {
       fs.readdirSync(path).forEach(function (file) {
         const curRelativePath = relativePath + '/' + file
