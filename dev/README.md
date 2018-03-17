@@ -16,8 +16,8 @@ Run `node update-translation-template.js`. If you are missing translation keys, 
 
 ## config.js
 Copy the `config.tpl.js` to `config.js` and modify it to your needs.
-* `gamedir` is the original game folder, where the tools write the files into, when configured
-* `gamesrc` means that this should be a copied folder of the original game folder (unmodified), it will be took as source for modifications.
+* `gamedir` is the original game folder, where the tools write the files into, when configured. On windows, don't use backslahes `\`, use normal slashes `/` for the path. Also don't forget the drive letter at beginning, like `c:/`
+* `gamesrc` means that this should be a copied folder of the original game folder (unmodified), it will be took as source for modifications. On windows, don't use backslahes `\`, use normal slashes `/` for the path. Also don't forget the drive letter at beginning, like `c:/`
 * `langInGameDir` is the target language that you modify, it's required for the tools to decide what language it should write into your game files
 * `editorPort` If you use the `editor` to translate
 * `editorLanguage` If you use the `editor` to translate
