@@ -29,6 +29,9 @@ The work on the tools and everything to get this thing ready for real translator
 ## How to contribute
 Follow [this guide](https://github.com/brainfoolong/IntoTheBreachTranslations/tree/master/dev/editor)
 
+## How the dev tools work
+Head to [this guide](https://github.com/brainfoolong/IntoTheBreachTranslations/tree/master/dev)
+
 ## Note
 I've contacted the Developer SubsetGames. This project is ok for them, right now. But maybe things will change in the future. Thanks for being open to fan mods.
 
