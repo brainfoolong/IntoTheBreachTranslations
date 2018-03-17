@@ -1,12 +1,12 @@
 {
   "7a611cb8db26e166677db7f79f3e9bae": {
-    "text": "Lorsque vous êtes confronté à de nouveaux ennemis, assurez-vous de connaître leurs capacités. \\n\\nMaintenir $1 en passant la souris sur les unités pour les examiner"
+    "text": "Lorsque vous êtes confronté à de nouveaux ennemis, assurez-vous de connaître leurs capacités. \n\nMaintenir $1 en passant la souris sur les unités pour les examiner"
   },
   "459cdfba3327e4147509600ac5274e04": {
     "text": "Inspecter Unités"
   },
   "707838e56b572a9b5dd23b103ad63943": {
-    "text": "C'est le Réseau Électrique. Quand un bâtiment est endommagé, il sera réduit. \\n\\nSi il est réduite à zéro, vous PERDEZ."
+    "text": "C'est le Réseau Électrique. Quand un bâtiment est endommagé, il sera réduit. \n\nSi il est réduite à zéro, vous PERDEZ."
   },
   "2bf97b37e0ebb32011b7a549c3ce28be": {
     "text": "Réseau Électrique"
@@ -18,13 +18,13 @@
     "text": "Cibles Valides"
   },
   "8c948cedd526df19bb93034b8ad672fb": {
-    "text": "Chaque attaque ennemie est révélé. Au prochain tour, celui-ci attaquera les bâtiments. \\n\\nSurvoler un ennemi pour voir les détails de son attaque."
+    "text": "Chaque attaque ennemie est révélé. Au prochain tour, celui-ci attaquera les bâtiments. \n\nSurvoler un ennemi pour voir les détails de son attaque."
   },
   "2caaefba39a1799de7150e580fd8f600": {
     "text": "Attaques Ennemies"
   },
   "6bd9a477bce827800b72d842bbdd1b11": {
-    "text": "Ceci est votre Mech Combat. Il peut frapper n'importe quelle tuile adjacente. \\n\\nCliquer sur votre Mech, rapprocher-le de l'ennemi et frapper-le."
+    "text": "Ceci est votre Mech Combat. Il peut frapper n'importe quelle tuile adjacente. \n\nCliquer sur votre Mech, rapprocher-le de l'ennemi et frapper-le."
   },
   "63f576609c53092d7264d07d5b80bfa4": {
     "text": "Mech Combat"
@@ -33,10 +33,10 @@
     "text": "Désactivé l'Escouade"
   },
   "5b6e7257af6df874b42fa879f8ecfd00": {
-    "text": "Tous vos Mechs étaient désactivés. Dans les batailles normales, les Veks poursuivraient leurs attaques et la mission se terminerait. \\n\\nPour ce tutoriel, vos Mechs ont été entièrement réparés."
+    "text": "Tous vos Mechs étaient désactivés. Dans les batailles normales, les Veks poursuivraient leurs attaques et la mission se terminerait. \n\nPour ce tutoriel, vos Mechs ont été entièrement réparés."
   },
   "bc801be4f12b39d1935e65b84748c512": {
-    "text": "Votre Réseau Électrique a été réduit à zéro. Normalement, cela signifierait Fin de Partie. \\n\\nPuisque c'est une simulation, vous pouvez continuer à combattre les Veks."
+    "text": "Votre Réseau Électrique a été réduit à zéro. Normalement, cela signifierait Fin de Partie. \n\nPuisque c'est une simulation, vous pouvez continuer à combattre les Veks."
   },
   "5282c58be05cdecc1308241480b66276": {
     "text": "Fin de Partie"
@@ -51,13 +51,13 @@
     "text": "Frapper cet ennemi !"
   },
   "66b4cdda1eb071c99ca566b176bf5511": {
-    "text": "La frappe de votre Mech a POUSSÉ cette unité. Elle va maintenant attaquer un nouvel emplacement ! \\n\\nLes coup de Poussées peuvent sauver des bâtiments des attaques ennemies, voir même faire en sorte qu'ils s'attaquent entre eux."
+    "text": "La frappe de votre Mech a POUSSÉ cette unité. Elle va maintenant attaquer un nouvel emplacement ! \n\nLes coup de Poussées peuvent sauver des bâtiments des attaques ennemies, voir même faire en sorte qu'ils s'attaquent entre eux."
   },
   "16dfad33b74d8e4c77b57687b53e6c0d": {
     "text": "Pousser Ennemis"
   },
   "e3329be7c31805454dac7585bb703cd3": {
-    "text": "Ceci est votre Mech Char. \\n\\nIl tire un projectile qui se déplace en ligne droite jusqu'à ce qu'il touche un autre objet."
+    "text": "Ceci est votre Mech Char. \n\nIl tire un projectile qui se déplace en ligne droite jusqu'à ce qu'il touche un autre objet."
   },
   "a63265e2590fcfe7a61ba6c5806d608e": {
     "text": "Mech Char"
@@ -69,13 +69,13 @@
     "text": "Remplir Missions"
   },
   "a76906f62cdf1b770f2b66e0ee0a6e3f": {
-    "text": "Les missions ont également des objectifs bonus. \\n\\nCompléter ceux-ci vous permettront de gagner des ressources supplémentaires après la bataille."
+    "text": "Les missions ont également des objectifs bonus. \n\nCompléter ceux-ci vous permettront de gagner des ressources supplémentaires après la bataille."
   },
   "89f0c4114c402e287e2ed786df463063": {
     "text": "Objectifs Bonus"
   },
   "06ceb4ba26e51c80e069d06f19cd6d00": {
-    "text": "Cliquer sur une arme pour l'utiliser. Les touches numériques fonctionnent également comme raccourcis. \\n\\nVous ne pouvez plus vous déplacer après avoir utilisé une arme."
+    "text": "Cliquer sur une arme pour l'utiliser. Les touches numériques fonctionnent également comme raccourcis. \n\nVous ne pouvez plus vous déplacer après avoir utilisé une arme."
   },
   "25fb77433fd72bb4999f090603f41223": {
     "text": "Utiliser Arme"
@@ -93,7 +93,7 @@
     "text": "Char de l'Ancienne Terre"
   },
   "c7fc05495bef77dcbf37de1658d63bf8": {
-    "text": "Cette unité Terraformeur est sous votre contrôle durant cette mission. \\n\\nUtiliser-la pour transformer les tuiles Herbe en tuiles Sable."
+    "text": "Cette unité Terraformeur est sous votre contrôle durant cette mission. \n\nUtiliser-la pour transformer les tuiles Herbe en tuiles Sable."
   },
   "67afce2a780e19d188c01e76dc0fcc98": {
     "text": "Terraformeur"
@@ -105,10 +105,10 @@
     "text": "Vek Volant"
   },
   "bf4c61c58093b0c6acaaec1f1f98655b": {
-    "text": "Attention : Cette mission finale est encore en développement. \\n\\nElle est moins soignée et toujours en cours de conception. \\n\\nVous devriez tout de même la trouver à peu près jouable. Bonne chance !"
+    "text": "Attention : Cette mission finale est encore en développement. \n\nElle est moins soignée et toujours en cours de conception. \n\nVous devriez tout de même la trouver à peu près jouable. Bonne chance !"
   },
   "80cfd3dc2522979f617b789988caa81a": {
-    "text": "Attention : Ce fichier de sauvegarde a été créé avec une version précédente d'Into the Breach. \\n\\nPuisque le jeu est toujours en développement, je ne peux pas garantir une rétrocompatibilité complète pour chaque mise à jour et vous pourriez rencontrer des problèmes avec cette sauvegarde. \\n\\nCela dit, les chances sont bonnes pour que vous ne rencontriez aucun problème. Désolé pour les problèmes éventuels !"
+    "text": "Attention : Ce fichier de sauvegarde a été créé avec une version précédente d'Into the Breach. \n\nPuisque le jeu est toujours en développement, je ne peux pas garantir une rétrocompatibilité complète pour chaque mise à jour et vous pourriez rencontrer des problèmes avec cette sauvegarde. \n\nCela dit, les chances sont bonnes pour que vous ne rencontriez aucun problème. Désolé pour les problèmes éventuels !"
   },
   "26720c3c8efbb1bd1e01cc44f79f527e": {
     "text": "Pilote Alimenté"
@@ -120,7 +120,7 @@
     "text": "A.C.I.D."
   },
   "76d8ec0666c0fab587c5bf248c970921": {
-    "text": "Cette unité est infligée par de l'A.C.I.D. Ses défenses étant corrodées, les Dégâts d'Armes subits seront doublés. \\n\\nTous les autres dégâts (Pousser, Feu, Bloquer, etc...) ne sont pas affectés."
+    "text": "Cette unité est infligée par de l'A.C.I.D. Ses défenses étant corrodées, les Dégâts d'Armes subits seront doublés. \n\nTous les autres dégâts (Pousser, Feu, Bloquer, etc...) ne sont pas affectés."
   },
   "990c0f701cc2208ba127d2cb056e904f": {
     "text": "Cette unité est GELÉE. Elle ne peut pas bouger ou attaquer et restera Gelée jusqu'à ce qu'elle subisse des dégâts."
@@ -138,22 +138,22 @@
     "text": "Boucliers Énergétique"
   },
   "3e9c5f7fa0b0fe9f7011fad81281cd13": {
-    "text": "C'est un Bouclier. Il va bloquer les dégâts et les effets négatifs (Feu, Congélation, A.C.I.D, etc...). \\n\\nSeuls les dégâts directs enlèveront le Bouclier. Non-dommageables , les effets négatifs n'auront aucun effet."
+    "text": "C'est un Bouclier. Il va bloquer les dégâts et les effets négatifs (Feu, Congélation, A.C.I.D, etc...). \n\nSeuls les dégâts directs enlèveront le Bouclier. Non-dommageables , les effets négatifs n'auront aucun effet."
   },
   "55dbfbe175ff6527d393b8ed5f5dbaf3": {
     "text": "Unité Blindée"
   },
   "202ce6b05b7cec61e6d4fddb1ea7034c": {
-    "text": "Cette unité est Blindée. Tous les Dégâts d'Armes subits seront réduits de 1. \\n\\nTous les autres dégâts (Pousser, Feu, Bloquer, etc...) ne sont pas affectés."
+    "text": "Cette unité est Blindée. Tous les Dégâts d'Armes subits seront réduits de 1. \n\nTous les autres dégâts (Pousser, Feu, Bloquer, etc...) ne sont pas affectés."
   },
   "e481cfb5e6c8b599acaecb8a61d588cb": {
-    "text": "Cette mission a un effet spécial qui se produira à chaque tour. \\n\\nPasser la souris sur l'icône d'environnement pour obtenir plus d'informations."
+    "text": "Cette mission a un effet spécial qui se produira à chaque tour. \n\nPasser la souris sur l'icône d'environnement pour obtenir plus d'informations."
   },
   "eef8f44c60f0bf53d874fe9ba034af30": {
     "text": "Effet Environnemental"
   },
   "463e2f306203da28680be887ca694cb4": {
-    "text": "Le Réseau Électrique relie chaque île corporative. Tout dégâts subit lors des missions persisteront. \\n\\nLes Veks ont causé des dégâts avant votre arrivée, mais il sera possible de les restaurer."
+    "text": "Le Réseau Électrique relie chaque île corporative. Tout dégâts subit lors des missions persisteront. \n\nLes Veks ont causé des dégâts avant votre arrivée, mais il sera possible de les restaurer."
   },
   "51aa22fdfacf970f7b3f319b7979e913": {
     "text": "Réseau Électrique Endommagé"
@@ -171,61 +171,61 @@
     "text": "Réseau Défensif Maximisé"
   },
   "0a8d9d72ab120bf3ac77c550a5da0c61": {
-    "text": "Ce bâtiment a résisté aux dégâts ! \\n\\nLa probabilité qu'un bâtiment résiste aux dégâts est indiquée à droite de votre Jauge de Puissance."
+    "text": "Ce bâtiment a résisté aux dégâts ! \n\nLa probabilité qu'un bâtiment résiste aux dégâts est indiquée à droite de votre Jauge de Puissance."
   },
   "a0a3dccc9517e02cb941135edf6b257c": {
     "text": "Puissance Défensive"
   },
   "1599ec0d5be1a70a7c12c7d2401ddac7": {
-    "text": "Cet ennemi Psion fournit un bonus passif à tous les Veks. En le tuant, cela supprimera le bonus. \\n\\nSélectionner le Psion et survoler son portrait en bas à gauche pour plus d'informations."
+    "text": "Cet ennemi Psion fournit un bonus passif à tous les Veks. En le tuant, cela supprimera le bonus. \n\nSélectionner le Psion et survoler son portrait en bas à gauche pour plus d'informations."
   },
   "c138f9d49dd2760a15a5f020f6c5e228": {
     "text": "Psion Vek"
   },
   "f9aaa92e840cc96cc093859c10313f16": {
-    "text": "Cette unité a été Entravée ! \\n\\nSurvoler les icônes d'état en bas à gauche pour voir ce que cela signifie."
+    "text": "Cette unité a été Entravée ! \nSurvoler les icônes d'état en bas à gauche pour voir ce que cela signifie."
   },
   "d1232932ca07dbddb0e2187ea061ac5e": {
     "text": "Mech Entravé"
   },
   "32b6ac51c13ac392d2e9f3e3552be5f2": {
-    "text": "Vous pouvez aller sur les îles que vous avez débloquées dans n'importe quel ordre. \\n\\nLa difficulté des Veks variera en fonction du nombre d'îles que vous avez terminées."
+    "text": "Vous pouvez aller sur les îles que vous avez débloquées dans n'importe quel ordre. \n\nLa difficulté des Veks variera en fonction du nombre d'îles que vous avez terminées."
   },
   "b8999b7dea68d7944c0ce0ec7c4172d2": {
     "text": "Îles Corporatives"
   },
   "e062c810ef865866d424beeb020c7c38": {
-    "text": "Une unité ennemie apparaîtra ici au tour suivant ! \\n\\nVous pouvez empêcher temporairement les ennemis d'apparaître, mais cela endommagera l'unité placée sur la tuile."
+    "text": "Une unité ennemie apparaîtra ici au tour suivant ! \n\nVous pouvez empêcher temporairement les ennemis d'apparaître, mais cela endommagera l'unité placée sur la tuile."
   },
   "6358c03cb8fdb25d688e0b1a339d14fb": {
     "text": "Ennemis Émergents"
   },
   "9c4c96a2a6a710e683c99a81d88fe6a4": {
-    "text": "La FORÊT sur cette tuile à subit des dégâts, la transformant en FEU. \\n\\nSi une unité reste sur la tuile Feu, elle s'enflammera et subira des dégâts à chaque tour."
+    "text": "La FORÊT sur cette tuile à subit des dégâts, la transformant en FEU. \n\nSi une unité reste sur la tuile Feu, elle s'enflammera et subira des dégâts à chaque tour."
   },
   "55777724b549edc905b463c3ff7b3062": {
     "text": "Forêts Enflammées"
   },
   "6a7284aedd257d8ca7e9c644d7efaf73": {
-    "text": "Ce Mech est en feu ! Il prendra un dégâts à chaque tour. \\n\\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront pas attaquer le même tour qu'ils réparent."
+    "text": "Ce Mech est en feu ! Il prendra un dégâts à chaque tour. \n\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront pas attaquer le même tour qu'ils réparent."
   },
   "d80bb429bc44e53c05e76e5d68ba121f": {
     "text": "Mechs Enflammés"
   },
   "3ac6a0bb2ce1d49e7384b9af6a677088": {
-    "text": "Vos Mechs répareront automatiquement tous les dégâts après la bataille. \\n\\nSi un Mech est réduit à 0 points de vie, le Pilote meurt et le Mech est désactivé pour le restant de la bataille."
+    "text": "Vos Mechs répareront automatiquement tous les dégâts après la bataille. \n\nSi un Mech est réduit à 0 points de vie, le Pilote meurt et le Mech est désactivé pour le restant de la bataille."
   },
   "e863b25dbe80b436fe038c1a9f0d6b7b": {
     "text": "Mechs Endommagés"
   },
   "0ba7ed3437d6f9303f93b8de455aa667": {
-    "text": "Ce Mech est affecté par de l'A.C.I.D. ! Il corrode l'armure de l'unité, doublant ainsi tous les dégâts. \\n\\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront pas attaquer le même tour qu'ils réparent."
+    "text": "Ce Mech est affecté par de l'A.C.I.D. ! Il corrode l'armure de l'unité, doublant ainsi tous les dégâts. \n\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront pas attaquer le même tour qu'ils réparent."
   },
   "dbaefb46881f6331ce2b585752d58fb5": {
     "text": "Mechs Corrosif"
   },
   "437692ce132f09c01a128d89e772de00": {
-    "text": "Ce Pod contient des équipements provenant du futur ! \\n\\nVous pouvez le récupérer avec votre Mech, ou simplement le défendre jusqu'à la fin de la bataille."
+    "text": "Ce Pod contient des équipements provenant du futur ! \n\nVous pouvez le récupérer avec votre Mech, ou simplement le défendre jusqu'à la fin de la bataille."
   },
   "395dc55750e6d0d019128419ab303b38": {
     "text": "Pods Temporel"
@@ -234,7 +234,7 @@
     "text": "Pods Temporel Détruit"
   },
   "6c35e073cbc4bbe3f1b7cd7a63fadb95": {
-    "text": "Le Pod Temporel sur cette tuile a été détruit ! \\n\\nLes Pods Temporel sont détruits en subissant des dégâts ou par des ennemis se trouvant sur la tuile."
+    "text": "Le Pod Temporel sur cette tuile a été détruit ! \n\nLes Pods Temporels sont détruits en subissant des dégâts ou par des ennemis se trouvant sur la tuile."
   },
   "0f919302feb51711bce641b587c611fe": {
     "text": "Les Mechs ne peuvent pas utiliser leurs armes lorsqu'ils se trouvent dans l'Eau."
@@ -243,7 +243,7 @@
     "text": "Robots Nageurs"
   },
   "43cccc2cceaf16d6b4dbd54243515fb5": {
-    "text": "Les Mechs ne peuvent pas utiliser leurs armes lorsqu'ils se trouvent dans l'Eau. \\n\\nVous pouvez utiliser Annuler Déplacement si vous souhaitez le repositionner."
+    "text": "Les Mechs ne peuvent pas utiliser leurs armes lorsqu'ils se trouvent dans l'Eau. \n\nVous pouvez utiliser Annuler Déplacement si vous souhaitez le repositionner."
   },
   "3c099c43e5fcfc30aed5c7e036980a9a": {
     "text": "Votre Mech était désactivé ! Son Pilote a été tué et il ne pourra plus agir pour le restant de la mission."
@@ -264,10 +264,10 @@
     "text": "Poussé contre les Objets"
   },
   "bdcdfcdc465734e20522eaf4901e5959": {
-    "text": "Pousser les unités contre quelque chose inflige 1 de dégât supplémentaire aux deux ! \\n\\nDans ce cas, les dégâts supplémentaires ont tué l'unité !"
+    "text": "Pousser les unités contre quelque chose inflige 1 de dégât supplémentaire aux deux ! \n\nDans ce cas, les dégâts supplémentaires ont tué l'unité !"
   },
   "10a2152c0d8ae5942e724fdffd8126ef": {
-    "text": "Cette tuile de bâtiment a été endommagée, de ce fait, le Réseau Électrique de votre ville a été réduit. \\n\\nVotre objectif principal est d'empêcher cela !"
+    "text": "Cette tuile de bâtiment a été endommagée, de ce fait, le Réseau Électrique de votre ville a été réduit. \n\nVotre objectif principal est d'empêcher cela !"
   },
   "379d805c265b1c6346a54d4aec0ad94f": {
     "text": "Dégât Bâtiment"
@@ -276,13 +276,13 @@
     "text": "Simulation Combat"
   },
   "44e78706a90c1c3664dd55e22c735aa9": {
-    "text": "Une Simulation Combat est disponible pour permettre aux nouveaux commandants de se familiariser avec les mécanismes de combats.\\n\\nSouhaiter-vous lancer la simulation ?"
+    "text": "Une Simulation Combat est disponible pour permettre aux nouveaux commandants de se familiariser avec les mécanismes de combats.\n\nSouhaiter-vous lancer la simulation ?"
   },
   "1bff08e7db6e31680d1a3d42486ea90b": {
     "text": "Réputation Corporative"
   },
   "d59aa9b9ec2e4c669787008db133f4db": {
-    "text": "Au fur et à mesure que vous sécurisez les régions et complétez les objectifs de bonus, votre réputation auprès de la Corporative augmentera. \\n\\n Vous pouvez dépenser la réputation en fournitures à la fin de l'Île."
+    "text": "Au fur et à mesure que vous sécurisez les régions et complétez les objectifs de bonus, votre réputation auprès de la Corporative augmentera. \n\nVous pouvez dépenser la réputation en fournitures à la fin de l'Île."
   },
   "22aff7814c8084654ba8ee78c35fd697": {
     "text": "Noyaux Réacteur"
@@ -294,13 +294,13 @@
     "text": "Installation Noyau"
   },
   "e6fb98c5624a3ed4072469fb7e88011e": {
-    "text": "Vous pouvez utiliser ce bouton pour installer les Noyaux Réacteur dans un Mech. \\n\\nChaque Noyau augmentera la puissance maximale du Réacteur d'un Mech."
+    "text": "Vous pouvez utiliser ce bouton pour installer les Noyaux Réacteur dans un Mech. \n\nChaque Noyau augmentera la puissance maximale du Réacteur d'un Mech."
   },
   "2b2e32f3e41390e61ed36657b29f7262": {
     "text": "Modifications Armes"
   },
   "12bd82aed2cb5883118c86cf4ba6c918": {
-    "text": "Vous pouvez utiliser la puissance du Réacteur pour activer les modifications d'armes. \\n\\nCliquer sur un module pour l'alimenter. Vous pouvez à nouveau cliquer dessus pour le retirer afin de le placer ailleurs."
+    "text": "Vous pouvez utiliser la puissance du Réacteur pour activer les modifications d'armes. \n\nCliquer sur un module pour l'alimenter. Vous pouvez à nouveau cliquer dessus pour le retirer afin de le placer ailleurs."
   },
   "40bd59e57e847f878c31b7b82d3ade48": {
     "text": "Nouvelle Arme"
@@ -318,7 +318,7 @@
     "text": "Ancien Profil"
   },
   "7731a1c10c7907a15d4fa21e1a430baa": {
-    "text": "Le jeu a été mis à jour et les anciens profils en bêta pourraient rencontrer des bizarreries après ces changements.\\n\\nVotre Total de Pièce de Succès pourrait être à présent en négatif en raison des changements de prix des Mechs précédemment débloqués. Le jeu fonctionne, vous aurez juste besoin de plus de Succès pour atteindre le seuil de rentabilité.\\n\\nSi vous avez une partie en cours, il se peut qu'elle ne se charge pas correctement. J'espère que cela fonctionne encore, mais je m'excuse si ce n'est pas le cas."
+    "text": "Le jeu a été mis à jour et les anciens profils en bêta pourraient rencontrer des bizarreries après ces changements.\n\nVotre Total de Pièce de Succès pourrait être à présent en négatif en raison des changements de prix des Mechs précédemment débloqués. Le jeu fonctionne, vous aurez juste besoin de plus de Succès pour atteindre le seuil de rentabilité.\n\nSi vous avez une partie en cours, il se peut qu'elle ne se charge pas correctement. J'espère que cela fonctionne encore, mais je m'excuse si ce n'est pas le cas."
   },
   "80844af25d4df66651ef7ee68b38cb8c": {
     "text": "EFFECTS ARME"
@@ -357,13 +357,13 @@
     "text": "RÉCOMPENSES DE MISSION"
   },
   "66d15d3e5f4dccbb25d584a1ff81e897": {
-    "text": "Chaque mission ont différentes récompenses potentielles en complétant les objectifs bonus. \\n    Vous ne serez pas en mesure de faire toutes les missions sur l'Île, alors choisissez soigneusement !"
+    "text": "Chaque mission ont différentes récompenses potentielles en complétant les objectifs bonus. \n    Vous ne serez pas en mesure de faire toutes les missions sur l'Île, alors choisissez soigneusement !"
   },
   "4936eb5172ee8b4a6d3384418cf22a26": {
     "text": "ÉNERGIE NOYAUX : Utilisé pour améliorer votre Mechs."
   },
   "b5aa901c009023cd6d1a38f39ec2364a": {
-    "text": "PUISSANCE RÉSEAU : restaure votre Réseau Électrique. \\nSi votre Réseau Électrique atteint zéro, vous perdez."
+    "text": "PUISSANCE RÉSEAU : restaure votre Réseau Électrique. \nSi votre Réseau Électrique atteint zéro, vous perdez."
   },
   "cebb52c118132d544ba1e4f55f4decea": {
     "text": "Réputation Corporative : Utilisé pour acheter des objets une fois l'Île sécurisée."
@@ -408,7 +408,7 @@
     "text": "Mission Finale"
   },
   "fd44c9f820e40ad4d8b5bbab895c096f": {
-    "text": "Vous pouvez terminer la Mission Finale à n'importe quel moment après avoir sécurisé deux Îles Corporatives.\\n\\nLa difficulté de la mission dépend de votre progression actuelle."
+    "text": "Vous pouvez terminer la Mission Finale à n'importe quel moment après avoir sécurisé deux Îles Corporatives.\n\nLa difficulté de la mission dépend de votre progression actuelle."
   },
   "0c30615662c8a83e6425402d8579356d": {
     "text": "Réputation Corporative"
@@ -417,7 +417,7 @@
     "text": "Utiliser les points de réputation pour acheter des fournitures une fois l'Île sécurisée."
   },
   "004f963ad95a1b04aa4daa8db393df17": {
-    "text": "Utilisé pour améliorer votre Mechs. \\n\\nOuvrir l'Écran Amélioration du Mech en cliquant sur n'importe quelle icône Mech à gauche."
+    "text": "Utilisé pour améliorer votre Mechs. \n\nOuvrir l'Écran Amélioration du Mech en cliquant sur n'importe quelle icône Mech à gauche."
   },
   "5a49ae6e2ed8c1a8507bf63d858af0fd": {
     "text": "Ordre Attaque"
@@ -435,13 +435,13 @@
     "text": "Affiche l'ordre dans lequel les actions auront lieu pendant le tour ennemi. Touche de raccourci : [$1]"
   },
   "a5704ef5d17d6e34e56b6c17a028d6ed": {
-    "text": "Temps de jeu de votre partie actuel. \\n\\nVous pouvez le cacher dans le menu Options."
+    "text": "Temps de jeu de votre partie actuel. \n\nVous pouvez le cacher dans le menu Options."
   },
   "1be009cd436fcd0e73748956ec0d30f9": {
     "text": "Temps de Jeu"
   },
   "dee6f1f8d87b1865581ad94a6134be20": {
-    "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \\n\\nVous ne pouvez le faire qu'une fois par bataille."
+    "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \n\nVous ne pouvez le faire qu'une fois par bataille."
   },
   "11a74e7644d07bfd0cd0b143fc7f25ba": {
     "text": "Réinitialiser Tour"
@@ -453,13 +453,13 @@
     "text": "Réinitialiser Tour Utilisé"
   },
   "410ed538eff6e2c2a1d00c404a1fa8b3": {
-    "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \\n\\nLa 'Réinitialisation Temporelle' du Pilote vous donne une Réinitialisation supplémentaire par bataille. Il vous en reste 2."
+    "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \n\nLa 'Réinitialisation Temporelle' du Pilote vous donne une Réinitialisation supplémentaire par bataille. Il vous en reste 2."
   },
   "e75be79cc30a237939127927e4f6ef66": {
-    "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \\n\\nIl vous en reste 1."
+    "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \n\nIl vous en reste 1."
   },
   "58793042a14774337a8ef97a9f0b851c": {
-    "text": "Modifie la vitesse à laquelle les unités ennemies effectuent leur tour. \\n\\nRalentir si vous êtes nouveau et que suivre les actions des ennemies vous sembles difficile. Accélérer-le si vous êtes expérimenté et à l'aise avec le combat."
+    "text": "Modifie la vitesse à laquelle les unités ennemies effectuent leur tour. \n\nRalentir si vous êtes nouveau et que suivre les actions des ennemies vous sembles difficile. Accélérer-le si vous êtes expérimenté et à l'aise avec le combat."
   },
   "636d534fd32c9bab11b7d1f7249cc728": {
     "text": "Vitesse Combat"
@@ -474,13 +474,13 @@
     "text": "Conseil Tutoriel"
   },
   "5ab415512413cd614cfa107376a28cda": {
-    "text": "Afficher les infobulles pertinentes du Tutoriel pendant le jeu. \\n\\nFortement recommandé pour les nouveaux joueurs."
+    "text": "Afficher les infobulles pertinentes du Tutoriel pendant le jeu. \n\nFortement recommandé pour les nouveaux joueurs."
   },
   "a91d719ef6749935489273ce124a2078": {
     "text": "Échelle Rendu Max"
   },
   "49b8396489a3e7374927c07d09f4b2db": {
-    "text": "Personnaliser l'échelle maximale du rendu de la carte de combat.\\n\\nCela peut être utile pour réduire l'échelle pour les grands moniteurs.\\n\\nL'échelle par défaut de la fenêtre courante est : $1"
+    "text": "Personnaliser l'échelle maximale du rendu de la carte de combat.\n\nCela peut être utile pour réduire l'échelle pour les grands moniteurs.\n\nL'échelle par défaut de la fenêtre courante est : $1"
   },
   "5b41b7ad8028c0826cb52fa13f21c844": {
     "text": "Fenêtre par Défaut"
@@ -495,13 +495,13 @@
     "text": "UI Chrono en Jeu"
   },
   "397122c5eae73af50ef59a0c036dec6f": {
-    "text": "Ajouter un Chrono en Jeu à l'interface utilisateur. \\n\\nUtile pour obtenir le succès 'Guerre Foudroyante' ou les Speedrunner"
+    "text": "Ajouter un Chrono en Jeu à l'interface utilisateur. \n\nUtile pour obtenir le succès 'Guerre Foudroyante' ou les Speedrunners"
   },
   "d5a644f40f4e1c62e5b3441094230181": {
     "text": "Mode Daltonien"
   },
   "9919d0e2fa6d4b0c00e47b0827fb0c16": {
-    "text": "Change certaines couleurs et ajoute des icônes supplémentaires pour aider les joueurs daltoniens.\\n\\nFaites-nous savoir si vous souhaitez améliorer quelque chose en particulier."
+    "text": "Change certaines couleurs et ajoute des icônes supplémentaires pour aider les joueurs daltoniens.\n\nFaites-nous savoir si vous souhaitez améliorer quelque chose en particulier."
   },
   "b815399b78eb8ad112c9cc2b124b0a39": {
     "text": "Polices Large"
@@ -525,31 +525,31 @@
     "text": "Mise à l'Échelle"
   },
   "18f137b6ff3c0457a49dc42d99a31a30": {
-    "text": "Etire les textures et l'interface utilisateur lors de l'ajustement à des résolutions plus grandes. \\n\\nUtile pour les moniteurs haute résolution (1440p ou plus) si l'interface utilisateur est trop petite. Peut en revanche rendre les textures et le texte légèrement flous."
+    "text": "Etire les textures et l'interface utilisateur lors de l'ajustement à des résolutions plus grandes. \n\nUtile pour les moniteurs haute résolution (1440p ou plus) si l'interface utilisateur est trop petite. Peut en revanche rendre les textures et le texte légèrement flous."
   },
   "e00a3f77b7f8f6c4241d7170b7b54204": {
     "text": "Limite d'Image"
   },
   "f2a4fd376fd0558f952efebbd19bff2e": {
-    "text": "Limiter le FPS à 60.\\n\\nRecommandé pour la plupart des systèmes."
+    "text": "Limiter le FPS à 60.\n\nRecommandé pour la plupart des systèmes."
   },
   "5385b7a6956a92035bb449868e9a558a": {
     "text": "Désactiver Tremblement Écran"
   },
   "d85ca6373e8ab30c64ad7c6cf113cb39": {
-    "text": "Empêcher le tableau / l'interface utilisateur de trembler.\\n\\nCeci est courant pendant le combat quand quelque chose inflige des dégâts."
+    "text": "Empêcher le tableau / l'interface utilisateur de trembler.\n\nCeci est courant pendant le combat quand quelque chose inflige des dégâts."
   },
   "a69190c07853570b6f20653e21e9d291": {
     "text": "Afficher Grille Coordonnée"
   },
   "46e9939579d71828c0be177ebfa097c2": {
-    "text": "Ajouter des coordonnées au tableau.\\n\\nBon pour le streaming, ou quand vous partager le jeu sous d'autres formes."
+    "text": "Ajouter des coordonnées au tableau.\n\nBon pour le streaming, ou quand vous partager le jeu sous d'autres formes."
   },
   "3f596df35ed674b02a12395160637c2e": {
     "text": "Mise à l'Échelle Indisponible"
   },
   "af32b8f2f98597096ccce48a95d23da2": {
-    "text": "Vos pilotes vidéo ne prennent pas en charge les exigences nécessaires pour cela. \\n\\nVeuillez les mettre à jour ou contacter l'assistance si vous avez besoin de cette fonctionnalité."
+    "text": "Vos pilotes vidéo ne prennent pas en charge les exigences nécessaires pour cela. \n\nVeuillez les mettre à jour ou contacter l'assistance si vous avez besoin de cette fonctionnalité."
   },
   "bab96f7bab32f2baa9ef400df0457ae4": {
     "text": "Victoire Combat"
@@ -597,13 +597,13 @@
     "text": "Personnes Sauvées"
   },
   "a2df8ef7e3c59dd9c2c7f852589c4b07": {
-    "text": "Le nombre de personnes que vous avez sauvées dans cette ligne du temps \\n\\nLes difficultés plus élevées contiennent plus de personnes par bâtiment dans les batailles."
+    "text": "Le nombre de personnes que vous avez sauvées dans cette ligne du temps \n\nLes difficultés plus élevées contiennent plus de personnes par bâtiment dans les batailles."
   },
   "da0ddf0e974d2a995c144c105615fd8e": {
     "text": "Réacteur Mech"
   },
   "98e19fa07969dbd898a12cc9a3fc4784": {
-    "text": "Vous pouvez utiliser la puissance du réacteur pour améliorer vos armes ou alimenter des armes supplémentaires. \\n\\nInstaller des Noyaux Réacteurs pour Améliorer un Réacteur Mech."
+    "text": "Vous pouvez utiliser la puissance du réacteur pour améliorer vos armes ou alimenter des armes supplémentaires. \n\nInstaller des Noyaux Réacteurs pour Améliorer un Réacteur Mech."
   },
   "dc9c2de6f86e5cd8030a1ebe12234cc6": {
     "text": "Annuler Installation Noyau"
@@ -627,7 +627,7 @@
     "text": "Classe Mech"
   },
   "017434f53d02c231132cb1207723f7d7": {
-    "text": "La Classe Mech détermine les types d'armes qu'elle peut utiliser efficacement. \\n\\nLes armes qui ne sont pas de la même classe coûteront 1 de Puissance Réacteur supplémentaire."
+    "text": "La Classe Mech détermine le type d'arme qu'elle peut utiliser efficacement. \n\nLes armes qui ne sont pas de la même classe coûteront 1 de Puissance Réacteur supplémentaire."
   },
   "d5cf9df13a50ebc53d2c83fa37f36adf": {
     "text": "Classe Cyborg"
@@ -663,13 +663,13 @@
     "text": "Pilote IA Basique"
   },
   "511e9ab5d7600f006572aa98246d6753": {
-    "text": "Les Pilotes IA Basique fonctionnent déjà à leur maximum d'efficacité et n'acquièrent pas d'expérience au combat. \\n\\nTrouver des Pilotes humains supérieurs, ou des Pilotes IA Avancés, pour remplacer l'IA de base."
+    "text": "Les Pilotes IA Basique fonctionnent déjà à leur maximum d'efficacité et n'acquièrent pas d'expérience au combat. \n\nTrouver des Pilotes humains supérieurs, ou des Pilotes IA Avancés, pour remplacer l'IA de base."
   },
   "43aa5426efe811a1fdc8525da78fe233": {
-    "text": "Le pourcentage de chance qu'un bâtiment résiste aux dégâts. \\n\\nGain de Puissance lorsque votre Réseau Électrique est plein pour améliorer sa Défense."
+    "text": "Le pourcentage de chance qu'un bâtiment résiste aux dégâts. \n\nGain de Puissance lorsque votre Réseau Électrique est plein pour améliorer sa Défense."
   },
   "091818283f09c965c79714064c1021c0": {
-    "text": "Vous PERDEZ si cela atteint zéro. \\n\\nRéduit à chaque fois qu'un Bâtiment Alimenté subit des dégâts en combat."
+    "text": "Vous PERDEZ si cela atteint zéro. \n\nRéduit à chaque fois qu'un Bâtiment Alimenté subit des dégâts en combat."
   },
   "92e50f1862bb0cb44bcc3356c6a4f453": {
     "text": "Noyau Réacteur"
@@ -681,19 +681,19 @@
     "text": "Puissance Réseau"
   },
   "317fabcd8075160bb53ae14fd26fd687": {
-    "text": "Réparer les dégâts de votre Réseau Électrique. \\n\\nSi votre Réseau Électrique est plein, votre Puissance Défensive sera amélioré de façon permanente."
+    "text": "Réparer les dégâts de votre Réseau Électrique. \n\nSi votre Réseau Électrique est plein, votre Puissance Défensive sera amélioré de façon permanente."
   },
   "bd1ccae7fea0856388a7cc4afd2733ce": {
     "text": "Surcharge Réseau"
   },
   "b726ac65031efb497cf8fd47ec520f11": {
-    "text": "Votre Réseau Électrique est plein. La puissance supplémentaire mettra à jour de manière permanente votre Puissance Défensive.\\n\\nLe bonus diminuera au fur et à mesure que votre Puissance Défensive augmentera, jusqu'à un maximum de +25."
+    "text": "Votre Réseau Électrique est plein. La puissance supplémentaire mettra à jour de manière permanente votre Puissance Défensive.\n\nLe bonus diminuera au fur et à mesure que votre Puissance Défensive augmentera, jusqu'à un maximum de +25."
   },
   "55373e9fe31a06a62d921e9a863a0539": {
     "text": "Réseau Plein"
   },
   "393f77ed71d670753e143183f4986828": {
-    "text": "Votre Réseau Électrique et la Puissance Défensive sont à leur maximum.\\n\\nVous ne pouvez pas acheter de puissance supplémentaire."
+    "text": "Votre Réseau Électrique et la Puissance Défensive sont à leur maximum.\n\nVous ne pouvez pas acheter de puissance supplémentaire."
   },
   "808ad0f97ae33294540eae5c1850452b": {
     "text": "Menace Vek Standard"
@@ -825,16 +825,16 @@
     "text": "Vous avez toujours des unités qui peuvent agir. Elles vont perdre leur tour."
   },
   "27df34f7234936e34e35d03e0d43c591": {
-    "text": "Revenir dans le temps au début de votre tour ?\\n\\nLes limitations de puissance signifient que vous ne pouvez le faire qu'une fois par bataille."
+    "text": "Revenir dans le temps au début de votre tour ?\n\nLes limitations de puissance signifient que vous ne pouvez le faire qu'une fois par bataille."
   },
   "87d62df299f9c30df2c9967837fc4640": {
-    "text": "Revenir dans le temps au début de votre tour ?\\n\\nLa 'Réinitialisation Temporelle' du Pilote signifie que vous pouvez le faire deux fois durant cette bataille."
+    "text": "Revenir dans le temps au début de votre tour ?\n\nLa 'Réinitialisation Temporelle' du Pilote signifie que vous pouvez le faire deux fois durant cette bataille."
   },
   "42ccda7cde67a92b38d8c7b9a20e50a1": {
-    "text": "Revenir dans le temps au début de votre tour ?\\n\\nIl ne vous reste plus qu'une Réinitialisation."
+    "text": "Revenir dans le temps au début de votre tour ?\n\nIl ne vous reste plus qu'une Réinitialisation."
   },
   "a943484028149ce0030ac99dbba74323": {
-    "text": "ANNULER \\nDÉPLACEMENT"
+    "text": "ANNULER \nDÉPLACEMENT"
   },
   "95923a2b042803ea802ae3fd256f487a": {
     "text": "RÉINITIALISER TOUR"
@@ -861,7 +861,7 @@
     "text": "TEST FINI"
   },
   "78340d7fd2b71bb1a60192bd553fac24": {
-    "text": "[ Right Click ]\\nou\\n[ $1 ]\\npour Désarmer"
+    "text": "[ Right Click ]\nou\n[ $1 ]\npour Désarmer"
   },
   "de1c70a20d797811b2fd32facf64bbd4": {
     "text": "PASSIF"
@@ -909,7 +909,7 @@
     "text": "Utilisation par bataille : "
   },
   "a34e1dc448ef3ba0396e0ab25cc17303": {
-    "text": " Aucune classe Mech correspondante.\\n 1 de Puissance de pénalité s'applique."
+    "text": " Aucune classe Mech correspondante.\n1 de Puissance de pénalité s'applique."
   },
   "aa3dc3c112ac677e6cd04c01c81542cc": {
     "text": "Arme Non-Cyborg"
@@ -1077,7 +1077,7 @@
     "text": "ANNULER"
   },
   "e31f6de7f20569a62ab23e3f02aca8f1": {
-    "text": "Coûte un Puissance\\n          supplémentaire par utilisation"
+    "text": "Coûte un Puissance\n          supplémentaire par utilisation"
   },
   "60cc3864ebd095185b45f5a4c02076a0": {
     "text": "Mauvaise Classe"
@@ -1146,10 +1146,10 @@
     "text": "Votre Réputation Corporative non dépensée sera perdue si vous partez maintenant."
   },
   "62daa3b47773659c18c039a1978db45f": {
-    "text": "Êtes-vous sûr de vouloir assigner de façon permanente ce pilote à cette l'île?\\n(Attribue la Réputation)"
+    "text": "Êtes-vous sûr de vouloir assigner de façon permanente ce pilote à cette l'île?\n(Attribue la Réputation)"
   },
   "e0ce18cca6c55c9cb80a085ab7088e53": {
-    "text": "Êtes-vous sûr de vouloir faire don de cette arme?\\n(Attribue la Réputation)"
+    "text": "Êtes-vous sûr de vouloir faire don de cette arme?\n(Attribue la Réputation)"
   },
   "0b04e61c3ef03b1f64fe6b4db05fa6b9": {
     "text": "Île Parfaite !"
@@ -1179,25 +1179,25 @@
     "text": "Commencer Mission"
   },
   "7c6fdf410aa633e42124c504214f04d5": {
-    "text": "Eau \\nConnecté"
+    "text": "Eau \nConnecté"
   },
   "e2f81bb7c71981fceee2a4d1966b7910": {
-    "text": "Fumée \\nBloqué"
+    "text": "Fumée \nBloquée"
   },
   "17b3e7d8339512d58a6a3733b7ac3e90": {
-    "text": "Glacé \\nBloqué"
+    "text": "Glacé \nBloqué"
   },
   "d0e7641fa61b57d408f8849e693b1698": {
-    "text": "Bonus Déplacement \\nSeulement"
+    "text": "Bonus Déplacement \nSeulement"
   },
   "f07f5c5122ded39aaadaeff802b231b0": {
-    "text": "Lave \\nBloqué"
+    "text": "Lave \nBloquée"
   },
   "7b020280c113c4371d99243043121898": {
     "text": "Attention : Vek Offensif"
   },
   "be55c75d32f3be960313b72dc2c79fd8": {
-    "text": "Les Veks envahissent deux régions de l'île. \\nLa région que vous ne sauverez pas sera perdue pour toujours."
+    "text": "Les Veks envahissent deux régions de l'île. \nLa région que vous ne sauverez pas sera perdue pour toujours."
   },
   "c9c9c146c630ca5ef9197c73c032f4a6": {
     "text": "PUISSANCE"
@@ -1209,7 +1209,7 @@
     "text": "DÉFENSE"
   },
   "29b3996a28cce1263a7e318ca39f5828": {
-    "text": "Fin Tour"
+    "text": "Fin de Tour"
   },
   "b9f5c797ebbf55adccdd8539a65a0241": {
     "text": "Désactivé"
@@ -1329,16 +1329,16 @@
     "text": "Vous perdrez toute progression dans le jeu et les éléments déverrouillés. Aucun retour en arrière possible."
   },
   "c177be8ca84f6a46f8b2e3a09f7e235f": {
-    "text": "'Into the Breach' ne semble pas avoir accès au fichier pour sauvegarder la progression. \\n\\nVeuillez quitter et vérifier si votre logiciel antivirus le bloque. \\n\\nSi le problème persiste envoyez-nous un email à contact@subsetgames.com"
+    "text": "'Into the Breach' ne semble pas avoir accès au fichier pour sauvegarder la progression. \n\nVeuillez quitter et vérifier si votre logiciel antivirus le bloque. \n\nSi le problème persiste envoyez-nous un email à contact@subsetgames.com"
   },
   "d16c3253da73f8af5381b0d39b17b262": {
-    "text": "'Into the Breach' semble incapable de sauvegarder la progression. \\n\\nVeuillez quitter et vérifier si votre logiciel antivirus le bloque. \\n\\nSi le problème persiste envoyez-nous un email à contact@subsetgames.com"
+    "text": "'Into the Breach' semble incapable de sauvegarder la progression. \n\nVeuillez quitter et vérifier si votre logiciel antivirus le bloque. \n\nSi le problème persiste envoyez-nous un email à contact@subsetgames.com"
   },
   "c6509bbe47eb542d7231ac2211bbd21f": {
-    "text": "Votre Fichier de Sauvegarde semble être corrompu. Veuillez nous contacter à contact@subsetgames.com si vous souhaitez que nous essayions de récupérer les données.\\n\\nExtrêmement désolé pour le problème !"
+    "text": "Votre Fichier de Sauvegarde semble être corrompu. Veuillez nous contacter à contact@subsetgames.com si vous souhaitez que nous essayions de récupérer les données.\n\nExtrêmement désolé pour le problème !"
   },
   "a6646e1ac017816b1d0b4bb21f5b1988": {
-    "text": "Votre Fichier de Profil semble être corrompu. Veuillez nous contacter à contact@subsetgames.com si vous souhaiter que nous essayions de récupérer les données.\\n\\nExtrêmement désolé pour le problème !"
+    "text": "Votre Fichier de Profil semble être corrompu. Veuillez nous contacter à contact@subsetgames.com si vous souhaiter que nous essayions de récupérer les données.\n\nExtrêmement désolé pour le problème !"
   },
   "9dedab33b2690cbf03ce183c30bfbfd6": {
     "text": "AVERTISSEMENT : Il y a une erreur d'écriture de fichier et votre progression ne peut pas être enregistrée."
@@ -1350,10 +1350,10 @@
     "text": "Attention !"
   },
   "0cb8915b2d515aa7cb2cae8fd837ea75": {
-    "text": "Les données de votre profil n'ont pas pu être entièrement supprimées. Il peut être en lecture seule, ou il peut y avoir des fichiers supplémentaires dans son dossier. Vous pouvez les supprimer manuellement à partir de cet emplacement : \\n\\n"
+    "text": "Les données de votre profil n'ont pas pu être entièrement supprimées. Il peut être en lecture seule, ou il peut y avoir des fichiers supplémentaires dans son dossier. Vous pouvez les supprimer manuellement à partir de cet emplacement : \n\n"
   },
   "b5fb5250c024ab8f7ce39acdcf9a2b9f": {
-    "text": "Les données de votre profil n'ont pas pu être supprimées. C'est un problème connu sous OS X. \\n\\nVous pouvez supprimer manuellement les données de votre profil à partir de cet emplacement : \\n\\n"
+    "text": "Les données de votre profil n'ont pas pu être supprimées. C'est un problème connu sous OS X. \n\nVous pouvez supprimer manuellement les données de votre profil à partir de cet emplacement : \n\n"
   },
   "efd4e6493c7182a44e37a2650dd07ec7": {
     "text": "Victoires :"
@@ -1518,7 +1518,7 @@
     "text": "Modifier Escouade"
   },
   "615624fc402dfb915b3d2898e4eb68f9": {
-    "text": "Débloquer l'Escouade \\\"$1\\\" pour utiliser ce Mech"
+    "text": "Débloquer l'Escouade \"$1\" pour utiliser ce Mech"
   },
   "78f8c33ffd5fe9d5b9304c6095875134": {
     "text": "Mech Verrouillé"
@@ -1548,7 +1548,7 @@
     "text": "Sélection Pilote"
   },
   "c7d6c87ed362186829f37fe74d7a9f78": {
-    "text": "Dernier \\nVoyageur"
+    "text": "Dernier \nVoyageur"
   },
   "652f9189b5337418bdae6342da625b58": {
     "text": "Pas de Capacité Spéciale"
@@ -1614,13 +1614,13 @@
     "text": "Mode Facile"
   },
   "9738a07ce6f2876b6847bf080ea55738": {
-    "text": "Réduction du taux d'apparition des ennemis.\\n\\nLe score final est réduit de 50%."
+    "text": "Réduction du taux d'apparition des ennemis.\n\nLe score final est réduit de 50%."
   },
   "3d0e4034f2966109fd62ec5085b2b158": {
     "text": "Mode Difficile"
   },
   "d36c30b2dc5ac66d1abe679b2368ef7f": {
-    "text": "Augmentation du taux d'apparition des ennemis ainsi que celui des Veks Alpha.\\n\\nLe score final est augmenté de 50%."
+    "text": "Augmentation du taux d'apparition des ennemis ainsi que celui des Veks Alpha.\n\nLe score final est augmenté de 50%."
   },
   "1e5f267aacbab9cc4eacb0eaedbc2997": {
     "text": "Débloquer l'Escouade '$1' pour utiliser cette couleur"
@@ -1632,13 +1632,13 @@
     "text": "Répéter Équipement Passif"
   },
   "8a8701e573e343348597f001d71fb7e2": {
-    "text": "Votre Escouade de Mech ne peut pas avoir plusieurs copies du même équipement passif. \\n\\nVous pouvez toujours jouez avec l'Escouade, mais les copies supplémentaires de l'équipement Passif seront supprimées."
+    "text": "Votre Escouade de Mech ne peut pas avoir plusieurs copies du même équipement passif. \n\nVous pouvez toujours jouez avec l'Escouade, mais les copies supplémentaires de l'équipement Passif seront supprimées."
   },
   "444409722579db9be3af7a3aa75e0c78": {
     "text": "Escouade purement aléatoire. Aucune restriction sur les classes, l'armement, ou les Mech."
   },
   "21b423226488fdad1ba8cf58ad876d2e": {
-    "text": "Escouade aléatoire légèrement restreinte.\\n\\nTous les Mechs seront uniques et ne seront pas de la même classe. Les Mechs n'auront pas plus de 4 armes réparties entre eux."
+    "text": "Escouade aléatoire légèrement restreinte.\n\nTous les Mechs seront uniques et ne seront pas de la même classe. Les Mechs n'auront pas plus de 4 armes réparties entre eux."
   },
   "0829ea6734059d66e6bf87096b215dc1": {
     "text": "Plein Écran"
@@ -1770,7 +1770,7 @@
     "text": "TROIS Îles"
   },
   "5369c09911827749a32cc41d80829a76": {
-    "text": "En complétant $1 vous avez débloqué \\n\\n\\n\\n\\nDans les futurs parties, vous pourrez visiter les îles déverrouillées dans n'importe quel ordre."
+    "text": "En complétant $1 vous avez débloqué \n\n\n\n\nDans les futurs parties, vous pourrez visiter les îles déverrouillées dans n'importe quel ordre."
   },
   "d09294dc756b4267807f2a7c4926b413": {
     "text": "Nouvelle Escouade disponible lors du lancement d'une prochaine Partie !"
@@ -2100,7 +2100,7 @@
     "text": "Concepteur Son :"
   },
   "faa4665b3c11c83b9c5fc053231cfaaa": {
-    "text": "Joey Godard\\nJeff Tangsoc\\nKevin Regamey\\nCole Verderber"
+    "text": "Joey Godard\nJeff Tangsoc\nKevin Regamey\nCole Verderber"
   },
   "9f3c03009d95b2ccc04a7577d604d56d": {
     "text": "Bibliothèque Sonore :"
@@ -2151,22 +2151,22 @@
     "text": "Spécialistes QA :"
   },
   "201306df12a2519aaf2f1256e6b00558": {
-    "text": "Matthew Barnes\\nLucia Aldana"
+    "text": "Matthew Barnes\nLucia Aldana"
   },
   "c03194935124ab2880023d952948807f": {
     "text": "Merci à notre incroyables communauté de testeurs :"
   },
   "1915d9cbe9bc72d760d7a9430f2f0382": {
-    "text": "5thHorseman\\nAlfie275\\nchewbacca77\\nDarthcaboose\\nDiscord\\nFynn\\nJoni\\nKieve\\nLem\\nNick Patrick\\nRick Edmonds\\nSleeper Service\\n"
+    "text": "5thHorseman\nAlfie275\nchewbacca77\nDarthcaboose\nDiscord\nFynn\nJoni\nKieve\nLem\nNick Patrick\nRick Edmonds\nSleeper Service\n"
   },
   "5d0bd58e10b79127d9082df3ff9c84d1": {
     "text": "Remerciement spécial pour leurs conseils et soutiens :"
   },
   "77271b6ae88dc394d6706b849e3a0c50": {
-    "text": "Maria\\nAlison\\nMichael Nielsen\\nEstelle Tigani\\nAllison Thrower\\nBryan\\nIlona Koleda\\nEsther Oh"
+    "text": "Maria\nAlison\nMichael Nielsen\nEstelle Tigani\nAllison Thrower\nBryan\nIlona Koleda\nEsther Oh"
   },
   "717661adaa6ab0eb18cb8dec809f3c3c": {
-    "text": "et le reste de notre famille, amis,\\net amis développeurs indépendants"
+    "text": "et le reste de notre famille, amis,\net amis développeurs indépendants"
   },
   "ad3ec94f9d3681e69e39f7cac60460b9": {
     "text": "Bébés de Production :"
@@ -2658,7 +2658,7 @@
     "text": "Fumée Électrique"
   },
   "06fa7dc8bfeb4f583bebdfd15a8b75d2": {
-    "text": "Les unités dans la Fumée ne peuvent pas attaquer ou réparer. \\nL'électricité endommage les unités ennemies."
+    "text": "Les unités dans la Fumée ne peuvent pas attaquer ou réparer. \nL'électricité endommage les unités ennemies."
   },
   "73eff8cfab2da076e46746250a15ecc1": {
     "text": "Vek Émergeant"
@@ -2676,7 +2676,8 @@
     "text": "Pylône Électrique"
   },
   "5f03a9840e6e7a1abce0628cfbf1af57": {
-    "text": "Les Pylônes de Puissance à Distance connectent vos Mechs à la Grille même sous terre. Non peuplée."
+    "text": "Les Pylônes de Puissance à Distance connectent vos Mechs à la Grille même sous terre. Non peuplée.",
+    "review": true
   },
   "d96b0db7b54cbeaa88e07635d19cca2c": {
     "text": "Super Volcan"
@@ -2733,7 +2734,7 @@
     "text": "Tuile Gouffre"
   },
   "83a0c92aea6a1e6dd76edcdb92f615e3": {
-    "text": "Les unités terrestres poussées seront \\ndétruites."
+    "text": "Les unités terrestres poussées seront \ndétruites."
   },
   "7d3560ca9f563db60b2cd89a4e40544c": {
     "text": "Tuile Sol"
@@ -2742,7 +2743,7 @@
     "text": "Tuile Sable"
   },
   "c89bcef9e696b9c85d5350815e4db961": {
-    "text": "Si endommagé, se transforme en Fumée. \\nLes unités dans la Fumée ne peuvent pas attaquer ou réparer."
+    "text": "Si endommagé, se transforme en Fumée. \nLes unités dans la Fumée ne peuvent pas attaquer ou réparer."
   },
   "2aa45cd45784128a6eb56fa16c71f35a": {
     "text": "Tuile Montagne"
@@ -2814,7 +2815,7 @@
     "text": "Émergent"
   },
   "8472ee1acd4dab558f270fc694f7900d": {
-    "text": "Un Vek va émerger ici au prochain tour. Toute unité bloquant cet endroit subira un dégât."
+    "text": "Un Vek va émerger ici au prochain tour. Toute unité bloquant cet endroit subira 1 de dégât."
   },
   "e7bb517fc64fa519b26ccf3770f432c5": {
     "text": "Tuile Haute"
@@ -2844,7 +2845,7 @@
     "text": "Évacuation"
   },
   "88edb9d6510be365ccda6a352292da6e": {
-    "text": "Ce bâtiment sera évacué \\nau prochain tour."
+    "text": "Ce bâtiment sera évacué \nau prochain tour."
   },
   "9169ced57586de6e6126b7f2bd668245": {
     "text": "Cette tuile deviendra un Gouffre au début du tour ennemi."
@@ -3165,7 +3166,7 @@
     "text": "Expérimenté"
   },
   "44b94d3515d8533125f39c47b4e9eaa0": {
-    "text": "Gagne +2 XP en Bonus\\npar tuer."
+    "text": "Gagne +2 XP en Bonus\npar tuer."
   },
   "d5ff54364f7d3103dc0bf37ae3fe5da4": {
     "text": "Bouclier de Départ"
@@ -3249,13 +3250,13 @@
     "text": "Rockman"
   },
   "f527a32072e212b0db04006c10f76446": {
-    "text": "+3 de Santé et\\nImmunisé contre le Feu."
+    "text": "+3 de Santé et\nImmunisé contre le Feu."
   },
   "e073f96da948c492b3c2b233d22a9c44": {
     "text": "Zoltan"
   },
   "aab5247af5de489e220700abfc5a2a70": {
-    "text": "+1 Noyau Réacteur.\\nRéduit HP Mech à 1.\\nGagne Bouclier à chaque tour."
+    "text": "+1 Noyau Réacteur.\nRéduit HP Mech à 1.\nGagne Bouclier à chaque tour."
   },
   "0a6d8caecdb62b9b8f278db13d1ec7b8": {
     "text": "Nous sommes sauvés !"
@@ -3276,7 +3277,7 @@
     "text": "Les Veks vont être désolés maintenant !"
   },
   "44bfad45985d672b7e7b062fce6a972c": {
-    "text": "Prends mes lunettes !\\nJe veux voir !"
+    "text": "Prends mes lunettes !\nJe veux voir !"
   },
   "8b51fcf1edbf4ece858fa017335fc9e7": {
     "text": "Arrêtez d'encombrer la fenêtre !"
@@ -4032,10 +4033,12 @@
     "text": "+1 de Dégâts Chacun"
   },
   "da3b7879eef28b333823dac8849087aa": {
-    "text": "Augmente les dégâts auto-infligés et aux cibles de 1."
+    "text": "Augmente les dégâts auto-infligés et aux cibles de 1.",
+    "review": true
   },
   "6b8de67d390257e292b2bbe3a585036c": {
-    "text": "Augmente les dégâts infligés aux cibles de 1."
+    "text": "Augmente les dégâts infligés aux cibles de 1.",
+    "review": true
   },
   "1650d93fe406d4a8ff31cb0c93ae5f10": {
     "text": "Poing Vortex"
@@ -4146,10 +4149,12 @@
     "text": "Vol sur une ligne et s'écrase sur la cible, en le poussant et en vous blessant."
   },
   "b74526cbd1c2c773cab8abf3aa537bee": {
-    "text": "Augmente de 1 les dégâts ainsi qu'à la cible."
+    "text": "Augmente de 1 les dégâts ainsi qu'à la cible.",
+    "review": true
   },
   "b71e464b14e428e63b156df4b5e871fb": {
-    "text": "Augmente de 1 les dégâts infligé à la cible."
+    "text": "Augmente de 1 les dégâts infligé à la cible.",
+    "review": true
   },
   "bd0c00cedf309cc844f50ac51d8e7a5e": {
     "text": "Canon Instable"
@@ -4158,7 +4163,8 @@
     "text": "Projectile puissant qui inflige des dégâts au tireur ainsi qu'à la cible."
   },
   "136e6bcc8f6d61001bd26b0a35cc5d38": {
-    "text": "Augmente de 1 les dégâts de la cible."
+    "text": "Augmente de 1 les dégâts de la cible.",
+    "review": true
   },
   "bbf45c976f94cfabd6cd0db9109ecac8": {
     "text": "Fusée Lourde"
@@ -4431,7 +4437,7 @@
     "text": "Mantis Entailleur"
   },
   "4634466957f1205d76b798c659b2cc3a": {
-    "text": "Afflige des Dégâts et Pousse une tuile adjacente.\\nSe libère de la glace."
+    "text": "Afflige des Dégâts et Pousse une tuile adjacente.\nSe libère de la glace."
   },
   "37992a74909d2deccc50ec04d9bf0a4e": {
     "text": "Amplificateurs"
@@ -4638,7 +4644,8 @@
     "text": "Détruire le Chef de Luciole"
   },
   "e24ad04b9ffc64451b22fa77813aa17e": {
-    "text": "tué jusqu'ici"
+    "text": "tué jusqu'ici",
+    "review": true
   },
   "bdfbd6278febc6386e0b4f22c46b89dc": {
     "text": "Détruire 5 Goos"
@@ -4758,7 +4765,7 @@
     "text": "Archive Char"
   },
   "e93d8eadf5d2ed650086f629e95e1416": {
-    "text": "Archive Corp \\nChar de l'Ancienne Terre"
+    "text": "Archive Corp \nChar de l'Ancienne Terre"
   },
   "46cc0df55d22d6eb6c37cabbc09f5193": {
     "text": "endommagé"
@@ -4785,7 +4792,7 @@
     "text": "Tuer tous les ennemis avant qu'ils ne se retirent"
   },
   "c275bb736595af16e286b49a316de1a2": {
-    "text": "Tuer tous les ennemis avant\\nqu'ils ne se retirent"
+    "text": "Tuer tous les ennemis avant \nqu'ils ne se retirent"
   },
   "ddff0d5817e9abf08eb05ebc3a9ea973": {
     "text": "Ceci est un message d'information de la mission provenant du PDG. C'est très atmosphérique et excitant, vous donnant une vision proche du monde ainsi que la mission que vous êtes sur le point d'entreprendre."
@@ -4794,7 +4801,8 @@
     "text": "Ceci est un message de fin de mission du PDG. Cela reflète la réussite de la mission. Il a des éloges glorifiantes, ou peut-être est-ce plutôt insultant envers vos compétences."
   },
   "055a2686266eb58757b79eefe037a1ad": {
-    "text": "Moins de 3 de dégâts de grille"
+    "text": "Moins de 3 de dégâts de grille",
+    "review": true
   },
   "a38de2742a3dccdf0aaf799ac5a83bca": {
     "text": "Terminer avec moins de 4 de dégâts subit par vos Mech"
@@ -4803,7 +4811,7 @@
     "text": "Bloquer l'Apparition des Veks 3 fois"
   },
   "4468106b119ce25bcd00795c42247164": {
-    "text": "Bloquer l'Apparition des Veks\\n3 fois"
+    "text": "Bloquer l'Apparition des Veks\n3 fois"
   },
   "6998faaa07f7573d034e960a988375d4": {
     "text": "Tuer au moins"
@@ -4812,7 +4820,8 @@
     "text": "Protéger le"
   },
   "26ade0d30cfbfa5cc6e253d67160bafe": {
-    "text": "Prendre moins de 3 de dégâts de grille"
+    "text": "Prendre moins de 3 de dégâts de grille",
+    "review": true
   },
   "b12f6f65259a3e89ca17833bab9b1c23": {
     "text": "Terminer la bataille avec moins de 4 de dégâts subit par vos Mech"
@@ -4878,7 +4887,7 @@
     "text": "Ne tuez pas le Vek Volant"
   },
   "f6d0767246dfb19d759aeaa33c8447ad": {
-    "text": "Ne laissez pas le Vek \\nVolant mourir"
+    "text": "Ne laissez pas le Vek \nVolant mourir"
   },
   "4111a42c624f49b8f838195faef8d0c9": {
     "text": "Défendre le prototype de Bombe Renfield"
@@ -4905,7 +4914,7 @@
     "text": "Détruire 2 montagnes"
   },
   "b3e86e3235351bfeb404518556a268dc": {
-    "text": "Détruire 2 montagnes \\n(Actuel : "
+    "text": "Détruire 2 montagnes \n(Actuel : "
   },
   "f78273989efe476ff4c5fc6012686403": {
     "text": "Ruche Souillée"
@@ -4959,7 +4968,7 @@
     "text": "Détruire 5 bâtiments hors de la glace"
   },
   "915e44d489646ee02cbc1866ccedd8a9": {
-    "text": "Détruire 5 bâtiments\\nhors de la glace"
+    "text": "Détruire 5 bâtiments\nhors de la glace"
   },
   "1041db21e1732de45db1a31409d5f3b9": {
     "text": "Geler et défendre les deux robots"
@@ -4968,7 +4977,7 @@
     "text": "Geler et défendre les robots (un gelé)"
   },
   "ebd1451d6c2951b2577fe266f7da3dc2": {
-    "text": "Geler et défendre \\nles deux robots"
+    "text": "Geler et défendre \nles deux robots"
   },
   "9dcf3e7c062860b660698df335479cbd": {
     "text": "Geler et défendre le robot restant"
@@ -4989,19 +4998,23 @@
     "text": "Tir un projectile qui Gèle les cibles"
   },
   "049ed6de030ce25082a6a5821d8b8200": {
-    "text": "Gagner VAL ou plus de Réputation Corporative."
+    "text": "Gagner VAL ou plus de Réputation Corporative.",
+    "review": true
   },
   "2774911939331fcecfedb62f4b97ea8e": {
-    "text": "Perdre VAL ou moins de total de Puissance Réseau."
+    "text": "Perdre VAL ou moins de total de Puissance Réseau.",
+    "review": true
   },
   "779c195d5f13925a09afb31294ad790d": {
-    "text": "Prendre VAL ou moins de total de Dégâts Mech"
+    "text": "Prendre VAL ou moins de total de Dégâts Mech",
+    "review": true
   },
   "3591fc6be48ca6e3a373fbd92d3283c0": {
     "text": "Ne ratez aucun objectif bonus."
   },
   "97e444541af17ade3bfa8c53a4796e38": {
-    "text": "Gagnez VAL Puissance Réseau ou plus."
+    "text": "Gagnez VAL Puissance Réseau ou plus.",
+    "review": true
   },
   "4f2fb5714562e61bd690c550124f1f63": {
     "text": "Laboratoire de Robotique"
@@ -5043,19 +5056,21 @@
     "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique Détritus"
   },
   "66dbb5914dd52298c9273ebe57d43c5f": {
-    "text": "Ralph Karlsson [Unknown] Ralph a franchi la brèche plus de fois qu'il ne peut compter - il y a eu au moins une centaine de ligne temporelle qu'il a regardé s'effondrer (à l'heure actuelle, il n'a pas encore réussi à en sauver une seule). Ce cycle continu de guerre l'a rendu impitoyablement efficace, étant disposé a ne pas dormir s'il le fallait, car il sentait que chaque seconde compte ... et chaque seconde qui s'échappe pourrait être le moment critique provoquant la perte des Veks. Il a parcouru un long chemin depuis le soldat aux Large-Yeux qu'il fut en premier (il y a plusieurs vies de cela il semblerait, et c'était le cas), et il essayait d'éviter d'avoir de l'attachements pour les autres pilotes, car il savait qu'ils risquaient de mourir au combat. Il n'a jamais dit de quelle île il était originaire, mais il y aurait des suspicions sur le fait qu'il viendrait de quelque part au delà de l'archipel Corporative ... Peut-être même venant d'une station spatiale. Si cela est vrai, Ralph a refusé de le confirmer, bien qu'il y a quelques lignes temporelles, Bethany, Harold et Isaac ont observé l'architecture du Pod Temporel comme étant un modèle de technologie spatiale (notamment une capsule de lancement d'une fusée ... ou une capsule de sauvetage d'une fusée)."
+    "text": "Ralph Karlsson [Unknown] Ralph a franchi la brèche plus de fois qu'il ne peut compter - il y a eu au moins une centaine de ligne temporelle qu'il a regardé s'effondrer (à l'heure actuelle, il n'a pas encore réussi à en sauver une seule). Ce cycle continu de guerre l'a rendu impitoyablement efficace, étant disposé a ne pas dormir s'il le fallait, car il sentait que chaque seconde compte ... et chaque seconde qui s'échappe pourrait être le moment critique provoquant la perte des Veks. Il a parcouru un long chemin depuis le soldat aux Large-Yeux qu'il fut en premier (il y a plusieurs vies de cela il semblerait, et c'était le cas), et il essayait d'éviter d'avoir de l'attachements pour les autres pilotes, car il savait qu'ils risquaient de mourir au combat. Il n'a jamais dit de quelle île il était originaire, mais il y aurait des suspicions sur le fait qu'il viendrait de quelque part au delà de l'archipel Corporative ... Peut-être même venant d'une station spatiale. Si cela est vrai, Ralph a refusé de le confirmer, bien qu'il y a quelques lignes temporelles, Bethany, Harold et Isaac ont observé l'architecture du Pod Temporel comme étant un modèle de technologie spatiale (notamment une capsule de lancement d'une fusée ... ou une capsule de sauvetage d'une fusée).",
+    "review": true
   },
   "26dc82d2d190682b34f07c9b37e4293f": {
-    "text": "Bethany Jones [Pinnacle] Bethany Jones a travaillé comme ingénieur physicien chez Pinnacle, aidant à concevoir et affiner la technologie du bouclier Pinnacle. Ayant seulement grandi sur Pinnacle, elle est quelque peu à l'abri des regards par rapport aux autres îles, et elle a tendance à faire confiance aux autres, les prenant au mot. Elle aime le froid et la neige, mais elle est aussi excitée par les opportunités de visiter les autres îles dans l'archipel Corporative et d'apprendre des gens s'y trouvant. Alors que Isaac et elle sont techniquement frères et sœurs, il n'y a pas eu de ligne temporelle où ils étaient tous les deux vivants pour qu'ils réalisent cela (soit Bethany meurt à un jeune âge, soit Isaac meurt - seulement l'un d'entre eux pouvait être sauvé d'une maladie chronique de Utérus b/c que leurs parents avaient). Bethany a eu une éducation plus positive qu'Isaac, et son génie est davantage tempéré par plus d'empathie et d'optimisme que Isaac (qui a eu une enfance beaucoup plus difficile)."
+    "text": "Bethany Jones [Pinnacle] Bethany Jones a travaillé comme ingénieur physicien chez Pinnacle, aidant à concevoir et affiner la technologie du bouclier Pinnacle. Ayant seulement grandi sur Pinnacle, elle est quelque peu à l'abri des regards par rapport aux autres îles, et elle a tendance à faire confiance aux autres, les prenant au mot. Elle aime le froid et la neige, mais elle est aussi excitée par les opportunités de visiter les autres îles dans l'archipel Corporative et d'apprendre des gens s'y trouvant. Alors que Isaac et elle sont techniquement frères et sœurs, il n'y a pas eu de ligne temporelle où ils étaient tous les deux vivants pour qu'ils réalisent cela (soit Bethany meurt à un jeune âge, soit Isaac meurt - seulement l'un d'entre eux pouvait être sauvé d'une maladie chronique de Utérus b/c que leurs parents avaient). Bethany a eu une éducation plus positive qu'Isaac, et son génie est davantage tempéré par plus d'empathie et d'optimisme que Isaac (qui a eu une enfance beaucoup plus difficile).",
+    "review": true
   },
   "8c46c91cee3cc5cbd262ac34749c23a8": {
-    "text": "Abe Isamu [R.S.T.] Parfois appelé en plaisantant \\\"Sincère Abe\\\" dans de précédente lignes Temporelles, rien ne pourrait être plus loin de la vérité. Au cours des premières années de l'arrivée au pouvoir du PDG Kern, Abe a servi comme «Nettoyeur» (assassin et «boîte noire»), et il a eu de nombreux noms et identités au service de R.S.T. afin s'occuper des «questions difficiles» qui se poseraient et qui devraient être traitées par la société. Il est impitoyable quand on lui donne un objectif (dans ce cas, combattre le Vek), et sert de support au sol dans sa chronologie originale avant de voler un Mech d'un pilote mourant et d'utiliser sa technologie de brèche pour échapper à la ligne de temps. dans l'île volcanique. Depuis lors, \\\"\\\" Abe \\\"\\\" a suivi les ordres de son premier PDG Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne de temps soit vaincu ... une tâche désespérée, mais \\\"\\\" Abe \\\"\\\" réalise qu'il a peu d'autres se battre pour, et même s'il devait rester dans une chronologie qu'il a sauvé, il ne pouvait pas faire face à l'idée que d'autres échéances étaient encore en danger. Il n'a pas encore rencontré sa copie, et si oui, il ne peut pas les reconnaître en raison de la chirurgie et de la fluctuation des identités que son travail exigeait avant l'attaque Vek."
+    "text": "Abe Isamu [R.S.T.] Parfois appelé en plaisantant \"Sincère Abe\" dans de précédente lignes Temporelles, rien ne pourrait être plus loin de la vérité. Au cours des premières années de l'arrivée au pouvoir du PDG Kern, Abe a servi comme «Nettoyeur» (assassin et «boîte noire»), et il a eu de nombreux noms et identités au service de R.S.T. afin s'occuper des «questions difficiles» qui se poseraient et qui devraient être traitées par la société. Il est impitoyable quand on lui donne un objectif (dans ce cas, combattre le Vek), et sert de support au sol dans sa chronologie originale avant de voler un Mech d'un pilote mourant et d'utiliser sa technologie de brèche pour échapper à la ligne de temps. dans l'île volcanique. Depuis lors, \"\" Abe \"\" a suivi les ordres de son premier PDG Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne de temps soit vaincu ... une tâche désespérée, mais \"\" Abe \"\" réalise qu'il a peu d'autres se battre pour, et même s'il devait rester dans une chronologie qu'il a sauvé, il ne pouvait pas faire face à l'idée que d'autres échéances étaient encore en danger. Il n'a pas encore rencontré sa copie, et si oui, il ne peut pas les reconnaître en raison de la chirurgie et de la fluctuation des identités que son travail exigeait avant l'attaque Vek."
   },
   "e7f3774d2366e0e9985236f6022b0733": {
-    "text": "Harold Schmidt [Archives] Harold est aussi proche qu'ils viennent à une ingénierie \\\"\\\" sociopath \\\"\\\" (ce n'est pas le terme clinique - collègues de travail dans les délais antérieurs utilisé pour l'appeler un \\\"\\\" technopathe \\\"\\\", mais même ce n'est pas un terme précis pour son manque d'empathie et de compétences sociales). Il trouve les humains mal à l'aise et confus, et prend du réconfort dans le bricolage avec la robotique et les machines qui ont des règles claires et des raisons de ce qu'ils font. Dans sa chronologie originale, il servit un bref mandat à Detritus (où il semblait s'ennuyer et peu communicatif), puis fut repoussé de Pinnacle à cause de son examen psychologique, puis trouva une maison dans les archives, étudiant et faisant des travaux de restauration sur la robotique. Il a d'abord appliqué à l'appel ouvert d'Archive pour la formation de pilote afin qu'il puisse le rapprocher de la technologie Mech, puis il a découvert qu'il a bien réussi l'examen pilote (mieux que la plupart des bénévoles d'Archives), et il a accepté de servir comme soldat. un moyen de lui donner accès à la pointe de la technologie Mech. (Notez que Harold ne supporte aucune malveillance envers Detritus et Pinnacle, et qu'ils ne lui portent aucune mauvaise volonté ... cependant, le prédécesseur de Singh et Zenith ont vu le manque d'empathie d'Harold, et ils craignaient que cela ne mène à des accidents. ou mépris de la vie humaine pendant qu'il exerçait ses fonctions.)"
+    "text": "Harold Schmidt [Archives] Harold est aussi proche qu'ils viennent à une ingénierie \"\" sociopath \"\" (ce n'est pas le terme clinique - collègues de travail dans les délais antérieurs utilisé pour l'appeler un \"\" technopathe \"\", mais même ce n'est pas un terme précis pour son manque d'empathie et de compétences sociales). Il trouve les humains mal à l'aise et confus, et prend du réconfort dans le bricolage avec la robotique et les machines qui ont des règles claires et des raisons de ce qu'ils font. Dans sa chronologie originale, il servit un bref mandat à Detritus (où il semblait s'ennuyer et peu communicatif), puis fut repoussé de Pinnacle à cause de son examen psychologique, puis trouva une maison dans les archives, étudiant et faisant des travaux de restauration sur la robotique. Il a d'abord appliqué à l'appel ouvert d'Archive pour la formation de pilote afin qu'il puisse le rapprocher de la technologie Mech, puis il a découvert qu'il a bien réussi l'examen pilote (mieux que la plupart des bénévoles d'Archives), et il a accepté de servir comme soldat. un moyen de lui donner accès à la pointe de la technologie Mech. (Notez que Harold ne supporte aucune malveillance envers Detritus et Pinnacle, et qu'ils ne lui portent aucune mauvaise volonté ... cependant, le prédécesseur de Singh et Zenith ont vu le manque d'empathie d'Harold, et ils craignaient que cela ne mène à des accidents. ou mépris de la vie humaine pendant qu'il exerçait ses fonctions.)"
   },
   "88dcad697554f66bbf6a120c5107cb14": {
-    "text": "Prospero [détritus] Dans son calendrier original, Prospero était un robot recycleur de Detritus. Son travail consistait à surveiller la sécurité de la région dans les sites d'élimination de détritus, mais il a été gravement endommagé dans un accident d'élimination (c'était dans les jours avant que Vikram était le PDG). Le robot \\\"recycleur recyclé\\\" a été vendu à prix réduit à Archive comme jardinier pour certaines des réserves naturelles, et il a semblé prendre à l'œuvre, traduisant ses connaissances de la chimie et la technologie de recyclage pour aider à cultiver des jardins (et quand n'était pas capable de faire ceci, il dévorerait tous les livres sur la botanique, la biologie, et même les livres spirituels liés à la croissance et à la croissance de toutes les formes de vie). Il serait probablement resté un jardinier hulking tranquille si ce n'était de l'émergence du Vek. Lorsque le Vek a éclaté sur Archive, le robot a suivi ses directives pour protéger les réserves naturelles ... et a vu le Vek comme rien de plus que des parasites de jardin à éliminer pour protéger les plantes. Lorsque les archives furent en mesure d'envoyer des renforts dans la région, ils découvrirent que Prospero gardait tranquillement son jardin, maintenant fertilisé avec des cadavres Vek."
+    "text": "Prospero [détritus] Dans son calendrier original, Prospero était un robot recycleur de Detritus. Son travail consistait à surveiller la sécurité de la région dans les sites d'élimination de détritus, mais il a été gravement endommagé dans un accident d'élimination (c'était dans les jours avant que Vikram était le PDG). Le robot \"recycleur recyclé\" a été vendu à prix réduit à Archive comme jardinier pour certaines des réserves naturelles, et il a semblé prendre à l'œuvre, traduisant ses connaissances de la chimie et la technologie de recyclage pour aider à cultiver des jardins (et quand n'était pas capable de faire ceci, il dévorerait tous les livres sur la botanique, la biologie, et même les livres spirituels liés à la croissance et à la croissance de toutes les formes de vie). Il serait probablement resté un jardinier hulking tranquille si ce n'était de l'émergence du Vek. Lorsque le Vek a éclaté sur Archive, le robot a suivi ses directives pour protéger les réserves naturelles ... et a vu le Vek comme rien de plus que des parasites de jardin à éliminer pour protéger les plantes. Lorsque les archives furent en mesure d'envoyer des renforts dans la région, ils découvrirent que Prospero gardait tranquillement son jardin, maintenant fertilisé avec des cadavres Vek."
   },
   "8a55f81685ce71ac854a45ade12a8d72": {
     "text": "Vous avez accompli toutes les missions Archivés, un accomplissement surprenant ! Je vous en pris, vous et l'#squad acceptez cela comme des remerciements."
@@ -5187,7 +5202,8 @@
     "text": "Les dégâts dans la région étaient ... étendus. Depuis qu'on m'a dit que mes sentiments pouvaient nous coûter la guerre, je vous en supplie - prenez notre peuple en considération."
   },
   "b8c11bbef64dcb436fd46a231d3a27e6": {
-    "text": "La technologie du futur protégeant la technologie du passé ! Tel une bague poétique, n'est-ce pas ? Espérons que le futur est à la hauteur de la tâche."
+    "text": "La technologie du futur protégeant la technologie du passé ! Tel une bague poétique, n'est-ce pas ? Espérons que le futur est à la hauteur de la tâche.",
+    "review": true
   },
   "5bc9c21e901fa8323a6febc30dc2f4ad": {
     "text": "Une grande partie de l'Ancienne Terre et de son histoire a été perdue quand les océans ont augmenté. Nous devons protéger le peu qui reste. Si les Veks nous détruisent, ces objets peuvent être tout ce qui reste de notre civilisation."
@@ -5247,7 +5263,7 @@
     "text": "Avec cette région sécurisée, nous pouvons ouvrir nos Vestiges Technologiques. Voyons quelle autre technologie de l'Ancienne Terre nous pouvons utiliser contre les Veks !"
   },
   "244b6d2307b824878b1bc52267d8b011": {
-    "text": "C'est l'esprit dont nous avons besoin si nous voulons gagner ce combat. Bon travail, à la fois vous et votre ... \\\"#squad\\\"."
+    "text": "C'est l'esprit dont nous avons besoin si nous voulons gagner ce combat. Bon travail, à la fois vous et votre ... \"#squad\"."
   },
   "88b7943827484b410084768fa503800e": {
     "text": "Excellent, vous avez gagné du terrain - nous le conserverons à présent, vous et votre équipe continuez d'avancer."
@@ -5412,7 +5428,7 @@
     "text": "Je n'ai eu d'autre choix que d'assigner toutes les divisions d'ingénierie d'urgence pour réparer votre Mechs. Cela compromettra sérieusement les efforts de défense de Détritus."
   },
   "d1ab9c219f5374d20c7f54d6cd595be1": {
-    "text": "Nos équipes de réparation rapportent - ah, je cite ... \\\"il y a plus de métal déchiqueté que de Mech\\\" et concluent avec un ... non optimiste ... rapport des chances de réparation."
+    "text": "Nos équipes de réparation rapportent - ah, je cite ... \"il y a plus de métal déchiqueté que de Mech\" et concluent avec un ... non optimiste ... rapport des chances de réparation."
   },
   "34eaa348f6fd11c89a26fcab9f434a1f": {
     "text": "Nos pilotes rapportent que l'#squad est tellement endommagé qu'ils ne rentrent quasiment pas dans les baies d'amarrage. Nous devrons affecter du personnel supplémentaire pour les réparations."
@@ -5568,7 +5584,7 @@
     "text": "Bloqué"
   },
   "591d227136cb2c16b73630e65faf5336": {
-    "text": "Vek d'émergence en premier lieu. Comme il ne bloque pas * tout * les Veks, et même si  les Veks vous font un blocage, il est difficile de donner une bonne excuse pour expliquer en quoi c'est une bonne chose !"
+    "text": "Vek d'émergence en premier lieu. Comme il ne bloque pas * tout * les Veks, et même si les Veks vous font un blocage, il est difficile de donner une bonne excuse pour expliquer en quoi c'est une bonne chose !"
   },
   "3fd245c4642668d0ada1c54e6cc7b8c8": {
     "text": "Cette région a toujours des anciennes routes vierges et un design topiaire ! Ne laissez pas la surface aux Veks, ils vont faire des ravages sur elle!"
@@ -5739,7 +5755,7 @@
     "text": "Interceptez les Veks dans ce secteur, mais ne faites pas de mal au Vek Volant - manipulez-le sans le tuer ou les dégâts seront catastrophiques."
   },
   "ebf2c2b3ba7db06bd709b3dc4fd3a31f": {
-    "text": "Nous avons identifié un Vek Volant dans ce secteur, Commandant - \\\"encouragez-le\\\" à se retirer - sans le tuer."
+    "text": "Nous avons identifié un Vek Volant dans ce secteur, Commandant - \"encouragez-le\" à se retirer - sans le tuer."
   },
   "2a4e4445636a6cdbe523f30a2203e4fe": {
     "text": "Je suis sûr que ce Vek explosif sera de retour, mais au moins rien n'a été endommagé. Hmm... Nous devrions doubler la protection contre les explosions des vestiges avant qu'il ne revienne ..."
@@ -5839,5 +5855,640 @@
   },
   "b518c4f8cc9e8a9e92d4519b5e148675": {
     "text": "Réactivation"
+  },
+  "ce8bccdf33884089050e13fff7d0076b": {
+    "text": ""
+  },
+  "a53aa50bdbc9b2443e69a3aaf6067516": {
+    "text": ""
+  },
+  "2c8adc95263de3ff49cd1152f3691d56": {
+    "text": ""
+  },
+  "03b38dcc3b1e82adc5612bd46eb8f716": {
+    "text": ""
+  },
+  "7a5d3140728298140e422e3c86e47dcb": {
+    "text": ""
+  },
+  "7c0fd0d6940629049c7dc966558577a4": {
+    "text": ""
+  },
+  "30ed59316c57d540d66cef340c66813b": {
+    "text": ""
+  },
+  "32709476d283edfcc52af078b0ad4b95": {
+    "text": ""
+  },
+  "084951f0efc06434176639932078a67c": {
+    "text": ""
+  },
+  "3c797136f20ad419214864298258dd2b": {
+    "text": ""
+  },
+  "a176ed57da6a731c7b6945898975770c": {
+    "text": ""
+  },
+  "2cfd8c315b8473566b5276eec323443d": {
+    "text": ""
+  },
+  "7b71354c2d9b2300182676dfee5d8063": {
+    "text": "Bâtiment #corp intacte !"
+  },
+  "b66a45269d0eda1493329326d3ec0147": {
+    "text": "Citoyens #corp présent dans ce bâtiment - ils sont en sécurité !"
+  },
+  "b274d919769dd7b94ea910fafefbabc3": {
+    "text": "L'infrastructure #corp est à risque. Retraite de Veks de la zone de combat."
+  },
+  "0009afd4cc45528bb04f10c405836d54": {
+    "text": "(Un perdu)"
+  },
+  "34f2aff9d04b5638da3d328f6f33f38c": {
+    "text": "+1 Tuile"
+  },
+  "cfab1ba8c67c7c838db98d666f02a132": {
+    "text": "--"
+  },
+  "ffbc89e80224546c423579e7f5c1cdd8": {
+    "text": "... et maintenant je bien suis ici !"
+  },
+  "cad739a53657203f2e6ca1044409bba6": {
+    "text": "/ -:-:- \\"
+  },
+  "817b3c640a5d25e0c0ba977a02a92f86": {
+    "text": "10... 9... 8..."
+  },
+  "faca55b3403265c6e7bcd3950d799a6d": {
+    "text": "\\ ...... /"
+  },
+  "667003a08dc2d23946c143e7c42b1fdb": {
+    "text": "\\\\ *:*:.. //"
+  },
+  "17d62a7ef51dc3fc45471d56f49374ec": {
+    "text": "\\\\\\ *:**........|"
+  },
+  "821fdcb422be3aed173afdf6713233e5": {
+    "text": "\\\\\\ *:*..:. ///"
+  },
+  "396407eb5197c1e7c21b2c0ff60ec8f6": {
+    "text": "Ahhhh !"
+  },
+  "24be0595a8e7f7bb0343440f1e1ab903": {
+    "text": "Aiighh !"
+  },
+  "74a1783878454a1fa8031820ae54c089": {
+    "text": "Bon sang !"
+  },
+  "cda1a037a1055242e6434e34a0d7b54b": {
+    "text": "Bon sang ..."
+  },
+  "96ebfc8e91f880900442064fe82bd27a": {
+    "text": "Mort."
+  },
+  "772b5aee7b222d395fc773bd89325d48": {
+    "text": "Double Meurtre"
+  },
+  "80252974bab27c1295e20e46660058cb": {
+    "text": "Encore !"
+  },
+  "c83f21570e12d68ba58aea5e72af3e0b": {
+    "text": "K'cchhtt… ? K'ccht ?"
+  },
+  "9f000de809fe87ba7beb8059b6d1c4a3": {
+    "text": "K-k-k'ccht… ?"
+  },
+  "8f10aadaef2e1b56a1cde3d0f1bdc794": {
+    "text": "Kc'cch'cccccht… !"
+  },
+  "8711f1a4ee07417f58327cd4e3dcfe6b": {
+    "text": "Kc'CCH'ccccCHT… !"
+  },
+  "ae30481b9df706efd165bfe7ad445fac": {
+    "text": "Kc'ch'TA ?! Jjk ! K'tch !"
+  },
+  "29d8b638d755ea38665ce9e4e2cb5f88": {
+    "text": "Kc'ch'ta ?! Jjk ?! K'TCH !"
+  },
+  "ac1986bdabafafb1b0a56be5ad2d7a94": {
+    "text": "Kc'ch'TA ?! VK ?! K'TCH-hk-hck… !"
+  },
+  "1825892343fa06b8c31212f928799e9e": {
+    "text": "KC'CHHHHHT !"
+  },
+  "bdcfe946661a29a685d8c7c004a69be9": {
+    "text": "Kc'chk'ta ? Vk ?! TCH'K !!!"
+  },
+  "fef3706df6060cefedd0a4ba3782e425": {
+    "text": "Kc'cht ! Jjk !"
+  },
+  "7b7f68841727f97af3b4ae7443ddf142": {
+    "text": "Kc'cht ! Jjk ! JJK !"
+  },
+  "71e33c83bda970a40d7a9b3491df71d0": {
+    "text": "Kc'cht ! Jjk… k'h'kht…"
+  },
+  "70b171de0d2092b2d00ff42809f5bf8e": {
+    "text": "Kc'cht ! Vk !"
+  },
+  "079ae54715efd72a38bcb4f8cded11cf": {
+    "text": "Kc'cht ! Vk…"
+  },
+  "3ca64ec74fad524d7ddbcea1aa767330": {
+    "text": "Kc'cht ? Jjk ?"
+  },
+  "a3cc1b790dd55159ffdc6d871943e477": {
+    "text": "KC'CHT ?!"
+  },
+  "f9fbb5c50e887ab639c5ea90bea10321": {
+    "text": "Kc'cht ?!"
+  },
+  "657803c37b07a89fca8f171831ba3379": {
+    "text": "Kc'cht ?! Kc'cch'ccccht…."
+  },
+  "16d855d4f965cbd20b21c7b4a51f76aa": {
+    "text": "Kc'cht… Jjk…"
+  },
+  "0c60c0bee945b95ec1639b34ae1c6732": {
+    "text": "Kc'cht… ?"
+  },
+  "0480ab9c92dc81c579fcfec92f042a00": {
+    "text": "Kc'cht… ? …k'h'kht ?"
+  },
+  "78465d013d76b2233fa6eb8b77436bd5": {
+    "text": "Kc'cht… ? …KK'hhh'kht ?!"
+  },
+  "68dc3d8a8261ef7a8c267ae4fb436427": {
+    "text": "KC'CHT… ?!"
+  },
+  "e43981a8484344405591a2477b0d451d": {
+    "text": "Kc'cht… ?! Kch'kch'kch…"
+  },
+  "9828de85e025723efef723bbb43d4d07": {
+    "text": "Kc'cht… ?! KK'hhh'kht !"
+  },
+  "df41b27e141bef92e61322d1b16c4de1": {
+    "text": "Kc'cht…?! Vk ! Tk'tch'Kch !"
+  },
+  "7d552d7e93b299b8b07c77cfaf0ef649": {
+    "text": "Kc'cht… ?! Vk ! Tk'tch'Kch… ?"
+  },
+  "f9ee0446a2ad9b6976ef391ad4f02681": {
+    "text": "Kc'cht… ?! Vk ? Tk'tch'Kch ?"
+  },
+  "787ec5925819e36756ae99b47237edc4": {
+    "text": "Kc'KC'cht !"
+  },
+  "68ab0b76f2997c257625b24c77d2e481": {
+    "text": "Kch'kch'kch…"
+  },
+  "b273a47253ec9975cee61d0699ec04c6": {
+    "text": "Nnnh !"
+  },
+  "2b49fa83b43e95c5b33b957f309e2aed": {
+    "text": "Non !"
+  },
+  "93b9976e7a0b68ed4c9acdbf21aae4ff": {
+    "text": "Non ! Le Pod !"
+  },
+  "eccd7d9431f3167da641acd199185c50": {
+    "text": "Non, Non, Non..."
+  },
+  "3e0efb2647fcc53c9ec532db401bfc3c": {
+    "text": "Oh Mon Dieu !"
+  },
+  "83ef619d7c5b0351d5a6bfa212d425c0": {
+    "text": "Tch'ckt'ch'kht… ?!"
+  },
+  "9211ce9796a1537242e3cb652db89256": {
+    "text": "Tch'k ! Jjk !"
+  },
+  "b99c492ce69a331302306b788ef27b86": {
+    "text": "Tch'K't'ch'ch ! Vk ! #main_reverse !"
+  },
+  "fa0a819728b97a5ad9f1b37d95deb6fe": {
+    "text": "Tch'K'tch ! Vk !"
+  },
+  "78f64aeddf359be3cab07b82bd3ef860": {
+    "text": "Tch'k."
+  },
+  "e0b76c792bc7957ccb778689524c9664": {
+    "text": "Tch'k. Jjk."
+  },
+  "d2ab9ef8955af4a6049b0520c23b94e2": {
+    "text": "Tch'k ? Vk ? K'tca !"
+  },
+  "286a1562abbe8049be094fe11ea79d1e": {
+    "text": "Vk ? ...Tk'tch'Kch ? KCH'KCH'KCH !"
+  },
+  "436a5a66aadf79d8c7cb1f0fe93b9efe": {
+    "text": "Vk ? Tk'tch'Kch ? Kch'Kch'Kch…"
+  },
+  "bdd7c599320dbcf411cea44e11502964": {
+    "text": "Vk ? Tk'tch'Kch…?"
+  },
+  "62a028a41f657dd4c108832d414b3d6c": {
+    "text": "Bien Joué."
+  },
+  "9e368f5fda5a40ab0188b255c3692ce1": {
+    "text": "Whoa !"
+  },
+  "d362bf45766c2e56bda5cf97032b5659": {
+    "text": "| *:*.. |"
+  },
+  "96f45f86ba1fc7efb5225e2acb31bf95": {
+    "text": "| :....: |"
+  },
+  "6a88b2cc74bfe013d5bae98900ae90ae": {
+    "text": "#main_first !"
+  },
+  "2a247e0fa362e9796ac31d23cf65d723": {
+    "text": "#corp n'est pas prêt d'aimer ça ..."
+  },
+  "c0d214c29a3b9724afab73d8aec78cc6": {
+    "text": "Défaillance du Réseau Électrique #corp."
+  },
+  "636434962003195e4a162e1767ee98a0": {
+    "text": "Le Réseau Électrique #corp est proche de l'effondrement."
+  },
+  "26c2791cbb07acd811e43cda2bb26330": {
+    "text": "La structure #corp a résisté à l'agression."
+  },
+  "4fdec5dd3170d7e1097a6569726f2277": {
+    "text": "Train #corp compromis mais non détruit."
+  },
+  "f388a99e1c99ff3f37c5e449522d4712": {
+    "text": "Train #corp détruit. Conseiller de réutiliser la coque du train comme pot géant à arbres.",
+    "review": true
+  },
+  "caf3e6e09309f599d230bc460cff0aae": {
+    "text": "Train #corp désassembler."
+  },
+  "6d30487f45c232f806166c8907769325": {
+    "text": "Train #corp a été détruit. Conseiller d'enlever le chemin de fer pour créer plus de terres arables."
+  },
+  "163ec2ec90642613360463d4c22ccbb5": {
+    "text": "Train #corp a expérimenté un accident. Recommander l'exécution et le remplacement des pièces offensantes."
+  },
+  "ea42c4bea704796cf85dfad72b2a3ada": {
+    "text": "Train #corp partiellement démonté."
+  },
+  "0a4997ea614675a827b2980ddeb54e66": {
+    "text": "Train #corp détruit ! Nous l'avons perdu."
+  },
+  "58e5f8737eac43dd16fe06a9519e9024": {
+    "text": "Train #corp nécessite réparation avant de dépasser la garantie."
+  },
+  "75735da788beed64e39348d23efac2df": {
+    "text": "Les réparations du train #corp sont couvertes par la garantie."
+  },
+  "960ee6fc54bbaddd747d4ceefd9acbc0": {
+    "text": "Train #corp détruit. Concentrer le feu sur les Veks."
+  },
+  "b2c89efeb694245b8c2617d07a53eb64": {
+    "text": "#corp comptait sur ce train."
+  },
+  "492c6b87c43447c26fcd12181f34c5cc": {
+    "text": "#corp, nous avons le lancement !"
+  },
+  "0bcdbdbe76e6e6757b4ce5415c923b34": {
+    "text": "#main_full a été optimisé. Mise à jour des routines Vekticide."
+  },
+  "13c2c04dc78f02dd9a263dc03927841b": {
+    "text": "#main_full a cessé de fonctionner."
+  },
+  "0349ecd444eed8ac3e1dd8b32501c5a8": {
+    "text": "#main_full promotion enregistrée."
+  },
+  "916ffa710883e2cd2c3edbc86c0f4889": {
+    "text": "#main_full ! P-P-pas toi aussi ..."
+  },
+  "3d0afe3d257ef81239a137db9c7f6e27": {
+    "text": "Les signes de vie de #main_full ont cessé."
+  },
+  "1ae0a90f3235ea8251ebb096b700d0db": {
+    "text": "#main_full, vous vous souviendrez."
+  },
+  "d799e8778a833dab8c40631fce9a0879": {
+    "text": "#main_mech numéro de désignation enregistré pour le prochain pilote qualifié."
+  },
+  "0b558e5b581a967a7f134523d25ae4ac": {
+    "text": "#main_mech a été jugé inapte au service actif."
+  },
+  "b87ff586bb4e771eba6d6104e3d25e27": {
+    "text": "#main_mech n'a pas réussi à protéger son hôte. Demande que le Mech soit discipliné."
+  },
+  "4dab578e7ad7adddd03e29621011871f": {
+    "text": "#main_mech agit maintenant comme une obstruction au combat."
+  },
+  "52370ee430f4f35d551888d9ce43e1ea": {
+    "text": "#main_mech est maintenant prêt pour le prochain pilote.",
+    "review": true
+  },
+  "b96455fcd8947a3912c84f6de35b136c": {
+    "text": "#main_mech est en panne !",
+    "review": true
+  },
+  "457968d66cc6ae8b203294910321cc97": {
+    "text": "Les parties de #main_mech ont échoué dans leur mission principale de protéger leur hôte."
+  },
+  "56a6ab8bf65dddda4d99f16a1c26bf3a": {
+    "text": "Le pilote de #main_mech a réalisé une synergie avec son partenaire."
+  },
+  "59c0aebe089e1ace10583ac6825284f3": {
+    "text": "L'ensemble des compétences de #main_mech ont réussi à supprimer tous les Veks de la zone de travail menacée."
+  },
+  "1cedeffddcd0e365b5808d0927edd0e1": {
+    "text": "La formation #main_mech de son pilote a réussi."
+  },
+  "3006058611005e5a9cbbcbb667c21e2e": {
+    "text": "#main_mech : Détruit\nEfficacité Tactique: Compromise"
+  },
+  "7f32f9bf8568ff894ad41e1486c41b60": {
+    "text": "#main_reverse : Évaluation...\nEfficacité Tactique : Augmentée"
+  },
+  "285ad0d5e343e64210577400a4467d41": {
+    "text": "#main_second rapports dans ... vérifications de sécurité complètes, armes en ligne."
+  },
+  "4036e820c285f9bbeb6b56df72ad388a": {
+    "text": "#main_second !"
+  },
+  "b89e25a520ea57c992d26fcb3a2b3a89": {
+    "text": "#main_second, attention où vous tirez !"
+  },
+  "53b111de0c3a6ae90e2f451a08c73178": {
+    "text": "#main_second, au rapport ! Qu'est-ce que vous faites ?!"
+  },
+  "f7e53c330fe6ef57030cfe03a9759b56": {
+    "text": "#main_second, vous et moi allons parler quand nous reviendrons ..."
+  },
+  "e194c6e6bb8c4e7ce781097414d5f844": {
+    "text": "#self_full mobilité compromise par des Veks."
+  },
+  "b4829256d2805eef023b8c4f682a333b": {
+    "text": "#self_full promotion enregistrée. Nouveaux protocoles de gestion téléchargeables dès maintenant."
+  },
+  "6ecfec1affedecc78ae7aa4e6ea46938": {
+    "text": "#self_full non-déclassé."
+  },
+  "0609c1a4c6955bcd3e1156639b7a8cb9": {
+    "text": "#self_mech n'a pas réussi à protéger l'occupant principal. Soumissions d'un réprimande officielle."
+  },
+  "c26ff1665cadc48114d2cd5dd23374c1": {
+    "text": "Coque #self_mech a été renforcée."
+  },
+  "8b17747d8177807f7184919ab700199f": {
+    "text": "#self_mech retenu par un Vek hostile. Mouvement impossible."
+  },
+  "fb3063b42920c12fce10f2339b9d89ef": {
+    "text": "#self_mech, en attente."
+  },
+  "e66c93576cf8131b97967c26d7841870": {
+    "text": "#self_reverse! Kc'chht ! KC'CHHT !"
+  },
+  "d7c69577d426e5e904f1371cae223753": {
+    "text": "#self_second, prêt à engager le combat."
+  },
+  "56c4eba3256f470ea2be7e1f9bb59394": {
+    "text": "#self_second, au rapport."
+  },
+  "f80fb217c5a58a5e885b3f1422d19ceb": {
+    "text": "#squad - si quelqu'un trouve un tir propre sur le barrage, faites-le !",
+    "review": true
+  },
+  "718d69e6d5b2494cfc46d8a8de63719d": {
+    "text": "#squad - déplacez-vous pour bloquer le Vek, ne laissez aucun d'entre eux faire surface !"
+  },
+  "5e33fa4d39ba603f57483e2706de6f0d": {
+    "text": "#squad - nous devons nous concentrer sur la prévention de l'émergence du Vek."
+  },
+  "6e4c55873c03f3319ed43724fba81a08": {
+    "text": "#squad ont été recyclés."
+  },
+  "d030ba99d946835e551a98f20be65d75": {
+    "text": "#squad ! Essayez de vous positionner entre le Vek et les cryo-mines !"
+  },
+  "36e3efad07cfc4dc8e22ebb220eac377": {
+    "text": "#squad, êtes-vous là ? On obtient des signaux étranges sur les capteurs ... Est-ce que vous allez bien ?"
+  },
+  "5a123593258046b97fe17278549005b4": {
+    "text": "#squad, Couvrez tous les points d'émergence Vek !"
+  },
+  "fc3dac231cc53c1d8eea4852a5a978d2": {
+    "text": "#squad, ne laissez pas les Veks faire surface ! Utilisez vos Mechs pour les arrêter !"
+  },
+  "2f8cf57d753c9c17ba0a2f134a469d99": {
+    "text": "#squad, formation sur moi.",
+    "review": true
+  },
+  "2ead50b36b216fabdebb72a6c4487a61": {
+    "text": "#squad, dégagez de la zone de bombardement !",
+    "review": true
+  },
+  "b21b96b79742fe1d68b8c7cbfef2aec7": {
+    "text": "#squad, gardez à l'esprit que nous devons niveler ces montagnes avant de partir."
+  },
+  "05d8e342f856e05198e7447adafd9ec7": {
+    "text": "#squad, déplacez-vous pour bloquer le Vek émergeant ... avec vos Mechs si vous le devez !"
+  },
+  "5e9ed0fa6340a4be0380553d5bf5146d": {
+    "text": "#squad, au rapport. Brèche localisée avec succès."
+  },
+  "063b279e5bd5a72df28766d9e17a62dc": {
+    "text": "#squad, restez à l'écart de la rampe de lancement ou vous serez réduit en cendres !"
+  },
+  "6d99c3fb39789670bbdf16455ed93895": {
+    "text": "#squad, vous devez être félicité - les capteurs confirment que les Veks ont été repoussés. Le secteur est à nouveau le nôtre."
+  },
+  "b9f0c53fbb8536119a213bb96e5795c4": {
+    "text": "#squad ... Nous avons détecté plusieurs points d'émergence potentiels de Vek . Soyez prêt."
+  },
+  "8fb0637832b612213ab8a33a00e06a37": {
+    "text": "... E-E-Est-ce que cette p-p-promotion signifie p-p-plus de missions de combat ?"
+  },
+  "c5aaf3a0559ce09d0047ea957261184e": {
+    "text": "... La vache ! Ça me donne mal à la tête.",
+    "review": true
+  },
+  "01403df661e08c5f1d1d7ba7b2104787": {
+    "text": "... Avez-vous détecté un problème étrange dans vos capteurs ?"
+  },
+  "a7b8395f882dd6cccd0df92aef7ecbcd": {
+    "text": "... Les unités d'élimination de ce genre sont une raison pour laquelle je me porte volontaire comme pilote."
+  },
+  "c2e271c0f30860240e5af246fdc20dbe": {
+    "text": "... Même moi je ne pouvais pas réparer ça."
+  },
+  "9ae6fe3b00c30ddd01cd23b4f08703ea": {
+    "text": "... L'usine est partie."
+  },
+  "4a58ea5262848970afcbaa9849bb2539": {
+    "text": "... Ai-je déjà utilisé cela dans une autre ligne temporelle ?"
+  },
+  "2532af2e32bde47c1a19a623a1fc3542": {
+    "text": "... J'espère qu'ils ont travaillé sur cette anomalie avec cela dans cette ligne temporelle."
+  },
+  "5702e360a74cdda62971bacae09dcef6": {
+    "text": "...Je n'ai pas besoin de cela."
+  },
+  "5be14850b213301ce1ccb79ae6db5b2f": {
+    "text": "... J'ai détruit une montagne."
+  },
+  "ec1c9d582567a5c647783753ecf27f26": {
+    "text": "... J'espère que les caméras étaient éteintes quand j'ai été désactivé."
+  },
+  "3a7bf8a8fbc61520f6ad085657f88d2e": {
+    "text": "... Je pense que la centrale électrique est définitivement fermée."
+  },
+  "2356d0ba390bd290bf41a32349c199d9": {
+    "text": "... Je me demande si un autre moi est à l'intérieur de ce Pod."
+  },
+  "1de0ad003b743c266164faabb08d5cbe": {
+    "text": "... Je rapporterai la perte de l'usine à Zénith personnellement."
+  },
+  "ffed12ab3519dded982734ace4acd237": {
+    "text": "... Si vous pensez que cela est nécessaire, Commandant."
+  },
+  "eed28f444a3732e03be46f52d5926b50": {
+    "text": "... Est-ce censé briller comme ça ?"
+  },
+  "695aa618fc563b433572ac9be414ca1d": {
+    "text": "... Est-ce un test ?"
+  },
+  "9d01b612d76f8e84fa1af4ed7662e774": {
+    "text": "... Collectez les signaux étranges provenant de cette montagne, Commandant."
+  },
+  "168518bf679828407cd413d2386393e6": {
+    "text": "... Collectez les signaux étranges sous la glace, Commandant."
+  },
+  "19c4431128b450b07251aee0b89010d9": {
+    "text": "... Le réacteur fait dresser mes cheveux."
+  },
+  "6c8398a060a25ca3307130cde23eda8c": {
+    "text": "... Un tel s-s-soulagement."
+  },
+  "3d9e8961c29f957017dbc0c4f6c5327e": {
+    "text": "... Dis à Kern que j'ai combattu jusqu'à la fin."
+  },
+  "c529d32775c6847881ba2667063bcbd7": {
+    "text": "... Cette unité d'élimination est une raison pour laquelle je ne manque pas de travailler à Détritus."
+  },
+  "57ec17cc1cad30796032a5fd8ad73453": {
+    "text": "... Le pouvoir de ces Mechs m’effraie parfois."
+  },
+  "3104412f180546a42d3fac01466b8b71": {
+    "text": "... C'est pour chaque ligne temporelle qu'ils ont détruit."
+  },
+  "386f90695511693566aceaa1fe80745b": {
+    "text": "...Est-ce que cette central électrique est sur le point d'exploser ?"
+  },
+  "4b3c3da1ec44acda0dc6ba0091262b15": {
+    "text": "... Que faites-vous à mon Mech ?"
+  },
+  "6747b1af2c56cfd733c97883a8479a49": {
+    "text": "...Quel est cet enfer ?"
+  },
+  "b03f496b10802b76dc4d9ce6870d6099": {
+    "text": "1 pour l'#squad ! Vek : 0 !"
+  },
+  "d84795f8f8fa671ca9301f4d73bca3ad": {
+    "text": "100% des cuves ont été détruites et les produits chimiques se libèrent. Nos capteurs détectent déjà une activité Vek réduite dans la région."
+  },
+  "73e2ddbb8dcd6422f1b760037cdc9be6": {
+    "text": "100% de succès. C'est le nombre que le PDG Singh aime voir."
+  },
+  "66b3a9adc4ad2834348132927415da85": {
+    "text": "Bien ! #main_first, tu deviens bon à ça !"
+  },
+  "493f29ea386c693bbc2582db25af66ba": {
+    "text": "[ #self_mech amélioration complète ]"
+  },
+  "841c669c5f839edcf45835c51b4fa822": {
+    "text": "[ Puissance #self_mech détournée vers de nouveaux systèmes ]"
+  },
+  "6c8b13d9a60a21d50e2d813f8f06a24b": {
+    "text": "[ Notification #squad : le barrage est toujours intact ]"
+  },
+  "1c03a313a2a8ba935568566404533a9f": {
+    "text": "[ 2 Veks supprimés. Cause des suppressions: Pilote #main_second ]"
+  },
+  "ea2c23bd303586d47860996159853128": {
+    "text": "[ 2 Veks supprimés. Cause des suppressions: Vek rivale ]"
+  },
+  "be69760d6e911abf43612e9e70bed334": {
+    "text": "[ 2 Vek ont été supprimés ]"
+  },
+  "066fd418999a4472850a49ce1e547947": {
+    "text": "[ 2 menaces Vek en retraite]"
+  },
+  "d26c8028910a63c2b2e72ddcc4166d6a": {
+    "text": "[ 2 menaces Vek en retraite. Raison du retrait : Pilote #main_second ]"
+  },
+  "848227693fda234c67eefb7096965340": {
+    "text": "[ 2 menaces Vek en retraite. Raison du retrait : Vek rivaux ]"
+  },
+  "cd0b5a8a1f0caae5dba09d3f54dc0d69": {
+    "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a été détruit ayant subit des dégâts lors de l'atterrissage ]"
+  },
+  "4e97398d2c187b5a6fdbbc6f50917811": {
+    "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a été détecté ]"
+  },
+  "f91ff75e95de236cc3a6e51e058e7790": {
+    "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a atterri à proximité]"
+  },
+  "e0c38e49d03dce4253133e60652c7dd7": {
+    "text": "[ Un Vek a été empêché un autre Vek de faire surface ]"
+  },
+  "c31c5a7f04b6f9dd0afd5a92e38d049a": {
+    "text": "[ Un Vek a fait surface. Verrouillage des capteurs sur lui ]"
+  },
+  "9f3314d66366d0af3bc391423677c4e5": {
+    "text": "[ Un Vek tente de faire surface sous cette unité Mech ]"
+  },
+  "d7ef1129db82494bb360368954fdac5b": {
+    "text": "[ A.C.I.D. libéré ]"
+  },
+  "29d3cff880a4ab6f40ab878258a81446": {
+    "text": "[ L'engin Alien contient un occupant extra-terrestre et une langue de construction inconnue ]",
+    "review": true
+  },
+  "72c357c6a23f9e943fab64c6e074febd": {
+    "text": "[ Les chars d'archives sont actifs ]"
+  },
+  "0fa90898dfcf9929bbcff15302b97db7": {
+    "text": "[ Chars d'archives : les signaux d'appels \"Daddy Warbucks\", \"Mama Bear\", sont maintenant activés ]"
+  },
+  "eecd79d4c568b62e4fa93073ca528596": {
+    "text": "[ Att : Commandant. La ligne temporelle actuel a subi une défaillance catastrophique du système ]"
+  },
+  "79cac401645dff57dd4895c77d26e9b0": {
+    "text": "[ Att : Commandant. La puissance du réseau est presque épuisée ]"
+  },
+  "764b6f27388da714337e0200549ee1a8": {
+    "text": "[ Att : Commandant. Rapport de réactivation avec succès suite à une défaillance du système ]"
+  },
+  "e5b5767a935703cc96352d1f8d70e801": {
+    "text": "[ Att : Commandant: Lancement des protocoles de brèche temporelle ]"
+  },
+  "1ceadd6ddcbfa2e6d6a5ab5637f15fff": {
+    "text": "[ Att : PDG de Pinnacle : Zénith. C'est #self_reverse, provenant d'une ligne temporelle sauvée. Ma banque de données contient des documents essentiels pour la victoire contre le Vek ]"
+  },
+  "ac81cdc76a6502099d3597e087c5ff79": {
+    "text": "[ Att : PDG de Pinnacle : Zénith. C'est #self_reverse, provenant d'une ligne temporelle compromise. Ma banque de données contient des documents essentiels à la survie des humains et des robots. ]"
+  },
+  "c8f2a128a153b3766cab3e4b935ae540": {
+    "text": "[ Att : Zénith. #self_reverse, transmission numéro de désignation et Ligne Temporelle Mortelle vers les archives Pinnacle ]"
+  },
+  "b6f020c64fb03778d05e4750e4ee14aa": {
+    "text": "[ Att : Zénith. #main_reverse, transmission numéro de désignation et Ligne Temporelle Mortelle vers les archives Pinnacle ]"
+  },
+  "75201a3522b7481c2baa996eef3e200a": {
+    "text": "[ Tentative de projection de réplique ... calcul en cours...]"
+  },
+  "b77bc814889707f80a95f2f34c923701": {
+    "text": "[ Bombe amorcée ]"
+  },
+  "521870c5a17481ceebaed988f40952f9": {
+    "text": "[ Les rapports de pertes ont été classés ]"
   }
 }
