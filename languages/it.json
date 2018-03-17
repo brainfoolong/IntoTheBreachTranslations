@@ -1,12 +1,12 @@
 {
   "7a611cb8db26e166677db7f79f3e9bae": {
-    "text": "Quando incontri nuovi nemici, assicurati di imparare le loro abilità. \\n\\nTieni premuto $1 mentre muovi il mouse su di loro per esaminarle"
+    "text": "Quando incontri nuovi nemici, assicurati di imparare le loro abilità. \n\nTieni premuto $1 mentre muovi il mouse su di loro per esaminarle"
   },
   "459cdfba3327e4147509600ac5274e04": {
     "text": "Ispeziona unità"
   },
   "707838e56b572a9b5dd23b103ad63943": {
-    "text": "Questa è la rete elettrica. Ogni volta che un edificio viene danneggiato, verrà ridotta.\\n\\nSe raggiunge lo zero, perderai la partita."
+    "text": "Questa è la rete elettrica. Ogni volta che un edificio viene danneggiato, verrà ridotta. \n\nSe raggiunge lo zero, perderai la partita."
   },
   "2bf97b37e0ebb32011b7a549c3ce28be": {
     "text": "Rete elettrica"
@@ -757,5 +757,425 @@
   },
   "9b9deb31726b572bb7786fdf9a973307": {
     "text": "Questa Isola-Museo ricrea la Vecchia Terra com'era prima che l'oceano si innalzasse e cancellasse quasi completamente l'umanità."
+  },
+  "f181304e789fd0882df5cb02d232fc69": {
+    "text": "Nemici"
+  },
+  "3591fc6be48ca6e3a373fbd92d3283c0": {
+    "text": "Non fallire nessun Obbiettivo Bonus."
+  },
+  "779c195d5f13925a09afb31294ad790d": {
+    "text": "Prendi VAL o meno di Danno Mech"
+  },
+  "2774911939331fcecfedb62f4b97ea8e": {
+    "text": "Perdi VAL o meno di Energia Elettrica."
+  },
+  "049ed6de030ce25082a6a5821d8b8200": {
+    "text": "Guadagna VAL o più di reputazione di corporazione."
+  },
+  "bea429b8e07cd52a04128dc98c1a07c7": {
+    "text": "L'unità di smaltimento è stata distrutta!"
+  },
+  "13f5194e135b136a76d4e7f76e8bf498": {
+    "text": "Lasciate a me il debriefing su cosa è successo a l'unità di smaltimento, alleggerirò la situazione."
+  },
+  "a5009c14c7f3c3f7635d0acf3fe18b13": {
+    "text": "Vikram capirà. Lo stiamo aiutando, giusto?"
+  },
+  "83a3be00962f7ebef403da83d203e595": {
+    "text": "Corrente:"
+  },
+  "8d2f2e2646c3ba3077768456aaec6092": {
+    "text": "Danno Corrente:"
+  },
+  "2088d1ad675f66a63e9b5855ece67ce8": {
+    "text": "Tutti i tuoi Mech sono stati disabilitati. Una squadra d'evacuazione arriverà a breve per recuperare i tuoi piloti."
+  },
+  "223321533ecd98aac252b03ef151be68": {
+    "text": "Ti sei ritirato dal campo di battaglia, lasciando scorte e civili indietro."
+  },
+  "5390d8f3425bd8f561e81805afe74235": {
+    "text": "per difendere questa struttura."
+  },
+  "b12f6f65259a3e89ca17833bab9b1c23": {
+    "text": "Finisci la battaglia con meno di 4 Danno Mech"
+  },
+  "26ade0d30cfbfa5cc6e253d67160bafe": {
+    "text": "Prendi meno di 3 Danni alla Rete "
+  },
+  "97e444541af17ade3bfa8c53a4796e38": {
+    "text": "Guadagna VAL o più Energia Elettrica."
+  },
+  "b818df62a7a8227efad38fd9c3eea3e4": {
+    "text": "I componenti dell'unità di smaltimento hanno fallito nel difenderla."
+  },
+  "b68cb92986460807931abfffb7498d5b": {
+    "text": "L'unità di Detritus è distrutta!"
+  },
+  "b1302cc6c105579890bdbafb9659024e": {
+    "text": "Proteggi "
+  },
+  "6998faaa07f7573d034e960a988375d4": {
+    "text": "Uccidi almeno"
+  },
+  "4468106b119ce25bcd00795c42247164": {
+    "text": "Blocca lo spuntare dei Vek\n3 volte"
+  },
+  "dad15ea258068b0bd62af51ad586c5ae": {
+    "text": "Blocca lo spuntare dei Vek 3 volte"
+  },
+  "a38de2742a3dccdf0aaf799ac5a83bca": {
+    "text": "Finisci con meno di 4 Danno Mech"
+  },
+  "055a2686266eb58757b79eefe037a1ad": {
+    "text": "Meno di 3 Danno alla Rete"
+  },
+  "1f6f04e9e368147e55fc170f35e7eed3": {
+    "text": "Questo è il messaggio di un CEO alla fine di una missione. Riflette quanto è andata bene la missione. Potrebbe essere un complimento, o un insulto alle tue abilità."
+  },
+  "ddff0d5817e9abf08eb05ebc3a9ea973": {
+    "text": "Questo è il messaggio di briefing di un CEO. È molto atmosferico, e ti da uno sguardo ravvicinato al mondo e alla missione che stai per intraprendere."
+  },
+  "f6d0767246dfb19d759aeaa33c8447ad": {
+    "text": "Non lasciare che il Vek\nVolatile muoia"
+  },
+  "ad5db6ac9e5575807057b074df742941": {
+    "text": "Non uccidere il Vek Volatile"
+  },
+  "c275bb736595af16e286b49a316de1a2": {
+    "text": "Uccidi tutti i nemici \nprima che si ritirino"
+  },
+  "7ad256905de3108167e06d311da8f532": {
+    "text": "Uccidi tutti i nemici prima che si ritirino"
+  },
+  "a0804584f0cbb1fb1a1d2b59b3ba8231": {
+    "text": "È troppo danneggiato per continuare. Difendilo."
+  },
+  "77402386db478d9113610af4f1243876": {
+    "text": "Muove avanti di 2 spazi, ma viene distrutto se bloccato."
+  },
+  "5d53826055c506476ae2a1bd35f8dd0f": {
+    "text": "Se il treno è bloccato mentre si muove, esploderà"
+  },
+  "084ad6826c3326cc091a57d4ce4eefee": {
+    "text": "Il treno è danneggiato e non si muoverà più"
+  },
+  "bdfa7a53a2b6b7e3de3fd3492db6410d": {
+    "text": "Difendi il treno danneggiato"
+  },
+  "48569f4f4cdeb6d3de2596bfbac8765c": {
+    "text": "Difendi il treno "
+  },
+  "3e2a76e81ef1cfa252143524ae6ba9ea": {
+    "text": "per difendere questa struttura"
+  },
+  "17c402d603d457ac54e2279cbafe2501": {
+    "text": "Il tuo obbiettivo bonus"
+  },
+  "427d563aa4c8599b3c12d18b652b6966": {
+    "text": "Difendi entrambe le Centrali Elettriche"
+  },
+  "84cd8088085538d275e657eb61ea9834": {
+    "text": "Difendi entrambe le Centrali del Vento"
+  },
+  "de816380f6e83a7495ab33e400dadb0f": {
+    "text": "Difendi entrambe le Centrali Solari"
+  },
+  "db7ab99dbbbcabba712f5da217a15b41": {
+    "text": "Centrali Solari"
+  },
+  "0e6f70304077b8095f110ad66ed354fd": {
+    "text": "Centrale Solare"
+  },
+  "63de51e87621e949587d9b06f00a0810": {
+    "text": "Spara un proiettile che congela l'obbiettivo"
+  },
+  "5d512b000d8dfa977b9bca0d84c0c48f": {
+    "text": "BUFERA "
+  },
+  "406aa689e72ea92112a96a0c1f627498": {
+    "text": "Le caselle indicate verranno congelate all'inizio del turno nemico."
+  },
+  "9dcf3e7c062860b660698df335479cbd": {
+    "text": "Congela e difendi il robot rimanente"
+  },
+  "ebd1451d6c2951b2577fe266f7da3dc2": {
+    "text": "Congela e difendi\nentrambi i robot"
+  },
+  "ad6d295d08f0007fff02f9d212b6ed4f": {
+    "text": "Congela e difendi i robot (1 congelato)"
+  },
+  "1041db21e1732de45db1a31409d5f3b9": {
+    "text": "Congela e difendi entrambi i robot"
+  },
+  "915e44d489646ee02cbc1866ccedd8a9": {
+    "text": "Scongela 5\ndegli edifici"
+  },
+  "412c1830464908ab6c2662bc641382d2": {
+    "text": "Scongela 5 edifici"
+  },
+  "46cc0df55d22d6eb6c37cabbc09f5193": {
+    "text": "danneggiato"
+  },
+  "f1dba6e703b07349d8fecc89918ffe99": {
+    "text": "Difendi entrambe le Fabbriche di Robot"
+  },
+  "6a65a8f2b3c3be3f91e19862ad3cbdec": {
+    "text": "Fabbrica Robot"
+  },
+  "f628c0b66da0be9149439e2481bc5515": {
+    "text": "Fabbriche Robot"
+  },
+  "fff365311f519a47a2344845e224ad1c": {
+    "text": "Difendi il Robot rimanente"
+  },
+  "ed32fad3140469c45f6bb75dbaf1fc38": {
+    "text": "Difendi i Robot"
+  },
+  "90a95d75428b0ae88f553992b07149d2": {
+    "text": "Auto-Distruggiti, danneggiando le caselle vicine."
+  },
+  "21d22222c0ca7eba59c7531a83da6b2b": {
+    "text": "Bonifica le caselle di Erba in Deserto"
+  },
+  "8b4a41673461c76ae931dc0e3dc75628": {
+    "text": "Difendi il Bonificatore"
+  },
+  "eda2f1df14f60a93416d9497de1e1b32": {
+    "text": "TEMPESTA DI SABBIA"
+  },
+  "bfcdf794fc05c63d99b6ddc961556d63": {
+    "text": "Tutte le DUNE diventeranno FUMO, tutto il FUMO verrà rimosso."
+  },
+  "7c9003711a7936d7999017c1afa0dbc4": {
+    "text": "TUONO"
+  },
+  "c2e0856cd016a1bd19d1d86f482079f8": {
+    "text": "TEMPESTA DI TUONI"
+  },
+  "36609b078daac3434eae1df8dec3b811": {
+    "text": "Dei tuoni colpiranno 4 caselle ogni turno, uccidendo qualsiasi unità sulle caselle segnate."
+  },
+  "a4d509ffa65265cb3bff48c9e1022ea0": {
+    "text": "(Attuale:"
+  },
+  "1ba254533468b3dd9b7d958d3e7c3bea": {
+    "text": "Distruggi 2 montagne"
+  },
+  "f27d61c5e7759ac815675ae0c2a91677": {
+    "text": "Difendi il Mover Terrestre"
+  },
+  "1ef89a02e4a86349810edcbd210434e6": {
+    "text": "CATACLISMA"
+  },
+  "0009afd4cc45528bb04f10c405836d54": {
+    "text": "(Una persa)"
+  },
+  "493ab488e14fd8f758656528180c2007": {
+    "text": "Le caselle segnate sprofonderanno, uccidendo qualsiasi cosa su di loro."
+  },
+  "71e4581e1c56a0b4141998a6a0c48623": {
+    "text": "Le caselle segnate diventeranno delle Voragini all'inizio del turno nemico, uccidendo tutte le unità di terra su di loro."
+  },
+  "36fe8cf03532f27f5fbcb0cbffe38728": {
+    "text": "Difendi le Bombe"
+  },
+  "4111a42c624f49b8f838195faef8d0c9": {
+    "text": "Difendi i prototipi di Bombe Renfield"
+  },
+  "25f98a87fa7466585de205992971e082": {
+    "text": "MAREMOTI"
+  },
+  "5b7686a4bd549a54d83d367317ef1e09": {
+    "text": "Le caselle indicate diventeranno acqua all'inizio del turno nemico."
+  },
+  "e93d8eadf5d2ed650086f629e95e1416": {
+    "text": "Archive Inc \nTank della Vecchia Terra"
+  },
+  "092fe87ed5022c8d381615b12be6e96f": {
+    "text": "intatto"
+  },
+  "84ce909816e88c3d6857df53c488a6ea": {
+    "text": "Difendi i Tank della Archive Inc."
+  },
+  "f3f1bee9b5bbd2cfa66521dc3205e5bc": {
+    "text": "Difendi i Tank"
+  },
+  "4b0414970069383866c53b10415981c5": {
+    "text": "Difendi il lancio del secondo satellite"
+  },
+  "1348b010d1b4a0bda4a5dc515232e228": {
+    "text": "Difendi il lancio del primo satellite"
+  },
+  "5bba7eb907a89f4c84409ffc6dd64ef7": {
+    "text": "Difenti i Lanci dei Satelliti"
+  },
+  "bfb0049f5f95dbf9a85ba540df4750b3": {
+    "text": "Distruggi la diga"
+  },
+  "cae790fc049cb85e0a780c860913fe44": {
+    "text": "Difendi l'Unità di Artiglieria"
+  },
+  "0936481946dd13343be73c7473784588": {
+    "text": "Difendi il Supporto d'Artiglieria"
+  },
+  "b0f9535a381ff9db655fba0c698d0569": {
+    "text": "Difendi la Bomba Renfield fino alla sua esplosione"
+  },
+  "b0fb59726bcdbeb9bb6f4754eb6dee44": {
+    "text": "Sopravvivi alla battaglia"
+  },
+  "152cd0044ac72f2702d6007811f80a7a": {
+    "text": "VULCANO"
+  },
+  "f300ab2b6ba5b24334ed614624edbcc4": {
+    "text": "Fai attenzione al vulcano attivo!"
+  },
+  "8705034a8b4aa629a04eb5da167fc072": {
+    "text": "Fai attenzione alle rocce e alla lava!"
+  },
+  "5ce729cb3100cf1b8d58866fbbb6efde": {
+    "text": "Distruggi il Ragno Leader"
+  },
+  "4eb213f40de95117474688c7ed440840": {
+    "text": "Distruggi la Lumaca Leader"
+  },
+  "5de0df926da4b1d48bdee7e5fd722bd7": {
+    "text": "Distruggi lo Scorpione Leader"
+  },
+  "402b2670bbf57cc185cf4c482dc92d73": {
+    "text": "Distruggi l'Abominio Psion"
+  },
+  "b07b51fddc660515bcb0fdd1b3abc950": {
+    "text": "Distruggi il Calabrone Leader"
+  },
+  "0e181f89f47654b86f3beb42f5cc08b8": {
+    "text": "Distruggi"
+  },
+  "bdfbd6278febc6386e0b4f22c46b89dc": {
+    "text": "Distruggi 5 Robe appiccicose"
+  },
+  "7fd9bb805fed1370d31df0f86c0f9fd6": {
+    "text": "Distruggi la Libellula Leader"
+  },
+  "a6ff8e5fa1a427f0310162354e76d91f": {
+    "text": "Distruggi il Bot Leader"
+  },
+  "3b87b898df39749c26af22f36aefc3c0": {
+    "text": "Distruggi lo Scarafaggio Leader"
+  },
+  "2453e9ec637406d9905bb0ce34bc1fb0": {
+    "text": "SUPPORTO AEREO"
+  },
+  "4e445df2feda898d011435ca03f43c66": {
+    "text": "Le Bombe verrano sganciate negli spazi indicati, uccidendo qualsiasi unità."
+  },
+  "44ffd38a6dea695cbe2b34efdcc6cf27": {
+    "text": "Parziale"
+  },
+  "45205658881be19832588221139d1136": {
+    "text": "Smaltimento"
+  },
+  "8e8c2adc91106422362ffd9b8b44e9a2": {
+    "text": "Montagne"
+  },
+  "265e1f2dae919214193bb7f5ef17a00b": {
+    "text": "Distruggi tutte le montagne"
+  },
+  "10d44295aabf612c01cf2f19eb96850f": {
+    "text": "Difendi l'Unità di Smaltimento"
+  },
+  "71f7422ebf2e2da3296daedfc597abc9": {
+    "text": "TRASPORTATORI"
+  },
+  "833935b4539057005011ce6785cc8853": {
+    "text": "NASTRI TRASPORTATORI"
+  },
+  "d704b08e013a2fcbea549611cba764f6": {
+    "text": "I Nastri Trasportatori sposteranno nella direzione indicata qualsiasi unità su di loro all'inizio del turno nemico."
+  },
+  "b6b04c506b765164030807b855708543": {
+    "text": "Resta"
+  },
+  "9a9dfc63c2c3369a5845ec7f4c161d1f": {
+    "text": "Distruggi i Vats"
+  },
+  "bc2fb7aee1583dd4bc9feb6903b0570d": {
+    "text": "Distruggi gli A.C.I.D. Vats"
+  },
+  "e24ad04b9ffc64451b22fa77813aa17e": {
+    "text": "uccisi fino ad ora"
+  },
+  "4d7d5a02407b3dcfa86e79b8619ae55c": {
+    "text": "Distruggi %%0 Robe appiccicose"
+  },
+  "68f7e343cbbf9e009df8d98e203418f8": {
+    "text": "Uccidi 4 nemici afflitti %%0 da A.C.I.D."
+  },
+  "346e662151b10a55523a92132790975d": {
+    "text": "Inventivo!"
+  },
+  "f9fbb5c50e887ab639c5ea90bea10321": {
+    "text": "Kc'cht?!"
+  },
+  "25a1bf23c2a92a25985b7fc40ba5e6df": {
+    "text": "Che imbarazzo... essere trasportati da un mezzo così primitivo."
+  },
+  "ec5c014613629e2a0bd0ae370e9d20e9": {
+    "text": "Questo modo di spostarsi è così indecoroso per un'intelligenza come la mia."
+  },
+  "9356ee378dcdacdb365f158798b4dfee": {
+    "text": "Riporto un'auto-violazione della sicurezza nell'uso dei nastri trasportatori."
+  },
+  "8cea783760d71ff446d250062cad201e": {
+    "text": "Uh...è s-sicuro m-m-muoversi su questo?"
+  },
+  "dbb71e6a6aa8eded73a21be4d81a8a91": {
+    "text": "Usare dei nastri trasportatori senza poggiamano è un'offesa da corte marziale."
+  },
+  "44769cd658ab198bcb0109cb1cd5fc1e": {
+    "text": "Usare i nastri per uso personale è una violazione del luogo di lavoro."
+  },
+  "c69cbf2f9e4d2c57d67c69addf0647d1": {
+    "text": "Sono sul nastro trasportatore."
+  },
+  "4bfc5f21118dc202e753158394802c42": {
+    "text": "Accendiamo questo nastro trasportatore!"
+  },
+  "3a2b51e8df5a26816b9d85157fc82705": {
+    "text": "Mettiamo questo trasportatore Detritus al lavoro..."
+  },
+  "2de102674944054345cc496bdc74fb1e": {
+    "text": "Mech, ti presento il nastro trasportatore. Nastro trasportatore, ti presento Mr. Mech."
+  },
+  "f1b2bac5b975866b2054d4cce215c97f": {
+    "text": "Questi nastri trasportatori starebbero bene in un parco divertimenti!"
+  },
+  "4dfb0781a716306c254e7b5f8bbb051d": {
+    "text": "Detritur usa questi per trasportare rifiuti."
+  },
+  "7cba2f1bd50922728cd2748fb836a478": {
+    "text": "Trasporto riuscito."
+  },
+  "e80f379f3dffa109f4de1ff3717426b3": {
+    "text": "Spero vivamente che il peso del Mech non vada oltre i parametri di sicurezza del nastro..."
+  },
+  "cdb8a462a38e9bc7b00ebc152d9f4d0b": {
+    "text": "Usare questo nastro trasportatore è... vergognoso."
+  },
+  "c68155c925966ca13d2e36e234fc4134": {
+    "text": "Proprio come in un aereo porto vecchio stile... "
+  },
+  "a436a5e153f4803000d9566cf75c5aba": {
+    "text": "Usiamo questi nastri."
+  },
+  "55b60e52bb06c7dd9d890041a09b71c6": {
+    "text": "Ora di farsi un giro."
+  },
+  "9c0e14736849e2c17a3de5c72f81d203": {
+    "text": "Sembra che questi nastri possano sopportare i nostri Mech dopo tutto."
+  },
+  "e9fc222a032f0c5b4f49c4f92812983b": {
+    "text": "[Sto venendo trasportato]"
   }
 }
