@@ -2,6 +2,7 @@
 module.exports = function () {
 
   const fs = require('fs')
+  const shared = require(__dirname + '/shared')
   const jspack = require(__dirname + '/lib/jspack')
   const extractFolder = __dirname + '/dat-files-extracted'
   const modifiedFolder = __dirname + '/dat-files-modified'
@@ -25,7 +26,7 @@ module.exports = function () {
    * @param relativePath
    */
   function readDirectory (relativePath) {
-    let path = extractFolder + '/' + shared.config.langInGameDir + relativePath
+    let path = extractFolder + relativePath
     if (fs.existsSync(path)) {
       fs.readdirSync(path).forEach(function (file) {
         const curRelativePath = relativePath + '/' + file
@@ -48,20 +49,20 @@ module.exports = function () {
    * @param relativePath
    */
   function copyModifiedToExtracted (relativePath) {
-    let path = modifiedFolder + relativePath
+    let path = modifiedFolder + '/' + shared.config.langInGameDir + relativePath
     if (fs.existsSync(path)) {
       fs.readdirSync(path).forEach(function (file) {
         const curPath = path + '/' + file
         if (fs.lstatSync(curPath).isDirectory()) {
           copyModifiedToExtracted(relativePath + '/' + file)
         } else {
-          fs.copyFileSync(modifiedFolder + relativePath + '/' + file, extractFolder + relativePath + '/' + file)
+          fs.copyFileSync(modifiedFolder + '/' + shared.config.langInGameDir + relativePath + '/' + file, extractFolder + relativePath + '/' + file)
         }
       })
     }
   }
 
-  copyModifiedToExtracted('/')
+  copyModifiedToExtracted('')
   readDirectory('')
 
   // pack the resource dat
