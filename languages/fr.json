@@ -6947,5 +6947,35 @@
   },
   "c4758556fcc1a65bdd159e633bd5bf95": {
     "text": "Cuve d'A.C.I.D.a été détruite."
+  },
+  "f9ff23a439f47e7caaa29c9635d04f61": {
+    "text": "À propos de ce terraformeur... faites de mon bureau le premier arrêt lorsque vous retournerez à la base."
+  },
+  "aa9bbdbbe509fd85929bbcce7a20ebb4": {
+    "text": "À l'époque où j'ai eu ma promotion ! J'ai du faire tout le travail !"
+  },
+  "25ab2f0382943b5f2101cd570763fc3f": {
+    "text": "Accès en cours aux spécifications du nouveau périphérique.",
+    "review": true
+  },
+  "3f56c2b36a4991e98f440f069940e858": {
+    "text": "Accès en cours : Base de donnée Population Îles\\nMise à jour : Civilisation Perdu",
+    "review": true
+  },
+  "fa80e47577ce338a9da543a1257d1815": {
+    "text": "Accès en cours : Topographie Région\\nMise à jour : Canyon ajouté à la base de donnée",
+    "review": true
+  },
+  "eeeb74daf62b0f97bf6bc5db586916bb": {
+    "text": "Accès en cours : Topographie Région\\nMise à jour : Montagne supprimée",
+    "review": true
+  },
+  "d76fe98f0157b28c9c7b6188862f52fc": {
+    "text": "Accès en cours : Topographie Région\\nMise à jour : Rivière maintenant en ligne",
+    "review": true
+  },
+  "32c9f59861aae67aa84095f00348276e": {
+    "text": "Accès en cours : Topographie Région\\nMise à jour : Terraformation réussi",
+    "review": true
   }
 }
