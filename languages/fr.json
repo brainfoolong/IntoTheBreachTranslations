@@ -5857,7 +5857,8 @@
     "text": "Réactivation"
   },
   "ce8bccdf33884089050e13fff7d0076b": {
-    "text": ""
+    "text": "Abe Isamu [R.S.T.] Parfois, en plaisantant appelé \"Honest Abe\" dans les lignes temporelles précédents, rien ne pouvait être plus éloigné de la vérité. Abe a servi comme un «nettoyeur» (assassin et travail de «boîte noire») pendant les premières années de l'arrivée au pouvoir du PDG Kern, et il a pris beaucoup de noms et d'identités au seins des services de R.S.T. traitant les «questions difficiles» qui se poseraient et qui devraient être traitées par la société. Il est impitoyable lorsqu'il reçoit un objectif (dans ce cas, combattre les Veks), et sert de support au sol dans sa ligne temporelle originale avant de voler le Mech d'un pilote mourant (?) et d'utiliser sa technologie pour s'échapper de la ligne temporelle après que l'escouade périssent sur l'île volcanique. Depuis lors, \"Abe\" a suivi les ordres de son premier PDG Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne temporelle soit vaincu ... Une tâche sans espoir, mais \"Abe\" se rend compte qu'il n'a pas grand-chose d'autre que se battre, et même s'il restait dans une ligne temporelle qu'il a sauvée, il ne pouvait pas faire face à l'idée que d'autres lignes temporelles étaient encore en péril. Il n'a pas encore rencontré sa copie, et si oui, il ne peut pas les reconnaître en raison de la chirurgie et de la fluctuation des identités que son travail exigeait avant l'attaque Vek.",
+    "review": true
   },
   "a53aa50bdbc9b2443e69a3aaf6067516": {
     "text": ""
@@ -6551,7 +6552,7 @@
     "text": "[ Jet d'Archive entrant détecté ]"
   },
   "21a04cbf1812055dcf4064b12226b0c4": {
-    "text": "[ Initialisation du protocole de la brèche d'adieu ]\\n[ Tout Pinnacle vous remercie, #squad ]"
+    "text": "[ Initialisation du protocole de la brèche d'adieu ]\n[ Tout Pinnacle vous remercie, #squad ]"
   },
   "9d80b3c9ba128b4b0b873e469e24478b": {
     "text": "[ Lancer imminent ]"
@@ -6807,5 +6808,144 @@
   },
   "74b56db4e57cf7a91c7a498b0be16f4b": {
     "text": "Un peu de sécurité supplémentaire ne fait jamais de mal ..."
+  },
+  "8ff97a29c6cd23c12b8a5ea900ddfecc": {
+    "text": "Une mine est l'arme d'un lâche, mais pour le Vek, c'est approprié."
+  },
+  "e8ef3960aef6154d1fc4687dd5d22c50": {
+    "text": "Une nouvelle fosse de drainage a été créée."
+  },
+  "fa3c6242ba118a330009ddb7b9aa8694": {
+    "text": "Un dispositif non-#corp a été détecté sous la glace. Entravez-le si possible.",
+    "review": true
+  },
+  "7379ffb483d56ac41e51a12b1ddc8a0a": {
+    "text": "Un périphérique non-#corp a été détecté dans la montagne. Entravez-le si possible.",
+    "review": true
+  },
+  "4ff032c1afd15091f54524bd4100d627": {
+    "text": "Une p-p-promotion ? Mais... Je n-n-ne veut pas être meilleurs en massacre de Vek."
+  },
+  "324eaba00f4768d2631d2cf89c14d9e3": {
+    "text": "Une batterie primitive, mais efficace."
+  },
+  "18a6b81d0414960f804ed70815ff1ca1": {
+    "text": "Une promotion - en souhaitant que ma mère adoptive ait survécu pour voir cela."
+  },
+  "39e2ba31a0d1314324cf8750e9c2c785": {
+    "text": "Une promotion ? Est-ce comme un doctorat ?"
+  },
+  "a7e0cade29b4d195a1bed31cec574299": {
+    "text": "Une promotion ? On dirait que mes efforts anti-Vek ont porté leurs fruits."
+  },
+  "6f480ee03f474797b105b56199e3cbc8": {
+    "text": "Une promotion ? Moi ?"
+  },
+  "5f19233b182b4f8ee8a2fa8510bc5ac9": {
+    "text": "Une promotion ? Moi ? Wow, cette entraînement dans le monde réel porte ses fruits!"
+  },
+  "dce2a73863737da2086d96d0a990ad39": {
+    "text": "Une promotion ? Ma mère adoptive serait fière."
+  },
+  "74db7e0ad67178da589ad5ac91cb61d6": {
+    "text": "Une machine relativement calme et pragmatique qui s'est adaptée au changement de son objectif initial de prospection minérale à la destruction. Il tend à quantifier ses solutions en fonctions des actions qui affecteront d'abord l'environnement, puis en second les individus.",
+    "review": true
+  },
+  "63957b37e9780e6aa38fd3ffd7b3837c": {
+    "text": "Une requête : Ne m'enterrez pas sur Détritus."
+  },
+  "8d28a20e61ce795741f09473f40cd9b1": {
+    "text": "Une rivière pour évacuer l'épave du barrage est maintenant en ligne.",
+    "review": true
+  },
+  "e9efffc076a59d867b211bb7f8f36376": {
+    "text": "Une politique de la terre brûlée, bon."
+  },
+  "72e69be02d29bcbf0fa3ba768207e390": {
+    "text": "Une seconde ligne temporelle ... et une autre chance de la sauver comme nous l'avons fait avant. Je peux le faire. NOUS pouvons le faire."
+  },
+  "e3291a070c00522d5b6d377cf17739f5": {
+    "text": "Une sélection d'ennemis sur la carte est libérée de la glace (peut-être des robots)"
+  },
+  "32d37312d2651594292733e233a569af": {
+    "text": "Une honte. Je suis sûr que nous aurions pu réparer cette usine."
+  },
+  "851eb6f03740033d0d653103a1182dc2": {
+    "text": "Un petit sacrifice si nous pouvons sauver cette ligne temporelle."
+  },
+  "6234858b3891fc8ca923638f336b6c64": {
+    "text": "Une escouade de pylônes d'approvisionnement hautement entraînés a été déployée pour nous aider."
+  },
+  "6a7453c97f3c03c2a822369ccd09f94e": {
+    "text": "Un pas dans la bonne direction pour de tels systèmes primitifs."
+  },
+  "20320f421d4a794995665028203e0f70": {
+    "text": "Un jet Archive sous-optimal avec un pilote sous-optimal est en approche.",
+    "review": true
+  },
+  "89f3781bb18ac83695b51c70f5b550ca": {
+    "text": "Un succès, Commandant - avec votre aide, un nombre suffisant de Vek ont été infligés par l'A.C.I.D. pour études."
+  },
+  "623b40262579b4daab77c670ed069835": {
+    "text": "Une capsule temporelle entre dans notre zone de travail."
+  },
+  "1ff1268df8a58485a2038750834642e2": {
+    "text": "Un Pod Temporel provoque une perturbation dans l'atmosphère."
+  },
+  "6d5c4e97abf23f13ee474162d592ad44": {
+    "text": "Un Pod Temporel se fraye un chemin à travers les nuages lors de sa descente."
+  },
+  "52f3be704570f6affe6d3f0c0f7ccfc6": {
+    "text": "Un Pod Temporel entre dans la zone de construction."
+  },
+  "9b66170df38b4851a568ba5e6d8c0962": {
+    "text": "Un Pod Temporel est en approche. Il peut inclure des contaminants pour les terres dans son sillage."
+  },
+  "21f837884f150a855449ca6d0cf1038a": {
+    "text": "Une ruche Vek se trouve directement sous les réservoirs d'élimination des déchets dans cette région. Faites exploser les cuves, et l'écoulement chimique détruira la ruche."
+  },
+  "501fb02fc0d9083081207c95022d5f53": {
+    "text": "Une monstruosité Vek attaque notre tour. Nous devons compter sur vous une dernière fois pour nous aider."
+  },
+  "9f918c6ebc5b1e434a7a8400fa15d5f8": {
+    "text": "Une perte d'une roquette parfaitement adéquate.",
+    "review": true
+  },
+  "02681b7c21ed6205b20d6669921116ab": {
+    "text": "Une perte de technologie parfaitement bonne ...",
+    "review": true
+  },
+  "246378032f7d30f084e41d119665253e": {
+    "text": "Une perte, mais nécessaire.",
+    "review": true
+  },
+  "55cfebe6dbbc1ffbb9fe603a31d8fbcd": {
+    "text": "Baril d'A.C.I.D détruit (selon les objectifs de la mission) -- tireur incertain"
+  },
+  "5f4e47fda7b305d50bf497602f8641a7": {
+    "text": "Canon A.C.I.D."
+  },
+  "6a185e6e206d10592a099332b825b06c": {
+    "text": "Luciole A.C.I.D.",
+    "review": true
+  },
+  "ac8bab38b915efcb3d94fcd6804760cd": {
+    "text": "Frelon A.C.I.D."
+  },
+  "8f8c5d3e0b5e0eb88b367edba714f4a5": {
+    "text": "A.C.I.D. relâché comme ordonné, Commandant."
+  },
+  "01110194760fb30094b4702bb399d952": {
+    "text": "A.C.I.D. relâché ! Je suis désolé pour le Vek en dessous ... presque."
+  },
+  "9edda8d98f5a2d13a818d6ac2aa661e3": {
+    "text": "Scorpion A.C.I.D."
+  },
+  "01289e7f320ded9f1d451f0a2951c487": {
+    "text": "Spill A.C.I.D.",
+    "review": true
+  },
+  "c4758556fcc1a65bdd159e633bd5bf95": {
+    "text": "Cuve d'A.C.I.D.a été détruite."
   }
 }
