@@ -1177,5 +1177,677 @@
   },
   "e9fc222a032f0c5b4f49c4f92812983b": {
     "text": "[Sto venendo trasportato]"
+  },
+  "e0d7f6d3702c6cbf244648ef8f47b120": {
+    "text": "La Pinnacle Robotics combatte una guerra su due fronti, una contro i Vek, l'altra contro le sue stesse Armi Senzienti."
+  },
+  "85c85a15684a2cbc9f11442224cc71aa": {
+    "text": "La tecnologia Detritus può scomporre qualsiasi materia nei suoi elementi base. Le loro città-fabbriche sono dedicate alla rimozione di rifiuti e al riciclo."
+  },
+  "78d0527c4f54b1e8c6bec8a3bc73fdb6": {
+    "text": "Danno Fuoco"
+  },
+  "0bb103e27ee77adae62ff1f376dd6a2b": {
+    "text": "Rigenerazione Psion"
+  },
+  "da210a68c0870c8acde752e246ec9f71": {
+    "text": "Tentacolo Psion"
+  },
+  "595a561a3cfe5474dd616aa1e8ac11d3": {
+    "text": "Azioni Nemiche"
+  },
+  "44100dba157a39d19dec54f517d434a1": {
+    "text": "Azioni NPC"
+  },
+  "bf5664e46809cd95c207d8adaeaa79e2": {
+    "text": "Azioni Bot NPC"
+  },
+  "22cacceff26c99e53242eec8f52efc86": {
+    "text": "Nemici Emergono"
+  },
+  "0ba29c6a1afacf586b03a26162c72274": {
+    "text": "Ambiente"
+  },
+  "1be30e43ca8f562299564eb6cb6d822d": {
+    "text": "Fumo di Tempesta"
+  },
+  "4d2bbeb2ba92655000600d5fff15d601": {
+    "text": "Rilasciando $1"
+  },
+  "195e646b42c48a06a2e102cca4c2acb8": {
+    "text": "Seleziona una casella nella Zona gialla di Rilascio"
+  },
+  "0244b84763e283a911f0d48e4f53df3b": {
+    "text": "Rilascio completato"
+  },
+  "b703e5f5c54eb1c42321b71f2a230f20": {
+    "text": "Puoi cambiare i tuoi posizionamenti prima di confermare"
+  },
+  "7f943921724d63dc0ac9c6febf99fa88": {
+    "text": "Facile"
+  },
+  "7371589ef1cdf5cc3099c042c5ad9a31": {
+    "text": "[Dispositivo di origini sconosciute ha attivato un segnale]"
+  },
+  "b8e5672b1fc9c4ea9921d387ebc9f980": {
+    "text": "RILASCIO"
+  },
+  "2da9caeb2f25e13574266a767eebdab7": {
+    "text": "Unità Rimanenti:"
+  },
+  "a9b685a9e8c2047d4b9faac6217d7b4a": {
+    "text": "CONFERMA"
+  },
+  "30b02503567bc7992e73084655db385b": {
+    "text": "    Lista Unità"
+  },
+  "5db3aac9a49ac73f03bdd81f992ed22f": {
+    "text": "Obbiettivi Bonus     "
+  },
+  "7230281bcf6b50de36f6354fdf28229d": {
+    "text": "Hai ancora unità che possono agire. Perderanno il loro turno."
+  },
+  "27df34f7234936e34e35d03e0d43c591": {
+    "text": "Torni indietro nel tempo all'inizio del tuo turno?\n\nLimitazioni di Energia ti permettono di farlo solo una volta per battaglia."
+  },
+  "87d62df299f9c30df2c9967837fc4640": {
+    "text": "Torni indietro nel tempo all'inizio del tuo turno?\n\nIl tuo Pilota con \"Reset Temporale\" ti permette di farlo 2 volte."
+  },
+  "42ccda7cde67a92b38d8c7b9a20e50a1": {
+    "text": "Torni indietro nel tempo all'inizio del tuo turno?\n\nTi resta solo un Reset."
+  },
+  "a943484028149ce0030ac99dbba74323": {
+    "text": "ANNULLA\nMOSSA"
+  },
+  "95923a2b042803ea802ae3fd256f487a": {
+    "text": "RESET TURNO"
+  },
+  "207536e5c45577267014f7eba561d561": {
+    "text": "RESET USATO"
+  },
+  "bfd4e50add4f4080189a629370fa3c7c": {
+    "text": "Unità Attive:"
+  },
+  "5fc7e990b7ec63627161e0cfbad2e833": {
+    "text": "Vittoria in"
+  },
+  "7b27dc1e1a23efc62996ca016c97769e": {
+    "text": "turni"
+  },
+  "a850c17cba5eb16b0d3d40a106333bd5": {
+    "text": "turno"
+  },
+  "3d75afb61956ac41483179accf1644ab": {
+    "text": "MODIFICA MAPPA"
+  },
+  "bbf42434ce6679913d759e6800e5e58a": {
+    "text": "FINE TESTING"
+  },
+  "78340d7fd2b71bb1a60192bd553fac24": {
+    "text": "[ Tasto Destro ]\noppure\n[ $1 ]\nper Disarmare"
+  },
+  "de1c70a20d797811b2fd32facf64bbd4": {
+    "text": "PASSIVO"
+  },
+  "ed36a1ef76a59ee3f15180e0441188ad": {
+    "text": "Qualsiasi"
+  },
+  "a6bd532925bc80301e01986d101d0bb2": {
+    "text": "Cyborg"
+  },
+  "f80bc338b6146b566004a046f8137c85": {
+    "text": "Passiva"
+  },
+  "be7938e9a87618a98a7b6b47e12aa44b": {
+    "text": "Prime"
+  },
+  "bf95767d6b787321422729e56f902e63": {
+    "text": "Alla Morte"
+  },
+  "594ecc8913f032f1c730dbbb955590a1": {
+    "text": "Brute"
+  },
+  "c2f329a17c18a701dbe1e96e03858728": {
+    "text": "Ranged"
+  },
+  "35bf1210e6727959a7a88a00462db959": {
+    "text": "Scienza"
+  },
+  "8c6d21187fb58b7a079d70030686b33e": {
+    "text": "Nemico"
+  },
+  "88e34d2131fb810d7ca1608f21f53cff": {
+    "text": "Arma di Classe $1"
+  },
+  "0c3e4818fd60aaa04f6598df3c24b0e8": {
+    "text": "Effetto Passivo"
+  },
+  "dda6708d96454d3d6c8a0845b09331dd": {
+    "text": "Danno:"
+  },
+  "de1343bf25689e5d2bf8e61838fdfc63": {
+    "text": "Auto-Danno:"
+  },
+  "3a49059bf411f7a1d6c19cb1c1501256": {
+    "text": "Usi per battaglia:"
+  },
+  "a34e1dc448ef3ba0396e0ab25cc17303": {
+    "text": "Nessuna Classe Mech compatibile. \nSi applica 1 Energia di penalità."
+  },
+  "aa3dc3c112ac677e6cd04c01c81542cc": {
+    "text": "Arma Non-Cyborg"
+  },
+  "b4c2b550635fe54fd29f2b64dfaca55d": {
+    "text": "Speciale"
+  },
+  "7bdf5640dedefee9a0ea40d1da7f8f8f": {
+    "text": "Richiede $1 energia"
+  },
+  "abfd7f3f87105561b6a700a6ee332e67": {
+    "text": "Alimentata"
+  },
+  "6adf97f83acf6453d4a6a4b1070f3754": {
+    "text": "Nessuna"
+  },
+  "f33d25814e7deda31a4596d19a722947": {
+    "text": "$1 / $2 xp"
+  },
+  "eee283c22bcc16c22e814e1c1266a5ad": {
+    "text": "Abilità Sconosciuta"
+  },
+  "909bc0b9e147e98ed87cbbeb7124fed9": {
+    "text": "Ottieni esperienza per sbloccare questa abilità."
+  },
+  "aa79c5d1cbe3d96218a92481bcfaa39c": {
+    "text": "Abilità"
+  },
+  "4038d5a85906029f46137a4164c51073": {
+    "text": "Esperienza"
+  },
+  "16d2b386b2034b9488996466aaae0b57": {
+    "text": "Storia"
+  },
+  "0edaf80806620c1d939c7afa5b683a57": {
+    "text": "Linee del Tempo Precedenti: $1"
+  },
+  "c23f0f69aacb6872817d957490c74aa2": {
+    "text": "Battaglie Finali: $1"
+  },
+  "ed30a895479785bc962887ba9cf32805": {
+    "text": "Bonus Vita"
+  },
+  "f263ab37dcdcf97c87a2b3836a80b575": {
+    "text": "+2 HP Mech"
+  },
+  "47e697a8b054e1019a35d12a2bfa5542": {
+    "text": "La vita del Mech pilotato è aumentata di 2."
+  },
+  "2290d592cde78d3324641ed070c4a2f5": {
+    "text": "Bonus Movimento"
+  },
+  "611cb9ddf6edc4cb2db4a8514aa4a7d4": {
+    "text": "+1 Movimento Mech"
+  },
+  "ff8761f054ccf2536b2c244862e91ba8": {
+    "text": "Il movimento del Mech pilotato aumenta di 1"
+  },
+  "ef2b06b8027bd119e84033ebd8d94717": {
+    "text": "Bonus Difesa Rete"
+  },
+  "7b4f94e993131f08e5700338e36135da": {
+    "text": "+3 DIF Rete"
+  },
+  "a71e3ea0d64d85b6367f1f6fbf13c948": {
+    "text": "Difesa di Rete aumentata di 3. Questo influenza la possibilità di resistere al Danno Edifici in combattimento."
+  },
+  "5789b6d9c0ab930bed2836edddfa2218": {
+    "text": "Nucleo Bonus"
+  },
+  "0f8aa8006b94fbde20b67351de49c8a9": {
+    "text": "+1 Nucleo Mech"
+  },
+  "5a2d1a381c1f2db6a42938295efd56cc": {
+    "text": "Reattore Mech pilotato aumenta di 1."
+  },
+  "76db4f76f41f42ab4fa3684454775236": {
+    "text": "I Mech possono pilotarsi da soli, ma è meglio avere un Pilota specializzato"
+  },
+  "a7d389046e8064df446cf84b111c51e9": {
+    "text": "Seleziona Unità"
+  },
+  "005d299680645dd590a7eb6f2713f9ed": {
+    "text": "Posiziona Unità"
+  },
+  "60e73afc55b7422a1dd369549ce91cb4": {
+    "text": "Muovi Unità"
+  },
+  "b8870d1f372ef51e994f5b59893df3b1": {
+    "text": "Usa Arma"
+  },
+  "1a3b52a5a4652bc455d37517cd7bf0da": {
+    "text": "Annulla Tiro"
+  },
+  "1bd6f134e4a3ba0c9dce450ee6ddc976": {
+    "text": "SIMULAZIONE INIZIATA"
+  },
+  "bc6822a84a3dc9806f12957d2afc5d1a": {
+    "text": "GAME OVER"
+  },
+  "257ff576fcc08561deffcab89e0cd61f": {
+    "text": "TURNO GIOCATORE"
+  },
+  "0492daedeb50c70222d272259d519da5": {
+    "text": "TURNO NEMICO"
+  },
+  "03e1a72378ad74ee537229adfb3902b4": {
+    "text": "INIZIO MISSIONE"
+  },
+  "2a3a98f587d0a02659829689537a70fd": {
+    "text": "MISSIONE COMPLETATA"
+  },
+  "fa9a9593890b64c061edd7af66043394": {
+    "text": "MECH DISABILITATO"
+  },
+  "a7b4cc0ba2c97f5b42430d58e46f9962": {
+    "text": "$1 Turni Restanti"
+  },
+  "bafabd495432d05cf7b7e883f891b171": {
+    "text": "Ultimo Turno"
+  },
+  "106e852ed1021f0a5e5cfe19d6364a67": {
+    "text": "+1 Movimento"
+  },
+  "b29c3b8079809eed76a6b13d6535edd0": {
+    "text": "+2 Vita"
+  },
+  "6a755e7d228a2b491321dbae0a7a248b": {
+    "text": "INSTALLA"
+  },
+  "9c73f87fb2720ac83e75c1c284e2fb86": {
+    "text": "MASSIMO"
+  },
+  "b5305ea3831b317c2eaf8da3ebb37de2": {
+    "text": "Classe Mech: $1"
+  },
+  "a7f60211fe66f1c6f83e2d5a0f617082": {
+    "text": "Usa il Simulatore Virtuale per testare gli Equipaggiamenti dei Mech"
+  },
+  "754a5d433173b5ddc7debc2110ac575f": {
+    "text": "MAGAZZINO"
+  },
+  "ece6117f0bc60ec824fe5d441abdb288": {
+    "text": "PILOTA"
+  },
+  "426708f5e123b45ded3bdc67cd895db5": {
+    "text": "STATISTICHE"
+  },
+  "b7cc3ff8168e999787939b70f2f1fc72": {
+    "text": "REATTORE"
+  },
+  "9c4c6c96968f8f5b7d9bce6183cbc18d": {
+    "text": "Movimento:"
+  },
+  "72fd57cacb416002f919865bf570143a": {
+    "text": "Vita:"
+  },
+  "bb390a00ff1c21c51d29d53d5362e51e": {
+    "text": "ARMI "
+  },
+  "e9c9969d081638b6850e4a6530a484b3": {
+    "text": "TESTA MECH"
+  },
+  "269940bcad6fddf5c68d3e67f767c3d1": {
+    "text": "ANNULLA"
+  },
+  "e31f6de7f20569a62ab23e3f02aca8f1": {
+    "text": "Costa 1 energia \n          in più per usare"
+  },
+  "60cc3864ebd095185b45f5a4c02076a0": {
+    "text": "Classe Sbagliata"
+  },
+  "ad9c34c65f470fdcb4b0fe79a4c9c178": {
+    "text": "Pagina $1 di $2"
+  },
+  "ca9a1a4c23bcaec9a72c91b2018451b3": {
+    "text": "NUOVO!"
+  },
+  "d04302d10bc9aa9d2a92846cc2bb3263": {
+    "text": "Regione Persa"
+  },
+  "8f67905f8a0624bfe5f78902575f9f06": {
+    "text": "Nessun premio per una missione fallita."
+  },
+  "81785e1c23be0f31bb091366ff6a7c1c": {
+    "text": "Simulazione Completa"
+  },
+  "faf55900ba27cf6012c42860b7228b22": {
+    "text": "Congratulazioni per la tua prima missione di successo, Comandante! Sono fiducioso nella tua abilità di salvare il pianeta dopo un allenamento così intensivo."
+  },
+  "a645e9535cee4d4503cfbfebdecfe415": {
+    "text": "Obbiettivo Bonus"
+  },
+  "ac7d832fa50765f2febd34cef059832f": {
+    "text": "Obbiettivo Primario"
+  },
+  "809ffdf80a9c84d60902024a8c2c8573": {
+    "text": "Civili Protetti"
+  },
+  "1fec38d4a666e1124d571bf0d06f8b4d": {
+    "text": "Regione Protetta"
+  },
+  "5a37421666f96809d21bffa824b270bc": {
+    "text": "CAPSULA RECUPERATA"
+  },
+  "809447e8eaf82f48cb8fce4cb30c1c03": {
+    "text": "Contenuti Capsula:"
+  },
+  "ccbf6404f6199110dfadf4a953e574de": {
+    "text": "Costo:  $1"
+  },
+  "90ebbe94b8f35de8bc27c3a110aac495": {
+    "text": "Equipaggiata"
+  },
+  "8aa9ce8a39054040a5303c4380c851b5": {
+    "text": "Compra equipaggiamento usando       Reputazione"
+  },
+  "3e0913aff1b7ac46b7456c19516a7bbf": {
+    "text": "Dona armi e piloti per       Reputazione"
+  },
+  "8c3c4fc57b18e7599335070a3d60c606": {
+    "text": "DONA"
+  },
+  "632c866c68f2467e646559f5bcb93746": {
+    "text": "ACQUISTA"
+  },
+  "8a90c0eea4a6a26a919d1936e06b4920": {
+    "text": "Armi"
+  },
+  "0811a9378f6a25444779180cca216277": {
+    "text": "Piloti"
+  },
+  "9a55a7fb31333cb5f19be9728ca2c161": {
+    "text": "La tua Reputazione di Corporazione andrà persa se lasci l'isola ora."
+  },
+  "62daa3b47773659c18c039a1978db45f": {
+    "text": "Sei sicuro di voler assegnare questo pilota permanentemente a quest'Isola?\n(Guadagni Reputazione)"
+  },
+  "e0ce18cca6c55c9cb80a085ab7088e53": {
+    "text": "Sei sicuro di voler donare quest'arma?\n(Guadagni Reputazione)"
+  },
+  "0b04e61c3ef03b1f64fe6b4db05fa6b9": {
+    "text": "Isola Perfetta!"
+  },
+  "7c76e5d56a46e9e591c4c9efd2fcf470": {
+    "text": "Seleziona un premio gratuitamente"
+  },
+  "f5c1a97511feac93a525734131beebe4": {
+    "text": "Proteggi la Capsula del tempo"
+  },
+  "f19e4e7224bcac1b34cc7201d5c43768": {
+    "text": "Proteggi la Capsula Strana"
+  },
+  "c17b064cef96a4b2e0432ee575defc0a": {
+    "text": "Proteggi la Capsula Strana (Fallito)"
+  },
+  "93367e33573a637f9ab5fa82917faed9": {
+    "text": "Capsula del Tempo Identificata"
+  },
+  "66b2fed25b8092dde83151b036fd5386": {
+    "text": "Proteggi la Capsula del Tempo(Fallito)"
+  },
+  "10577dd8e9aef1c7097268c665a5f46e": {
+    "text": "Non Chiedere Ancora"
+  },
+  "fa8e263146523e9cab7d0d154ab5c76a": {
+    "text": "Inizia Missione"
+  },
+  "7c6fdf410aa633e42124c504214f04d5": {
+    "text": "Acqua \nSommerso"
+  },
+  "e2f81bb7c71981fceee2a4d1966b7910": {
+    "text": "Fumo \nBlocco"
+  },
+  "17b3e7d8339512d58a6a3733b7ac3e90": {
+    "text": "Ghiaccio \nBlocco"
+  },
+  "d0e7641fa61b57d408f8849e693b1698": {
+    "text": "Movimento Bonus \nSolo"
+  },
+  "f07f5c5122ded39aaadaeff802b231b0": {
+    "text": "Lava \nBlocco"
+  },
+  "7b020280c113c4371d99243043121898": {
+    "text": "Attenzione: Offensiva Vek"
+  },
+  "be55c75d32f3be960313b72dc2c79fd8": {
+    "text": "I Vek stanno dominando 2 regioni sull'Isola. \nLe regioni che non salvi andranno perse per sempre."
+  },
+  "c9c9c146c630ca5ef9197c73c032f4a6": {
+    "text": "ENERGIA"
+  },
+  "bc899ea5d6a94a8e4e60c16244919ba0": {
+    "text": "RETE"
+  },
+  "97f380976e65f683a02ec855289ebfc0": {
+    "text": "DIFESA"
+  },
+  "29b3996a28cce1263a7e318ca39f5828": {
+    "text": "Fine Turno"
+  },
+  "b9f5c797ebbf55adccdd8539a65a0241": {
+    "text": "Disabilitato"
+  },
+  "fa0f11c1d4a8554282671bca496fa8d4": {
+    "text": "Ucciso"
+  },
+  "b68cc933f6e20bea8865776ce8820a0e": {
+    "text": "$1 Capo Ufficio"
+  },
+  "4bba34ee39700d80b6342dfeca7f6db0": {
+    "text": "Minaccia Vek Identificata!"
+  },
+  "1e209f61b7861b25cc708874a7f0b5b9": {
+    "text": "Scudi Difensivi Attivi!"
+  },
+  "b237e902d392d3cd6cb9d64717f022ac": {
+    "text": "Altra Minaccia Identificata!"
+  },
+  "b909c2fe0e670eab5a77fe5f527a3aeb": {
+    "text": "Ultima Sfida"
+  },
+  "f32a733909f73245e5f12cde041129c6": {
+    "text": "Regione Distrutta dai Vek"
+  },
+  "9569e036324bc1183413e9438b641418": {
+    "text": "Nessun Vek Identificato"
+  },
+  "c2f3f489a00553e7a01d369c103c7251": {
+    "text": "NO"
+  },
+  "7469a286259799e5b37e5db9296f00b3": {
+    "text": "SÌ"
+  },
+  "140e317e0077aece29910d4f129b2cdd": {
+    "text": "Continua?"
+  },
+  "e0aa021e21dddbd6d8cecec71e9cf564": {
+    "text": "OK"
+  },
+  "48ba81001699ed3639505f7c1f3b5ba9": {
+    "text": "DECEDUTO"
+  },
+  "d4b9453b1a79ddf90799496fb438ee23": {
+    "text": "RIANIMATO"
+  },
+  "a87ac75fbbf6e20128679f0f752c6fa6": {
+    "text": "Le Scorte Medicinali d'Emergenza hanno salvato $1 da morte certa!"
+  },
+  "a6a93d33d5a937ce60aee0a20c85e95e": {
+    "text": "RIGENERATO"
+  },
+  "9be673a3c062b82d8a7651fe4d17f213": {
+    "text": "$1 si è ripreso da morte certa! Lo sforzo richiesto è costato XP."
+  },
+  "77aab093cbf5ef5bc33b3638987a6af7": {
+    "text": "$1 è morto dopo aver preso danno nella battaglia contro le creature."
+  },
+  "1a204e059a0d2f4356c999877d8e5cce": {
+    "text": "PROMOSSO"
+  },
+  "2f9da4ac5396a25b52d8002350c44a70": {
+    "text": "Nuova Abilità Sbloccata:"
+  },
+  "9303c433d5f64f607645776e4007318b": {
+    "text": "Capito"
+  },
+  "2f453cfe638e57e27bb0c9512436111e": {
+    "text": "CONTINUA"
+  },
+  "d5cc6a0064b5c25ba37826aa3fda910c": {
+    "text": "ASPETTA"
+  },
+  "294ce20cdefa29be3be0735cb62e715d": {
+    "text": "CREA"
+  },
+  "906227b84b247b1cd4083bbc68089909": {
+    "text": "Crea Nuovo Profilo"
+  },
+  "a0bfb8e59e6c13fc8d990781f77694fe": {
+    "text": "Continua"
+  },
+  "948a2e3548aaf7f9941a3192fa607d51": {
+    "text": "Riconoscimenti"
+  },
+  "620fa59a2936b6e685cfb489591cb20e": {
+    "text": "Nuova Partita"
+  },
+  "dae8ace18bdcbcc6ae5aece263e14fe8": {
+    "text": "Opzioni"
+  },
+  "46b5f8c58b679b4243cbdb5749642c86": {
+    "text": "Progresso"
+  },
+  "c33e404a441c6ba9648f88af3c68a1ca": {
+    "text": "Statistiche"
+  },
+  "f5c7922da355fd289ec1d6469e0583a7": {
+    "text": "Achievements"
+  },
+  "711be32c5ec5e31ce25bc658adbecad9": {
+    "text": "Squadre"
+  },
+  "0d82790b0612935992bd564a17ce37d6": {
+    "text": "Esci"
+  },
+  "cce99c598cfdb9773ab041d54c3d973a": {
+    "text": "Profilo"
+  },
+  "c73f3a2a67be053af09dbf0e3ceb5faf": {
+    "text": "Attiva Suggerimenti di Gioco"
+  },
+  "2b562e3fb010fa7736e3cc6e73e63fab": {
+    "text": "Hai una partita in corso. Iniziarne una ora la cancellerà definitivamente."
+  },
+  "a8ef5141119bfde56c34255540077f7c": {
+    "text": "Perderai tutti i progressi e le cose sbloccate. Non può essere annullato."
+  },
+  "c177be8ca84f6a46f8b2e3a09f7e235f": {
+    "text": "'Into the Breach' non sembra avere accesso ai file per salvare i progressi. \n\nPer favore chiudi e controlla se il tuo Anti-Virus lo sta bloccando. \n\nSe il problema persiste mandaci una mail a contact@subsetgames.com"
+  },
+  "d16c3253da73f8af5381b0d39b17b262": {
+    "text": "'Into the Breach' è incapace di salvare i progressi. \n\nPer favore chiudi e controlla se il tuo Anti-Virus lo sta bloccando. \n\nSe il problema persiste mandaci una mail a contact@subsetgames.com"
+  },
+  "c6509bbe47eb542d7231ac2211bbd21f": {
+    "text": "Il tuo Salvataggio sembra essere corrotto. Per favore scrivici a contact@subsetgames.com se vorresti recuperare i tuoi dati.\nMolto dispiaciuti del problema!"
+  },
+  "a6646e1ac017816b1d0b4bb21f5b1988": {
+    "text": "Il tuo Profilo sembra essere corrotto. Per favore scrivici a contact@subsetgames.com se vorresti recuperare i tuoi dati.\nMolto dispiaciuti del problema!"
+  },
+  "9dedab33b2690cbf03ce183c30bfbfd6": {
+    "text": "ATTENZIONE: C'è un problema di scrittura del file e i tuoi progressi non possono essere salvati."
+  },
+  "edb74bd6322a5ea78bcfccd14c026ec9": {
+    "text": "Conferma Azione"
+  },
+  "dc3fd488f03d423a04da27ce66274c1b": {
+    "text": "Attenzione!"
+  },
+  "0cb8915b2d515aa7cb2cae8fd837ea75": {
+    "text": "Il tuo Profilo non è stato cancellato completamente. Potrebbe essere di sola lettura, o potrebbe avere file extra nella cartella. Puoi cancellarlo manualmente da qua: \n\n"
+  },
+  "b5fb5250c024ab8f7ce39acdcf9a2b9f": {
+    "text": "Il tuo Profilo non è stato cancellato completamente. Questo è un problema noto in OS X. \n\nPuoi cancellarlo manualmente da qua: \n\n"
+  },
+  "efd4e6493c7182a44e37a2650dd07ec7": {
+    "text": "Vittorie:"
+  },
+  "7dd2a452c0ad6ab37ff6a5641210e600": {
+    "text": "Linee del Tempo perse:"
+  },
+  "2750ecb52da0b69fa384aa8ca02b2436": {
+    "text": "Partite Totali:"
+  },
+  "d94d3792fb13974a50de7f54cda7535b": {
+    "text": "Viaggiatori del Tempo Totali:"
+  },
+  "6666aad5066a57efc3e91771b5ff7731": {
+    "text": "Uccisioni Nemici Totali:"
+  },
+  "3c485b7e69b5728ed1fa4ce4e69a0cf4": {
+    "text": "Totale Civili Salvati:"
+  },
+  "92c8e474a2f1037b46cf01febc4cc459": {
+    "text": "Totale Isole Protette:"
+  },
+  "86d4e2be0a2e4f99298d9443f3150203": {
+    "text": "Capsule Recuperate:"
+  },
+  "171e33a0853c270a1609b29ce5e2e45d": {
+    "text": "Sconfitto"
+  },
+  "70fd1f0d792e9fe533ab4663eedb6952": {
+    "text": "$1 Vittoria Isola!"
+  },
+  "dce428f21dc8629e7e4eca2d56022d69": {
+    "text": "Civili Salvati:"
+  },
+  "0f5a96a4a2cf73909b0eeb2b0b21b0ce": {
+    "text": "Uccisioni Totali:"
+  },
+  "b32c211b6ae7ca3109d07f7c25575452": {
+    "text": "Obbiettivi Falliti:"
+  },
+  "4dc09a00ee895ddd0895ee0ed512f660": {
+    "text": "Tempo di Gioco:"
+  },
+  "9ce1cde0061ce3f8c7252de68f3ff6c0": {
+    "text": "Punteggio Massimo:"
+  },
+  "b62a3a3c332ef0b82b8897c627777dbd": {
+    "text": "Battaglie:"
+  },
+  "400681632af9be32084f7f00b7e8b679": {
+    "text": "Salti Temporali:"
+  },
+  "003dbcba7c83e7cc963a650ac5ff6116": {
+    "text": "Morti Totali:"
+  },
+  "633aa94ee7fcf91e0509ce974b36ffc9": {
+    "text": "Nemico più Mortale"
+  },
+  "af83dc50fc66148997ede9a8292c6baf": {
+    "text": "Mech Uccisi:"
+  },
+  "a121a3fff97a8d987f963471a47e0ac9": {
+    "text": "Il più debole"
+  },
+  "b5c766488597df383688d738f3741997": {
+    "text": ""
+  },
+  "233f1e6744a7bfa093635fb8f78b3caf": {
+    "text": "Più Distruttivo"
+  },
+  "390eea560ccbe90fa261156bc6b1f1e8": {
+    "text": "Danno Rete:"
   }
 }
