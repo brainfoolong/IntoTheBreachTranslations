@@ -6449,7 +6449,7 @@
     "text": "[ A.C.I.D. libéré ]"
   },
   "29d3cff880a4ab6f40ab878258a81446": {
-    "text": "[ L'engin Alien contient un occupant extra-terrestre et une langue de construction inconnue ]",
+    "text": "[ L'engin Alien contient un occupant extra-terrestre et une langue d'une structure inconnue ]",
     "review": true
   },
   "72c357c6a23f9e943fab64c6e074febd": {
@@ -6490,5 +6490,322 @@
   },
   "521870c5a17481ceebaed988f40952f9": {
     "text": "[ Les rapports de pertes ont été classés ]"
+  },
+  "a4d509ffa65265cb3bff48c9e1022ea0": {
+    "text": "(Actuel :"
+  },
+  "db3154ba0f3ddf6dc6314dd47141c202": {
+    "text": "[ Ruche centrale Vek découverte, probabilité de détruire la ruche avec une force de frappe faible ]"
+  },
+  "b36b14eb507b53b9a6e8b17874667453": {
+    "text": "[ Les contrôles ne répondent pas ]"
+  },
+  "b97520ca594b60577f1c5f72f2260ee2": {
+    "text": "[ Cryo-mine déclenché ]"
+  },
+  "3d0313119350a1d4bc948493049389f9": {
+    "text": "[ Le barrage a été détruit, la rivière a été libérée ]",
+    "review": true
+  },
+  "8c55adab44a721716a613e7650259e3b": {
+    "text": "[ Le barrage doit encore être détruit ]"
+  },
+  "127dd5fe0b020f95a7906bb2545d1e4a": {
+    "text": "[ Détonation détectée ]"
+  },
+  "f80d69438c20c9e45e6e0d2df141ff4c": {
+    "text": "[ Dispositif d'origine inconnue détecté sous la glace ]"
+  },
+  "7371589ef1cdf5cc3099c042c5ad9a31": {
+    "text": "[ Le périphérique d'origine inconnue a activé un signal ]"
+  },
+  "2c6e481ae9c53a567a0580e5f7c1299f": {
+    "text": "[ L'unité de destruction a été détruite ]",
+    "review": true
+  },
+  "7e3d82def36dd895e1946dfb05c897c5": {
+    "text": "[ Détourner des parties de soi sur un Mech endommagé ]",
+    "review": true
+  },
+  "113230580c1686c91fa1bf46d4310c5b": {
+    "text": "[ Alerte Séisme ]"
+  },
+  "dde6b6dc4123ef38e14bde7707f3e498": {
+    "text": "[ Les ennemis se sont libérés de la glace ]"
+  },
+  "ab7bdd82840d76cedf6bafd8a6b1534b": {
+    "text": "[ Le voyageur temporel extraterrestre parle une langue d'une structure inconnue ]",
+    "review": true
+  },
+  "e8821c524e96fc3a2ce2a69d007d4f47": {
+    "text": "[ L'usine a été détruite ]",
+    "review": true
+  },
+  "ee002d4cffe7ec97a89563ec6ab02806": {
+    "text": "[ Hostiles détectés ]"
+  },
+  "e9fc222a032f0c5b4f49c4f92812983b": {
+    "text": "[ Je suis transporté ]"
+  },
+  "8bea376c43b86a72613da16b716263b0": {
+    "text": "[ Jet d'Archive entrant détecté ]"
+  },
+  "21a04cbf1812055dcf4064b12226b0c4": {
+    "text": "[ Initialisation du protocole de la brèche d'adieu ]\\n[ Tout Pinnacle vous remercie, #squad ]"
+  },
+  "9d80b3c9ba128b4b0b873e469e24478b": {
+    "text": "[ Lancer imminent ]"
+  },
+  "315ef771f30f3b5e475b9a580101fbc6": {
+    "text": "[ Localisation de brèche complétée ]"
+  },
+  "82b40b516249669fabba38f398d1b2f9": {
+    "text": "[ Les montagnes doivent encore être détruites ]"
+  },
+  "d03ec4d31276a6b11e92637e4f1f2e60": {
+    "text": "[ Nouvel objectif, défendre la bombe identifiée ]"
+  },
+  "11483b6b0284ce49729c9b14aa313193": {
+    "text": "[ Aucun signe de vie Vek détecté sur les capteurs ]"
+  },
+  "f476d4e500c331fd4ef42cc562b65578": {
+    "text": "[ Objet d'origine inconnue en approche ]"
+  },
+  "0c07a5fb2470ff8b051c09520f89068b": {
+    "text": "[ Les objectifs impose que l'émergence des Veks doivent être contenus sous terre ]"
+  },
+  "03f1b0f08b0ebfc2318ad3f2af741ccf": {
+    "text": "[ Équipement militaire activée ]",
+    "review": true
+  },
+  "b61259175a875ac09b998ea4dd7e6d0f": {
+    "text": "[ Le pilote #main_second a subi une défaillance du système ]"
+  },
+  "90b33db4064cb4645dab2a6d34100558": {
+    "text": "[ Efficacité tactique du pilote #main_second a été améliorée ]"
+  },
+  "dafd60fb6e020a70a6e3e122e720b47e": {
+    "text": "[ Efficacité tactique du pilote #main_second optimisée ]"
+  },
+  "ab512eadc36271c41a121a6e1e15e734": {
+    "text": "[ Bouclier Pinnacle désengagé ]"
+  },
+  "04ce89caa4debb673a77bb464b20bfb4": {
+    "text": "[ Bouclier Pinnacle engagé ]"
+  },
+  "ff9cc3a123fb424602b0e5fe9e04cb72": {
+    "text": "[ Veuillez éviter la zone de destruction ]"
+  },
+  "5a2a92ade66a8ae723581237c27f1860": {
+    "text": "[ Veuillez rester à l'écart de la zone d'opérations de l'unité de destruction ]"
+  },
+  "4e0e06bbd7d04d82f497fb7b258a1449": {
+    "text": "[ Veuillez rester à l'écart de la zone de travail du Terraformeur ]"
+  },
+  "5cd9c4af61d992667b319ab67ae8a33f": {
+    "text": "[ La centrale électrique a été détruite ]"
+  },
+  "1dd07bffe0b4b761b5e8805cac10947c": {
+    "text": "[ Déploiement de pylônes détecté ]",
+    "review": true
+  },
+  "77e9696a8682265827d62f56c31b91cf": {
+    "text": "[ Les réparations ont été effectuées ]"
+  },
+  "b0eda494360ecabfdf13c2a3d6dcb05b": {
+    "text": "[ La rivière a été libérée ]",
+    "review": true
+  },
+  "bead8cc4eeba0749bbeb8cdaa7f28241": {
+    "text": "[ La roquette a été détruite ]"
+  },
+  "670fcb5a153394e492d5631962873737": {
+    "text": "[ Lancement de roquette détectée ]"
+  },
+  "59af5f9cd730a64ffa908f3252501307": {
+    "text": "[ Intelligences Rogue détectés ]",
+    "review": true
+  },
+  "431a22975cb4ccb83c7876a8f424b067": {
+    "text": "[ Les lectures sismiques indique une activité ennemi sous la surface, ainsi que leur soulèvement ]",
+    "review": true
+  },
+  "b55b417b5afe406cd32831c674565b02": {
+    "text": "[ Les capteurs sont verrouillés sur l'émergence Vek ]",
+    "review": true
+  },
+  "3734e912e4ebec15bfb7e5f5ab2c43f2": {
+    "text": "[ Numéro de série enregistré ]"
+  },
+  "5658e5b05e8c40cdb04aa510e5cb0c99": {
+    "text": "[ La ferme solaire a été détruite ]"
+  },
+  "d11ae90fdf90933af2bbeb5c78a38987": {
+    "text": "[ La tempête a immobilisé mon Mech ]"
+  },
+  "4050b9012ad5087303de378363a829fd": {
+    "text": "[ La tempête a immobilisé les Veks ]"
+  },
+  "7927beb5812c8c17f8e2829b993803bd": {
+    "text": "[ La structure est indemne ]"
+  },
+  "8c509b5197d5efbf8dc95413294d0b10": {
+    "text": "[ Tank Archive Rescapé est maintenant activé ]",
+    "review": true
+  },
+  "e018c42db220d1807afeae19cce3b8a8": {
+    "text": "[ Tank Archive Rescapé : surnommé \"Mama Bear\", est maintenant activé ]",
+    "review": true
+  },
+  "5e03fb63127528fc5393092a6add4042": {
+    "text": "[ Algorithmes tactiques mis à jour ]"
+  },
+  "a7d4756246452edad62d18f681bb1f8c": {
+    "text": "[ L'efficacité tactique du pilote #main_second a été améliorée ]"
+  },
+  "bbfbc74c48447ba9d2eec0bfe6921341": {
+    "text": "[ Erreur de ciblage ]"
+  },
+  "9490a2d9536343b24fe22303f4c5e32e": {
+    "text": "[ Téléportation réussie ]"
+  },
+  "caabc962b77913fa41b03970d5aef74d": {
+    "text": "[ Le Terraformeur a été détruit ]"
+  },
+  "b6b1699d490f40a3a61195447599bbe1": {
+    "text": "[ Le terrain a été altéré ]"
+  },
+  "d6d19d5af346bfcbe272f2e94b03ff66": {
+    "text": "[ Terrain instable, effondrement imminent ]"
+  },
+  "99cb569b95242225ecedc20db9b4b45c": {
+    "text": "[ Les particules interfèrent avec les capteurs Vek ]"
+  },
+  "dad93cd2c8eb074db3e9feb7015c1af0": {
+    "text": "[ Les Veks reculent de la zone de conflit à pleine vitesse ]"
+  },
+  "a3eabce2cc65e2cb555099e70c37bae6": {
+    "text": "[ La menace Vek dans la région a été éradiquée ]"
+  },
+  "83e02da2fe579cc09d14ef0b396c5be0": {
+    "text": "[ Cette unité a été compromise. Échec du système imminent ]"
+  },
+  "20785b78cf38e7c1425a96db07ec68e5": {
+    "text": "[ Cette unité a subi des dégâts critiques. ]"
+  },
+  "1856f4b769be3117529dc112a66711a7": {
+    "text": "[ Cette unité a besoin de réparations. ]"
+  },
+  "c724f816b11b22fe3e47b411cdc0f5fc": {
+    "text": "[ Cette unité s'expose à l'arrivé de cette ruche volcanique Vek alors cette autre unité pourrait persister ]",
+    "review": true
+  },
+  "984ca13d1b79857cc3bdf55c8785fa0f": {
+    "text": "[ La menace a été neutralisée ]"
+  },
+  "0aafe1aa92f0a87513377cc5a3b2cced": {
+    "text": "[ Le train est endommagé ]"
+  },
+  "fa7f515bc9b187a2c614e4796645cfb4": {
+    "text": "[ Le train est détruit ]"
+  },
+  "31bb30b3f21389c84f82971d8299da63": {
+    "text": "[ L'unité a été désarmée ]"
+  },
+  "762385a4a9aea439b237223ac6cd7142": {
+    "text": "[ L'appareil est entré en mode veille ]"
+  },
+  "4b918a0133a3b06aa8521a3655748c07": {
+    "text": "[ Périphérique inconnu détecté dans l'espace autrefois occupé par la montagne ]",
+    "review": true
+  },
+  "065475fbaac94b0e990cdc57c74daced": {
+    "text": "[Mise à jour terminée]"
+  },
+  "b55c1b581e06c15e06a671fdcf1be4fe": {
+    "text": "[Mise à jour en ligne]"
+  },
+  "52d1f1ff1a52b6052f03da2e8fc51c53": {
+    "text": "[ Vat détruit ]"
+  },
+  "5a39641880f047b74cc50c57ed42aab5": {
+    "text": "[ Vek supprimé. Cause de suppression : Vek rivale ]",
+    "review": true
+  },
+  "62313acb4f0b50a051d67583f4c38ac9": {
+    "text": "[ Vek descendant ]"
+  },
+  "721b3040f5312d7e38b5ab37724a6234": {
+    "text": "[ Les excrétions de Vek empêchent la mobilité de l'unité ]",
+    "review": true
+  },
+  "be706cedfbe1fd44f2b1532becb4564e": {
+    "text": "[ Le Vek a été supprimé ]"
+  },
+  "19a76564fb8b9a89d9db7d3d8e1bbc77": {
+    "text": "[ Le Vek a été supprimé. Honoré pour la suppression : Pilote #main_second ]",
+    "review": true
+  },
+  "af217467e2e8b81a91ed06e887075a67": {
+    "text": "[ Le Vek a été électrocuté ]"
+  },
+  "18d5c0aca58aa9cc571cf41068b05399": {
+    "text": "[ Le Vek a été enfermé dans la glace ]"
+  },
+  "e5fb417b2069955606106912a91140e2": {
+    "text": "[ Le Vek a été rendu inerte ]"
+  },
+  "08fa7b8e3a4c9e285ded7ee72c9db18f": {
+    "text": "[ Les Veks ont été détectés en quittant la zone ]"
+  },
+  "d6dd130b823575192e9d614d1fa85d5e": {
+    "text": "[ Infestation Vek détectée ]"
+  },
+  "79c8fc46ef25f032cdbde5cf89966901": {
+    "text": "[ Population Vek dans la région à 0% ]"
+  },
+  "95f20548bc76c72daa39f22fd64a13d5": {
+    "text": "[ Menace Vek supprimée ]"
+  },
+  "d7ee92d83e939e1d36fe44c0b127bd34": {
+    "text": "[ Menace Vek supprimée. Honoré pour la suppression : Pilote #main_second ]",
+    "review": true
+  },
+  "eed3e4cb749507c3118dac5bce90cf51": {
+    "text": "[ Menace Vek supprimée. Raison de la suppression : Vek rivale ]",
+    "review": true
+  },
+  "41497f357b0bf8e9b443123ef022997c": {
+    "text": "[ Systèmes d'armes en ligne ]"
+  },
+  "113d02b13e64acd26607bdf704f94099": {
+    "text": "Une lame doit être affûtée, mais pas assez pour qu'elle se brise."
+  },
+  "9f23c06c83d8177267431d5cef5b9196": {
+    "text": "un affichage de la force"
+  },
+  "b75c6fabd7018ee28757ba16ab205d39": {
+    "text": "Un peu plus comme ça, et nous pouvons l'emballer."
+  },
+  "0f3ae20e047be63984f403870e09e10e": {
+    "text": "Un peu plus comme ça, cette guerre est gagnée !"
+  },
+  "b89c8c5db3ba56a0a05c943adb67b4b1": {
+    "text": "Un travail dégoûtant, mais superbement fait."
+  },
+  "fddd21a3fb64240a70edbec41d609a4e": {
+    "text": "Une belle mort."
+  },
+  "23a4cba08ba4ee5c94cfd67dcc886de5": {
+    "text": "Une manière convenable de mourir."
+  },
+  "ee58782e737071eabfe1b72766e177a3": {
+    "text": "Une équipe de démolition volante approche de notre position."
+  },
+  "b9a78f7307f083d145ea31bfe8cab516": {
+    "text": "Un cadeau - et ce n'est même pas mon anniversaire !"
+  },
+  "74b56db4e57cf7a91c7a498b0be16f4b": {
+    "text": "Un peu de sécurité supplémentaire ne fait jamais de mal ..."
   }
 }
