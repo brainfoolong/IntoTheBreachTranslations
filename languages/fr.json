@@ -6959,23 +6959,89 @@
     "review": true
   },
   "3f56c2b36a4991e98f440f069940e858": {
-    "text": "Accès en cours : Base de donnée Population Îles\\nMise à jour : Civilisation Perdu",
+    "text": "Accès en cours : Base de donnée Population Îles\nMise à jour : Civilisation Perdu",
     "review": true
   },
   "fa80e47577ce338a9da543a1257d1815": {
-    "text": "Accès en cours : Topographie Région\\nMise à jour : Canyon ajouté à la base de donnée",
+    "text": "Accès en cours : Topographie Région\nMise à jour : Canyon ajouté à la base de donnée",
     "review": true
   },
   "eeeb74daf62b0f97bf6bc5db586916bb": {
-    "text": "Accès en cours : Topographie Région\\nMise à jour : Montagne supprimée",
+    "text": "Accès en cours : Topographie Région\nMise à jour : Montagne supprimée",
     "review": true
   },
   "d76fe98f0157b28c9c7b6188862f52fc": {
-    "text": "Accès en cours : Topographie Région\\nMise à jour : Rivière maintenant en ligne",
+    "text": "Accès en cours : Topographie Région\nMise à jour : Rivière maintenant en ligne",
     "review": true
   },
   "32c9f59861aae67aa84095f00348276e": {
-    "text": "Accès en cours : Topographie Région\\nMise à jour : Terraformation réussi",
+    "text": "Accès en cours : Topographie Région\nMise à jour : Terraformation réussi",
     "review": true
+  },
+  "1817cda1472663da918789000ed75759": {
+    "text": "Acquis."
+  },
+  "a0e7f7b0da98eac97e6f14247b6a14f2": {
+    "text": "XXXx"
+  },
+  "b3aba5c9f451cab6069e933090b809de": {
+    "text": "WOW. Et double WOW."
+  },
+  "d566d7760ff0a1c708c595772754a15b": {
+    "text": "WhoooHOOO ! Allons faire ça !"
+  },
+  "dea99dbdc38298882263ea9af346e337": {
+    "text": "Quel est le plan ?"
+  },
+  "cbaafdb41303212eb3469b70ca48e72b": {
+    "text": "Qu'est-ce que c'était ?"
+  },
+  "e9e21d7aeb5665927b049b66c6ed9a48": {
+    "text": "Qu'est-ce que c'est que ce goo?"
+  },
+  "d01c946947a12f8e0e8f6936c4693a06": {
+    "text": "Que viens-tu juste de faire ?!"
+  },
+  "4cd00b8555549e4f51db51d0a22dd09c": {
+    "text": "Bien exécuté."
+  },
+  "56c9608435e559e9b309175ed6f34b7c": {
+    "text": "Bien joué, Pilote #main_second."
+  },
+  "ecfab36eda87626c480b445069809df3": {
+    "text": "Bravo, Pilote #main_second ! C'est tout l'avantage de travailler dur et de rester concentré !"
+  },
+  "9f7327ed60bdffae7b0b492a0f0d92e9": {
+    "text": "Bravo, Officier #main_second."
+  },
+  "60e2016ddc5fc624739607e22b531cda": {
+    "text": "Bien joué !"
+  },
+  "1c38d49d3e0d7fbbb4181b7d3161b12f": {
+    "text": "Bravo, laissez l'eau faire le travail si vous le pouvez."
+  },
+  "00d00edd1a4f41be5407fd71057bc011": {
+    "text": "Bien joué"
+  },
+  "d918c93103106fc58177cb3bbfd60d3a": {
+    "text": "Armes : En ligne"
+  },
+  "90e18fd124cc35ea819e4f9f2ba3cf1c": {
+    "text": "Nom Arme"
+  },
+  "36f749d4b36eed22d56e7a05a6c6fb50": {
+    "text": "Arme amorcée, Commandant."
+  },
+  "899e348f8156b9004ab1b556e308c93c": {
+    "text": "Arme sécurisée. Initialisation en cours."
+  },
+  "f239ddc8b5b41e16ec202d76c4190618": {
+    "text": "Arme vérifée, Commandant."
+  },
+  "9987d4ed8b82665aa8dfdf950e1c3515": {
+    "text": "Nous... nous pouvons essayer de nouveau. La prochaine fois - nous réussirons."
+  },
+  "8fe38531ee29df855d62580441c3437d": {
+    "text": "Nous vous oublierons pas."
   }
 }
