@@ -347,7 +347,7 @@
     "text": "Certaines armes peuvent causer des effets multiples sur une même tuile"
   },
   "9fb41a63eaffbc1043f1862daff8d83d": {
-    "text": "MECH ARTILLERIE"
+    "text": "ARTILLERIE MECH"
   },
   "338fc5a8f29ad0357372a0ae4c550504": {
     "text": "Les Armes d'Artillerie peuvent tirer au dessus des obstacles comme des montagnes, mais ne peuvent pas tirer sur des tuiles adjacentes."
@@ -362,16 +362,17 @@
     "text": "Chaque mission ont différentes récompenses potentielles en complétant les objectifs bonus. \n    Vous ne serez pas en mesure de faire toutes les missions sur l'Île, alors choisissez soigneusement !"
   },
   "4936eb5172ee8b4a6d3384418cf22a26": {
-    "text": "ÉNERGIE NOYAUX : Utilisé pour améliorer votre Mechs."
+    "text": "NOYAUX D'ÉNERGIE : A Utiliser pour améliorer votre Mechs.",
+    "review": true
   },
   "b5aa901c009023cd6d1a38f39ec2364a": {
-    "text": "PUISSANCE RÉSEAU : restaure votre Réseau Électrique. \nSi votre Réseau Électrique atteint zéro, vous perdez."
+    "text": "PUISSANCE RÉSEAU : restaure votre Réseau d'Énergie. \nSi votre Réseau d'Énergie atteint zéro, vous perdez la partie."
   },
   "cebb52c118132d544ba1e4f55f4decea": {
     "text": "Réputation Corporative : Utilisé pour acheter des objets une fois l'Île sécurisée."
   },
   "2cecb339d96e5c3a68ccee30c296d341": {
-    "text": "AVERTISSEMENT : Les missions avec plus de récompenses potentielles auront des dangers supplémentaires !"
+    "text": "AVERTISSEMENT : Les missions avec plus de récompenses seront potentiellement plus dangeureuses !"
   },
   "024d3bb40c88cea7482b1035cd2f8132": {
     "text": "Vallée Protégée"
@@ -380,13 +381,14 @@
     "text": "MISSION FINALE"
   },
   "ad4957b59cd2d66a919a756a8410e5c7": {
-    "text": "Après avoir sécurisé deux îles, la Mission Finale est disponible."
+    "text": "La Mission Finale sera disponible lorsque vous aurez sécurisé a minima deux îles"
   },
   "7b29ca96ada2afa3aadbcf55cd61a1ed": {
     "text": "Difficulté"
   },
   "25992de388d93be872ec73f4707ce6c2": {
-    "text": "La difficulté de cette bataille dépend de votre progression actuelle. Combattre maintenant serait d'autant plus un défi que de tenter après avoir sécurisé des Îles supplémentaires"
+    "text": "La difficulté de cette bataille dépend de votre progression actuelle. Combattre maintenant serait d'autant plus un défi que de tenter après avoir sécurisé des Îles supplémentaires",
+    "review": true
   },
   "c810409f5618a8da64536b0467be8465": {
     "text": "Civils"
