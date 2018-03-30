@@ -204,13 +204,14 @@
     "text": "La FORÊT sur cette tuile à subit des dégâts, la transformant en FEU. \n\nSi une unité reste sur la tuile Feu, elle s'enflammera et subira des dégâts à chaque tour."
   },
   "55777724b549edc905b463c3ff7b3062": {
-    "text": "Forêts Enflammées"
+    "text": "Forêts En Feu"
   },
   "6a7284aedd257d8ca7e9c644d7efaf73": {
-    "text": "Ce Mech est en feu ! Il prendra un dégâts à chaque tour. \n\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront pas attaquer le même tour qu'ils réparent."
+    "text": "Ce Mech est en feu ! Il prendra un point de dégât à chaque tour. \n\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront plus attaquer par la suite.",
+    "review": true
   },
   "d80bb429bc44e53c05e76e5d68ba121f": {
-    "text": "Mechs Enflammés"
+    "text": "Mechs En Feu"
   },
   "3ac6a0bb2ce1d49e7384b9af6a677088": {
     "text": "Vos Mechs répareront automatiquement tous les dégâts après la bataille. \n\nSi un Mech est réduit à 0 points de vie, le Pilote meurt et le Mech est désactivé pour le restant de la bataille."
@@ -219,7 +220,7 @@
     "text": "Mechs Endommagés"
   },
   "0ba7ed3437d6f9303f93b8de455aa667": {
-    "text": "Ce Mech est affecté par de l'A.C.I.D. ! Il corrode l'armure de l'unité, doublant ainsi tous les dégâts. \n\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront pas attaquer le même tour qu'ils réparent."
+    "text": "Ce Mech est affecté par de l'A.C.I.D. ! Il corrode l'armure de l'unité, doublant ainsi tous les dégâts. \n\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront plus attaquer par la suite."
   },
   "dbaefb46881f6331ce2b585752d58fb5": {
     "text": "Mechs Corrosif"
@@ -4614,10 +4615,10 @@
     "text": "Scarabée Convoyeur Pousse n'importe quelle unité dans la direction indiquée au début du tour ennemi."
   },
   "833935b4539057005011ce6785cc8853": {
-    "text": "SCARABÉE CONVOYEUR"
+    "text": "TAPIS ROULANTS"
   },
   "71f7422ebf2e2da3296daedfc597abc9": {
-    "text": "CONVOYEURS"
+    "text": "TAPIS ROULANTS"
   },
   "10d44295aabf612c01cf2f19eb96850f": {
     "text": "Défendre l'unité d'Extermination"
@@ -7043,5 +7044,11 @@
   },
   "8fe38531ee29df855d62580441c3437d": {
     "text": "Nous vous oublierons pas."
+  },
+  "b6b04c506b765164030807b855708543": {
+    "text": "Reste"
+  },
+  "9a9dfc63c2c3369a5845ec7f4c161d1f": {
+    "text": "Détruire les Cuves"
   }
 }
