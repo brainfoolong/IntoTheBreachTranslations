@@ -223,34 +223,35 @@
     "text": "Ce Mech est affecté par de l'A.C.I.D. ! Il corrode l'armure de l'unité, doublant ainsi tous les dégâts. \n\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront plus attaquer par la suite."
   },
   "dbaefb46881f6331ce2b585752d58fb5": {
-    "text": "Mechs Corrosif"
+    "text": "Mechs Corrodés"
   },
   "437692ce132f09c01a128d89e772de00": {
     "text": "Ce Pod contient des équipements provenant du futur ! \n\nVous pouvez le récupérer avec votre Mech, ou simplement le défendre jusqu'à la fin de la bataille."
   },
   "395dc55750e6d0d019128419ab303b38": {
-    "text": "Pods Temporel"
+    "text": "Pods Temporels"
   },
   "b6ec73a78060c62d7f8bd670b1979cb7": {
-    "text": "Pods Temporel Détruit"
+    "text": "Pods Temporels Détruits"
   },
   "6c35e073cbc4bbe3f1b7cd7a63fadb95": {
-    "text": "Le Pod Temporel sur cette tuile a été détruit ! \n\nLes Pods Temporels sont détruits en subissant des dégâts ou par des ennemis se trouvant sur la tuile."
+    "text": "Le Pod Temporel sur cette tuile a été détruit ! \n\nLes Pods Temporels sont détruits en subissant des dégâts ou lorsque des ennemis se trouvent sur la tuile."
   },
   "0f919302feb51711bce641b587c611fe": {
     "text": "Les Mechs ne peuvent pas utiliser leurs armes lorsqu'ils se trouvent dans l'Eau."
   },
   "c2776d13d3d1df3cd9fdf48e52c2b507": {
-    "text": "Robots Nageurs"
+    "text": "Robots Nageurs",
+    "review": true
   },
   "43cccc2cceaf16d6b4dbd54243515fb5": {
     "text": "Les Mechs ne peuvent pas utiliser leurs armes lorsqu'ils se trouvent dans l'Eau. \n\nVous pouvez utiliser Annuler Déplacement si vous souhaitez le repositionner."
   },
   "3c099c43e5fcfc30aed5c7e036980a9a": {
-    "text": "Votre Mech était désactivé ! Son Pilote a été tué et il ne pourra plus agir pour le restant de la mission."
+    "text": "Votre Mech a été mis hors service ! Son Pilote a été tué et ne pourra plus agir pour le restant de la mission."
   },
   "bc89ebeb017ff0bcaed0ec2a480c1830": {
-    "text": "Mechs Désactivés"
+    "text": "Mechs HS"
   },
   "b3a0629013f1e5b9029e083c3478b891": {
     "text": "Cette unité est tombée dans l'Eau, la tuant instantanément !"
@@ -262,28 +263,28 @@
     "text": "Pousser les unités contre quelque chose inflige 1 de dégât supplémentaire aux deux !"
   },
   "6b565ba9f1ef3e7a5f5a256c63b4d3e3": {
-    "text": "Poussé contre les Objets"
+    "text": "Pousser contre les Objets"
   },
   "bdcdfcdc465734e20522eaf4901e5959": {
-    "text": "Pousser les unités contre quelque chose inflige 1 de dégât supplémentaire aux deux ! \n\nDans ce cas, les dégâts supplémentaires ont tué l'unité !"
+    "text": "Pousser les unités contre des objets inflige 1 point de dégât supplémentaire à l'unité et à l'objet ! \n\nDans notre cas, les dégâts supplémentaires ont tué l'unité !"
   },
   "10a2152c0d8ae5942e724fdffd8126ef": {
-    "text": "Cette tuile de bâtiment a été endommagée, de ce fait, le Réseau Électrique de votre ville a été réduit. \n\nVotre objectif principal est d'empêcher cela !"
+    "text": "Cette tuile de bâtiment a été endommagée, de ce fait, le Réseau d'Énergie de votre ville a diminué. \n\nVotre objectif principal est d'empêcher cela !"
   },
   "379d805c265b1c6346a54d4aec0ad94f": {
-    "text": "Dégât Bâtiment"
+    "text": "Dégâts aux Bâtiments"
   },
   "05f2e37ca3898aaccc5c346e6bca3e09": {
-    "text": "Simulation Combat"
+    "text": "Simulation"
   },
   "44e78706a90c1c3664dd55e22c735aa9": {
-    "text": "Une Simulation Combat est disponible pour permettre aux nouveaux commandants de se familiariser avec les mécanismes de combats.\n\nSouhaiter-vous lancer la simulation ?"
+    "text": "Une Simulation de Combat est disponible pour permettre aux nouveaux commandants de se familiariser avec les mécanismes de combats.\n\nSouhaiter-vous lancer la simulation ?"
   },
   "1bff08e7db6e31680d1a3d42486ea90b": {
     "text": "Réputation Corporative"
   },
   "d59aa9b9ec2e4c669787008db133f4db": {
-    "text": "Au fur et à mesure que vous sécurisez les régions et complétez les objectifs de bonus, votre réputation auprès de la Corporative augmentera. \n\nVous pouvez dépenser la réputation en fournitures à la fin de l'Île."
+    "text": "Au fur et à mesure que vous sécurisez les régions et complétez les objectifs de bonus, votre réputation auprès de la Corporation locale augmentera. \n\nVous pouvez dépenser la réputation en fournitures à la fin de l'Île."
   },
   "22aff7814c8084654ba8ee78c35fd697": {
     "text": "Noyaux Réacteur"
