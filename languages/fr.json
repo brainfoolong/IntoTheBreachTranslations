@@ -1,6 +1,6 @@
 {
   "7a611cb8db26e166677db7f79f3e9bae": {
-    "text": "Lorsque vous êtes confronté à de nouveaux ennemis, assurez-vous de connaître leurs capacités. \n\nMaintenir $1 en passant la souris sur les unités pour les examiner"
+    "text": "Lorsque vous êtes confronté à de nouveaux ennemis, assurez-vous de connaître leurs capacités. \n\nMaintenez $1 en passant la souris sur les unités pour les examiner"
   },
   "459cdfba3327e4147509600ac5274e04": {
     "text": "Inspecter Unités"
@@ -48,13 +48,13 @@
     "text": "Annuler Déplacement"
   },
   "521ee863d8ed9299432c5c2442aae7a5": {
-    "text": "Frapper cet ennemi !"
+    "text": "Frapper l'ennemi !"
   },
   "66b4cdda1eb071c99ca566b176bf5511": {
-    "text": "La frappe de votre Mech a POUSSÉ cette unité. Elle va maintenant attaquer un nouvel emplacement ! \n\nPousser des ennemis peut sauver des bâtiments lorsqu'ils sont attaqués, voire même de faire en sorte à que les Veks s'attaquent entre eux."
+    "text": "La frappe de votre Mech a POUSSÉ cette unité. Elle va maintenant attaquer un nouvel emplacement ! \n\nPoussez des ennemis peut sauver des bâtiments lorsqu'ils sont attaqués, voire même de faire en sorte à que les Veks s'attaquent entre eux."
   },
   "16dfad33b74d8e4c77b57687b53e6c0d": {
-    "text": "Pousser Ennemis"
+    "text": "Pousser les Ennemis"
   },
   "e3329be7c31805454dac7585bb703cd3": {
     "text": "Ceci est votre Mech Char. \n\nIl tire un projectile qui se déplace en ligne droite jusqu'à ce qu'il touche un autre objet."
@@ -66,10 +66,10 @@
     "text": "Pour chacune des missions, vous gagnez soit en battant les Veks soit en les combattant jusqu'à ce qu'ils se retirent."
   },
   "309bf299cbdec310469975316bc5fff0": {
-    "text": "Accomplir des Missions"
+    "text": "Accomplir les Missions"
   },
   "a76906f62cdf1b770f2b66e0ee0a6e3f": {
-    "text": "Les missions ont également des objectifs bonus. \n\nCompléter ceux-ci vous permettra de gagner des ressources supplémentaires après la bataille."
+    "text": "Les missions ont également des objectifs bonus. \n\nComplétez ceux-ci vous permettra de gagner des ressources supplémentaires après la bataille."
   },
   "89f0c4114c402e287e2ed786df463063": {
     "text": "Objectifs Bonus"
@@ -156,34 +156,34 @@
     "text": "Le Réseau d'Énergie relie chaque île corporative. Tout dégât subit lors des missions persisteront. \n\nLes Veks ont causé des dégâts avant votre arrivée, mais il vous sera possible de les réparer."
   },
   "51aa22fdfacf970f7b3f319b7979e913": {
-    "text": "Réseau Électrique Endommagé"
+    "text": "Réseau d'Énergie Endommagé"
   },
   "8077ed577b5c1d096e4fdd1276b68933": {
-    "text": "Si votre Réseau Électrique est plein quand il reçoit de l'énergie supplémentaire, votre Puissance Défensive sera augmenté de façon permanente."
+    "text": "Lorsque vous recevez de l'énergie supplémentaire et que votre Réseau d'Énergie est plein, la puissance de votre Réseau de Défense est augmentée de façon permanente."
   },
   "931042d5724ef210841bdc393b30383c": {
-    "text": "Surpuissance Réseau"
+    "text": "Surcharge du Réseau"
   },
   "893ad99a93770a513dd4e1257eaa7f5b": {
-    "text": "Vous pouvez seulement Surcharger votre Réseau Électrique pour obtenir +25 Défense additionnel."
+    "text": "Vous pouvez seulement Surcharger votre Réseau d'Énergie pour obtenir +25 points de Défense additionnels."
   },
   "02a2feb5f56d4c184233dbde2d480402": {
-    "text": "Réseau Défensif Maximisé"
+    "text": "Réseau Défensif au Max"
   },
   "0a8d9d72ab120bf3ac77c550a5da0c61": {
     "text": "Ce bâtiment a résisté aux dégâts ! \n\nLa probabilité qu'un bâtiment résiste aux dégâts est indiquée à droite de votre Jauge de Puissance."
   },
   "a0a3dccc9517e02cb941135edf6b257c": {
-    "text": "Puissance Défensive"
+    "text": "Réseau de Défense"
   },
   "1599ec0d5be1a70a7c12c7d2401ddac7": {
-    "text": "Cet ennemi Psion fournit un bonus passif à tous les Veks. En le tuant, cela supprimera le bonus. \n\nSélectionner le Psion et survoler son portrait en bas à gauche pour plus d'informations."
+    "text": "Cet ennemi Psion fournit un bonus passif à tous les Veks. En le tuant, cela supprimera le bonus. \n\nSélectionnez le Psion et survoler son portrait en bas à gauche pour plus d'informations."
   },
   "c138f9d49dd2760a15a5f020f6c5e228": {
     "text": "Psion Vek"
   },
   "f9aaa92e840cc96cc093859c10313f16": {
-    "text": "Cette unité a été Entravée ! \nSurvoler les icônes d'état en bas à gauche pour voir ce que cela signifie."
+    "text": "Cette unité a été Entravée ! \nSurvolez les icônes d'état en bas à gauche pour voir ce que cela signifie."
   },
   "d1232932ca07dbddb0e2187ea061ac5e": {
     "text": "Mech Entravé"
@@ -195,10 +195,10 @@
     "text": "Îles Corporatives"
   },
   "e062c810ef865866d424beeb020c7c38": {
-    "text": "Une unité ennemie apparaîtra ici au tour suivant ! \n\nVous pouvez empêcher temporairement les ennemis d'apparaître, mais cela endommagera l'unité placée sur la tuile."
+    "text": "Une unité ennemie apparaîtra à cet endroit au tour suivant ! \n\nVous pouvez bloquer temporairement l'apparition des ennemis mais cela endommagera l'unité placée sur la tuile."
   },
   "6358c03cb8fdb25d688e0b1a339d14fb": {
-    "text": "Ennemis Émergents"
+    "text": "Apparition des Ennemis"
   },
   "9c4c96a2a6a710e683c99a81d88fe6a4": {
     "text": "La FORÊT sur cette tuile à subit des dégâts, la transformant en FEU. \n\nSi une unité reste sur la tuile Feu, elle s'enflammera et subira des dégâts à chaque tour."
