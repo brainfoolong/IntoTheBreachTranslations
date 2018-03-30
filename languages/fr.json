@@ -18,28 +18,28 @@
     "text": "Cibles Valides"
   },
   "8c948cedd526df19bb93034b8ad672fb": {
-    "text": "Chaque attaque ennemie est révélé. Au prochain tour, celui-ci attaquera les bâtiments. \n\nSurvoler un ennemi pour voir les détails de son attaque."
+    "text": "Chaque attaque ennemie vous est révélée. Au prochain tour, l'ennemi attaquera les bâtiments. \n\nSurvolez un ennemi pour voir les détails de son attaque."
   },
   "2caaefba39a1799de7150e580fd8f600": {
     "text": "Attaques Ennemies"
   },
   "6bd9a477bce827800b72d842bbdd1b11": {
-    "text": "Ceci est votre Mech Combat. Il peut frapper n'importe quelle tuile adjacente. \n\nCliquer sur votre Mech, rapprocher-le de l'ennemi et frapper-le."
+    "text": "Ceci est votre Mech de Combat. Il peut frapper n'importe quelle tuile adjacente. \n\nCliquez sur votre Mech, rapprocher-le de l'ennemi et frapper-le."
   },
   "63f576609c53092d7264d07d5b80bfa4": {
-    "text": "Mech Combat"
+    "text": "Mech de Combat"
   },
   "07d1a861e5aa7996bdddd5c0b3e2466d": {
-    "text": "Désactivé l'Escouade"
+    "text": "Escouade HS"
   },
   "5b6e7257af6df874b42fa879f8ecfd00": {
-    "text": "Tous vos Mechs étaient désactivés. Dans les batailles normales, les Veks poursuivraient leurs attaques et la mission se terminerait. \n\nPour ce tutoriel, vos Mechs ont été entièrement réparés."
+    "text": "Tous vos Mechs ont été mis HS. Dans des batailles classiques, les Veks poursuivraient leurs attaques et la mission se terminerait. \n\nPour les besoins de ce didacticiel, vos Mechs ont été entièrement réparés."
   },
   "bc801be4f12b39d1935e65b84748c512": {
-    "text": "Votre Réseau Électrique a été réduit à zéro. Normalement, cela signifierait Fin de Partie. \n\nPuisque c'est une simulation, vous pouvez continuer à combattre les Veks."
+    "text": "Votre Réseau d'Énergie est tombé à zéro. Normalement, cela signifierait que vous avez perdu. \n\nMais puisque c'est une simulation, vous pouvez continuer à combattre les Veks."
   },
   "5282c58be05cdecc1308241480b66276": {
-    "text": "Fin de Partie"
+    "text": "Game Over"
   },
   "5b6f7146d2509023195dc555be3e9ac0": {
     "text": "Vous ne pouvez pas toucher l'ennemi depuis cette position. Utiliser 'Annuler Déplacement' pour repositionner le Mech !"
@@ -51,7 +51,7 @@
     "text": "Frapper cet ennemi !"
   },
   "66b4cdda1eb071c99ca566b176bf5511": {
-    "text": "La frappe de votre Mech a POUSSÉ cette unité. Elle va maintenant attaquer un nouvel emplacement ! \n\nLes coup de Poussées peuvent sauver des bâtiments des attaques ennemies, voir même faire en sorte qu'ils s'attaquent entre eux."
+    "text": "La frappe de votre Mech a POUSSÉ cette unité. Elle va maintenant attaquer un nouvel emplacement ! \n\nPousser des ennemis peut sauver des bâtiments lorsqu'ils sont attaqués, voire même de faire en sorte à que les Veks s'attaquent entre eux."
   },
   "16dfad33b74d8e4c77b57687b53e6c0d": {
     "text": "Pousser Ennemis"
@@ -63,19 +63,19 @@
     "text": "Mech Char"
   },
   "39a08f694a07d512093ec0d3513db427": {
-    "text": "Chaque mission, vous gagnez en battant les Veks ou en les combattant jusqu'à ce qu'ils se retirent."
+    "text": "Pour chacune des missions, vous gagnez soit en battant les Veks soit en les combattant jusqu'à ce qu'ils se retirent."
   },
   "309bf299cbdec310469975316bc5fff0": {
-    "text": "Remplir Missions"
+    "text": "Accomplir des Missions"
   },
   "a76906f62cdf1b770f2b66e0ee0a6e3f": {
-    "text": "Les missions ont également des objectifs bonus. \n\nCompléter ceux-ci vous permettront de gagner des ressources supplémentaires après la bataille."
+    "text": "Les missions ont également des objectifs bonus. \n\nCompléter ceux-ci vous permettra de gagner des ressources supplémentaires après la bataille."
   },
   "89f0c4114c402e287e2ed786df463063": {
     "text": "Objectifs Bonus"
   },
   "06ceb4ba26e51c80e069d06f19cd6d00": {
-    "text": "Cliquer sur une arme pour l'utiliser. Les touches numériques fonctionnent également comme raccourcis. \n\nVous ne pouvez plus vous déplacer après avoir utilisé une arme."
+    "text": "Cliquez sur une arme pour l'utiliser. Les touches numériques fonctionnent également comme raccourcis. \n\nVous ne pouvez plus vous déplacer après avoir utilisé une arme."
   },
   "25fb77433fd72bb4999f090603f41223": {
     "text": "Utiliser Arme"
@@ -87,13 +87,13 @@
     "text": "Fin du Tour"
   },
   "a6d277f01ac333493cb5210e8af9941f": {
-    "text": "Les chars sont en ligne et peuvent maintenant être contrôlés !"
+    "text": "Les chars sont opérationnels et peuvent maintenant être contrôlés !"
   },
   "1d1429166e9a65b4515610f7533fd326": {
     "text": "Char de l'Ancienne Terre"
   },
   "c7fc05495bef77dcbf37de1658d63bf8": {
-    "text": "Cette unité Terraformeur est sous votre contrôle durant cette mission. \n\nUtiliser-la pour transformer les tuiles Herbe en tuiles Sable."
+    "text": "Ce Terraformeur est sous votre contrôle durant cette mission. \n\nUtilisez-le pour transformer les tuiles Herbe en tuiles Sable."
   },
   "67afce2a780e19d188c01e76dc0fcc98": {
     "text": "Terraformeur"
@@ -102,10 +102,10 @@
     "text": "Votre objectif bonus dans cette mission est de ne pas laisser mourir ce Vek."
   },
   "d6bf33cffeccd650ac978c2174c14717": {
-    "text": "Vek Volant"
+    "text": "Vek Explosif"
   },
   "bf4c61c58093b0c6acaaec1f1f98655b": {
-    "text": "Attention : Cette mission finale est encore en développement. \n\nElle est moins soignée et toujours en cours de conception. \n\nVous devriez tout de même la trouver à peu près jouable. Bonne chance !"
+    "text": "Attention : Cette mission finale est encore en développement. \n\nElle est moins soignée et est toujours en cours de conception. \n\nVous devriez tout de même la trouver à peu près jouable. Bonne chance !"
   },
   "80cfd3dc2522979f617b789988caa81a": {
     "text": "Attention : Ce fichier de sauvegarde a été créé avec une version précédente d'Into the Breach. \n\nPuisque le jeu est toujours en développement, je ne peux pas garantir une rétrocompatibilité complète pour chaque mise à jour et vous pourriez rencontrer des problèmes avec cette sauvegarde. \n\nCela dit, les chances sont bonnes pour que vous ne rencontriez aucun problème. Désolé pour les problèmes éventuels !"
@@ -114,13 +114,13 @@
     "text": "Pilote Alimenté"
   },
   "ee8a17f0836a80f624a0107811302d9a": {
-    "text": "Ce pilote est une machine Sensible et nécessite une Puissance Réacteur pour activer sa capacité spéciale."
+    "text": "Ce pilote est une machine douée de raison et nécessite une Puissance Réacteur pour activer sa capacité spéciale."
   },
   "0885631fbbe3b144e38b51246bda1e70": {
     "text": "A.C.I.D."
   },
   "76d8ec0666c0fab587c5bf248c970921": {
-    "text": "Cette unité est infligée par de l'A.C.I.D. Ses défenses étant corrodées, les Dégâts d'Armes subits seront doublés. \n\nTous les autres dégâts (Pousser, Feu, Bloquer, etc...) ne sont pas affectés."
+    "text": "Cette unité est affectée par de l'A.C.I.D. Ses défenses étant corrodées, les Dégâts d'Armes subits seront doublés. \n\nLes autres types de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés."
   },
   "990c0f701cc2208ba127d2cb056e904f": {
     "text": "Cette unité est GELÉE. Elle ne peut pas bouger ou attaquer et restera Gelée jusqu'à ce qu'elle subisse des dégâts."
@@ -138,22 +138,22 @@
     "text": "Boucliers Énergétique"
   },
   "3e9c5f7fa0b0fe9f7011fad81281cd13": {
-    "text": "C'est un Bouclier. Il va bloquer les dégâts et les effets négatifs (Feu, Congélation, A.C.I.D, etc...). \n\nSeuls les dégâts directs enlèveront le Bouclier. Non-dommageables , les effets négatifs n'auront aucun effet."
+    "text": "Ceci est un Bouclier. Il va bloquer les dégâts et les effets négatifs (Feu, Congélation, A.C.I.D, etc...). \n\nSeuls les dégâts directs enlèveront le Bouclier. Les effets négatifs et autres effets qui n'engendrent pas de dommage direct n'auront aucun effet."
   },
   "55dbfbe175ff6527d393b8ed5f5dbaf3": {
     "text": "Unité Blindée"
   },
   "202ce6b05b7cec61e6d4fddb1ea7034c": {
-    "text": "Cette unité est Blindée. Tous les Dégâts d'Armes subits seront réduits de 1. \n\nTous les autres dégâts (Pousser, Feu, Bloquer, etc...) ne sont pas affectés."
+    "text": "Cette unité est Blindée. Tous les Dégâts d'Armes subits seront réduits de 1. \n\nLes autres type de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés"
   },
   "e481cfb5e6c8b599acaecb8a61d588cb": {
-    "text": "Cette mission a un effet spécial qui se produira à chaque tour. \n\nPasser la souris sur l'icône d'environnement pour obtenir plus d'informations."
+    "text": "Lors de cette mission, un évènement spécial se produira à chaque tour. \n\nPassez la souris sur l'icône d'environnement pour obtenir plus d'informations."
   },
   "eef8f44c60f0bf53d874fe9ba034af30": {
     "text": "Effet Environnemental"
   },
   "463e2f306203da28680be887ca694cb4": {
-    "text": "Le Réseau Électrique relie chaque île corporative. Tout dégâts subit lors des missions persisteront. \n\nLes Veks ont causé des dégâts avant votre arrivée, mais il sera possible de les restaurer."
+    "text": "Le Réseau d'Énergie relie chaque île corporative. Tout dégât subit lors des missions persisteront. \n\nLes Veks ont causé des dégâts avant votre arrivée, mais il vous sera possible de les réparer."
   },
   "51aa22fdfacf970f7b3f319b7979e913": {
     "text": "Réseau Électrique Endommagé"
