@@ -684,7 +684,7 @@
     "text": "Les Noyaux Réacteur sont utilisés pour Améliorer vos Mech entre chaque missions."
   },
   "a176718fa5943c72a6a5c09b65e12bf6": {
-    "text": "Réseau d'Énergie"
+    "text": "Puissance Réseau"
   },
   "317fabcd8075160bb53ae14fd26fd687": {
     "text": "Réparer les dégâts de votre Réseau d'Énergie. \n\nSi votre Réseau d'Énergie est plein, votre Puissance Défensive sera amélioré de façon permanente."
@@ -1617,7 +1617,7 @@
     "text": "Nombre de Dégâts que le Mech peut subir avant d'être hors combat."
   },
   "6e03af8badcc9656953354084b0eee08": {
-    "text": "La Classe Mech détermine quelles armes il peut utiliser sans pénalité."
+    "text": "La Classe Mech détermine quelles type d'armes un mech peut utiliser sans pénalité."
   },
   "444733081a578880ba8a563d3c59d22d": {
     "text": "Volant"
@@ -1629,10 +1629,10 @@
     "text": "Blindé"
   },
   "1a3d56cd48403a2caa2833aca9789f86": {
-    "text": "Les Dégâts d'Arme sur cette unité sont réduits de 1. Tous les autres dégâts (Pousser, Bloquer, Feu, etc...) ne sont pas affectés."
+    "text": "Les Dégâts de cette unité sont réduits de 1. Tous les autres dégâts (Pousser, Bloquer, Feu, etc...) restent inchangés."
   },
   "3af215f3cbe9b30db1e89e79f51b36a5": {
-    "text": "Conçu pour fournir un défi intéressant aux joueurs nouveaux et expérimentés."
+    "text": "Conçu pour fournir un défi intéressant aux nouveaux joueurs et également aux expérimentés."
   },
   "f2172b2afd942a1ddb768a250ecc0e8f": {
     "text": "Mode Facile"
@@ -1656,13 +1656,15 @@
     "text": "Répéter Équipement Passif"
   },
   "8a8701e573e343348597f001d71fb7e2": {
-    "text": "Votre Escouade de Mech ne peut pas avoir plusieurs copies du même équipement passif. \n\nVous pouvez toujours jouez avec l'Escouade, mais les copies supplémentaires de l'équipement Passif seront supprimées."
+    "text": "Votre Escouade de Mech ne peut pas avoir plusieurs copies du même équipement passif. \n\nVous pouvez toujours jouez avec cette Escouade, mais les copies supplémentaires de l'équipement Passif seront supprimées."
   },
   "444409722579db9be3af7a3aa75e0c78": {
-    "text": "Escouade purement aléatoire. Aucune restriction sur les classes, l'armement, ou les Mech."
+    "text": "Escouade complètement aléatoire. Aucune restriction sur les classes, l'armement, ou les Mech.",
+    "review": true
   },
   "21b423226488fdad1ba8cf58ad876d2e": {
-    "text": "Escouade aléatoire légèrement restreinte.\n\nTous les Mechs seront uniques et ne seront pas de la même classe. Les Mechs n'auront pas plus de 4 armes réparties entre eux."
+    "text": "Escouade aléatoire légèrement restreinte.\n\nTous les Mechs seront uniques et ne seront pas de la même classe. Les Mechs n'auront pas plus de 4 armes réparties entre eux.",
+    "review": true
   },
   "0829ea6734059d66e6bf87096b215dc1": {
     "text": "Plein Écran"
@@ -1674,10 +1676,11 @@
     "text": "Editer Raccourcis"
   },
   "b7f039c450dbe9520ff7f27ccbd2f3bc": {
-    "text": "Fenêtré par Défaut"
+    "text": "Taille par Défaut",
+    "review": true
   },
   "6bba1c7aadead56f5ae20290f70ef2f7": {
-    "text": "Echelle Bordure Max : $1"
+    "text": "Échelle du Plateau Max : $1"
   },
   "18cca3cb27c1f61033a28407dc5a0c34": {
     "text": "Couper Tout les Sons"
@@ -1692,10 +1695,10 @@
     "text": "INFO"
   },
   "7bb481056b32259630f7cfb17bb813e5": {
-    "text": "Volume Effets"
+    "text": "Volume des Effets"
   },
   "39ffbe865780355a3e4eeb3fcdb66dab": {
-    "text": "Volume Music"
+    "text": "Volume de la Musique"
   },
   "6288740a1cd0de37312619df3b6ddcf3": {
     "text": "Jeu"
@@ -1722,16 +1725,20 @@
     "text": "SAUVER et QUITTER"
   },
   "3762b5fa4d725a194e18df0e856883a6": {
-    "text": "RENONCER LIGNE TEMPORELLE"
+    "text": "ABANDONNER",
+    "review": true
   },
   "2508a37019885d09034252ce71c9f871": {
-    "text": "Souris Milieu"
+    "text": "Souris Milieu",
+    "review": true
   },
   "83da9cebaae905248d0ba04cd98f0f05": {
-    "text": "Souris 4"
+    "text": "Souris 4",
+    "review": true
   },
   "4afe3b09452e05ee1cbb6841860003f6": {
-    "text": "Souris 5"
+    "text": "Souris 5",
+    "review": true
   },
   "2088ada088d2f4d8b9b5c164dde362fe": {
     "text": "Humanité : Détruite      "
@@ -1740,13 +1747,13 @@
     "text": "Menace Vek : Inarrêtable"
   },
   "85bf2cea64b484627add4768020e5abe": {
-    "text": "Mission : Echoué              "
+    "text": "Mission : Échouée              "
   },
   "22f80a199f410f67ed1ced43867c761a": {
     "text": "Ouvrir une brèche.        "
   },
   "3f1d0e178a2eb61e9063dcfaeeca2e87": {
-    "text": "Il est temps de revenir en arrière et d'essayer à nouveau."
+    "text": "Il est temps de revenir en arrière et d'essayer encore."
   },
   "cf8e2a9c777a3dda17ba3a897280010e": {
     "text": "ENVOYER PILOTE"
@@ -1773,7 +1780,8 @@
     "text": "CHEF :"
   },
   "ddc07eb4f17245fe8e2033c9331658b8": {
-    "text": "Compléter $1 $2 pour débloquer !"
+    "text": "Compléter $1 $2 pour débloquer !",
+    "review": true
   },
   "ac0ce97fbbf9358c19452118b49eeacc": {
     "text": "Île"
@@ -1794,7 +1802,7 @@
     "text": "TROIS Îles"
   },
   "5369c09911827749a32cc41d80829a76": {
-    "text": "En complétant $1 vous avez débloqué \n\n\n\n\nDans les futurs parties, vous pourrez visiter les îles déverrouillées dans n'importe quel ordre."
+    "text": "En complétant $1 vous avez débloqué \n\n\n\n\nDorénavant, vous pourrez visiter les îles déverrouillées dans n'importe quel ordre."
   },
   "d09294dc756b4267807f2a7c4926b413": {
     "text": "Nouvelle Escouade disponible lors du lancement d'une prochaine Partie !"
@@ -1809,7 +1817,7 @@
     "text": "DÉGÂT ÉLECTRIQUE"
   },
   "7cdfda7383255159d4abfabf6ed4fb2c": {
-    "text": "ENEMIS BLOQUÉ"
+    "text": "ENNEMI BLOQUÉ"
   },
   "dad8d9e00badd2a29cad9b61c61fa2c6": {
     "text": "N'ATTAQUE PAS"
@@ -1827,7 +1835,8 @@
     "text": "UNITÉ RÉPARÉE"
   },
   "e901f45070de42a914e262c1a5d1f6e5": {
-    "text": "DIVISON SUPPRIMÉE"
+    "text": "DIVISION SUPPRIMÉE",
+    "review": true
   },
   "d1a0092f42817425f7b3b737297d02af": {
     "text": "RÉGÉNÉRATION PSION"
@@ -1842,7 +1851,8 @@
     "text": "NIVEAU SUP !"
   },
   "522bf35ce3719884885e0e3c6a03f0bf": {
-    "text": "ATTENTION !"
+    "text": "ATTENTION !",
+    "review": true
   },
   "8530425c190c6183c7e247b996f921b5": {
     "text": "POD EN APPROCHE"
@@ -1851,13 +1861,14 @@
     "text": "BONUS PASSIF"
   },
   "ed1b254605605093ae1a12dbd0c086da": {
-    "text": "RESISTÉ"
+    "text": "A RÉSISTÉ"
   },
   "0eed26315d4f41f479f9b2aa4bbfe20c": {
     "text": "PERTE DE PUISSANCE"
   },
   "c30ccafe6b394e042faa05b477b13d78": {
-    "text": "Pertes"
+    "text": "Pertes",
+    "review": true
   },
   "222d7eb0b7b4abaec2b48052f1fb88b7": {
     "text": "PUISSANCE DISPONIBLE"
@@ -1887,10 +1898,12 @@
     "text": "DEFENSE PRÊTE !"
   },
   "58635dc01c70898e9b2fb3e59eef9c77": {
-    "text": "PUISSANCE MAX !"
+    "text": "PUISSANCE MAX !",
+    "review": true
   },
   "e9990c2957ad03fabbb236b291a475a9": {
-    "text": "FUMÉE PARALYSANTE !"
+    "text": "FUMÉE PARALYSANTE !",
+    "review": true
   },
   "c837b420d0ba22a799fc7297dbfc892c": {
     "text": "MECH IMMERGÉ !"
@@ -1899,43 +1912,43 @@
     "text": "PAS DE CIBLE DISPONIBLE !"
   },
   "25aa53a1678da9826462e2c65476bfd4": {
-    "text": "Certains effets non répertoriés en raison du manque d'espace"
+    "text": "Certains effets ne sont pas listés en raison d'un manque d'espace"
   },
   "9bf34a0d3887a51ac1ec2214f1fc4229": {
     "text": "Voyageurs Temporel"
   },
   "6c4c058acb73c1e20ab3d5f7a24efb07": {
-    "text": "Marcheur Morceler"
+    "text": "Rift Walkers"
   },
   "785da4706195b92ab1db907d761746ac": {
-    "text": "Ce furent les tous premiers Mechs à combattre les Veks. Ils sont efficaces et fiables."
+    "text": "Ils furent les tous premiers Mechs à combattre les Veks. Ils sont efficaces et fiables."
   },
   "dd1c4129c16419c0f06db3b933c639cc": {
-    "text": "Judoka Acier"
+    "text": "Steel Judoka"
   },
   "586c5cba8f7a428a4004db6b4acc8520": {
-    "text": "Ces Mechs se spécialisent dans la manipulation de position pour tourner les Veks les uns contre les autres."
+    "text": "Ces Mechs sont spécialisés dans des techniques de manipulation d'attaques de l'adversaire, forçant les Veks à s'attaquer entre eux."
   },
   "3931e9d30bba58b6ae7ff4fdc1528a94": {
-    "text": "Hulk Rouillé"
+    "text": "Rusting Hulks"
   },
   "9e38f61bcd08513d8aaaae58fd3eb17c": {
-    "text": "Les manipulateurs de temps R.S.T. permettent à ces Mechs de profiter des Tempête de Fumée partout."
+    "text": "Les manipulateurs de conditions climatiques de la Corporation R.S.T permettent à ces Mechs de profiter pleinement des fumées électriques."
   },
   "82e8c151115a21ab1d0f04f5af71be4d": {
-    "text": "Béhémoth Enflammé"
+    "text": "Les Géants de la Flamme"
   },
   "e9f91a3695d9456afe7ee4f19ca95597": {
-    "text": "Invincibles aux flammes, ces Mechs inspirent à brûler toute menace aux cendres."
+    "text": "Ne craignant pas les flammes, ces Mechs brûleront tout sur leur passage."
   },
   "582b57af8d4a9641de42e8091c6b7d22": {
-    "text": "Garde Zenith"
+    "text": "La Garde du Zénith"
   },
   "e5271393ee90b1e2a50f9e197db5fea0": {
-    "text": "La technologie Rayon Détritus et la technologie Bouclier Pinnacle créent une combinaison puissante."
+    "text": "Ces Mechs sont le fruit de la combinaison des technologies offensives Detritus et des technologies défensives Pinnacle. Le meilleur des deux mondes !"
   },
   "ed4070c1dfcbd5b5fac6d0a72cd2ce31": {
-    "text": "Titan Gelé"
+    "text": "Les Titans de Glace"
   },
   "121aa2733dd4693cee89329aa9b7b783": {
     "text": "Ces Titans s'appuient sur le Lanceur Cryo, une arme puissante qui nécessite un Pilote expérimenté pour la maîtriser."
@@ -1944,13 +1957,13 @@
     "text": "Blitzkrieg"
   },
   "0995688608be82268a32758d029f5a0e": {
-    "text": "Les ingénieurs R.S.T. ont conçu cette Escouade autour des capacités de destruction massive par des éclairs foudroyants."
+    "text": "Les ingénieurs de chez R.S.T. se sont basés sur les capacités de destruction massive de la foudre pour concevoir cette Escouade."
   },
   "986e988f79763a881b30e828b9aa8107": {
-    "text": "Mech Hasardeux"
+    "text": "Les Mechstructeurs"
   },
   "c2be2982554003a7f33aa759b4d8e159": {
-    "text": "Ces Mechs produisent des dégâts spectaculaires mais s'appuient sur des Nano-Robot qui se nourrissent de Vek morts pour rester en vie."
+    "text": "Ces Mechs produisent des dégâts spectaculaires mais doivent s'appuyer sur des Nano-Robots mangeurs de cadavres Vek pour rester en vie."
   },
   "485165675c6b1a70ef21ef6694efdfd5": {
     "text": "Escouade Aléatoire"
@@ -1968,7 +1981,7 @@
     "text": "Escouade Secrète"
   },
   "22366553684fec1651cacebe0ca83b0a": {
-    "text": "Le dernier espoir de l'humanité est un mélange de Machine et de Vek créés pour défendre la Terre."
+    "text": "Le dernier espoir de l'humanité. Un savant mélange de Machine et de Vek créé pour défendre la Terre."
   },
   "58218571b3de6e7e100f539735f8be52": {
     "text": "Achevé en difficulté 1$"
@@ -1989,10 +2002,11 @@
     "text": "Couper tout les sons"
   },
   "f79c5f7419798abd602bb7cb3b51a6e4": {
-    "text": "Annulé Déplacement"
+    "text": "Annuler Déplacement"
   },
   "2d740d74c517c2236a41481e4a0e69c2": {
-    "text": "Annuler le dernier déplacement que vous avez fait avec un Mech"
+    "text": "Annuler le dernier déplacement d'un Mech",
+    "review": true
   },
   "d20ea7a88d6cb1b1f6290cbc180fb7ef": {
     "text": "Si disponible, réinitialiser au début du Tour Joueur"
@@ -2001,52 +2015,52 @@
     "text": "Sélectionner Mech 1"
   },
   "44effb60af50eca654c8e5a2ba2ce6ae": {
-    "text": "Sélectionner votre premier Mech (basé sur l'ordre de la liste)"
+    "text": "Sélectionner votre premier Mech (suivant l'ordre de la liste)"
   },
   "9ee4fd70cb0396d201dee079065786ba": {
     "text": "Sélectionner Mech 2"
   },
   "2dd7bace832ada441e56cf5fbc50417f": {
-    "text": "Sélectionner votre seconds Mech (basé sur l'ordre de la liste)"
+    "text": "Sélectionner votre seconds Mech (suivant l'ordre de la liste)"
   },
   "2756b4410db8ee07ab3f635c46674890": {
     "text": "Sélectionner Mech 3"
   },
   "96c69a00dde0a66dcdf7ef9ff7b76d08": {
-    "text": "Sélectionner votre troisième Mech (basé sur l'ordre de la liste)"
+    "text": "Sélectionner votre troisième Mech (suivant l'ordre de la liste)"
   },
   "6176b40609c2bd151c5fb5355e400834": {
     "text": "Sélectionner Déployé 1"
   },
   "2b9a415fb2583212c730fbcca4ec706a": {
-    "text": "Choisisser votre première unité Mech déployée"
+    "text": "Choisissez votre première unité Mech déployée"
   },
   "141a83f817f0f80368216a2b77547dd7": {
     "text": "Sélectionner Déployé 2"
   },
   "f720200b0a31ea05dc74818646bf1e92": {
-    "text": "Choisisser votre seconds unité Mech déployée"
+    "text": "Choisissez votre seconds unité Mech déployée"
   },
   "3f8b8907e2937f73de43cfef14ce30e3": {
     "text": "Sélectionner Déployé 3"
   },
   "7a81365d9571aa3ccc24a58172a6b169": {
-    "text": "Choisisser votre troisième unité Mech déployée"
+    "text": "Choisissez votre troisième unité Mech déployée"
   },
   "ccfcb82c966c38b94bd1cb0ba2ff0d4d": {
     "text": "Sélectionner l'Unité de Mission 1"
   },
   "7d1aff45be134baa1c15c5e978be3097": {
-    "text": "Sélectionner l'Unité de Mission que vous contrôler (si disponible)"
+    "text": "Sélectionnez l'Unité de Mission que vous contrôler (si disponible)"
   },
   "6799f38346a63281c3281b5c31579824": {
     "text": "Sélectionner l'Unité de Mission 2"
   },
   "fa19134bfb49626009a9893255036a48": {
-    "text": "Sélectionner la secondes Unité de Mission que vous contrôler (si disponible)"
+    "text": "Sélectionnez la seconde Unité de Mission que vous contrôler (si disponible)"
   },
   "aa9356bdb7a00c303a7da7c2f990a954": {
-    "text": "Cycle Unités"
+    "text": "Cycle entre Unités"
   },
   "575213fe153f111ec860aff389498b67": {
     "text": "Passer à la prochaine unité active et contrôlable disponible"
@@ -2058,13 +2072,13 @@
     "text": "Effacer l'unité actuellement sélectionnée"
   },
   "1bb5b2a88971a285391d6f9e273b222a": {
-    "text": "Affiché Infos"
+    "text": "Afficher Infos"
   },
   "11d3de52b4f3312b785a0fe02d6900e4": {
     "text": "Maintenir pour inspecter n'importe quelle unité sous votre souris"
   },
   "cd461c86ccd5fe4f56a9d6d3db7adc69": {
-    "text": "Affiché Ordre Attaque"
+    "text": "Afficher Ordre Attaque"
   },
   "397e67a8f83a6493892e4d70713591a5": {
     "text": "Maintenir enfoncé pour afficher l'ordre d'attaque en cours des unités ennemies"
@@ -2073,13 +2087,13 @@
     "text": "Arme 1"
   },
   "6e4085b56bdc02cf028dfeef19499410": {
-    "text": "Armer ou désarmer la première arme équipée de votre unité"
+    "text": "Armer ou désarmer la première arme d'une unité"
   },
   "d5340b233c6a205c5df141be552a526a": {
     "text": "Arme 2"
   },
   "acd57b51180047d91092584782b68033": {
-    "text": "Armer ou désarmer la seconde arme équipée de votre unité"
+    "text": "Armer ou désarmer la seconde arme d'une unité"
   },
   "0493d27e20d11e356e53e0a730b0ad08": {
     "text": "Réparer"
@@ -2121,7 +2135,7 @@
     "text": "Power Up Audio"
   },
   "34de3f01ca0ede8a75226a85037b0a33": {
-    "text": "Concepteur Son :"
+    "text": "Concepteurs Son :"
   },
   "faa4665b3c11c83b9c5fc053231cfaaa": {
     "text": "Joey Godard\nJeff Tangsoc\nKevin Regamey\nCole Verderber"
@@ -2136,19 +2150,19 @@
     "text": "Chris Avellone"
   },
   "9b7e18a43799a7b516dd004356cdaa82": {
-    "text": "Édition Supplémentaire :"
+    "text": "Assistante de production :"
   },
   "cb337e35d4e402a1240b6c164cf560b4": {
     "text": "Alison Waller"
   },
   "4aacc3a15ce97526c9034582ccb9efdb": {
-    "text": "Gestionnaire de Communauté :"
+    "text": "Gestionnaire de communautés en ligne :"
   },
   "93bce36407fbf6bfd08d66d1f1cfbae0": {
     "text": "Isla Schanuel"
   },
   "11fe22216e23ac1d8ffa97c1670c937b": {
-    "text": "Artiste Portait :"
+    "text": "Artiste Portrait :"
   },
   "e77771f6533b085c905d2150d10f5f3a": {
     "text": "Polina Hristova"
@@ -2160,13 +2174,13 @@
     "text": "Gareth Davies"
   },
   "9d17c916654bd3ae060e90b1fa0e2ac7": {
-    "text": "Test QA :"
+    "text": "Tests QA :"
   },
   "7fb4cc800cbe695ec766272521a9d63e": {
     "text": "The Research Centaur UX+QA"
   },
   "96599af9164eb508112ca3136e782cf7": {
-    "text": "Gestionnaire de Test :"
+    "text": "Gestionnaire des Tests :"
   },
   "c2f19165431d93387a53e1ef56ea399f": {
     "text": "Jay Fernandes"
@@ -2178,13 +2192,13 @@
     "text": "Matthew Barnes\nLucia Aldana"
   },
   "c03194935124ab2880023d952948807f": {
-    "text": "Merci à notre incroyables communauté de testeurs :"
+    "text": "Merci à notre incroyable communauté de testeurs :"
   },
   "1915d9cbe9bc72d760d7a9430f2f0382": {
     "text": "5thHorseman\nAlfie275\nchewbacca77\nDarthcaboose\nDiscord\nFynn\nJoni\nKieve\nLem\nNick Patrick\nRick Edmonds\nSleeper Service\n"
   },
   "5d0bd58e10b79127d9082df3ff9c84d1": {
-    "text": "Remerciement spécial pour leurs conseils et soutiens :"
+    "text": "Remerciements spéciaux pour leurs conseils et soutiens :"
   },
   "77271b6ae88dc394d6706b849e3a0c50": {
     "text": "Maria\nAlison\nMichael Nielsen\nEstelle Tigani\nAllison Thrower\nBryan\nIlona Koleda\nEsther Oh"
@@ -2193,13 +2207,13 @@
     "text": "et le reste de notre famille, amis,\net amis développeurs indépendants"
   },
   "ad3ec94f9d3681e69e39f7cac60460b9": {
-    "text": "Bébés de Production :"
+    "text": "Bébés nés pendant la production du jeu :"
   },
   "5cd17525c026baa6fe3ff472fa2cee28": {
     "text": "Fox and Willow"
   },
   "9f38be5556f95aea4a8a90f3b72822a3": {
-    "text": "Merci d'avoir joué!"
+    "text": "Merci d'avoir joué !"
   },
   "ed837c950ae03759ae483804222fd610": {
     "text": "Victoires"
@@ -2229,7 +2243,8 @@
     "text": "Finir le jeu en Difficile (n'importe quelle durée)"
   },
   "9349de00597d01bb4a1b9b4390fb4e2d": {
-    "text": "Victoire Adaptable"
+    "text": "Victoire Adaptable",
+    "review": true
   },
   "bac2ad3164a1c9d1642ab8353276ac8c": {
     "text": "Finir le jeu au moins une fois par durée (2, 3 et 4 Îles Corporatives sécurisées)"
@@ -2238,7 +2253,8 @@
     "text": "Progression : $1 / 3 Complété(s)"
   },
   "2eb09bc9d65eb3ab6af1df4139643293": {
-    "text": "Victoire Escouade"
+    "text": "Victoire Escouades",
+    "review": true
   },
   "5902fa7c72c1acc933626af9644d6861": {
     "text": "Finir le jeu avec 4 escouades différentes (n'importe quelle durée)"
@@ -2247,7 +2263,7 @@
     "text": "Progression : $1 / 4 Victoire(s)"
   },
   "e141ab1be59aaafeb72c5f8885a9ede9": {
-    "text": "Victoire Complété"
+    "text": "Victoire Complète"
   },
   "0226569ee7ec511bfbf1226135b5fefa": {
     "text": "Finir le jeu avec les 10 escouades principales (n'importe quelle durée)"
@@ -2256,25 +2272,26 @@
     "text": "Progression : $1 / 10 Victoire(s)"
   },
   "88c18725983b735d5af84e106e2420a5": {
-    "text": "Technologies Émergentes"
+    "text": "Technologies de Pointe"
   },
   "848e18f60fc03b6d94efb591e626a5cd": {
     "text": "Débloquer une nouvelle Escouade Mech"
   },
   "ae6340916db58e07e3fe3e3e2fc0430e": {
-    "text": "Amis en Hauts Lieux"
+    "text": "Amis Haut Placé"
   },
   "86889e455b2a4e4ab3d3682fa68683cb": {
-    "text": "Dépenser 50 de Réputation au fur et à mesure des parties"
+    "text": "Dépenser 50 points de Réputation au fur et à mesure des parties"
   },
   "a90e9df662ca16dc905bbcec5206d2f5": {
-    "text": "Progression : $1 Réputation Dépensée(s)"
+    "text": "Progression : $1 point de Réputation Dépensé(s)"
   },
   "3e080212bd1d93b2e4cfffc58548c3d0": {
     "text": "Objets Indéplaçable"
   },
   "ca9c808f588a905c1e4be0cb2ceacdd9": {
-    "text": "Bloquer 100 Veks au fur et à mesure des parties"
+    "text": "Bloquer 100 Veks",
+    "review": true
   },
   "70cd3c7a6f78bd03e3829c4164c43dc4": {
     "text": "Progression : $1 Veks Bloqué(s)"
@@ -2283,7 +2300,7 @@
     "text": "Sauveur de l'Humanité"
   },
   "5e0325c5562d2c9f74f32450ba315e39": {
-    "text": "Sauver 100 000 civils durant toutes les parties"
+    "text": "Sauver 100 000 civils"
   },
   "b4e8a28c7cf354b87f1ad02db27530dc": {
     "text": "Progression : $1 Civils Sauvés"
@@ -2292,7 +2309,7 @@
     "text": "Stratégie Parfaite"
   },
   "1ae1aeb2c5f25ab3add84e433601adf9": {
-    "text": "Collectionner 10 récompenses Île Parfaite au fur et à mesure des parties"
+    "text": "Collectionner 10 récompenses \"Île Parfaite\""
   },
   "9dd6650520149cb5a8f4f11ae59e8035": {
     "text": "Progression : $1 Île(s) Parfaite(s)"
@@ -2301,7 +2318,7 @@
     "text": "Île Parfaite"
   },
   "b0f30f44038cd92a45e8b9458fed1354": {
-    "text": "Ne rater aucun objectif sur une Île Corporative"
+    "text": "Ne rater aucun objectif sur une Île"
   },
   "f4de6ac2d3209d89a33a116315c6627f": {
     "text": "Échec : $1 Échoué(s)"
@@ -2310,7 +2327,7 @@
     "text": "Les Défenseurs"
   },
   "74b06ae007576afee7f01f62f5aa3092": {
-    "text": "Terminer une Île Corporative sans subir de Dégât Bâtiment"
+    "text": "Terminer une Île Corporative sans perdre de Bâtiment"
   },
   "1d0e99d2104d72a6cce1385873fb2e0c": {
     "text": "Échec sur l'Île actuelle"
@@ -2319,13 +2336,13 @@
     "text": "Intouchable"
   },
   "be12c83cfcc6cda8a8ec1dc7537074ad": {
-    "text": "Terminer une Île Corporative sans qu'un Mech prenne de dégâts (les dégâts réparés sont toujours des dégâts)"
+    "text": "Terminer une Île Corporative sans qu'un Mech ne prenne de dégâts (les dégâts réparés sont considérés comme des dégâts)"
   },
   "acd463a3be500b05e75c3b1d1a294c10": {
     "text": "Batteries de Secours"
   },
   "2b6b8793bff14d58ed8e954c200370cd": {
-    "text": "Gagner ou acheter 10 de Puissance Réseau sur une seule Île Corporative"
+    "text": "Gagner ou acheter 10 point de Puissance Réseau sur une seule Île Corporative"
   },
   "ea3f45ff643baf26c1bf33ecfd0bc4fe": {
     "text": "Progression : 1$ Puissance(s) Réseau(x) gagné(s)"
@@ -2334,7 +2351,7 @@
     "text": "Bon Samaritain"
   },
   "f0fb8f44ad242a3f85806b1d8507154f": {
-    "text": "Gagner 9 de Réputations de missions sur une seule Île Corporative"
+    "text": "Gagner 9 points de Réputation sur une seule Île Corporative"
   },
   "b175a903ea5dd827523cd42c809a71f3": {
     "text": "Progression : $1 Réputation gagné(s)"
@@ -2346,7 +2363,7 @@
     "text": "Avoir un Pilote atteignant le niveau maximum"
   },
   "49c83e790411a58cf3a6e56690e4f6be": {
-    "text": "Meilleur des Meilleurs"
+    "text": "La crème de la crème"
   },
   "c03e4c411769f8816a715aa29d5e5745": {
     "text": "Avoir 3 Pilotes simultanément au niveau maximum"
@@ -2355,7 +2372,7 @@
     "text": "Progression : 1$ Pilote(s) au niveau maximum"
   },
   "763636283f30c1804a81686256476d5d": {
-    "text": "Venons Ensemble"
+    "text": "Venez nombreux"
   },
   "278ad771a10ae0dd1aeb80096953ba89": {
     "text": "Déverrouiller 6 Pilotes supplémentaires"
@@ -2364,7 +2381,7 @@
     "text": "Progression : $1 Pilote(s)"
   },
   "eecc33839e892031a56dae81f2602fef": {
-    "text": "Je deviens trop vieux pour ça ..."
+    "text": "Je deviens trop vieux pour ces conneries..."
   },
   "86570cd66b58f1f09a780d806390490c": {
     "text": "Avoir un Pilote individuel qui participe 3 fois à la bataille finale sur plusieurs parties"
@@ -2373,7 +2390,7 @@
     "text": "Progression : $1 Bataille(s) Finale"
   },
   "667f6114b03fca5be8af09f206669075": {
-    "text": "Amis Éloignés"
+    "text": "On ne s'est pas déjà vu ?"
   },
   "4435c56fc1d750a276e85e586c23b098": {
     "text": "Rencontrer un visage familier"
@@ -2406,7 +2423,7 @@
     "text": "Échec : Pod Temporel collecté"
   },
   "602715db940b6352ced23202017d406a": {
-    "text": "Aucun Essai Possible"
+    "text": "Fais-le, ou ne le fais pas, mais il n'y a pas d'essai"
   },
   "42699ba92b802c081f49eaa643667dea": {
     "text": "Terminer 3 Îles Corporatives sans échouer un seul objectif"
@@ -7076,5 +7093,8 @@
   },
   "c699604abfe199e0cca57b5a3c5fd650": {
     "text": "Escouade Personnalisée"
+  },
+  "9cf7b33240a8a9439fae8a8d3285bde2": {
+    "text": "Île Verouillée"
   }
 }
