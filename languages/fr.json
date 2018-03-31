@@ -159,7 +159,7 @@
     "text": "Réseau d'Énergie Endommagé"
   },
   "8077ed577b5c1d096e4fdd1276b68933": {
-    "text": "Lorsque vous recevez de l'énergie supplémentaire et que votre Réseau d'Énergie est plein, la puissance de votre Réseau de Défense est augmentée de façon permanente."
+    "text": "Lorsque vous recevez de l'énergie supplémentaire et que votre Réseau d'Énergie est plein, la Puissance Défensive est augmentée de façon permanente."
   },
   "931042d5724ef210841bdc393b30383c": {
     "text": "Surcharge du Réseau"
@@ -174,7 +174,7 @@
     "text": "Ce bâtiment a résisté aux dégâts ! \n\nLa probabilité qu'un bâtiment résiste aux dégâts est indiquée à droite de votre Jauge de Puissance."
   },
   "a0a3dccc9517e02cb941135edf6b257c": {
-    "text": "Réseau de Défense"
+    "text": "Puissance Défensive"
   },
   "1599ec0d5be1a70a7c12c7d2401ddac7": {
     "text": "Cet ennemi Psion fournit un bonus passif à tous les Veks. En le tuant, cela supprimera le bonus. \n\nSélectionnez le Psion et survoler son portrait en bas à gauche pour plus d'informations."
@@ -455,13 +455,13 @@
     "text": "Vous ne pouvez l'utiliser qu'une fois par bataille."
   },
   "8e0167e6b6e49dbba7b4b44dcf9c738d": {
-    "text": "Réinitialiser Tour Utilisé"
+    "text": "Réinitialisation Utilisée"
   },
   "410ed538eff6e2c2a1d00c404a1fa8b3": {
     "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \n\nLa compétence 'Réinitialisation Temporelle' du Pilote vous donne une Réinitialisation supplémentaire par bataille. Il vous en reste 2."
   },
   "e75be79cc30a237939127927e4f6ef66": {
-    "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \n\nIl vous en reste 1."
+    "text": "Revenir au début du tour en cours. Disponible après avoir effectué au moins une action. \n\nIl vous en reste 1."
   },
   "58793042a14774337a8ef97a9f0b851c": {
     "text": "Modifie la vitesse à laquelle les unités ennemies effectuent leur tour. \n\nRalentir si vous êtes nouveau et que suivre les actions des ennemies vous sembles difficile. Accélérer-le si vous êtes expérimenté et à l'aise avec le combat."
@@ -476,10 +476,10 @@
     "text": "Abandon de la Ligne Temporelle"
   },
   "1ecb4f10c83526214185d6be00217aa8": {
-    "text": "Conseil Tutoriel"
+    "text": "Conseils"
   },
   "5ab415512413cd614cfa107376a28cda": {
-    "text": "Afficher les infobulles pertinentes du Tutoriel pendant le jeu. \n\nFortement recommandé pour les nouveaux joueurs."
+    "text": "Afficher des infobulles pendant le jeu. \n\nFortement recommandé pour les nouveaux joueurs."
   },
   "a91d719ef6749935489273ce124a2078": {
     "text": "Échelle Rendu Max"
@@ -510,17 +510,16 @@
     "text": "Change certaines couleurs et ajoute des icônes supplémentaires pour aider les joueurs daltoniens.\n\nFaites-nous savoir si vous souhaitez améliorer quelque chose en particulier."
   },
   "b815399b78eb8ad112c9cc2b124b0a39": {
-    "text": "Polices Large",
-    "review": true
+    "text": "Polices Larges"
   },
   "1b8f5b9ea9f46d4922ebea93e2b5d768": {
     "text": "Augmente la taille des infobulles, des boîtes de dialogue et d'autres textes critiques."
   },
   "10dc669edffd8954b46c6f05674d404c": {
-    "text": "Polices Large Indisponible"
+    "text": "Polices Larges Indisponibles"
   },
   "a3ccfd0681598a863fb206fd129922c0": {
-    "text": "Votre résolution de fenêtre actuelle est trop petite pour supporter des polices plus grandes."
+    "text": "Votre résolution de fenêtre actuelle est trop petite pour supporter des polices plus larges."
   },
   "c97fe6459d5b99e1e80b224b88eb1308": {
     "text": "Confirmation de Fin de Tour"
@@ -532,10 +531,10 @@
     "text": "Mise à l'Échelle"
   },
   "18f137b6ff3c0457a49dc42d99a31a30": {
-    "text": "Etire les textures et l'interface utilisateur lors de l'ajustement à des résolutions plus grandes. \n\nUtile pour les moniteurs haute résolution (1440p ou plus) si l'interface utilisateur est trop petite. Peut en revanche rendre les textures et le texte légèrement flous."
+    "text": "Étire les textures et l'interface utilisateur lors de l'ajustement à des résolutions plus grandes. \n\nUtile pour les moniteurs haute résolution (1440p ou plus) si l'interface utilisateur est trop petite. Peut en revanche rendre les textures et le texte légèrement flous."
   },
   "e00a3f77b7f8f6c4241d7170b7b54204": {
-    "text": "Limite d'Image"
+    "text": "Limite FPS"
   },
   "f2a4fd376fd0558f952efebbd19bff2e": {
     "text": "Limiter le FPS à 60.\n\nRecommandé pour la plupart des systèmes."
@@ -544,13 +543,13 @@
     "text": "Désactiver Tremblement Écran"
   },
   "d85ca6373e8ab30c64ad7c6cf113cb39": {
-    "text": "Empêcher le tableau / l'interface utilisateur de trembler.\n\nCeci est courant pendant le combat quand quelque chose inflige des dégâts."
+    "text": "Empêcher le tableau / l'interface utilisateur de trembler.\n\nCela arrive lorsque des dégâts sont infligés pendant un combat."
   },
   "a69190c07853570b6f20653e21e9d291": {
-    "text": "Afficher Grille Coordonnée"
+    "text": "Afficher Grille de Coordonnées"
   },
   "46e9939579d71828c0be177ebfa097c2": {
-    "text": "Ajouter des coordonnées au tableau.\n\nBon pour le streaming, ou quand vous partager le jeu sous d'autres formes."
+    "text": "Ajouter des coordonnées au tableau.\n\nBon pour le streaming, ou quand vous partagez le jeu sous d'autres formes."
   },
   "3f596df35ed674b02a12395160637c2e": {
     "text": "Mise à l'Échelle Indisponible"
@@ -571,16 +570,16 @@
     "text": "Victoire Finale"
   },
   "f0208e95aacb83ae7f0b582be1d8bd04": {
-    "text": "La bombe va exploser dans $1 tours"
+    "text": "La bombe explosera dans $1 tours"
   },
   "228bd85e6d4ac6ec7dbb735d34af3c9c": {
-    "text": "La bombe va exploser dans 1 tour"
+    "text": "La bombe explosera dans 1 tour"
   },
   "e5d10477760b163e7259b83d4319fdf1": {
     "text": "Objectif Réputation"
   },
   "0f86a7a62e0290290b14fc25eb96088e": {
-    "text": "Récompense Réputation Corporative, utilisé pour acheter de l'équipement."
+    "text": "Récompenses de Réputation Corporative, à utiliser pour acheter de l'équipement."
   },
   "409602372e7828f68985967893d7acd6": {
     "text": "Pod Temporel"
@@ -589,13 +588,13 @@
     "text": "Le contenu d'un Pod Temporel pourrait être utile pour les combats à venir."
   },
   "fc10bb73ac355809216337afe80a6025": {
-    "text": "Objectif Puissance"
+    "text": "Objectif de Puissance"
   },
   "46d8e5a217c800965f72380f97a79788": {
     "text": "Rétablit l'alimentation du Réseau Électrique"
   },
   "116f6f341d3c4c0e9fdb9812f68fd257": {
-    "text": "Objectif Noyau Réacteur"
+    "text": "Objectif de Noyau Réacteur"
   },
   "72f54b33842023f43b6281f05b573879": {
     "text": "Récompense un Noyau Réacteur, utilisé pour Améliorer les Mechs."
@@ -604,7 +603,7 @@
     "text": "Personnes Sauvées"
   },
   "a2df8ef7e3c59dd9c2c7f852589c4b07": {
-    "text": "Le nombre de personnes que vous avez sauvées dans cette ligne du temps \n\nLes difficultés plus élevées contiennent plus de personnes par bâtiment dans les batailles."
+    "text": "Le nombre de personnes que vous avez sauvées dans cette ligne temporelle \n\nDans les difficultés plus élevées, les bâtiments contiennent plus de monde."
   },
   "da0ddf0e974d2a995c144c105615fd8e": {
     "text": "Réacteur Mech"
@@ -643,13 +642,13 @@
     "text": "Les Cyborgs nécessitent 1 de Puissance Réacteur supplémentaire pour utiliser n'importe quelle arme non-Cyborg ou passif."
   },
   "29567db37756671ae54d5de9e9207c7e": {
-    "text": "Cliquer pour renommer le Pilote."
+    "text": "Cliquez pour renommer ce Pilote."
   },
   "70326ea284f0c634899cb2c15a82d075": {
     "text": "Renommer le Pilote"
   },
   "bbcdc4fab1fa97e34a92724064560671": {
-    "text": "Cliquer pour renommer ce Mech."
+    "text": "Cliquez pour renommer ce Mech."
   },
   "392324aecc0796bf9c94400dce6f2e01": {
     "text": "Renommer le Mech"
@@ -670,13 +669,13 @@
     "text": "Pilote IA Basique"
   },
   "511e9ab5d7600f006572aa98246d6753": {
-    "text": "Les Pilotes IA Basique fonctionnent déjà à leur maximum d'efficacité et n'acquièrent pas d'expérience au combat. \n\nTrouver des Pilotes humains supérieurs, ou des Pilotes IA Avancés, pour remplacer l'IA de base."
+    "text": "Les Pilotes ayant une IA Basique fonctionnent déjà à leur maximum d'efficacité et n'acquièrent pas d'expérience au combat. \n\nTrouvez des Pilotes humains, ou des Pilotes IA Avancés, pour remplacer l'IA de base."
   },
   "43aa5426efe811a1fdc8525da78fe233": {
-    "text": "Le pourcentage de chance qu'un bâtiment résiste aux dégâts. \n\nGain de Puissance lorsque votre Réseau Électrique est plein pour améliorer sa Défense."
+    "text": "Pourcentage de chance qu'un bâtiment résiste aux dégâts. \n\nCe pourcentage augmente lorsque vous gagnez de l'Énergie et que votre Réseau d'Énergie est plein."
   },
   "091818283f09c965c79714064c1021c0": {
-    "text": "Vous PERDEZ si cela atteint zéro. \n\nRéduit à chaque fois qu'un Bâtiment Alimenté subit des dégâts en combat."
+    "text": "Vous PERDEZ si ce niveau est à zéro. \n\nEst réduit à chaque fois qu'un Bâtiment Alimenté est endommagé."
   },
   "92e50f1862bb0cb44bcc3356c6a4f453": {
     "text": "Noyau Réacteur"
@@ -688,19 +687,19 @@
     "text": "Puissance Réseau"
   },
   "317fabcd8075160bb53ae14fd26fd687": {
-    "text": "Réparer les dégâts de votre Réseau Électrique. \n\nSi votre Réseau Électrique est plein, votre Puissance Défensive sera amélioré de façon permanente."
+    "text": "Réparer les dégâts de votre Réseau d'Énergie. \n\nSi votre Réseau d'Énergie est plein, votre Puissance Défensive sera amélioré de façon permanente."
   },
   "bd1ccae7fea0856388a7cc4afd2733ce": {
     "text": "Surcharge Réseau"
   },
   "b726ac65031efb497cf8fd47ec520f11": {
-    "text": "Votre Réseau Électrique est plein. La puissance supplémentaire mettra à jour de manière permanente votre Puissance Défensive.\n\nLe bonus diminuera au fur et à mesure que votre Puissance Défensive augmentera, jusqu'à un maximum de +25."
+    "text": "Votre Réseau d'Énergie est plein. La puissance supplémentaire mettra à jour de manière permanente votre Puissance Défensive.\n\nLe bonus diminuera au fur et à mesure que votre Puissance Défensive augmentera, jusqu'à un maximum de +25."
   },
   "55373e9fe31a06a62d921e9a863a0539": {
     "text": "Réseau Plein"
   },
   "393f77ed71d670753e143183f4986828": {
-    "text": "Votre Réseau Électrique et la Puissance Défensive sont à leur maximum.\n\nVous ne pouvez pas acheter de puissance supplémentaire."
+    "text": "Votre Réseau d'Énergie et votre Puissance Défensive sont à leur maximum.\n\nVous ne pouvez pas acheter de puissance supplémentaire."
   },
   "808ad0f97ae33294540eae5c1850452b": {
     "text": "Menace Vek Standard"
