@@ -684,7 +684,7 @@
     "text": "Les Noyaux Réacteur sont utilisés pour Améliorer vos Mech entre chaque missions."
   },
   "a176718fa5943c72a6a5c09b65e12bf6": {
-    "text": "Puissance Réseau"
+    "text": "Réseau d'Énergie"
   },
   "317fabcd8075160bb53ae14fd26fd687": {
     "text": "Réparer les dégâts de votre Réseau d'Énergie. \n\nSi votre Réseau d'Énergie est plein, votre Puissance Défensive sera amélioré de façon permanente."
@@ -720,10 +720,10 @@
     "text": "Certains bâtiments commencent avec un bouclier gratuit"
   },
   "0b0087d6590e96026425585a92828444": {
-    "text": "Scarabée Convoyeur"
+    "text": "Tapis Roulant"
   },
   "019800612108220ffdaa9ad88aaac463": {
-    "text": "Les Scarabée Convoyeurs vont Pousser les unités autour de la carte"
+    "text": "Les tapis roulants pousseront les unités situées sur eux"
   },
   "f662e444c858b1082516e129a3c2e57f": {
     "text": "Frappes Aériennes"
@@ -732,16 +732,16 @@
     "text": "Un bombardier ciblera périodiquement des zones de la carte"
   },
   "f0b0fcc23a5d2998dc2eddf3486d9d6a": {
-    "text": "Raz de Marée"
+    "text": "Tsunami"
   },
   "9a2fedc2c86524c55ebaab91a14d438d": {
-    "text": "La carte sera progressivement inondée d'Eau"
+    "text": "La carte sera progressivement inondée"
   },
   "9b31e080d6601480ba04166103188cb6": {
     "text": "Séisme Cataclysmique"
   },
   "8a59848be42a8d8c481212200e93d203": {
-    "text": "La carte va progressivement se séparer, créant un gouffre massif"
+    "text": "La carte va progressivement se séparer, créant un gouffre gigantesque"
   },
   "8bb30d7ba228b0bc3cb77f2e2828269d": {
     "text": "Activité Sismique"
@@ -753,16 +753,16 @@
     "text": "Tempête Foudroyante"
   },
   "4f91ab5e6ace84262b21eb3593d21293": {
-    "text": "La foudre dangereuse menace la carte, tuant tout ce qu'elle frappe"
+    "text": "La foudre s'abattra sur la carte, tuant tout sur son passage"
   },
   "3f6e913a16d2d8cfc70add85a552881b": {
-    "text": "Tempête Glacée"
+    "text": "Tempête de Glace"
   },
   "644a4c139ed090bda8e4de521bb68bb3": {
-    "text": "De grandes zones de la carte Gèlent régulièrement"
+    "text": "De grandes zones de la carte Gèleront régulièrement"
   },
   "9b9deb31726b572bb7786fdf9a973307": {
-    "text": "Cette Île Musée recréait l'Ancienne Terre telle qu'elle était avant que les océans se lèvent et anéantissent presque toute l'humanité."
+    "text": "Cette Île Musée recréé l'Ancienne Terre telle qu'elle était avant la montée du niveau de la mer et l'anéantissement de presque toute l'humanité."
   },
   "5ee34830ad5049295b0d7959d563a184": {
     "text": "Spécialistes de la Terraformation, R.S.T. retourne l'environnement contre les Vek et détruit presque leur Île dans le processus."
