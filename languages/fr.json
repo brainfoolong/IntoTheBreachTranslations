@@ -914,13 +914,14 @@
     "text": "Dégâts : "
   },
   "de1343bf25689e5d2bf8e61838fdfc63": {
-    "text": "Auto-Dégâts : "
+    "text": "Auto-Mutilation : ",
+    "review": true
   },
   "3a49059bf411f7a1d6c19cb1c1501256": {
-    "text": "Utilisation par bataille : "
+    "text": "Utilisation(s) par bataille : "
   },
   "a34e1dc448ef3ba0396e0ab25cc17303": {
-    "text": " Aucune classe Mech correspondante.\n1 de Puissance de pénalité s'applique."
+    "text": " Aucune classe Mech ne correspond.\n1 point de pénalité s'applique."
   },
   "aa3dc3c112ac677e6cd04c01c81542cc": {
     "text": "Arme Non-Cyborg"
@@ -929,7 +930,7 @@
     "text": "Spécial"
   },
   "7bdf5640dedefee9a0ea40d1da7f8f8f": {
-    "text": "Requiert $1 de Puissance"
+    "text": "Requiert $1 de point de Puissance"
   },
   "abfd7f3f87105561b6a700a6ee332e67": {
     "text": "Alimenté"
@@ -944,7 +945,7 @@
     "text": "Compétence Inconnue"
   },
   "909bc0b9e147e98ed87cbbeb7124fed9": {
-    "text": "Gagner de l'expérience pour débloquer cette compétence."
+    "text": "Gagnez de l'expérience pour débloquer cette compétence."
   },
   "aa79c5d1cbe3d96218a92481bcfaa39c": {
     "text": "Compétences"
@@ -956,10 +957,10 @@
     "text": "Histoire"
   },
   "0edaf80806620c1d939c7afa5b683a57": {
-    "text": "Précédente Ligne Temporelle : $1"
+    "text": "Lignes Temporelles Précédentes : $1"
   },
   "c23f0f69aacb6872817d957490c74aa2": {
-    "text": "Batailles Finale : $1"
+    "text": "Batailles Finales : $1"
   },
   "ed30a895479785bc962887ba9cf32805": {
     "text": "Bonus Santé"
@@ -980,13 +981,13 @@
     "text": "Le mouvement du Mech piloté est augmenté de 1."
   },
   "ef2b06b8027bd119e84033ebd8d94717": {
-    "text": "Bonus Puissance Défensive"
+    "text": "Bonus de Puissance Défensive"
   },
   "7b4f94e993131f08e5700338e36135da": {
-    "text": "+3 Puissance DEF"
+    "text": "+3 points de Puissance DEF"
   },
   "a71e3ea0d64d85b6367f1f6fbf13c948": {
-    "text": "Puissance Défensive augmentée de 3. Cela affecte les chances de résister aux dégâts des bâtiments en combat."
+    "text": "La Puissance Défensive augmentée de 3. Les bâtiments auront plus de chances de résister aux dégâts."
   },
   "5789b6d9c0ab930bed2836edddfa2218": {
     "text": "Bonus Réacteur"
