@@ -996,10 +996,10 @@
     "text": "+1 Réacteur Mech"
   },
   "5a2d1a381c1f2db6a42938295efd56cc": {
-    "text": "Le réacteur du Mech piloté a augmenté de 1."
+    "text": "Le réacteur du Mech piloté augmente de 1."
   },
   "76db4f76f41f42ab4fa3684454775236": {
-    "text": "Les Mechs peuvent piloter eux-mêmes, mais il est préférable d'avoir un Pilote spécialisé."
+    "text": "Même si les Mechs peuvent être autonomes, il est préférable d'avoir un Pilote spécialisé."
   },
   "a7d389046e8064df446cf84b111c51e9": {
     "text": "Choisir Unité"
@@ -1020,7 +1020,7 @@
     "text": "SIMULATION COMMENCÉE"
   },
   "bc6822a84a3dc9806f12957d2afc5d1a": {
-    "text": "FIN DE PARTIE"
+    "text": "GAME OVER"
   },
   "257ff576fcc08561deffcab89e0cd61f": {
     "text": "TOUR JOUEUR"
@@ -1035,7 +1035,7 @@
     "text": "MISSION ACCOMPLIE"
   },
   "fa9a9593890b64c061edd7af66043394": {
-    "text": "MECHS DÉSACTIVÉS"
+    "text": "MECHS HS"
   },
   "a7b4cc0ba2c97f5b42430d58e46f9962": {
     "text": "$1 Tours Restants"
@@ -1053,13 +1053,14 @@
     "text": "INSTALLER"
   },
   "9c73f87fb2720ac83e75c1c284e2fb86": {
-    "text": "MAXIMISÉ"
+    "text": "MAX",
+    "review": true
   },
   "b5305ea3831b317c2eaf8da3ebb37de2": {
     "text": "Classe Mech : $1"
   },
   "a7f60211fe66f1c6f83e2d5a0f617082": {
-    "text": "Utiliser le Simulateur Virtuel pour tester le Mech"
+    "text": "Utiliser le Simulateur pour tester le Mech"
   },
   "754a5d433173b5ddc7debc2110ac575f": {
     "text": "STOCKAGE"
@@ -1089,7 +1090,7 @@
     "text": "ANNULER"
   },
   "e31f6de7f20569a62ab23e3f02aca8f1": {
-    "text": "Coûte un Puissance\n          supplémentaire par utilisation"
+    "text": "Coûte un Point\n          supplémentaire par utilisation"
   },
   "60cc3864ebd095185b45f5a4c02076a0": {
     "text": "Mauvaise Classe"
@@ -1101,7 +1102,7 @@
     "text": "NOUVEAU !"
   },
   "d04302d10bc9aa9d2a92846cc2bb3263": {
-    "text": "Régions Perdues"
+    "text": "Région Perdue"
   },
   "8f67905f8a0624bfe5f78902575f9f06": {
     "text": "Aucune récompense pour une mission échouée."
@@ -1113,13 +1114,13 @@
     "text": "Félicitations pour votre première mission réussie, Commandant ! Je suis confiant dans votre capacité à sauver la planète après une formation aussi poussée."
   },
   "a645e9535cee4d4503cfbfebdecfe415": {
-    "text": "Objectifs Bonus"
+    "text": "Objectif Bonus"
   },
   "ac7d832fa50765f2febd34cef059832f": {
-    "text": "Objectif Primaire"
+    "text": "Objectif Principal"
   },
   "809ffdf80a9c84d60902024a8c2c8573": {
-    "text": "Civiles Protégés"
+    "text": "Civils Protégés"
   },
   "1fec38d4a666e1124d571bf0d06f8b4d": {
     "text": "Région Sécurisée"
