@@ -765,13 +765,13 @@
     "text": "Cette Île Musée recréé l'Ancienne Terre telle qu'elle était avant la montée du niveau de la mer et l'anéantissement de presque toute l'humanité."
   },
   "5ee34830ad5049295b0d7959d563a184": {
-    "text": "Spécialistes de la Terraformation, R.S.T. retourne l'environnement contre les Vek et détruit presque leur Île dans le processus."
+    "text": "Spécialistes de la Terraformation, la corporation R.S.T. utilise l'environnement contre les Vek mais ont presque détruit leur Île dans le processus."
   },
   "e0d7f6d3702c6cbf244648ef8f47b120": {
-    "text": "Robot Pinnacle mène une guerre sur deux fronts, l'un contre les Veks, l'autre contre ses propres Armes Sensibles."
+    "text": "La corporation Pinnacle Robotics mène une guerre sur deux fronts, l'un contre les Veks, l'autre contre leurs propres Armes Intelligentes."
   },
   "85c85a15684a2cbc9f11442224cc71aa": {
-    "text": "La technologie Détritus peut décomposer n'importe quelle matière en ses éléments de base. Leurs Villes-Usines sont consacrées à l'enlèvement et au recyclage des déchets."
+    "text": "La technologie Détritus peut décomposer n'importe quelle matière en éléments de base. Leurs Villes-Usines sont consacrées à l'enlèvement et au recyclage des déchets."
   },
   "78d0527c4f54b1e8c6bec8a3bc73fdb6": {
     "text": "Dégât de Feu"
@@ -780,7 +780,7 @@
     "text": "Psion Régénérant"
   },
   "da210a68c0870c8acde752e246ec9f71": {
-    "text": "Psion Tentacule"
+    "text": "Psion Tentaculaire"
   },
   "595a561a3cfe5474dd616aa1e8ac11d3": {
     "text": "Actions Ennemies"
@@ -792,7 +792,7 @@
     "text": "Actions Robot PNJ"
   },
   "22cacceff26c99e53242eec8f52efc86": {
-    "text": "Ennemis Émergent"
+    "text": "Ennemis en Approche"
   },
   "0ba29c6a1afacf586b03a26162c72274": {
     "text": "Environnement"
