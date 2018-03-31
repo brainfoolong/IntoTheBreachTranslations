@@ -798,13 +798,13 @@
     "text": "Environnement"
   },
   "1be30e43ca8f562299564eb6cb6d822d": {
-    "text": "Tempête de Fumée"
+    "text": "Mer de Brouillard"
   },
   "4d2bbeb2ba92655000600d5fff15d601": {
-    "text": "Déploiement $1"
+    "text": "Déploiement de $1"
   },
   "195e646b42c48a06a2e102cca4c2acb8": {
-    "text": "Sélectionner un emplacement dans la Zone de Largage jaune"
+    "text": "Sélectionnez un emplacement dans la Zone de Largage jaune"
   },
   "0244b84763e283a911f0d48e4f53df3b": {
     "text": "Déploiement Terminé"
@@ -828,16 +828,16 @@
     "text": "Objectifs Bonus     "
   },
   "7230281bcf6b50de36f6354fdf28229d": {
-    "text": "Vous avez toujours des unités qui peuvent agir. Elles vont perdre leur tour."
+    "text": "Des unités peuvent encore agir. Elles vont perdre leur tour."
   },
   "27df34f7234936e34e35d03e0d43c591": {
     "text": "Revenir dans le temps au début de votre tour ?\n\nLes limitations de puissance signifient que vous ne pouvez le faire qu'une fois par bataille."
   },
   "87d62df299f9c30df2c9967837fc4640": {
-    "text": "Revenir dans le temps au début de votre tour ?\n\nLa 'Réinitialisation Temporelle' du Pilote signifie que vous pouvez le faire deux fois durant cette bataille."
+    "text": "Revenir au début de votre tour ?\n\nLa 'Réinitialisation Temporelle' du Pilote signifie que vous pouvez le faire deux fois durant cette bataille."
   },
   "42ccda7cde67a92b38d8c7b9a20e50a1": {
-    "text": "Revenir dans le temps au début de votre tour ?\n\nIl ne vous reste plus qu'une Réinitialisation."
+    "text": "Revenir au début de votre tour ?\n\nIl ne vous reste plus qu'une Réinitialisation."
   },
   "a943484028149ce0030ac99dbba74323": {
     "text": "ANNULER \nDÉPLACEMENT"
@@ -882,16 +882,20 @@
     "text": "Passif"
   },
   "be7938e9a87618a98a7b6b47e12aa44b": {
-    "text": "Prime"
+    "text": "Prime",
+    "review": true
   },
   "bf95767d6b787321422729e56f902e63": {
-    "text": "Mourrant"
+    "text": "Mourrant",
+    "review": true
   },
   "594ecc8913f032f1c730dbbb955590a1": {
-    "text": "Brute"
+    "text": "Brute",
+    "review": true
   },
   "c2f329a17c18a701dbe1e96e03858728": {
-    "text": "Distant"
+    "text": "A distance",
+    "review": true
   },
   "35bf1210e6727959a7a88a00462db959": {
     "text": "Science"
@@ -900,7 +904,8 @@
     "text": "Ennemi"
   },
   "88e34d2131fb810d7ca1608f21f53cff": {
-    "text": "$1 Classe Arme"
+    "text": "$1 Classe d'Arme",
+    "review": true
   },
   "0c3e4818fd60aaa04f6598df3c24b0e8": {
     "text": "Effet Passif"
