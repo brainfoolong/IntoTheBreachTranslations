@@ -394,7 +394,7 @@
     "text": "Civils"
   },
   "fbce892c4df0bde1edd65dc50c23150b": {
-    "text": "Sécuriser plus d'îles avant la Mission Finale vous permettra de sauver plus de civils et d'augmenter votre score final."
+    "text": "Sécurisez plus d'îles avant la Mission Finale vous permettra de sauver plus de civils et d'augmenter votre score final."
   },
   "10d6a178165846c71d7a0bda4acd3729": {
     "text": "Démarrer Simulation"
@@ -403,7 +403,7 @@
     "text": "Refuser"
   },
   "a435041423488ab3375eca52073ae449": {
-    "text": "Non, je sais ce que je fais (cacher TOUS les futurs conseils de tutoriel)"
+    "text": "Non, je sais ce que je fais (cacher TOUTES LES ASTUCES DE JEU)"
   },
   "0720d6bb46b792f10e3a45427f3a48ba": {
     "text": "(Cliquer pour Rejeter)"
@@ -418,13 +418,14 @@
     "text": "Réputation Corporative"
   },
   "b3f4360620275006d782f4db1f489ac8": {
-    "text": "Utiliser les points de réputation pour acheter des fournitures une fois l'Île sécurisée."
+    "text": "Utilisez les points de réputation pour acheter des fournitures une fois l'Île sécurisée."
   },
   "004f963ad95a1b04aa4daa8db393df17": {
-    "text": "Utilisé pour améliorer votre Mechs. \n\nOuvrir l'Écran Amélioration du Mech en cliquant sur n'importe quelle icône Mech à gauche."
+    "text": "A Utiliser pour améliorer votre Mechs. \n\nOuvrir l'Écran d'Améliorations du Mech en cliquant sur n'importe quelle icône Mech à gauche.",
+    "review": true
   },
   "5a49ae6e2ed8c1a8507bf63d858af0fd": {
-    "text": "Ordre Attaque"
+    "text": "Ordre d'Attaque"
   },
   "a596380bd51b69aa2155b2dbba57fa48": {
     "text": "Passer la souris ici ou maintenir ALT pour afficher dans quel ordre les ennemis attaqueront."
@@ -439,7 +440,7 @@
     "text": "Affiche l'ordre dans lequel les actions auront lieu pendant le tour ennemi. Touche de raccourci : [$1]"
   },
   "a5704ef5d17d6e34e56b6c17a028d6ed": {
-    "text": "Temps de jeu de votre partie actuel. \n\nVous pouvez le cacher dans le menu Options."
+    "text": "Temps de jeu de votre partie actuelle. \n\nVous pouvez le cacher dans le menu Options."
   },
   "1be009cd436fcd0e73748956ec0d30f9": {
     "text": "Temps de Jeu"
@@ -457,7 +458,7 @@
     "text": "Réinitialiser Tour Utilisé"
   },
   "410ed538eff6e2c2a1d00c404a1fa8b3": {
-    "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \n\nLa 'Réinitialisation Temporelle' du Pilote vous donne une Réinitialisation supplémentaire par bataille. Il vous en reste 2."
+    "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \n\nLa compétence 'Réinitialisation Temporelle' du Pilote vous donne une Réinitialisation supplémentaire par bataille. Il vous en reste 2."
   },
   "e75be79cc30a237939127927e4f6ef66": {
     "text": "Revenir dans le temps au début du tour en cours. Disponible après avoir effectué au moins une action. \n\nIl vous en reste 1."
@@ -466,13 +467,13 @@
     "text": "Modifie la vitesse à laquelle les unités ennemies effectuent leur tour. \n\nRalentir si vous êtes nouveau et que suivre les actions des ennemies vous sembles difficile. Accélérer-le si vous êtes expérimenté et à l'aise avec le combat."
   },
   "636d534fd32c9bab11b7d1f7249cc728": {
-    "text": "Vitesse Combat"
+    "text": "Vitesse de Combat"
   },
   "f8a6d97c40e2bf9bde3a7820b9409b46": {
     "text": "Terminer cette tentative et renvoyer un Pilote dans le temps pour réessayer."
   },
   "3ea8824b0fa2da618a2f9273df783a24": {
-    "text": "Abandon Ligne Temporelle"
+    "text": "Abandon de la Ligne Temporelle"
   },
   "1ecb4f10c83526214185d6be00217aa8": {
     "text": "Conseil Tutoriel"
@@ -496,10 +497,11 @@
     "text": "Audio actuellement coupé"
   },
   "d3f5bd513b8312ef2dbb63c42da3f09f": {
-    "text": "UI Chrono en Jeu"
+    "text": "UI Chrono en Jeu",
+    "review": true
   },
   "397122c5eae73af50ef59a0c036dec6f": {
-    "text": "Ajouter un Chrono en Jeu à l'interface utilisateur. \n\nUtile pour obtenir le succès 'Guerre Foudroyante' ou les Speedrunners"
+    "text": "Ajoute un Chrono en Jeu à l'interface utilisateur. \n\nUtile pour obtenir le succès 'Lightning War' ou les Speedrunners"
   },
   "d5a644f40f4e1c62e5b3441094230181": {
     "text": "Mode Daltonien"
@@ -508,7 +510,8 @@
     "text": "Change certaines couleurs et ajoute des icônes supplémentaires pour aider les joueurs daltoniens.\n\nFaites-nous savoir si vous souhaitez améliorer quelque chose en particulier."
   },
   "b815399b78eb8ad112c9cc2b124b0a39": {
-    "text": "Polices Large"
+    "text": "Polices Large",
+    "review": true
   },
   "1b8f5b9ea9f46d4922ebea93e2b5d768": {
     "text": "Augmente la taille des infobulles, des boîtes de dialogue et d'autres textes critiques."
