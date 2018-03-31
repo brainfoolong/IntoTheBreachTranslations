@@ -1159,16 +1159,17 @@
     "text": "Votre Réputation Corporative non dépensée sera perdue si vous partez maintenant."
   },
   "62daa3b47773659c18c039a1978db45f": {
-    "text": "Êtes-vous sûr de vouloir assigner de façon permanente ce pilote à cette l'île?\n(Attribue la Réputation)"
+    "text": "Êtes-vous sûr de vouloir assigner de façon permanente ce pilote à cette l'île?\n(Donne de la Réputation)"
   },
   "e0ce18cca6c55c9cb80a085ab7088e53": {
-    "text": "Êtes-vous sûr de vouloir faire don de cette arme?\n(Attribue la Réputation)"
+    "text": "Êtes-vous sûr de vouloir faire don de cette arme?\n(Donne de la Réputation)"
   },
   "0b04e61c3ef03b1f64fe6b4db05fa6b9": {
-    "text": "Île Parfaite !"
+    "text": "Île Parfaite !",
+    "review": true
   },
   "7c76e5d56a46e9e591c4c9efd2fcf470": {
-    "text": "Choisir une récompense gratuite"
+    "text": "Choisir une récompense"
   },
   "f5c1a97511feac93a525734131beebe4": {
     "text": "Protéger le Pod Temporel"
@@ -1192,13 +1193,16 @@
     "text": "Commencer Mission"
   },
   "7c6fdf410aa633e42124c504214f04d5": {
-    "text": "Eau \nConnecté"
+    "text": "Eau \nBloquante",
+    "review": true
   },
   "e2f81bb7c71981fceee2a4d1966b7910": {
-    "text": "Fumée \nBloquée"
+    "text": "Fumée \nBloquante",
+    "review": true
   },
   "17b3e7d8339512d58a6a3733b7ac3e90": {
-    "text": "Glacé \nBloqué"
+    "text": "Glacé \nBloquante",
+    "review": true
   },
   "d0e7641fa61b57d408f8849e693b1698": {
     "text": "Bonus Déplacement \nSeulement"
