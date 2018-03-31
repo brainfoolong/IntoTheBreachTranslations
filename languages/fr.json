@@ -1208,10 +1208,10 @@
     "text": "Bonus Déplacement \nSeulement"
   },
   "f07f5c5122ded39aaadaeff802b231b0": {
-    "text": "Lave \nBloquée"
+    "text": "Lave \nBloquante"
   },
   "7b020280c113c4371d99243043121898": {
-    "text": "Attention : Vek Offensif"
+    "text": "Attention : Offensive Vek"
   },
   "be55c75d32f3be960313b72dc2c79fd8": {
     "text": "Les Veks envahissent deux régions de l'île. \nLa région que vous ne sauverez pas sera perdue pour toujours."
@@ -1226,28 +1226,28 @@
     "text": "DÉFENSE"
   },
   "29b3996a28cce1263a7e318ca39f5828": {
-    "text": "Fin de Tour"
+    "text": "Fin du Tour"
   },
   "b9f5c797ebbf55adccdd8539a65a0241": {
-    "text": "Désactivé"
+    "text": "HS"
   },
   "fa0f11c1d4a8554282671bca496fa8d4": {
     "text": "Tué"
   },
   "b68cc933f6e20bea8865776ce8820a0e": {
-    "text": "$1 Siège Social"
+    "text": "Siège de $1"
   },
   "4bba34ee39700d80b6342dfeca7f6db0": {
     "text": "Menace Vek Détectée !"
   },
   "1e209f61b7861b25cc708874a7f0b5b9": {
-    "text": "Boucliers Défensif Activés !"
+    "text": "Boucliers Défensifs Activés !"
   },
   "b237e902d392d3cd6cb9d64717f022ac": {
     "text": "Menace Élevée Détectée !"
   },
   "b909c2fe0e670eab5a77fe5f527a3aeb": {
-    "text": "Le Dernier Debout"
+    "text": "The Last Stand"
   },
   "f32a733909f73245e5f12cde041129c6": {
     "text": "Région Détruite par les Veks"
@@ -1274,13 +1274,13 @@
     "text": "RÉANIMER"
   },
   "a87ac75fbbf6e20128679f0f752c6fa6": {
-    "text": "Les Fournitures Médicales d'Urgence ont permis d'économiser 1$ du bord de la mort !"
+    "text": "Les Fournitures Médicales d'Urgence ont permis de sauver 1$ de la mort !"
   },
   "a6a93d33d5a937ce60aee0a20c85e95e": {
     "text": "RÉGÉNÉRÉ"
   },
   "9be673a3c062b82d8a7651fe4d17f213": {
-    "text": "1$ a récupéré du bord de la mort ! L'effort requis pour régénérer a coûté de l'XP."
+    "text": "1$ est revenu d'entre les morts ! L'effort requis pour le ramener a coûté de l'XP."
   },
   "77aab093cbf5ef5bc33b3638987a6af7": {
     "text": "1$ est mort après avoir subi de graves dégâts dans la bataille contre les créatures."
@@ -1337,25 +1337,25 @@
     "text": "Profil"
   },
   "c73f3a2a67be053af09dbf0e3ceb5faf": {
-    "text": "Activer les astuces du didacticiel"
+    "text": "Activer les astuces de jeu"
   },
   "2b562e3fb010fa7736e3cc6e73e63fab": {
-    "text": "Vous avez actuellement une partie en cours. En commencez une nouvelle l'effacera définitivement."
+    "text": "Vous avez actuellement une partie en cours. En commencer une nouvelle effacera définitivement l'ancienne."
   },
   "a8ef5141119bfde56c34255540077f7c": {
-    "text": "Vous perdrez toute progression dans le jeu et les éléments déverrouillés. Aucun retour en arrière possible."
+    "text": "Vous perdrez votre progression dans le jeu et les éléments déverrouillés. Aucun retour en arrière possible."
   },
   "c177be8ca84f6a46f8b2e3a09f7e235f": {
-    "text": "'Into the Breach' ne semble pas avoir accès au fichier pour sauvegarder la progression. \n\nVeuillez quitter et vérifier si votre logiciel antivirus le bloque. \n\nSi le problème persiste envoyez-nous un email à contact@subsetgames.com"
+    "text": "'Into the Breach' ne semble pas avoir accès au fichier pour sauvegarder la progression. \n\nVeuillez quitter et vérifier si votre antivirus le bloque. \n\nSi le problème persiste envoyez-nous un email à contact@subsetgames.com"
   },
   "d16c3253da73f8af5381b0d39b17b262": {
-    "text": "'Into the Breach' semble incapable de sauvegarder la progression. \n\nVeuillez quitter et vérifier si votre logiciel antivirus le bloque. \n\nSi le problème persiste envoyez-nous un email à contact@subsetgames.com"
+    "text": "'Into the Breach' semble incapable de sauvegarder la progression. \n\nVeuillez quitter et vérifier si votre antivirus le bloque. \n\nSi le problème persiste envoyez-nous un email à contact@subsetgames.com"
   },
   "c6509bbe47eb542d7231ac2211bbd21f": {
-    "text": "Votre Fichier de Sauvegarde semble être corrompu. Veuillez nous contacter à contact@subsetgames.com si vous souhaitez que nous essayions de récupérer les données.\n\nExtrêmement désolé pour le problème !"
+    "text": "Votre Fichier de Sauvegarde semble être corrompu. Veuillez nous contacter à contact@subsetgames.com si vous souhaitez que nous essayions de récupérer les données.\n\nVraiment désolé pour ce problème !"
   },
   "a6646e1ac017816b1d0b4bb21f5b1988": {
-    "text": "Votre Fichier de Profil semble être corrompu. Veuillez nous contacter à contact@subsetgames.com si vous souhaiter que nous essayions de récupérer les données.\n\nExtrêmement désolé pour le problème !"
+    "text": "Votre Fichier de Profil semble être corrompu. Veuillez nous contacter à contact@subsetgames.com si vous souhaitez que nous essayions de récupérer les données.\n\nVraiment désolé pour ce problème !"
   },
   "9dedab33b2690cbf03ce183c30bfbfd6": {
     "text": "AVERTISSEMENT : Il y a une erreur d'écriture de fichier et votre progression ne peut pas être enregistrée."
@@ -1364,52 +1364,53 @@
     "text": "Confirmer Action"
   },
   "dc3fd488f03d423a04da27ce66274c1b": {
-    "text": "Attention !"
+    "text": "Attention !",
+    "review": true
   },
   "0cb8915b2d515aa7cb2cae8fd837ea75": {
-    "text": "Les données de votre profil n'ont pas pu être entièrement supprimées. Il peut être en lecture seule, ou il peut y avoir des fichiers supplémentaires dans son dossier. Vous pouvez les supprimer manuellement à partir de cet emplacement : \n\n"
+    "text": "Les données de votre profil n'ont pas pu être entièrement supprimées. Il est peut être en lecture seule, ou il peut y avoir des fichiers supplémentaires dans son dossier. Vous pouvez les supprimer manuellement ici : \n\n"
   },
   "b5fb5250c024ab8f7ce39acdcf9a2b9f": {
-    "text": "Les données de votre profil n'ont pas pu être supprimées. C'est un problème connu sous OS X. \n\nVous pouvez supprimer manuellement les données de votre profil à partir de cet emplacement : \n\n"
+    "text": "Les données de votre profil n'ont pas pu être supprimées. C'est un problème connu sous OS X. \n\nVous pouvez les supprimer manuellement ici : \n\n"
   },
   "efd4e6493c7182a44e37a2650dd07ec7": {
     "text": "Victoires :"
   },
   "7dd2a452c0ad6ab37ff6a5641210e600": {
-    "text": "Ligne Temporelle Perdue :"
+    "text": "Lignes Temporelles Perdues :"
   },
   "2750ecb52da0b69fa384aa8ca02b2436": {
-    "text": "Total de Partie :"
+    "text": "Nombre de Parties :"
   },
   "d94d3792fb13974a50de7f54cda7535b": {
-    "text": "Total Voyageur Temporel :"
+    "text": "Nombre de Voyageurs Temporels :"
   },
   "6666aad5066a57efc3e91771b5ff7731": {
-    "text": "Total Ennemis Tués :"
+    "text": "Ennemis Tués :"
   },
   "3c485b7e69b5728ed1fa4ce4e69a0cf4": {
-    "text": "Total Civils Sauvés :"
+    "text": "Civils Sauvés :"
   },
   "92c8e474a2f1037b46cf01febc4cc459": {
-    "text": "Total Îles Sécurisée :"
+    "text": "Îles Sécurisées :"
   },
   "86d4e2be0a2e4f99298d9443f3150203": {
     "text": "Pods Collectés :"
   },
   "171e33a0853c270a1609b29ce5e2e45d": {
-    "text": "Défaite"
+    "text": "Vaincue"
   },
   "70fd1f0d792e9fe533ab4663eedb6952": {
-    "text": "$1 Victoire d'Île !"
+    "text": "$1 Île(s) Sauvée(s) !"
   },
   "dce428f21dc8629e7e4eca2d56022d69": {
     "text": "Civils Sauvés :"
   },
   "0f5a96a4a2cf73909b0eeb2b0b21b0ce": {
-    "text": "Total Tués :"
+    "text": "Total d'Ennemis Tués :"
   },
   "b32c211b6ae7ca3109d07f7c25575452": {
-    "text": "Objectifs Échoué :"
+    "text": "Objectifs Échoués :"
   },
   "4dc09a00ee895ddd0895ee0ed512f660": {
     "text": "Temps de Jeu :"
@@ -1421,25 +1422,25 @@
     "text": "Batailles :"
   },
   "400681632af9be32084f7f00b7e8b679": {
-    "text": "Saut dans le Temps :"
+    "text": "Sauts Temporels :"
   },
   "003dbcba7c83e7cc963a650ac5ff6116": {
-    "text": "Total Morts :"
+    "text": "Morts :"
   },
   "633aa94ee7fcf91e0509ce974b36ffc9": {
-    "text": "Ennemi le plus Mortel"
+    "text": "L'Ennemi le plus Mortel"
   },
   "af83dc50fc66148997ede9a8292c6baf": {
     "text": "Mech Tués :"
   },
   "a121a3fff97a8d987f963471a47e0ac9": {
-    "text": "Plus Écrasé"
+    "text": "Celui que l'on Aime Écraser"
   },
   "b5c766488597df383688d738f3741997": {
-    "text": "Temps Tués :"
+    "text": "Nombre de fois Tué :"
   },
   "233f1e6744a7bfa093635fb8f78b3caf": {
-    "text": "Plus Destructeur"
+    "text": "Celui le Plus Destructeur"
   },
   "390eea560ccbe90fa261156bc6b1f1e8": {
     "text": "Puissance de Dégâts :"
