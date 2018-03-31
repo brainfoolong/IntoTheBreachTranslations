@@ -1440,10 +1440,11 @@
     "text": "Nombre de fois Tué :"
   },
   "233f1e6744a7bfa093635fb8f78b3caf": {
-    "text": "Celui le Plus Destructeur"
+    "text": "Le Plus Destructeur"
   },
   "390eea560ccbe90fa261156bc6b1f1e8": {
-    "text": "Puissance de Dégâts :"
+    "text": "Dégâts causés au réseau d’Énergie :",
+    "review": true
   },
   "c041c26be4e8a890f5272ea136ee86e5": {
     "text": "Revenir à la Liste"
@@ -1458,7 +1459,8 @@
     "text": "Fermer"
   },
   "6d72235b988de8960be997790371a038": {
-    "text": "Filtrer par Escouade Sélectionnée"
+    "text": "Filtrer pour l'Escouade en Cours",
+    "review": true
   },
   "7f943921724d63dc0ac9c6febf99fa88": {
     "text": "Facile"
@@ -1503,7 +1505,8 @@
     "text": "Escouade Personnalisée"
   },
   "cd7012812a2aadf8ce76416fc15ae43a": {
-    "text": "Compléter plus d'Îles pour déverrouiller !"
+    "text": "Compléter plus d'Îles pour déverrouiller !",
+    "review": true
   },
   "af8b9494573e37854244d70416545a18": {
     "text": "Gagner plus de Pièces !"
@@ -1518,19 +1521,21 @@
     "text": "Aléatoire"
   },
   "991ffdd02cb6724734b417973fb559d6": {
-    "text": "Jet Équilibré"
+    "text": "Jet Équilibré",
+    "review": true
   },
   "8f1838ee1b99a6cd8664de90d96eb42f": {
-    "text": "Jet Chaotique"
+    "text": "Jet Chaotique",
+    "review": true
   },
   "8ebf7ff20314b87dd612600d08463947": {
-    "text": "Voir Tout les Succès"
+    "text": "Voir Tous les Succès"
   },
   "cc14e276edfd41bc29d0503daa7d2c0c": {
     "text": "Acheter Escouade Secrète       "
   },
   "c1903fb2a08c2fb3d17ba7d000e58f69": {
-    "text": "Total Pièces Gagnées"
+    "text": "Pièces Gagnées"
   },
   "4b09982722e5d90f23cc7e22bad3b5fe": {
     "text": "Modifier Escouade"
@@ -1557,10 +1562,10 @@
     "text": "Global"
   },
   "10d1fcb3e902a514312f89792714043e": {
-    "text": "Gagner des pièces en complétant les succès ! Utiliser des pièces pour débloquer de nouvelles Escouades !"
+    "text": "Gagnez des pièces en accomplissant des succès ! Utilisez des pièces pour débloquer de nouvelles Escouades !"
   },
   "9310c71919a7d206c4570c36e665c6cf": {
-    "text": "Trouver de nouveaux Pilotes en jouant pour les débloquer ici !"
+    "text": "Trouvez de nouveaux Pilotes pendant le jeu pour les débloquer ici !"
   },
   "02bd36dd60479a5c9e9d949f08e66fc6": {
     "text": "Sélection Pilote"
@@ -1584,7 +1589,7 @@
     "text": "Débloquer plus de Mechs pour utiliser cette fonctionnalité !"
   },
   "aa98423b11df89b38ea85ea4b612e76f": {
-    "text": "Pas d'Arme"
+    "text": "Désarmé"
   },
   "0c5df03fbfe251a9a516f9e1836143f4": {
     "text": "Cliquer pour changer la Couleur du Mech"
@@ -1596,7 +1601,8 @@
     "text": "Cliquer pour Renommer le Pilote"
   },
   "2513d54bf85f631ffb48c3f66752e977": {
-    "text": "Cliquer pour changer de Mech de départ pour le Voyageur Temporel"
+    "text": "Cliquer pour changer de Mech de départ pour le Voyageur Temporel",
+    "review": true
   },
   "4642e767f9251fa40afadbc963f80b7a": {
     "text": "Déplacement"
@@ -1608,10 +1614,10 @@
     "text": "Santé"
   },
   "dfa73722f00a89f757590c4b86ae224f": {
-    "text": "Nombre de Dégâts que le Mech peut subir avant d'être désactivé."
+    "text": "Nombre de Dégâts que le Mech peut subir avant d'être hors combat."
   },
   "6e03af8badcc9656953354084b0eee08": {
-    "text": "La Classe Mech détermine quelles armes il peut utiliser sans pénalité de puissance."
+    "text": "La Classe Mech détermine quelles armes il peut utiliser sans pénalité."
   },
   "444733081a578880ba8a563d3c59d22d": {
     "text": "Volant"
@@ -7067,5 +7073,8 @@
   },
   "9a9dfc63c2c3369a5845ec7f4c161d1f": {
     "text": "Détruire les Cuves"
+  },
+  "c699604abfe199e0cca57b5a3c5fd650": {
+    "text": "Escouade Personnalisée"
   }
 }
