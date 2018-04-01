@@ -792,13 +792,13 @@
     "text": "Actions Robot PNJ"
   },
   "22cacceff26c99e53242eec8f52efc86": {
-    "text": "Ennemis en Approche"
+    "text": "Apparition des Ennemis"
   },
   "0ba29c6a1afacf586b03a26162c72274": {
     "text": "Environnement"
   },
   "1be30e43ca8f562299564eb6cb6d822d": {
-    "text": "Mer de Brouillard"
+    "text": "Brouillard Spontané"
   },
   "4d2bbeb2ba92655000600d5fff15d601": {
     "text": "Déploiement de $1"
@@ -914,7 +914,7 @@
     "text": "Dégâts : "
   },
   "de1343bf25689e5d2bf8e61838fdfc63": {
-    "text": "Auto-Mutilation : ",
+    "text": "Dégâts Auto-Infligés : ",
     "review": true
   },
   "3a49059bf411f7a1d6c19cb1c1501256": {
@@ -2719,8 +2719,7 @@
     "text": "Pylône Électrique"
   },
   "5f03a9840e6e7a1abce0628cfbf1af57": {
-    "text": "Les Pylônes d’Énergie connectent vos Mechs au Réseau d’Énergie même sous terre. Non peuplée.",
-    "review": true
+    "text": "Les Pylônes d’Énergie connectent vos Mechs au Réseau d’Énergie même sous terre. Non peuplée."
   },
   "d96b0db7b54cbeaa88e07635d19cca2c": {
     "text": "Super Volcan"
@@ -2767,7 +2766,8 @@
     "text": "Lave Gelée"
   },
   "48fc444966133b7941228939cdc9bb69": {
-    "text": "Se transforme en Tuile Lave lorsqu'elle est détruite. Inoffensive en l'état."
+    "text": "Se transforme en Tuile Lave lorsqu'elle est détruite. Inoffensive en l'état.",
+    "review": true
   },
   "163d3f36867800ed6fde1aea67afa327": {
     "text": "Tuile Gelée Endommagée"
@@ -2833,8 +2833,7 @@
     "text": "Les températures basses ont rendu l'A.C.I.D. inerte sur cette tuile."
   },
   "7ae421947aba0ffbcf348d031998fb4a": {
-    "text": "Détruit si endommagé ou piétiné par l'ennemi. A Collecter avec un Mech, ou à défendre jusqu'à la retraite des Veks.",
-    "review": true
+    "text": "Détruit si endommagé ou piétiné par l'ennemi. À Collecter avec un Mech, ou à défendre jusqu'à la retraite des Veks."
   },
   "b44a16fbb7bab48136dc5164cdf24399": {
     "text": "Pod Étrange"
@@ -3012,8 +3011,7 @@
     "text": "Explosion Désintégrante"
   },
   "3605e029f48bf1c3fcb83794d61d0e5f": {
-    "text": "Le Psion Explosif fera exploser tous les Veks en infligeant de 1 dégât aux tuiles adjacentes.",
-    "review": true
+    "text": "Le Psion Explosif fera exploser tous les Veks en infligeant de 1 dégât aux tuiles adjacentes."
   },
   "3aceefcb377d1b14f39762a5f8ced083": {
     "text": "Explose en mourant, infligeant 1 de dégât aux tuiles adjacentes."
@@ -3034,7 +3032,7 @@
     "text": "Entravé"
   },
   "c5979e20fd55b93e530ead8e5c12d7c2": {
-    "text": "Les unités Entravées par les Veks ne peuvent pas bouger, mais elles peuvent toujours attaquer."
+    "text": "Les unités Entravées par les Veks peuvent attaquer sans pouvoir bouger."
   },
   "61e6002116b89628df5c5c354f3a1343": {
     "text": "Non Alimenté"
@@ -3103,11 +3101,10 @@
     "text": "Les dégâts des Armes contre cette unité sont doublés. Les autres types de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés."
   },
   "128f56daccf1968fd92e7e74b1dd7456": {
-    "text": "Bloque l'Apparition",
-    "review": true
+    "text": "Bloque l'Apparition"
   },
   "6a0a109e0797f8f52970897cc1f1c829": {
-    "text": "La nouvelle unité ennemie n'apparaîtra pas ici, mais cette unité subira 1 de dégât."
+    "text": "L'unité placée sur cette tuile bloque l'apparition de l'ennemi et subira 1 de dégât."
   },
   "bc93fd0fa19ed26b6adf8293ada55404": {
     "text": "Brouillard"
@@ -3119,7 +3116,7 @@
     "text": "Bouclier Énergétique"
   },
   "91e4c65170cbc8ea8d4b7c631f799836": {
-    "text": "Les Boucliers bloquent les dégâts et tous les effets négatifs (Feu, Congélation, A.C.I.D, etc...). Seuls des dégâts directs pourront retirer le Bouclier."
+    "text": "Les Boucliers bloquent les dégâts et tous les effets négatifs (Feu, Congélation, A.C.I.D, etc...). Seuls des dégâts directs pourront abattre le Bouclier."
   },
   "1eae2f1c24a0da1af7024a7ddd39f04c": {
     "text": "Bouclier Zoltan"
@@ -3146,7 +3143,8 @@
     "text": "+2 de Déplacement ce tour."
   },
   "2d9ba52a4e1031947763c56341cb3baf": {
-    "text": "Éviter"
+    "text": "Agile",
+    "review": true
   },
   "50442ce67aeef5440dd5fe7ac9d9c3cb": {
     "text": "(Compétence Pilote) Cette unité obtient un Déplacement d'UNE Tuile après avoir attaqué."
@@ -3182,7 +3180,7 @@
     "text": "Cette unité n'est pas affectée par le Brouillard"
   },
   "beb7c76d7a4389992af309b1f54cf22b": {
-    "text": "Auto-Réparation"
+    "text": "Réparation Auto"
   },
   "e5b0ef5eb092fd79116fbbc212b2b7c1": {
     "text": "Si elle subit des dégâts, cette unité s'appliquera un Bouclier et se soignera."
@@ -3200,7 +3198,7 @@
     "text": "Les Unités Alpha sont plus puissantes que leurs homologues standard"
   },
   "e43a10af863ca84cbb60b65a7bc3458a": {
-    "text": "Chef Ruche",
+    "text": "Chef de Ruche",
     "review": true
   },
   "8a5a7c32c74427d365a6fd6fed28e1ff": {
@@ -3345,8 +3343,7 @@
     "text": "Quel est ce bruit ?"
   },
   "443a96a1deb0fe5b88205b79866748f6": {
-    "text": "Tu as entendu quelque chose ?",
-    "review": true
+    "text": "Tu as entendu quelque chose ?"
   },
   "e89c8a597ec0b2168bc77c0f82af8d8d": {
     "text": "C'est bien eux ?"
@@ -3520,8 +3517,7 @@
     "text": "Ca ne présage rien de bon..."
   },
   "1c9e0af6cc2fc9895e3313750b2a5e85": {
-    "text": "A l'aide !",
-    "review": true
+    "text": "À l'aide !"
   },
   "d1e57515532c5fcdcb9832dcf1c42d6f": {
     "text": "Nous sommes condamnés !"
@@ -3590,8 +3586,7 @@
     "text": "Oui !"
   },
   "25e1313e3235ccec22c7b30c1058b95e": {
-    "text": "ça c'est bon !",
-    "review": true
+    "text": "Ça c'est bon !"
   },
   "359878442cf617606802105e2f439dbc": {
     "text": "Wow !"
@@ -3667,8 +3662,7 @@
     "text": "Carapace Hérissé"
   },
   "7126bff2af12fbc3550c3c43cf5c7648": {
-    "text": "Écrase contre 3 tuiles sur la rangée.",
-    "review": true
+    "text": "Écrase 3 tuiles consécutives."
   },
   "e517aaf0b7cd12952c34ff0f64a72f77": {
     "text": "Carapace Saillante"
@@ -3690,22 +3684,23 @@
     "text": "Expulsions Explosives"
   },
   "755df623b9bda06c816f5ca7b123eae3": {
-    "text": "Lance l'attaque d'artillerie sur 2 tuiles."
+    "text": "Lance une attaque d'artillerie sur 2 tuiles."
   },
   "23cf6017b29e3c6c2f9f6a330bf8ac64": {
-    "text": "Cracher Glandes"
+    "text": "Cracher Glandes",
+    "review": true
   },
   "50e41b6d2b1bc5fbf5229b266d7287f1": {
-    "text": "Lob un tir d'artillerie sur une seule tuile."
+    "text": "Tir balistique sur une seule tuile."
   },
   "fa75d7e625d5121a62ba4a1f65bc262f": {
-    "text": "Lob un tir d'artillerie puissante sur une seule tuile."
+    "text": "Tir balistique dévastateur sur une seule tuile."
   },
   "117e080647a34c3e87e502b7189b0751": {
     "text": "Vomit Acide"
   },
   "2599d09125123052896cb0ab127d5afa": {
-    "text": "Lance une masse volatile de Goo, en appliquant A.C.I.D. sur les unités voisines."
+    "text": "Lance une masse volatile de Goo, aspergeant de l'A.C.I.D. sur les unités voisines."
   },
   "a574fb1b613a3269dd37b7db6e7d53f7": {
     "text": "Vomit Corrosif"
@@ -3714,13 +3709,14 @@
     "text": "Crocs"
   },
   "eb72ba6e21dbdf5373684e4d3f4d0243": {
-    "text": "Entrave la cible, se préparant à le mordre."
+    "text": "Entrave la cible, se préparant à la mordre."
   },
   "ae70b0a644c549bac2c976304ae9481f": {
     "text": "Crocs Affûtés"
   },
   "165cd6e0fcdbe464c38e57548e7ea75e": {
-    "text": "Accélération du Thorax"
+    "text": "Accélération du Thorax",
+    "review": true
   },
   "89951b107efc7e68cc43a5c04149943e": {
     "text": "Lance une masse volatile de Goo."
@@ -3732,7 +3728,7 @@
     "text": "Tenailles"
   },
   "9e989913d0d51b1a4d2caf9805ee27a1": {
-    "text": "Charge vers l'avant pour endommager et pousser la cible."
+    "text": "Se Rue sur sa cible pour l'endommager et la pousser."
   },
   "b49654db2ce4b3d9339eacd44a9217a7": {
     "text": "Pinces Aiguisées"
@@ -3741,28 +3737,29 @@
     "text": "Défense Perforante"
   },
   "a65763561dac5f0fb5ee03b597e36d50": {
-    "text": "Crée une paroi rocheuse défensive avant d'attaquer les tuiles adjacentes."
+    "text": "Crée une paroi rocheuse défensive avant d'attaquer les tuiles adjacentes.",
+    "review": true
   },
   "ef7bf0c85ad73cbd71736818579407ad": {
-    "text": "Croissance Instable"
+    "text": "Croissances Instables"
   },
   "3f6630c4ef4546d0d83fe1cc8c12e9ea": {
-    "text": "Projette une boulle collante qui va exploser."
+    "text": "Projette une boule collante qui explosera."
   },
   "110df7c487752b7dc3a301f533000748": {
     "text": "Croissances Volatiles"
   },
   "08bb5914f8d3192301822ab589aa7cc9": {
-    "text": "Projette une boulle massive qui va exploser."
+    "text": "Projette une boule massive qui explosera."
   },
   "94cb93068793cfe2a0675c28fc51cce0": {
-    "text": "Intestin Instable"
+    "text": "Intestins Instables"
   },
   "e228216a9fdcf56be42b13225bfe544c": {
-    "text": "Explose, se tue et endommage les tuiles adjacentes. Tuez-le en premier pour l'arrêter."
+    "text": "Explose, se tue et endommage les tuiles adjacentes. Tuez-le le premier pour l'arrêter."
   },
   "c1f0f5d5203980f85df2840b69702597": {
-    "text": "Intestin Volant"
+    "text": "Intestins Explosifs"
   },
   "148ba281796b778c6701cf707d3806dc": {
     "text": "Petite Progéniture"
@@ -3780,13 +3777,14 @@
     "text": "Éclot en Jeune Araignée."
   },
   "43313210b46dbcc7562f35541b6583ab": {
-    "text": "Tous les autres Veks reçoivent +1 HP tant que le Psion est en vit."
+    "text": "Tous les autres Veks reçoivent +1 HP tant que le Psion est en vie."
   },
   "2ade1ae44c2650727ea33d337d530cd0": {
     "text": "Tous les autres Veks vont exploser à leur mort, infligeant 1 de dégâts aux tuiles adjacentes."
   },
   "8236997ec043138eb820cd9fad91925c": {
-    "text": "Ciblage Ruche"
+    "text": "Ciblage Ruche",
+    "review": true
   },
   "4cda751328dc40a631863bd7a8391129": {
     "text": "Toutes les unités du joueur subissent 1 dégât à la fin de chaque tour."
@@ -3801,16 +3799,17 @@
     "text": "Abdomen Enflammé"
   },
   "ac88a65272dcecd5d089ef274e6b6e62": {
-    "text": "Charge et enflamme chaque tuile sur votre chemin."
+    "text": "Se Rue et enflamme chaque tuile sur votre chemin."
   },
   "38b4293ba5f3fd8fd0aa97cedce50caf": {
-    "text": "Vk8 Rockets Mark III"
+    "text": "Roquettes Vk8 Série III"
   },
   "7ca7cfbb5cad8b61ca5268f95643b949": {
-    "text": "Lance des Fusées à 3 tuiles."
+    "text": "Lance des Roquettes à 3 tuiles de distance.",
+    "review": true
   },
   "41052e9a5c6d6dea090391d2796f061a": {
-    "text": "Vk8 Rockets Mark IV"
+    "text": "Roquettes Vk8 Série IV"
   },
   "bb45f959eae5a6a01f701a34dc1db18e": {
     "text": "Thorax Brûlant"
@@ -3828,7 +3827,7 @@
     "text": "Super Dard"
   },
   "b15db58183fc8ff3eb1740ecf3f9ea2f": {
-    "text": "Poignarde trois tuiles dans une rangée."
+    "text": "Poignarde trois tuiles consécutives."
   },
   "5bbbea5b4953afac17fde2b67550639c": {
     "text": "Sécrétion Massive"
@@ -3843,7 +3842,7 @@
     "text": "Projette 2-3 œufs d'Araignées."
   },
   "e67382afc7ff44c7b190ad9015fd4aa7": {
-    "text": "Tous les autres Veks gagnent +1 HP, Régénération, et explosent à leur mort."
+    "text": "Tous les autres Veks gagnent +1 HP, Régénération, et explosent en mourrant."
   },
   "10252390311d4836228079908db7680d": {
     "text": "Bouclier Ignifuge"
@@ -3852,22 +3851,22 @@
     "text": "Tous les Mechs sont immunisés contre le Feu."
   },
   "e11ed622c8eba9efd4414fae5699ef4c": {
-    "text": "Générateur Tempête"
+    "text": "Générateur de Brouillard"
   },
   "e29d2e75c9fd36aaa9afdffe162f8826": {
-    "text": "Toute la Fumée inflige des dégâts aux unités ennemies à chaque tour."
+    "text": "Toutes les Tuiles Brouillard infligent des dégâts à chaque tour aux unités ennemies s'y trouvant."
   },
   "2ed7cbff34758ebad5d99ece6e2335ea": {
     "text": "+1 Dégât"
   },
   "4e36a4b5c387484d28b3a9aa42cd44b6": {
-    "text": "Augmente les dégâts de Fumée de 1."
+    "text": "Augmente les dégâts du Brouillard de 1."
   },
   "c425f229bb41cc016d13baf2092a3325": {
-    "text": "Nano-Robot Viscéral"
+    "text": "Nano-Robots Viscéral"
   },
   "01ad2fc2495855b8d8cfb1c8c566d3e2": {
-    "text": "Les Mechs soignent 1 de dégât lorsqu'ils infligent un coup mortel."
+    "text": "Les Mechs se soignent de 1 point de dégât lorsqu'ils infligent un coup mortel."
   },
   "45e231f8a5d54b9ba6cff0d390cccd8d": {
     "text": "+1 Soin"
@@ -3888,13 +3887,13 @@
     "text": "Augmente le bonus de santé à 2."
   },
   "00fa10a6b51c04878df0238623b2e499": {
-    "text": "Champ Réparation"
+    "text": "Champ de Réparation"
   },
   "36e0b768e67493c5956b738455ac17f5": {
-    "text": "Réparer un Mech affectera tous les Mechs."
+    "text": "Réparer un Mech réparera tous les Mechs."
   },
   "c6bee13927ee445bf841c1097a161d2f": {
-    "text": "Auto-Boucliers"
+    "text": "Boucliers Auto"
   },
   "d47371fb30a84f6a742abf632c1e9b88": {
     "text": "Les bâtiments gagnent un bouclier après avoir subi des dégâts."
@@ -3903,7 +3902,7 @@
     "text": "Stabilisateurs"
   },
   "c852a9342d74d585c9d2e9ae7c72ef5a": {
-    "text": "Les Mechs ne subissent plus de dégâts en bloquant les Veks émergents."
+    "text": "Les Mechs ne subissent plus de dégâts en bloquant l'apparition de Veks."
   },
   "ba046c4e22e8a136c4dbaeb846a047fa": {
     "text": "Récepteur Psionique"
@@ -3930,7 +3929,7 @@
     "text": "Hormones Vek"
   },
   "ced5ebaece20b28557ea817652343459": {
-    "text": "Les ennemis infligent +1 points de dégâts aux autres ennemis."
+    "text": "Les ennemis infligent +1 point de dégâts aux autres ennemis."
   },
   "f00eee83e715990a2bb31715841c37fd": {
     "text": "Augmente les dégâts de 1."
@@ -3939,10 +3938,11 @@
     "text": "Force Amplifiée"
   },
   "2f9bfbc4b79be77c965f19f2e5df679a": {
-    "text": "Tous les Vek subissent +1 de dégâts provenant de Choc et bloquent les Vek émergents."
+    "text": "Tous les Vek subissent +1 de dégât provenant de Choc et ils bloquent les Vek émergents.",
+    "review": true
   },
   "51f96c06246a4f8a57fbba0f895f8b69": {
-    "text": "Générateur Munitions"
+    "text": "Générateur de Munitions"
   },
   "3426a6ab5b7f947711ceb443f39ef0cb": {
     "text": "Rajoute +1 d'utilisation aux Armes à Usage Limité."
@@ -3966,7 +3966,7 @@
     "text": "+2 de Dégâts"
   },
   "b3e19106c00885a422a7ae865e5a74ed": {
-    "text": "Se rue à n'importe quelle distance avant de Frapper la cible."
+    "text": "Se rue à n'importe quelle distance sur sa cible avant de la Frapper."
   },
   "99164732c44e33a13456762e4cff4763": {
     "text": "Augmente les dégâts de 2."
@@ -3978,7 +3978,8 @@
     "text": "Les dégâts en chaîne traverse les cibles adjacentes."
   },
   "b91053cb5ec5c9a68de2865716f91c3d": {
-    "text": "Chaîne Bâtiment"
+    "text": "Chaîne Bâtiment",
+    "review": true
   },
   "4a1433dba029859afaa4292e016cae0a": {
     "text": "Effectue une attaque en chaîne sans provoquer de dégâts aux Bâtiments."
@@ -3987,10 +3988,10 @@
     "text": "Inflige +1 point de dégâts à toutes les tuiles affectées."
   },
   "564d4b98b061696fa0b3bf061e96b30c": {
-    "text": "Rayon Brûlant"
+    "text": "Rayon Explosif"
   },
   "ac9e75aee6cf3e9b959c237d32a08afe": {
-    "text": "Tir un rayon transperçant dont les dégâts diminues avec la distance."
+    "text": "Tir un rayon transperçant dont les dégâts diminuent avec la distance."
   },
   "00066256482dd8e9e66b5007e094e65e": {
     "text": "Allié Immunisé"
@@ -4011,7 +4012,7 @@
     "text": "Bouclier Gagné"
   },
   "c17be9f105b8ea815130a82cbbc141e6": {
-    "text": "Gagne un Bouclier lorsque vous Cogner."
+    "text": "Gagne un Bouclier lorsque vous Cognez."
   },
   "fcfc39cc9765aa1bd7adb3897e02507a": {
     "text": "Lance Rocher"
@@ -4026,19 +4027,20 @@
     "text": "Frappe une tuile adjacente, provoquant des dégâts et en la poussant vers la gauche."
   },
   "43e4ccf1f5a9debc59959e9aec5c3c08": {
-    "text": "Poing Fusée"
+    "text": "Fulguro Poing"
   },
   "45735f5ffd275c11c23e09ca6472bc03": {
-    "text": "Frappe une tuile adjacente. Transformer pour être lancer en tant que projectile."
+    "text": "Frappe une tuile adjacente. Peut être amélioré pour servir de projectile."
   },
   "15e8bfff2c10ca22da244d85b2bf7d94": {
-    "text": "Fusée"
+    "text": "Roquette"
   },
   "1de2d99872dafef5f4b36adda44ad304": {
-    "text": "Lancer le poing."
+    "text": "Lance le poing."
   },
   "861f4f1fb8a92ff1d616aeae04342082": {
-    "text": "Poing Étau"
+    "text": "Poing Étau",
+    "review": true
   },
   "adb777b21eb7fad68a0acdb6f5b27439": {
     "text": "Attrape une unité et la jette derrière vous."
@@ -4074,7 +4076,8 @@
     "text": "Pointe A.C.I.D."
   },
   "818ec298f17bea1a1841fbcc73fdf18a": {
-    "text": "Ajoute A.C.I.D. à l'ennemi subissant le plus de dégâts."
+    "text": "Ajoute A.C.I.D. à l'ennemi subissant le plus de dégâts.",
+    "review": true
   },
   "9540e68c47d8391bcc0feaa1ed75995e": {
     "text": "Augmente le nombre maximum de tuiles touchée de 1."
@@ -4223,10 +4226,10 @@
     "review": true
   },
   "bbf45c976f94cfabd6cd0db9109ecac8": {
-    "text": "Fusée Lourde"
+    "text": "Roquette Dévastatrice"
   },
   "9e1e3d096d3dd27936cb765aba7f592b": {
-    "text": "Tir un projectile qui endommage fortement une cible et pousse les tuiles adjacentes."
+    "text": "Tir une roquette qui endommage fortement une cible et pousse les tuiles adjacentes."
   },
   "3b9395c833b77b8624285e1770a95645": {
     "text": "Canon Obus"
@@ -4235,7 +4238,7 @@
     "text": "Tir un projectile qui endommage et pousse la tuile ciblée ainsi que les tuiles à sa gauche et à droite."
   },
   "f0bb523feee13d20903fe9de1181599a": {
-    "text": "Bombes Astrale"
+    "text": "Bombes Astrales"
   },
   "353e1366060fece00035daa5856271f7": {
     "text": "Bondi sur n'importe quelle distance laissant tomber une bombe sur chaque tuile que vous passez."
@@ -4268,7 +4271,8 @@
     "text": "Lance un rocher sur une tuile, poussant les tuiles adjacentes."
   },
   "fc40bb0f39390963f9352a4110b253a0": {
-    "text": "Grappe Artillerie"
+    "text": "Grappe Artillerie",
+    "review": true
   },
   "b4b72b301936250688875f910c855440": {
     "text": "Protége une tuile en endommageant et en poussant les tuiles adjacentes."
@@ -4277,16 +4281,16 @@
     "text": "Augmente les dégâts infligés aux tuiles adjacentes de 1."
   },
   "b6ed76ba80f14fcc5efe31e0a667cd5e": {
-    "text": "Artillerie Fusée"
+    "text": "Lance Roquettes Multiple"
   },
   "d5d21e7ff33f646adcb6d7d3dd16fffa": {
-    "text": "Tir une artillerie qui pousse et crée Fumée derrière le tireur."
+    "text": "Tir une artillerie qui pousse et crée du Brouillard derrière le tireur."
   },
   "9f3edae94258361d244e9176de243895": {
     "text": "Artillerie Vulcan"
   },
   "fe0e2eae25c29338e125924233ffcf55": {
-    "text": "Enflamme la cible et poussez les tuiles adjacentes."
+    "text": "Enflamme la cible et pousse les tuiles adjacentes."
   },
   "7f18ed9d1457e7c6b80c44f8f265644f": {
     "text": "Retour de Flamme"
@@ -4328,10 +4332,10 @@
     "text": "Vous Gèle ainsi que la cible."
   },
   "1391c0e84758ae1b4c59b4cb4606d99a": {
-    "text": "Mortier Fumé"
+    "text": "Mortier Brouillard"
   },
   "193ebc1e2051ef32e0643f4dbbd127e4": {
-    "text": "Tir d'artillerie qui applique Fumé et poussant deux tuiles adjacentes."
+    "text": "Tir d'artillerie qui applique Brouillard et poussant deux tuiles adjacentes."
   },
   "b68c536b9281a8578f5ace2f1367d8a8": {
     "text": "Mortier Brûlant"
@@ -4340,7 +4344,7 @@
     "text": "Attaque d'artillerie qui enflamme 5 tuiles."
   },
   "7b73d9dfdf9a9c1ac13d7ee488f7bafa": {
-    "text": "Pas de dégâts auto-infligé"
+    "text": "Pas de dégât auto-infligé"
   },
   "e7a496e88e575f9bcbafc634da090f2e": {
     "text": "Cette attaque n'endommagera plus le Mech qui l'utilise."
@@ -4361,7 +4365,7 @@
     "text": "Missiles Gémeaux"
   },
   "19c1bd9b4172fae32a5181b9ead7b9c3": {
-    "text": "Lance deux missiles, infligeant de dégâts et Pousse deux cibles"
+    "text": "Lance deux missiles, Poussant et Endommageant deux cibles"
   },
   "3495bc9744bc57b07c2efa21875e9e71": {
     "text": "Impulsion Attractive"
@@ -4370,19 +4374,19 @@
     "text": "Attire la cible de 1 tuile vers vous."
   },
   "402b85f1ace653f31682af8e6ca1ba29": {
-    "text": "Forte Gravité"
+    "text": "Puits Gravitationnel"
   },
   "528765cb006555cd52caa5720bb2aae3": {
     "text": "Arme d'artillerie qui attire sa cible vers vous."
   },
   "5f2a55d561a8beed992654bc8eccae5d": {
-    "text": "Repousser"
+    "text": "Expulsion"
   },
   "5bc166cec2fe7efb433e7c970bea719b": {
-    "text": "Pousse toutes les tuiles adjacentes."
+    "text": "Expulse tout ce qui est adjacent à l'unité."
   },
   "83a3b5dfbb7a67e01e95f80120d2db45": {
-    "text": "Auto Bouclier"
+    "text": "Bouclier"
   },
   "0d3d16ffea178b171cb9d20eb7a51441": {
     "text": "Bouclier Amical"
@@ -4391,7 +4395,7 @@
     "text": "Crée un bouclier personnel lorsqu'il est utilisé."
   },
   "0c863aead7eb78ca066bb4b01fc5ee81": {
-    "text": "Applique une bouclier à un allié ou Bâtiment adjacent."
+    "text": "Applique un bouclier à un allié ou Bâtiment adjacent."
   },
   "d0888defea7cf0dea03c15fa2d396a9a": {
     "text": "Téléporteur"
@@ -4412,7 +4416,7 @@
     "text": "Projecteur A.C.I.D."
   },
   "cb264b74a613b67a835aa8b63ec34393": {
-    "text": "Tir un projectile qui applique A.C.I.D. et Pousse."
+    "text": "Tir un projectile qui pousse et lui applique de l'A.C.I.D."
   },
   "824f574b9da5d2ead5bdd0b12944f8c9": {
     "text": "Tir Confus"
@@ -4421,16 +4425,16 @@
     "text": "Tir un projectile qui retourne la direction d'attaque d'une cible."
   },
   "3b00e0abd10053fa3bf682df2e3dadb2": {
-    "text": "Fumigène"
+    "text": "Diffuseurs de Brouillard"
   },
   "1f1b5051f509976276cf255d10c8629b": {
-    "text": "Entoure de fumé votre unité pour vous défendre contre les ennemis proches."
+    "text": "Diffuse un Brouillard autour de votre unité pour vous défendre contre les ennemis proches."
   },
   "f81506f3bb9cb3dd80683420f534ce9a": {
-    "text": "N'applique plus Fumé sur soi-même ou ses alliés."
+    "text": "Ne Diffuse plus de Brouillard sur soi-même ou ses alliés."
   },
   "0230e207ca1f5afbdcc8b25e561de864": {
-    "text": "Bouclier Projecteur"
+    "text": "Projecteur de Bouclier"
   },
   "3093414f0542887aca9a64960a1bab76": {
     "text": "Protège les tuiles des dégâts."
@@ -4448,13 +4452,13 @@
     "text": "Tir un rayon qui applique le Feu sur une ligne."
   },
   "0a174a4e92eab81aeccf4bdf65d67f42": {
-    "text": "Rayon Gelé"
+    "text": "Rayon Glacial"
   },
   "1338978bbeb755725e710f6a84f70c2d": {
     "text": "Tir un rayon qui Gèle tout sur une ligne."
   },
   "1488b4373f8c54607327cabe2af2704a": {
-    "text": "Boucliers Zone"
+    "text": "Bouclier Zone"
   },
   "21353f7dbd490c0947a186947a82ccd3": {
     "text": "Applique un bouclier sur les tuiles voisines."
@@ -4496,67 +4500,67 @@
     "text": "Afflige des Dégâts et Pousse une tuile adjacente.\nSe libère de la glace."
   },
   "37992a74909d2deccc50ec04d9bf0a4e": {
-    "text": "Amplificateurs"
+    "text": "Turbo-Réacteurs"
   },
   "64586d0bd1f1160c155f54e27542958f": {
-    "text": "Saute en avant et Pousse les carreaux adjacents."
+    "text": "Saute en avant et Pousse les tuiles adjacentes."
   },
   "39fb234cc9e4b6520702418464d9545a": {
-    "text": "Bombes Fumigènes"
+    "text": "Bombes de Brouillard"
   },
   "9d21c31d2211aa02b1bfadd96c3f3404": {
-    "text": "Survole les cibles tout en laissant tomber de la Fumée."
+    "text": "Survole les cibles tout en diffusant du Brouillard."
   },
   "3ade7e6fbb853cc6c5a033a8f26b8272": {
-    "text": "Augmente le Déplacement potentielle de 1."
+    "text": "Augmente le Déplacement potentiel de 1."
   },
   "9031495d73c02bc34f1acffb9a4567e1": {
-    "text": "Convertisseur Thermique"
+    "text": "Convertisseur à Effet Peltier"
   },
   "062b0415bc24261e79e16c4fde5302e3": {
-    "text": "Gèle la tuile devant, mais Enflamme celle derrière dans le processus."
+    "text": "Gèle la tuile devant, mais Enflamme celle de derrière dans le processus."
   },
   "886a095a0420f937734a87e8e6ac5584": {
     "text": "Auto-Destruction"
   },
   "407c68a853245060ae5c293fd1a344bc": {
-    "text": "Le Mech explose, se tue ainsi que tout ce qui est adjacent à ce Mech."
+    "text": "Le Mech explose, tuant ainsi tout ce qui est adjacent au Mech."
   },
   "5b8eb12e12b7f1ca83aab2534012eb3c": {
-    "text": "Frappe Ciblée"
+    "text": "Frappe Chirurgicale"
   },
   "210f15fd8e89e40a636965f2553f62a1": {
     "text": "Appele une frappe aérienne sur une seule tuile n'importe où sur la carte."
   },
   "6667a0d247f071acccd74327a2f26f8f": {
-    "text": "Largage Fumée"
+    "text": "Largage de Brouillard"
   },
   "511dd85a0c6b1e6d4c3312d5e0d553e0": {
-    "text": "Largage Fumée sur 5 tuiles n'importe où sur la carte."
+    "text": "Créé un Brouillard sur 5 tuiles n'importe où sur la carte."
   },
   "fbf7298ee11387f55ecbca930104f340": {
     "text": "Larguer Réparation"
   },
   "d7d3c5dfe9c8d569feb2c90bc30e2d17": {
-    "text": "Soigne toutes les unités joueurs (y compris les Mechs désactivés)."
+    "text": "Soigne toutes les unités du joueur (y compris les Mechs HS)."
   },
   "0d8159beea8945e2a7141179d935b04f": {
-    "text": "Barrage de Missile"
+    "text": "Barrage de Missiles"
   },
   "9f2c1f3bf3aa5369b0120ce8e2a3ab34": {
-    "text": "Tir un barrage de missiles qui frappe tous les ennemis sur la carte."
+    "text": "Tire un barrage de missiles qui frappe tous les ennemis sur la carte."
   },
   "44daee06e2c93443ed80dfe516d3b231": {
-    "text": "Vent Tournoyant"
+    "text": "Mistral Gagnant"
   },
   "57542caad1a7bcc9c968368ff11a95a5": {
-    "text": "Pousse toutes les unités dans une seul direction."
+    "text": "Pousse toutes les unités dans une seule direction."
   },
   "f2ec47ca3a2d39548dc6cefff0ac71ad": {
     "text": "Utilisations Illimitées"
   },
   "8b070a7eb07e467cf6edd4fc699a3574": {
-    "text": "Générateur Glacé"
+    "text": "Générateur de Glace"
   },
   "17643b66c1bd18a3d5cb11c7630744da": {
     "text": "Vous Gèle ainsi que les tuiles adjacentes."
@@ -4565,7 +4569,7 @@
     "text": "Zone d'effet augmentée de 1 tuile."
   },
   "67c9033b46676a71c2d6059700fd4fbe": {
-    "text": "Canon Réservoir"
+    "text": "Canon Basique"
   },
   "914aa65eb1dfbd9289eaf25954528a6e": {
     "text": "Tir un projectile qui pousse la cible."
@@ -4577,7 +4581,7 @@
     "text": "Char Léger"
   },
   "2f3b10027bd38bbba8f8f847fb85943c": {
-    "text": "Déploye un petit char vous aidant au combat."
+    "text": "Déploie un petit char vous aidant au combat."
   },
   "fc8d371202457f5d69bf978a35f39bf8": {
     "text": "Augmente la santé max du Char à 3."
@@ -4586,13 +4590,14 @@
     "text": "Augmente les dégâts d'attaque du Char à 2."
   },
   "904925ba4db312f8970fa8b2ea59bb99": {
-    "text": "Tir Bouclier"
+    "text": "Lanceur de Bouclier",
+    "review": true
   },
   "0a0dc989d551035c2b47143f9755b999": {
     "text": "Applique un Bouclier sur une tuile."
   },
   "c45a41f000e3b110faf9a4a4c3ad49a8": {
-    "text": "Tir un projectile appliquant un Bouclier à une seule tuile."
+    "text": "Tire un projectile appliquant un Bouclier à une seule tuile."
   },
   "71da68260801a825611ee18451f3805e": {
     "text": "Char-Bouclier"
@@ -4607,43 +4612,45 @@
     "text": "Augmente la santé max du Char-Bouclier à 3."
   },
   "4ad6aca084bcddab8ad9644d87d81268": {
-    "text": "Le Char-Bouclier à la place de tirer un projectile, vous permet de protéger des cibles éloignées."
+    "text": "Le Char-Bouclier tire à la place un projectile vous permettant de protéger des cibles distantes."
   },
   "83b57542809b141584055788a17b3f85": {
     "text": "Tir A.C.I.D."
   },
   "498c9e28db4407d64dc3cc51c02e0e8b": {
-    "text": "Tir un projectile qui applique A.C.I.D. à une seule tuile."
+    "text": "Tire un projectile qui répand de l'A.C.I.D. sur une seule tuile."
   },
   "b516f99a894f451a05024026b3b60b16": {
     "text": "Char A.C.I.D."
   },
   "bb7ac2b5277f233662c4253597c4d867": {
-    "text": "Déploie un Char qui peut appliquer A.C.I.D aux cibles."
+    "text": "Déploie un Char qui peut projeter de l'A.C.I.D sur des cibles."
   },
   "d7f03b9e4fc5c1ae820333e4a3279316": {
     "text": "+Pousser"
   },
   "99d629f7b90bbb4763e2f0877f4caee1": {
-    "text": "L'attaque du char Pousse également ces cibles."
+    "text": "L'attaque du char Pousse également ses cibles."
   },
   "b0692a3481700a755b63f11401a05e26": {
-    "text": "Tir Attirant"
+    "text": "Tir Gravitationnel"
   },
   "6e2364ff2c9dccd8e880a120f25b1214": {
-    "text": "Attire sur une seul tuile."
+    "text": "Attire une seule tuile vers soi.",
+    "review": true
   },
   "a1f36a2172ae79c6fb3bb84e760b3e74": {
-    "text": "Char-Attirant"
+    "text": "Char Gravitationnel"
   },
   "0645e77caf0c801b9587fa91eba03671": {
-    "text": "Déploye un Char-Attirant qui peut déplacer les cibles avec un projectile."
+    "text": "Déploie un Char qui peut attirer vers lui des cibles avec un projectile.",
+    "review": true
   },
   "3819280b6403208376aac82eb6ea5d37": {
-    "text": "Augmente la santé max du Char-Attirant à 3."
+    "text": "Augmente la santé max du Char Gravitationnel à 3."
   },
   "74f3ae2330040ba25b122ffb57f06f00": {
-    "text": "Donne au Char-Attirant la capacité de voler."
+    "text": "Donne au Char Gravitationnel la capacité de voler."
   },
   "c238545012e4ab3e42a6f69b8d4aa2d4": {
     "text": "Déploye un Char-Bouclier qui peut donner des boucliers aux alliés."
@@ -4664,7 +4671,7 @@
     "text": "Détruire les Cuves A.C.I.D."
   },
   "0088e0a819abebbeb1455b36b5554fb8": {
-    "text": "Convoyeurs"
+    "text": "Tapis Roulants"
   },
   "d704b08e013a2fcbea549611cba764f6": {
     "text": "Scarabée Convoyeur Pousse n'importe quelle unité dans la direction indiquée au début du tour ennemi."
@@ -4713,10 +4720,10 @@
     "text": "Goo Large"
   },
   "82230eb0432baf3c6cf7ac04a3bf3fb6": {
-    "text": "Goo Moyen"
+    "text": "Goo Moyenne"
   },
   "eec601cfb9ce931a868a2428211c446f": {
-    "text": "Goo Petit"
+    "text": "Petite Goo"
   },
   "b07b51fddc660515bcb0fdd1b3abc950": {
     "text": "Détruire le Chef Frelon"
@@ -4806,7 +4813,8 @@
     "text": "Défendre le 2ième lancement du satellite"
   },
   "87a82458cb3750aa871ffff0e9287b32": {
-    "text": "Fusée Satellite"
+    "text": "Fusée",
+    "review": true
   },
   "f3f1bee9b5bbd2cfa66521dc3205e5bc": {
     "text": "Défendre les Chars"
@@ -4818,7 +4826,7 @@
     "text": "intact"
   },
   "fea59491c3a8dba1aa2a81439ff74534": {
-    "text": "Archive Char"
+    "text": "Char d'Archive Corp"
   },
   "e93d8eadf5d2ed650086f629e95e1416": {
     "text": "Archive Corp \nChar de l'Ancienne Terre"
@@ -4827,7 +4835,7 @@
     "text": "endommagé"
   },
   "06d073d3714d78ecba9bac030145530d": {
-    "text": "Tuile Haute"
+    "text": "Tsunami"
   },
   "5b7686a4bd549a54d83d367317ef1e09": {
     "text": "Les tuiles marquées se transformeront en Eau au début du tour ennemi."
@@ -4931,7 +4939,7 @@
     "text": "Il est trop endommagé pour continuer. Défendez-le."
   },
   "720bf69014f69cbf12974a4e41f2ccc1": {
-    "text": "Train Ravitaillement"
+    "text": "Train de Ravitaillement"
   },
   "0aab7d1792dea7a44864ca3c801851b0": {
     "text": "Train Endommagé"
@@ -4973,7 +4981,8 @@
     "text": "Détruire 2 montagnes \n(Actuel : "
   },
   "f78273989efe476ff4c5fc6012686403": {
-    "text": "Ruche Souillée"
+    "text": "Ruche Souillée",
+    "review": true
   },
   "36609b078daac3434eae1df8dec3b811": {
     "text": "La foudre frappera quatre cases à chaque tour, tuant toute unité sur les cases marquées."
@@ -5000,7 +5009,8 @@
     "text": "Terraformer la prairie en désert"
   },
   "675bc05d704e351471702beeda9c7d2b": {
-    "text": "Explosion de Zone"
+    "text": "Explosion de Zone",
+    "review": true
   },
   "90a95d75428b0ae88f553992b07149d2": {
     "text": "Autodestruction, endommageant les tuiles voisines."
@@ -5045,10 +5055,10 @@
     "text": "TEMPÊTE GLACÉE"
   },
   "0c620541925bacc79dc53116965b4a19": {
-    "text": "Char Congelé"
+    "text": "Char Glaçant"
   },
   "dd6c6f3fbf1c5f4be8e5b10c8e208ca3": {
-    "text": "Canon Congelé"
+    "text": "Canon Glaçant"
   },
   "63de51e87621e949587d9b06f00a0810": {
     "text": "Tir un projectile qui Gèle les cibles"
@@ -5129,200 +5139,207 @@
     "text": "Prospero [détritus] Dans son calendrier original, Prospero était un robot recycleur de Detritus. Son travail consistait à surveiller la sécurité de la région dans les sites d'élimination de détritus, mais il a été gravement endommagé dans un accident d'élimination (c'était dans les jours avant que Vikram était le PDG). Le robot \"recycleur recyclé\" a été vendu à prix réduit à Archive comme jardinier pour certaines des réserves naturelles, et il a semblé prendre à l'œuvre, traduisant ses connaissances de la chimie et la technologie de recyclage pour aider à cultiver des jardins (et quand n'était pas capable de faire ceci, il dévorerait tous les livres sur la botanique, la biologie, et même les livres spirituels liés à la croissance et à la croissance de toutes les formes de vie). Il serait probablement resté un jardinier hulking tranquille si ce n'était de l'émergence du Vek. Lorsque le Vek a éclaté sur Archive, le robot a suivi ses directives pour protéger les réserves naturelles ... et a vu le Vek comme rien de plus que des parasites de jardin à éliminer pour protéger les plantes. Lorsque les archives furent en mesure d'envoyer des renforts dans la région, ils découvrirent que Prospero gardait tranquillement son jardin, maintenant fertilisé avec des cadavres Vek."
   },
   "8a55f81685ce71ac854a45ade12a8d72": {
-    "text": "Vous avez accompli toutes les missions Archivés, un accomplissement surprenant ! Je vous en pris, vous et l'#squad acceptez cela comme des remerciements."
+    "text": "Vous avez accompli toutes les missions pour Archive Inc., un accomplissement impressionnant ! S'il vous plaît, vous et #squad acceptez cela comme des remerciements."
   },
   "0c5dd262e2d54d83ff051c84a0760fc6": {
-    "text": "Vous avez terminé chaque mission du R.S.T. malgré les chances. Vous avez gagné mon respect, #squad - et tout ce que nous pouvons offrir."
+    "text": "Vous avez terminé chaque mission pour R.S.T. malgré nos maigres chances. Vous avez gagné mon respect, #squad - et voici tout ce que nous pouvons offrir."
   },
   "b56ab466212ccde44c75b63768d3042b": {
-    "text": "Vous avez sauvé Pinnacle, accomplissant chaque objectif sans faute. Permettez-moi de fournir une aide supplémentaire."
+    "text": "Vous avez sauvé Pinnacle, accomplissant chaque objectif sans faute. Permettez-moi de vous fournir une aide supplémentaire."
   },
   "cc237255517abdf2e286de0ec50f0c3a": {
     "text": "#squad, j'ai le plaisir de vous informer que votre taux de réussite est de 100%. Le règlement intérieur Détritus dicte que vous avez gagné un bonus."
   },
   "5181be78dcb4af637c563d529e134655": {
-    "text": "Détritus a un plan bonus agressif pour l'excellence dans la performance, Commandant. Vous et votre #squad le méritent."
+    "text": "Détritus a un plan bonus agressif pour l'excellence dans la performance, Commandant. Vous et #squad le méritent."
   },
   "c3e463a79106c675bc919524936d2a70": {
-    "text": "Grâce à vos efforts, Commandant, notre ratio succès / échec s'est inversé depuis votre arrivée. Permettez à Détritus de partager les fruits de ce succès avec vous."
+    "text": "Grâce à vos efforts, Commandant, notre ratio succès/échec s'est inversé. Permettez à Détritus de partager les fruits de ce succès avec vous."
   },
   "aeddbabb69e49d44719bc736c0d5c37b": {
-    "text": "La mauvaise nouvelle est que les Veks envahissent notre île, mettant en péril les réfugiés et les artefacts historiques. La bonne nouvelle est que nous avons des artefacts militaires de l'Ancienne Terre qui peuvent aider dans la lutte !"
+    "text": "La mauvaise nouvelle est que les Veks envahissent notre île, mettant en péril les réfugiés et les artefacts historiques. La bonne nouvelle est que nous avons des artefacts militaires de l'Ancienne Terre qui peuvent vous aider dans la lutte !"
   },
   "1b463763e0a996404d5f2669cbcedfb0": {
-    "text": "Nous faisons tout ce qui est entre notre pouvoir pour protéger les réfugiés, mais nous avons besoin de votre aide contre les Veks. Nous aiderons avec certains de nos artefacts de l'Ancienne Terre si nous le pouvons."
+    "text": "Nous faisons tout ce qui est entre notre pouvoir pour protéger les réfugiés, mais nous avons besoin de votre aide contre les Veks. Nous vous aiderons avec certains de nos artefacts de l'Ancienne Terre si nous le pouvons."
   },
   "6b4486bc40d1c6ca8d14fd271a3ef853": {
-    "text": "Si vous venez du futur, vous trouverez notre île encore plus loin dans le temps que prévu. Sans le Vek, j'aurais aimé vous faire visiter les reliques de l'Ancienne Terre."
+    "text": "Si vous venez du futur, sachez que notre île est beaucoup plus ancienne qu'elle n'en a l'air. J'aurais aimé vous faire visiter les reliques de l'Ancienne Terre s'il n'y avait l'invasion Vek."
   },
   "ebc799885bb44d62d56b981c15558100": {
-    "text": "Vous avez montré que vous étiez dans l'air du temps ! Les Veks envahissent nos d'Îles Archives. Les reliques de l'Ancienne Terre se trouvant ici ont encore l'envie du combat en elles, ces dernières pourraient nous aider."
+    "text": "Vous avez montré que vous étiez dans l'air du temps ! Les Veks envahissent notre île Archive. Les reliques de l'Ancienne Terre se trouvant sont encore opérationnelles, ces dernières pourraient nous aider."
   },
   "4bcfdde156df48179c9e9fce29cca9ac": {
     "text": "Les civilisations du passé avaient une force militaire qui dépassait largement la nôtre. Heureusement que nous avons conservé certaines de leurs vieilles machines de guerre !"
   },
   "c10ce6530fd1ddc14e5a266750360ada": {
-    "text": "Mes conseillers insistent sur le fait que nous perdons le combat. Ils insistent aussi pour que je vous fasse confiance. Et puisque ces lâches insistent rarement pour que je fasse quelque chose, je vous donne une chance de faire vos preuves."
+    "text": "Mes conseillers insistent sur le fait que nous perdons le combat. Ils insistent également pour que je vous fasse confiance. Et puisque ces lâches insistent rarement pour que je fasse quelque chose, je vous donne une chance de faire vos preuves."
   },
   "333b24e7ea8eaea50665bce34bbb78eb": {
-    "text": "Ne pensez pas un instant que je suis en train de tomber dans vos histoires de 'Voyageur Temporel', mais vos Mechs - sont indéniablement impressionnants."
+    "text": "Ne pensez pas un instant que je vous crois avec avec vos histoires de 'Voyageur Temporel', mais vos Mechs - sont indéniablement impressionnants."
   },
   "f66070cfe207579e0f8991fa34db337c": {
-    "text": "Vous ne me trouverez pas aussi crédule que mes chefs de département. Quelque soit l'absurdité du 'Voyageur Temporel', c'est votre puissance de feu dont nous avons besoin."
+    "text": "Vous ne me trouverez pas aussi crédule que mes chefs de département. Quelque soit l'absurdité de votre histoire de 'Voyageur Temporel', c'est votre puissance de feu dont nous avons besoin."
   },
   "261ef6a2b83c4d9208265f3fc5b6ea9c": {
-    "text": "Nous pouvons reporter la discussion sur l'endroit où vous avez obtenu cet armement avancé jusqu'à ce que vous l'utilisiez."
+    "text": "Nous pouvons reporter la discussion sur l'endroit où vous avez obtenu cet armement avancé du moment que vous l'utilisiez pour nous défendre.",
+    "review": true
   },
   "4ec7de505602dce0ff8f2910490d6992": {
-    "text": "Le R.S.T. était partagé en vous demandant de l'aide, c'était considéré comme une faiblesse. Mais le choix est sévère : soit nous nous allions avec vous, soit nous perdons l'Île."
+    "text": "R.S.T. ne voulait pas vous demander de l'aide, cela était considéré comme une faiblesse. Mais le choix est simple : soit nous nous allions avec vous, soit nous perdons l'Île.",
+    "review": true
   },
   "b0e4ab101a3a91094f7606e40bf168bd": {
     "text": "J'espère que vous pourrez respecter les deux formes de vie sur cette île, organique et mécanique."
   },
   "8a84932456fa1d6874c4e580ef0e0e35": {
-    "text": "Les humains employés chez Pinnacle sont tout aussi importants que les machines sensibles. Nous devons arrêter les Veks pour sauver toute vie."
+    "text": "Les humains employés chez Pinnacle sont tout aussi importants que nos machines douées de conscience. Nous devons arrêter les Veks pour sauver tout type de vie."
   },
   "d68ee3cc736bf5f1a3e783eff307229a": {
     "text": "Au nom de Pinnacle, je vous souhaite la bienvenue. Le climat sur notre île n'est pas idéal pour les humains, mais les basses températures sont vitales pour que les machines prospèrent."
   },
   "19d379ca3b2a782d59a44bb2b03af1c5": {
-    "text": "J'ai entendu parler de vos triomphes contre les Veks, Commandant. Nous espérons que vous et l'#squad pourrez nous aider dans notre combat."
+    "text": "J'ai entendu parler de vos victoires contre les Veks, Commandant. Nous espérons que vous et #squad pourrez nous aider dans notre combat."
   },
   "8a7a8f3b1d4d22e65b16e9c657411d5b": {
-    "text": "Nos logements sont morcelé, Commandant, mais vous et l'#squad sont les bienvenus ici. Pour citer notre devise, «Détritus est à votre disposition»."
+    "text": "Nos logements sont spartiates, Commandant, mais vous et #squad sont les bienvenus ici. Pour citer notre devise, «Détritus est à votre disposition».",
+    "review": true
   },
   "e1ae3f632522e50480210bf2dd555e22": {
-    "text": "Notre île était autrefois l'une des centaines de sites d'élimination de Détritus. Puis les Veks sont venus. Mais avec votre arrivée, Détritus a encore de l'espoir."
+    "text": "Notre île était autrefois l'une des centaines de sites de décharge de Détritus. Puis les Veks sont venus. Avec votre arrivée, Détritus a regagné de l'espoir.",
+    "review": true
   },
   "e0c888f8fbdba4c6bcd9eae00e1b34f4": {
     "text": "Quand les Veks sont venus, Détritus a accepté autant de réfugiés que nous pouvions. Ce qui nous manque, c'est votre expertise militaire, Commandant."
   },
   "5d5639525d4207f1b2d589e8d7bbb2e0": {
-    "text": "Si *toute* mission entraîne des dommages de structure extrêmes (bâtiments +4 ?), Ces commentaires se déclencheront à la place des commentaires de mission standard"
+    "text": "Si *n'importe quelle* mission entraîne des dommages extrêmes aux structures (bâtiments +4 ?), Ces commentaires se déclencheront à la place des commentaires de mission standard",
+    "review": true
   },
   "de7fe485f4fbfd3d0372c6c5b4158417": {
-    "text": "La mer montante a détruit la majeure partie de notre monde, mais il semble que ce soit les Veks qui nous finissent. Tant de vies ont été perdues pendant cette mission - nous ne pouvons pas laisser cela se reproduire !"
+    "text": "Les mers montantes ont détruit la majeure partie de notre monde, mais il semble que ce soit les Veks qui nous finissent. Tant de vies ont été perdues pendant cette mission - nous ne pouvons pas laisser cela se reproduire !"
   },
   "933ea8c53ee5a2c40abe1e9ac7d3c723": {
-    "text": "Les dégâts structurels subis pendant cette bataille étaient coûteux. Nous avons perdu des recherches irremplaçables et des artefacts inestimables."
+    "text": "Les dégâts structurels subis pendant cette bataille étaient coûteux. Nous avons perdu des résultats de recherches irremplaçables et des artefacts inestimables."
   },
   "7491d3d213c96ea3b410a64bf4388973": {
-    "text": "Si chaque bataille contre les Veks cause autant de dégâts, je ne pense pas qu'il restera beaucoup d'Archive pour aider à la guerre."
+    "text": "Si chaque bataille contre les Veks cause autant de dégâts, je ne pense pas qu'il restera beaucoup de l'Île Archive pour aider à la guerre."
   },
   "429f97f017b19f47251d083571723674": {
     "text": "J'ai vu les rapports de pertes de votre mission. Les pertes ... étaient considérables. Mais pas insupportable."
   },
   "b7fd2fa5cf0aac6780bfc2bb3c0019bf": {
-    "text": "Mon équipe rapporte que vos attaques nous blessent plus que les Veks - mais continuez à les marteler, peu importe ce qu'il faut."
+    "text": "Mon équipe rapporte que vos attaques nous blessent plus que les Veks - mais continuez à les marteler, quel qu'en soit le prix."
   },
   "1b4197be9cf4baccad55335049d48208": {
-    "text": "J'ai renvoyé mes conseillers après qu'ils se soient opposés aux dégâts collatéraux sur cette mission. La guerre signifie que les gens meurent - c'est ça ou nous perdons la planète."
+    "text": "J'ai renvoyé mes conseillers après qu'ils se soient insurgés face aux dégâts collatéraux de cette mission. La guerre signifie que les gens meurent - c'est ça ou nous perdons la planète."
   },
   "20d16c3430a4af458ed1db791ae739e7": {
-    "text": "Beaucoup sont morts aujourd'hui - trop. Mais les fins justifient les moyens quand vous voyez la fin venir pour vous."
+    "text": "Beaucoup sont morts aujourd'hui - trop. Mais les fins justifient les moyens surtout lorsque vous voyez la fin venir pour vous."
   },
   "630014b5607da76e714a693ed6057671": {
-    "text": "Les pertes de vie durant la dernière bataille - c'est mieux que de perdre la planète. Nous devons tous faire des sacrifices."
+    "text": "Tant de pertes civiles durant la dernière bataille - c'est mieux que de perdre la planète. Nous devons tous faire des sacrifices.",
+    "review": true
   },
   "1a6880ba125fbd3bc754769605ce5da9": {
-    "text": "Mon peuple comprend que leurs sacrifices ne sont pas vains. Nous devons maintenir la pression, sinon tout le monde va mourir."
+    "text": "Mon peuple comprend que ce sacrifice n'est pas vain. Nous devons maintenir la pression, sinon tout le monde mourra."
   },
   "d30cd2e8cb4b4ed56730c8a40576f129": {
     "text": "Des centaines ont péri dans cette attaque. Chaque être unique que le monde ne verra plus jamais."
   },
   "d40295678de38475c392b81f4b89e398": {
-    "text": "Nous avons perdu beaucoup aujourd'hui, humains et machines. Nous verrons si Pinnacle peut les récupérer."
+    "text": "Nous avons perdu beaucoup aujourd'hui, humains et machines. Nous verrons si Pinnacle peut récupérer de cette attaque."
   },
   "600f4dc6ee345a65004a641c14db287a": {
-    "text": "D'autres ligne temporelle peuvent exister pour vous, mais c'est la seule que nous avons. S'il vous plaît, combattez pour nous comme nous nous battrons pour vous."
+    "text": "D'autres lignes temporelles peuvent exister pour vous, mais c'est la seule que nous ayons. S'il vous plaît, combattez pour nous comme si votre vie en dépendait."
   },
   "72e2f57d100ee1c3d1bec756f82a54da": {
-    "text": "Nous ne pouvons pas perdre autant de vies dans une seule bataille, Commandant. Détritus n'est pas une île, ce n'est pas une entreprise - c'est notre peuple."
+    "text": "Nous ne pouvons pas perdre autant de vies dans une seule bataille, Commandant. Détritus, ce n'est pas qu'une île, ce n'est pas qu'une entreprise - c'est un peuple."
   },
   "5f65592a4e591fe5deeeafb5a1d45462": {
-    "text": "Les accidents se produisent - nous à Détritus le savons que trop bien - mais il y aurait-il une autre approche qui donnera de meilleurs résultats ?"
+    "text": "Des accidents peuvent arriver - nous à Détritus, nous le savons que trop bien - mais il y aurait-il une autre approche qui donnerait de meilleurs résultats ?"
   },
   "184c7aaa6be823d9a700db15b43c25a4": {
-    "text": "Les accidents arrivent, mais cela nous rappelle que nous devons faire mieux, surtout quand des vies sont en jeu - et encore plus quand des vies sont perdues."
+    "text": "Des accidents peuvent arriver, mais cela nous rappelle que nous devons faire mieux, surtout quand des vies sont en jeu - et encore plus quand des vies sont perdues."
   },
   "5c84bf29cedd4ba772a2c8ac380f9acc": {
     "text": "J'ai vu les rapports de pertes et je contacte personnellement les familles survivantes."
   },
   "a0973fdf0cbd52d50d347ebf34956477": {
-    "text": "Je sais que vous en faites beaucoup, mais je vous demanderais de ne pas laisser la vie de notre peuple payer les frais de la défaite contre les Veks."
+    "text": "Je sais que vous en faites beaucoup, mais je vous demanderais de ne pas faire payer notre peuple à la place des Veks.",
+    "review": true
   },
   "646b1f4513e962a10c63432c417c86a4": {
-    "text": "Détritus n'est rien sans son peuple, Commandant. Je vous exhorte, ainsi que l'#squad, de donner la priorité aux citoyens."
+    "text": "Détritus n'est rien sans son peuple, Commandant. Je vous exhorte, ainsi que #squad, de donner la priorité aux citoyens."
   },
   "ec385cc156d205ab93eed740703be1cc": {
-    "text": "Les dégâts dans la région étaient ... étendus. Depuis qu'on m'a dit que mes sentiments pouvaient nous coûter la guerre, je vous en supplie - prenez notre peuple en considération."
+    "text": "Les dégâts dans la région étaient ... considérables. Je sais que mes... sentiments pourraient nous coûter la guerre mais je vous supplie de faire ce que vous pouvez pour sauver notre peuple."
   },
   "b8c11bbef64dcb436fd46a231d3a27e6": {
-    "text": "La technologie du futur protégeant la technologie du passé ! Tel une bague poétique, n'est-ce pas ? Espérons que le futur est à la hauteur de la tâche.",
+    "text": "La technologie du futur protégeant la technologie du passé telle une boucle poétique et temporelle... Espérons que le futur est à la hauteur de sa tâche.",
     "review": true
   },
   "5bc9c21e901fa8323a6febc30dc2f4ad": {
-    "text": "Une grande partie de l'Ancienne Terre et de son histoire a été perdue quand les océans ont augmenté. Nous devons protéger le peu qui reste. Si les Veks nous détruisent, ces objets peuvent être tout ce qui reste de notre civilisation."
+    "text": "Une grande partie de l'Ancienne Terre et de son histoire a été perdue lorsque les océans ont tout submergé. Nous devons protéger le peu qui reste. Si les Veks nous détruisent, ces objets seront tout ce qui reste de notre civilisation."
   },
   "934f322cbd24b0298c83dc58f25eaaa0": {
-    "text": "Les réfugiés qui vivaient dans des villes préservées du XXI ième siècle n'étaient pas ce que les fondateurs des Archives voulaient, mais nous devons abriter tout le monde du mieux que nous pouvons."
+    "text": "Les réfugiés qui vivaient dans les villes préservées du XXIème siècle n'étaient pas ce que les fondateurs de l'Île Archives, mais nous devons abriter tout le monde du mieux que nous pouvons."
   },
   "1f46393f5deab78fc6e812b7211dc793": {
     "text": "Il y a des Vestiges Technologique enterrés sous cette région, nous devons chasser les Veks avant qu'ils ne les endommagent !"
   },
   "a4cb386ce7f1155abcbbb15f9dcd70b2": {
-    "text": "Avec la majeure partie de l'Ancienne Terre sous l'eau, nous devons défendre le peu qu'il en reste. Les Archives ont protégé ces bâtiments pendant des décennies, mais nous comptons sur vous maintenant."
+    "text": "Avec la majeure partie de l'Ancienne Terre sous l'eau, nous devons défendre le peu qu'il reste. L'Île Archives a protégé ces bâtiments pendant des décennies, mais nous comptons sur vous maintenant."
   },
   "bca68760498313c1fc6b701fd362eef7": {
     "text": "Notre Île a beaucoup souffert lorsque nous avons utilisé notre technologie de Terraformation contre les Veks. Pourtant, nous devons défendre ce qu'il en reste."
   },
   "48c9f07d7dac336a455146a0877ef87c": {
-    "text": "Les civils dans ces bâtiments sont robustes, mais pas invincibles. Assurez-vous qu'ils survivent à ce combat."
+    "text": "Les civils dans ces bâtiments sont forts, mais pas invincibles. Assurez-vous à ce qu'ils survivent à ce combat."
   },
   "32827c542ff1ce446f601c90ffb8a0a6": {
-    "text": "Broyer les Veks dans la saleté dans laquelle ils se reproduisent. Si votre histoire sur l'avenir est vraie, ils doivent être arrêtés ici et maintenant."
+    "text": "Broyer les Veks dans la saleté dans laquelle ils se reproduisent. Si votre histoire sur votre voyage dans le futur est vraie, ils doivent être arrêtés ici et maintenant."
   },
   "0546061fdfb4d7769e1d8d5e2f3ef2d2": {
-    "text": "Je surveille simultanément 84 micro-incursions souterraines par les Veks. Vous devrez gérer celui-ci par vous-même."
+    "text": "Je surveille simultanément 84 micro-incursions souterraines par les Veks. Vous devrez gérer celle-ci par vous-même."
   },
   "96a2fcae009d30f70bcd6975f87c31a5": {
     "text": "Trois sous-routines sur cinq vous donnent une faible chance de succès dans cette mission. S'il vous plait faites attention."
   },
   "c83ce008351d14e394f3faed819da1e4": {
-    "text": "Avec la fonte de l'île et la vie sensible devenant folle, vous et vos Mechs êtes leur seule chance."
+    "text": "Avec la fonte de l'île et la vie artificielle devenant folle, vous et vos Mechs représentent leur seule chance de survie."
   },
   "931a9c9f96d381545581f80417916cfb": {
-    "text": "Nos bâtiments résidentiels sont pleins des deux formes de vie sensible. La survie de deux espèces dépend de vous."
+    "text": "Nos bâtiments résidentiels sont pleins des deux formes de vie biologique et artificielle. La survie de deux espèces dépend de vous."
   },
   "c41b13d449fd0672244bf6e5d47ab26d": {
-    "text": "Vous devez faire pression dessus, Commandant. Détritus fera tout son possible pour vous aider ici."
+    "text": "Vous devez faire pression, Commandant. Détritus fera tout son possible pour vous aider ici."
   },
   "92c27d1e75f31e4e7dedf538c14d7c9d": {
-    "text": "Fais comme vous pouvez, Commandant - les Veks doivent être repoussé et notre peuple protégé."
+    "text": "Faites comme vous pouvez, Commandant - les Veks doivent être repoussé et notre peuple protégé."
   },
   "2fd595355f2a2c0b2e096f0dadc4da19": {
-    "text": "Sachez que vous et l'#squad sont notre mur contre les Veks, Commandant. Nous mettons notre foi en vous"
+    "text": "Sachez que vous et #squad êtes notre dernier rempart contre les Veks, Commandant. Nous avons foi en vous"
   },
   "1ea593174ef54a135d44e345fd76f748": {
-    "text": "J'ai foi en vous et l'#squad, Commandant. Sachez que tout Détritus est avec vous."
+    "text": "J'ai foi en vous et #squad, Commandant. Sachez que tout Détritus est avec vous."
   },
   "fa3eac1fc3c721eff9d00800828761e0": {
-    "text": "Il y a beaucoup d'espace inutilisé dans les réserves naturelles de cette région. Nous allons commencer à déplacer les réfugiés ici, maintenant les Veks sont partis."
+    "text": "Il y a beaucoup d'espace inutilisé dans les réserves naturelles de cette région. Nous allons commencer à déplacer les réfugiés ici, maintenant que les Veks sont partis."
   },
   "7a3b948cffdcb1f19ce1ca38f7c23805": {
-    "text": "Les Veks n'on pas été vaincu facilement, pourtant vous les avez mis à terre avec des couleurs vives. Mes compliments aux pilotes."
+    "text": "Les Veks n'on pas été vaincu facilement, pourtant vous les avez mis à terre avec brio. Mes compliments aux pilotes."
   },
   "e5845ef4ab3fc285a8a6b1dc82759f17": {
-    "text": "Les troupes de l'Ancienne Terre auraient été fières ! Si seulement ils avaient été là pour le voir ..."
+    "text": "Les troupes de l'Ancienne Terre auraient été fières ! Si seulement elles avaient été là pour voir ça ..."
   },
   "a498831551917ec59b262eb90d78deb8": {
     "text": "Avec cette région sécurisée, nous pouvons ouvrir nos Vestiges Technologiques. Voyons quelle autre technologie de l'Ancienne Terre nous pouvons utiliser contre les Veks !"
   },
   "244b6d2307b824878b1bc52267d8b011": {
-    "text": "C'est l'esprit dont nous avons besoin si nous voulons gagner ce combat. Bon travail, à la fois vous et votre ... \"#squad\"."
+    "text": "C'est l'esprit dont nous avons besoin si nous voulons gagner ce combat. Bon travail, à la fois vous et l'escoude... \"#squad\"."
   },
   "88b7943827484b410084768fa503800e": {
-    "text": "Excellent, vous avez gagné du terrain - nous le conserverons à présent, vous et votre équipe continuez d'avancer."
+    "text": "Excellent, vous avez gagné du terrain - nous le conserverons à présent, vous et votre escouade, continuez d'avancer."
   },
   "95ff08d67a7512a15b6247e38a74c58c": {
     "text": "Nous ne pensions pas être capable de repousser les Veks - d'où que vous veniez, j'espère qu'il y en à d'autre comme vous qui sont en route."
@@ -5331,16 +5348,18 @@
     "text": "J'ai lu les rapports sur les pertes, et j'ai le plaisir d'annoncer que les Veks sont dans le percentile supérieur."
   },
   "0c75279dd4c389d5926a9c85f79616fa": {
-    "text": "La région est sécurisée. Déployer des troupes pour maintenir la zone avant que le temps ne change."
+    "text": "La région est sécurisée. Déployez des troupes pour maintenir la zone avant que les conditions météorologiques ne changent."
   },
   "a6f5b14beecf0573f14d04c834a9bc9b": {
-    "text": "Vous et l'#squad avez repoussé le Vek. Nous mettons à jour nos chances de succès en fonction de cette bataille."
+    "text": "Vous et #squad avez repoussé les Veks. Nos chances de survie ont augmenté grâce à cette bataille.",
+    "review": true
   },
   "363b0ecce03a268c5ec44f1f0e3df6ac": {
     "text": "Des victoires supplémentaires de ce type augmenteront considérablement nos chances de survie."
   },
   "f1b78cd29c50567e7bf7704105db7be3": {
-    "text": "Excellentes nouvelles : Mon sous-processus de pronostic a considérablement augmenté les chances de notre survie en fonction de votre victoire."
+    "text": "Excellentes nouvelles : Mon sous-processus de pronostic a considérablement prédit l'augmentation de nos chances de survie grâce à votre victoire.",
+    "review": true
   },
   "88b4c5501c7a5f552a11e9dc723d3e26": {
     "text": "Bien joué, #squad ! Les bonnes nouvelles sont rares ces jours-ci, mais vos efforts ici ont changé cela."
@@ -5349,37 +5368,39 @@
     "text": "Vous les avez repoussés, Commandant ! Cela nous a donné plus de temps pour renforcer les défenses de Détritus."
   },
   "fdb9dd6fa9ca9b628d42a1cc0c611a56": {
-    "text": "Je suis conscient que mes remerciements sont une bien maigre récompense, mais tout Détritus est reconnaissant pour ce que vous et l'#squad avez fait ici aujourd'hui."
+    "text": "Je suis conscient que mes remerciements sont une bien maigre récompense, mais tout Détritus est reconnaissant pour ce que vous et #squad avez fait ici aujourd'hui."
   },
   "aa3a934716162008cd7ec9e80c27dfa6": {
     "text": "Ma foi en vous n'était pas déplacée, Commandant. Vous avez la gratitude de Détritus."
   },
   "a2a1712a128d59f00db1157ce9ed83cc": {
-    "text": "Avec le succès de l'#squad sur le terrain, j'ai pu concentrer mes efforts sur les usines et par ailleurs les Veks étant sur Détritus !"
+    "text": "Avec le succès de l'escouade #squad sur le terrain, j'ai pu concentrer mes efforts sur les usines et sur les Veks partout ailleurs sur Détritus !"
   },
   "3197d018ae5d8ed3e7f27a9e503e97d9": {
     "text": "Eh bien maintenant, hmmm ... cela aurait pu mieux se passer pour tout le monde. Espérons que la prochaine bataille aura plus de succès."
   },
   "0cee410b2b9ace51f77eacb4a8396e0b": {
-    "text": "Sans votre aide, l'humanité rejoindra l'Ancienne Terre et sera une chose du passé. Mais nous ne pouvons pas laisser cette mission être la norme, nous devons faire mieux !"
+    "text": "Sans votre aide, l'humanité rejoindra l'Ancienne Terre et sera qu'une chose du passé. Mais nous ne pouvons pas laisser cette mission être la norme, nous devons faire mieux !"
   },
   "17511e0266789a81617a94ef933432b7": {
-    "text": "Je ne me soucie pas de votre meilleur - ne laissez pas l'ennemi gagner plus de terrain. Je ne devrais pas avoir besoin de vous dire ça !"
+    "text": "Et vous me dîtes que vous ferez mieux la prochaine fois ? Ne laissez pas l'ennemi gagner plus de terrain. Je ne devrais pas avoir besoin de vous dire ça !",
+    "review": true
   },
   "15e575e31b50bcffdf8772420d36cd94": {
     "text": "Nous n'avons nulle part où se retirer. Si vous pensez que nous pouvons courir, vous avez tort. C'est tout ce que nous avons."
   },
   "404f21d06c9bd3581b52c38df1cd3e8c": {
-    "text": "Votre meilleur n'est pas suffisant. Nous avons besoin de mieux."
+    "text": "Faire mieux la prochaine fois n'est pas suffisant. Nous avons besoin d'être au maximum.",
+    "review": true
   },
   "75cd50623949ac01e803af2d65ab8a90": {
     "text": "Si vous ne pouvez pas utiliser vos armes pour gagner ce combat, alors donnez-les à quelqu'un qui le peut."
   },
   "1e02e489e4de535d6d617756c910e4b7": {
-    "text": "Au moins, vous avez réussi à sauver une vie sensible dans la région, même si vous n'avez rien fait d'autre."
+    "text": "Au moins, vous avez réussi à sauver quelques vies dans la région, même si vous n'avez rien fait d'autre."
   },
   "d5dd3f8f9340e628ba68586e525a847b": {
-    "text": "Nos objectifs n'ont pas été atteints. Recalculer nos chances de mettre en place une défense réussie."
+    "text": "Nos objectifs n'ont pas été atteints. Recalculons nos chances de mettre en place une défense réussie."
   },
   "190d0cd1f2784bd14d0992c31fa86a83": {
     "text": "Je suis reconnaissant pour vos efforts, Commandant ... même si les résultats n'étaient pas ceux que nous espérions."
@@ -5388,19 +5409,20 @@
     "text": "Aujourd'hui a été une victoire pour les Veks. Je crains que si nous perdons plus de terrain, Détritus et notre peuple pourraient être perdus."
   },
   "dfe3be75f4745b4eeee410838d776f76": {
-    "text": "Pas actuellement utilisé, mais nous en aurons besoin"
+    "text": "Pas actuellement utilisé, mais nous en aurons besoin",
+    "review": true
   },
   "99b658e7703f989141a693b92e46355a": {
-    "text": "Mes condoléances pour la perte de vos pilotes ... ils se sont battus courageusement et bien. On se souviendra d'eux."
+    "text": "Mes condoléances pour la perte de vos pilotes ... ils se sont bien battus. Nous nous souviendrons d'eux."
   },
   "1bae0c42ee3fe41035c7b2b4a201ad7a": {
-    "text": "Sachez que toute l'Archive Corporative pleure la perte de vos pilotes. Nous savons que vous vous mettez en danger pour nous."
+    "text": "Sachez que la Corporation Archive pleure la perte de vos pilotes. Nous savons que vous vous mettez en danger pour nous."
   },
   "542c01129015bb83a596d42f82c9f6b5": {
-    "text": "La guerre ne sera pas déterminée par cette bataille - mais un peu plus comme ça, et ça pourrait l'être. Nous ne pouvons pas nous permettre plus de pertes."
+    "text": "Cette bataille n'est pas déterminante dans notre guerre - mais d'autres comme celle-ci, pourraient l'être. Nous ne pouvons pas nous permettre d'en perdre d'autres."
   },
   "5ffd0115b42ad52b75624067ecc60a9d": {
-    "text": "Une bataille perdue ne perd pas la guerre - mais nous ne pouvons pas continuer à perdre du terrain. Vous devez vous concentrer."
+    "text": "La bataille est perdue mais pas la guerre - cependant nous ne pouvons pas continuer à perdre du terrain. Vous devez vous concentrer."
   },
   "ca702f7640fa214d5dcb64387538e7ca": {
     "text": "Vos pilotes sont le cœur de votre machine de guerre. Sans eux, vous n'avez aucune chance."
@@ -5409,70 +5431,72 @@
     "text": "J'ai demandé que les noms de vos pilotes tombés au combat soient ajoutés à notre mur commémoratif. Leur sacrifice ne sera pas oublié."
   },
   "61da2fcb72c9418e1b33da0986369f3b": {
-    "text": "Les Mechs de l'#squad sont puissants, mais je crains que quelques uns soient délaissés pour les piloter - maintenant, encore moins qu'avant."
+    "text": "Les Mechs de #squad sont puissants, mais je crains qu'ils ne soient pas assez nombreux pour les piloter."
   },
   "90c43552958160cf2963acdfa1220abd": {
-    "text": "Certaines missions utilisent des objectifs génériques, de ce fait le PDG peut piocher dans ces listes pour affecter ces objectifs"
+    "text": "Certaines missions utilisent des objectifs génériques, de ce fait le PDG peut piocher dans ces listes pour affecter ces objectifs",
+    "review": true
   },
   "b4864f1e562b368b5ac876643d7f9b55": {
-    "text": "Notre équipement et les ressources pour réparer votre Mechs sont limités - s'il vous plaît gardez les dommages au minimum si vous le pouvez."
+    "text": "Notre équipement et les ressources pour réparer votre Mechs sont limités - s'il vous plaît essayez d'encaisser un minimum de dégâts."
   },
   "299c9445117a9dd0dc4a9445447742cc": {
     "text": "Nous pouvons à peine faire fonctionner nos villes, et encore moins réparer vos Mechs s'ils sont endommagés. Choisissez vos tirs avec soin."
   },
   "487cf87c74fc42c39a59b493d4df36ea": {
-    "text": "Ce n'est pas Pinnacle - nous n'avons pas assez d'équipes d'ingénieurs pour réparer vos Mechs s'ils subissent des dégâts importants."
+    "text": "Ce n'est pas Pinnacle ici - nous n'avons pas assez d'équipes d'ingénieurs pour réparer vos Mechs s'ils subissent des dégâts importants."
   },
   "499d62e3c3ab658da312f161de9a323d": {
-    "text": "Il y aura peu de temps entre les escarmouches et nous avons besoin de vous pleinement opérationnels. Faites preuve de prudence."
+    "text": "Il y aura peu de temps entre les escarmouches et nous avons besoin de vous et vos Mechs pleinement opérationnels. Faites preuve de prudence."
   },
   "0e843fa3a9305d82023b77e5757f0d65": {
-    "text": "Nos équipes de réparation robotisées sont hors ligne. Il sera difficile de vous assister pour la réparation de Mech avant la prochaine opération de combat. S'il vous plaît gardez cela à l'esprit."
+    "text": "Nos équipes de réparation robotisées sont hors ligne. Il sera difficile de vous assister pour la réparation de Mech avant la prochaine opération de combat. S'il vous plaît gardez ça en tête."
   },
   "c7b749a8dd393eb7282e06502c433651": {
-    "text": "Malheureusement, la majeure partie de notre division d'ingénierie est occupée. Si les Mechs de l' #squad subissent trop de dégâts, nous ne pourrons peut-être pas les réparer."
+    "text": "Malheureusement, la majeure partie de notre division d'ingénierie est occupée. Si #squad subissent trop de dégâts, nous ne pourrons peut-être pas les réparer."
   },
   "888b6a03dae57e237394f3c3e4c73d44": {
     "text": "Nous n'avons aucun personnel pour réparer votre Mechs s'il est endommagé. C'est malheureux, mais s'il vous plaît, faites ce que vous pouvez pour les garder hors de danger."
   },
   "4e5fe263ffc31e5d80967f1c1fbebbe9": {
-    "text": "Vos Mechs semblent presque intacts ! C'est un soulagement ... cela nous permettra d'affecter nos équipes de réparation pour renforcer les abris pour les réfugiés."
+    "text": "Vos Mechs semblent presque intacts ! C'est un soulagement ... cela nous permettra d'affecter nos équipes de réparation pour renforcer les abris des réfugiés."
   },
   "fd8377f8f54a48b51f1076d0bd8867e3": {
     "text": "Vos Mechs sont à peine égratignés ! Cela nous permettra d'affecter nos équipes de réparation aux urgences dans d'autres régions."
   },
   "2e52f7066cba59a9d41d9b33f89a198e": {
-    "text": "Je vous vois et l'#squad a survécu au pire et a subsister. Excellent."
+    "text": "Je vois que vous et #squad ont survécu au pire et réussi à subsister. Excellent."
   },
   "39c032fdcd301125120f403aa0b5ddfe": {
-    "text": "Les équipes de réparation rapportent à peine une égratignure sur votre Mechs - efficacement fait. Nous pouvons réaffecter les équipes de contrôle des dommages aux secours civils et à la protection de la ville."
+    "text": "Les équipes de réparation me rapportent que vos Mechs ont à peine quelques égratignures - bien négocié. Nous pouvons réaffecter les équipes de contrôle des dommages à la sécurité civile et à la protection de la ville."
   },
   "923313252c03fefe04005aa41ff744b6": {
     "text": "Vos Mechs n'ont presque pas subi de dégâts. Cela signifie que nous pouvons allouer des ressources supplémentaires et des équipes de réparation pour aider les centres de réfugiés ailleurs sur R.S.T."
   },
   "dd0b39ec8511a839abf744c0a3eb9ced": {
-    "text": "Votre capacité à vaincre les Veks avec un minimum de dégâts sur les Mechs est admirable. Si seulement tous les humains pouvaient montrer une telle préoccupation pour leurs homologues les machine."
+    "text": "Votre capacité à vaincre les Veks avec un minimum de dégâts sur les Mechs est admirable. Si seulement tous les humains pouvaient montrer une telle préoccupation pour leurs homologues artificiels."
   },
   "a3e95fc4f8904bcc32b7993b5ea45159": {
-    "text": "Succès - et seulement des dégâts mineurs sur vos Mechs, Commandant, quelques projections de Détritus pourrait les réparer."
+    "text": "Un Succès - et seulement des dégâts mineurs sur vos Mechs, Commandant, enfin... des dégâts réparables par Détritus."
   },
   "d2c3d85783e29610f16e98ec074bd469": {
-    "text": "Vos Mechs n'ont subi que des dégâts mineurs, mes ingénieurs sont certains qu'ils peuvent remettre l'#squad rapidement sur le terrain."
+    "text": "Vos Mechs n'ont subi que des dégâts mineurs, mes ingénieurs sont certains qu'ils peuvent remettre #squad rapidement sur le terrain."
   },
   "83e7c76f81bcdfd268e73de5d5d960aa": {
     "text": "On me dit que nous devrons réassignées trois équipes d'ingénieurs pour réparer vos Mechs. Les équipes d'ingénieurs en ont déjà plus qu'assez ..."
   },
   "0a43bf2df3418d0635a1be0e1a7431d8": {
-    "text": "Vos Mechs sont lourdement endommagés, plusieurs équipes d'ingénieurs ont été réassignées pour les réparer en ce moment même, même les équipes dédiées à la défense civile."
+    "text": "Vos Mechs sont lourdement endommagés, plusieurs équipes d'ingénieurs ont été réassignées pour les réparer en ce moment même, même les équipes dédiées à la sécurité civile."
   },
   "3eb2acf15c6c53ab5f27a055812a72ef": {
-    "text": "Les dégâts causés à votre Mechs sont importants - nous devrons appeler les équipes de réparation des centres villes si nous voulons rester dans le combat. Et nous devons rester dans le combat."
+    "text": "Les dégâts causés à vos Mechs sont importants - nous devrons appeler les équipes de réparation des centres villes si nous voulons rester affutés. Et nous le devons impérativement."
   },
   "4174ffccdad0b989329aea75c7bac9c0": {
-    "text": "Vos Mechs sont tellement déchiqueté qu'ils sont prêts pour la ferraille. Il faudra que nos équipes de réparation travaillent en binômes pour les remettre en état de combattre !"
+    "text": "Vos Mechs sont tellement déchiquetés qu'ils sont prêts pour la casse. Il faudra que nos équipes de réparation travaillent deux fois plus dur pour les remettre en état de combattre !"
   },
   "58c9e1ddfb9a8ca3dbc75ee5dc56d105": {
-    "text": "Nous avons dû rappeler des ingénieurs des centres de réfugiés pour réparer les dégâts causés à votre #squad. Ne laissez pas cela se reproduire."
+    "text": "Nous avons dû rappeler des ingénieurs des centres de réfugiés pour réparer les dégâts causés à votre escouade. Ne laissez pas cela se reproduire.",
+    "review": true
   },
   "3ce41ea06a8daec2ed1c120bdeec8910": {
     "text": "Ne laissez pas la coque renforcée de votre Mech conduire à la complaisance. Réparer son exosquelette est un processus lourd en matériaux avec un coût considérable."
@@ -6998,7 +7022,7 @@
     "text": "Scorpion A.C.I.D."
   },
   "01289e7f320ded9f1d451f0a2951c487": {
-    "text": "Spill A.C.I.D.",
+    "text": "Déversement d'A.C.I.D.",
     "review": true
   },
   "c4758556fcc1a65bdd159e633bd5bf95": {
@@ -7111,5 +7135,449 @@
   },
   "9cf7b33240a8a9439fae8a8d3285bde2": {
     "text": "Île Verouillée"
+  },
+  "23b22c523cd49256b4e6d7f0ce5e1004": {
+    "text": "Le Char-Bouclier tire à la place un projectile vous permettant de protéger des cibles distantes."
+  },
+  "c4b2216f1adbb3312503162684f650e3": {
+    "text": "Brouillard à l'Arrière"
+  },
+  "f4d11cd0438f91c32c02106e07c7620a": {
+    "text": "La Tuile derrière vous gagne Brouillard"
+  },
+  "90458b796ce18da090c5c24f075a4f73": {
+    "text": "Tir d'Aiguilles"
+  },
+  "df09dbe9a86b4ea88607489ed0b43c65": {
+    "text": "Lance des Aiguilles sur l'ennemi et poussant le plus éloigné"
+  },
+  "9bd7e824dd9ea6849849daf8f9f6c707": {
+    "text": "Dommages et Distances"
+  },
+  "5daf1f45aa0e7f70feee008ec09a90dc": {
+    "text": "Augmente la portée de tir et les dommages de 1",
+    "review": true
+  },
+  "c6ed12daafdfebf68131863ffd8f5537": {
+    "text": "Goo Explosive"
+  },
+  "d1fa86d2caa8d7f2b4b5f6d1194e49d1": {
+    "text": "Effectue une attaque d'Artillerie qui endommage une Tuile et qui pousse les tuiles adjacentes."
+  },
+  "8737a58d6b197cbc93f4c4c4e48024d7": {
+    "text": "Augmente l'aire de dommage de 1."
+  },
+  "57d6cca950529242c3284022b856c95b": {
+    "text": "Tire un projectile qui inflige de l'A.C.I.D."
+  },
+  "3ce90cc47eb506dd0d111230a5696a33": {
+    "text": "Transforme la Tuile en une mare d'A.C.I.D."
+  },
+  "d7c25e03c3e263266eccc5dce5a57c90": {
+    "text": "Désintégrateur"
+  },
+  "a8279c8ae3a8ae8904e57190bc45fcd8": {
+    "text": "Dissout toutes les Tuiles ciblées avec de l'A.C.I.D."
+  },
+  "f41f37e541d94e399888f95e5f27036c": {
+    "text": "Artillerie de l'Ancienne Terre"
+  },
+  "df5186a5873ca5d52ee24bc63ee60aaf": {
+    "text": "Moins puissante que l'Artillerie Moderne mais encore utile."
+  },
+  "c92022c3a49c9c9f8ddf84dca9c2dd91": {
+    "text": "Lancement de Satellite"
+  },
+  "5f1b81fc9bf7b6f99817fb4ccddac10c": {
+    "text": "Lance un satellite dans l'espace, détruisant tout ce qui adjacent à l'aire de lancement."
+  },
+  "6e40a9d1ff3d5fd6993deb9fc03abe79": {
+    "text": "Transforme les Tuiles Gouffres alentour en Tuiles Sol classique."
+  },
+  "33ce64dd1e4acf873d181c9f64464938": {
+    "text": "Détruit toute vie se trouvant devant le Terraformeur"
+  },
+  "86b2a5d39fa5f4eed178edbab1f0c7c8": {
+    "text": "Canon 8R Série I"
+  },
+  "6122a48b1e9f20766e68e66b191fc42d": {
+    "text": "Canon 8R Série II"
+  },
+  "175c0f18078b49db39db08a409969bdc": {
+    "text": "Projectile enflammant la cible."
+  },
+  "fe2d0c28d7da6952bc6bde70c29ec6f1": {
+    "text": "Projectile Puissant qui enflamme la cible."
+  },
+  "de5767aeec47f46caf2770c245e7ef10": {
+    "text": "Rayon BKR Série I"
+  },
+  "eb86802cea3077262ab9944209019056": {
+    "text": "Rayon perçant dont les dommages diminuent avec la distance."
+  },
+  "5b5506855f51c3dc7d357ccbc3cde16f": {
+    "text": "Rayon BKR Série II"
+  },
+  "53510434fbfd29028100d26addb27518": {
+    "text": "Vk8 Rockets Série I"
+  },
+  "bf98e0325d046fac68ff44c63532e5ff": {
+    "text": "Vk8 Rockets Série II"
+  },
+  "e64362726e2ac5464fdc63cf5f3933a1": {
+    "text": "Poseur de Mines"
+  },
+  "d388f14027b055aa8e26076289922be1": {
+    "text": "Pose un mine Glaçante"
+  },
+  "fae86ea7f6501a10fa287b5e391dd916": {
+    "text": "Pepsi Co",
+    "review": true
+  },
+  "86ac311a92f73106e3263869862c22dd": {
+    "text": "Archive, Inc.",
+    "review": true
+  },
+  "bd30a4c06f0ffbf28d3e8cd507c224ba": {
+    "text": "Corporation R.S.T.",
+    "review": true
+  },
+  "82dde728b276e862977dfdcca39a9f77": {
+    "text": "Pinnacle Robotics",
+    "review": true
+  },
+  "4c1602ee972ff038ff7315df5194af92": {
+    "text": "Detritus Disposal",
+    "review": true
+  },
+  "b39d6aa2db64247241f35ef8d3977c12": {
+    "text": "Soldat Sans Nom",
+    "review": true
+  },
+  "1fc7ad22c6a15c6a2c0143e35628d203": {
+    "text": "Réservoir d'A.C.I.D."
+  },
+  "01ed11f8f8a72cf4988710fd690041cc": {
+    "text": "Truc Laser"
+  },
+  "88497022ab062adb6e92439c5a76b613": {
+    "text": "Compacteur d'Ordures"
+  },
+  "79084d974c844fcfd5b056e16dae1f82": {
+    "text": "Chef Coléoptère"
+  },
+  "1187c308cfb225c65c5c11f68c034b16": {
+    "text": "Soin du Chef",
+    "review": true
+  },
+  "3d9269c0279467cc0c6251a38e53b8c5": {
+    "text": "Chef Robot"
+  },
+  "5275ddd87e59aa49379e84e60b4ee8b8": {
+    "text": "Chef Luciole"
+  },
+  "cfa0eaa63ed4bd5c372718e7871bc5f4": {
+    "text": "Support Artillerie"
+  },
+  "70d529695c253d17e992cb9265abc57f": {
+    "text": "Mission"
+  },
+  "ad6195dd4b069d1698b9a706b4141efb": {
+    "text": "Choo Choo"
+  },
+  "368fe771261fcb18f7988833c9294a20": {
+    "text": "Didacticiel"
+  },
+  "39ff70066768167954e65c919c3364f6": {
+    "text": "Démonstration de Force"
+  },
+  "75f0de05ac7c7c8e38fb8215694bc050": {
+    "text": "Canon Mech"
+  },
+  "6bbc4842c584ffdd9f654ff425e0d329": {
+    "text": "Artillerie Mech"
+  },
+  "2126fdde07c7642f0cb6fa0a81863664": {
+    "text": "Judo Mech"
+  },
+  "5dae74325c004ae3a1560c717f472248": {
+    "text": "Mech de Siège",
+    "review": true
+  },
+  "4396a119b8455feb5b85b0e5c889040d": {
+    "text": "Mech Gravitationnel",
+    "review": true
+  },
+  "8b06d08e8c940f66d9391e96abe2d097": {
+    "text": "Mech Roquette",
+    "review": true
+  },
+  "d5aed68e56557f3f00a257434ef94e8f": {
+    "text": "Mech Jet",
+    "review": true
+  },
+  "f207184cca9a264e44c2ca0732087d32": {
+    "text": "Mech Expulsif",
+    "review": true
+  },
+  "0a514a9c73feb735f4c5ba50563675ee": {
+    "text": "Flamme Mech",
+    "review": true
+  },
+  "8eeaf558d391ab1bb27ad0a24db52a94": {
+    "text": "Mech Météore",
+    "review": true
+  },
+  "8f144a413e17a39536774f11ef572412": {
+    "text": "Mech Changeur",
+    "review": true
+  },
+  "7c76714b651bdde4564f93eebba62ed1": {
+    "text": "Mech Laser",
+    "review": true
+  },
+  "626f2d4c4aa4e9b1268065afe7d2a350": {
+    "text": "Mech Ruant",
+    "review": true
+  },
+  "ebafd94d21502f5556f74bac7b1e5ae4": {
+    "text": "Mech de Défense",
+    "review": true
+  },
+  "b2701b3faaf7f2161e5b706eac2c5999": {
+    "text": "Mech Aegis",
+    "review": true
+  },
+  "790d23999cc0f9567492e3d8082142ce": {
+    "text": "Mech Miroir",
+    "review": true
+  },
+  "b1678493cce10f778db3e819168553f3": {
+    "text": "Mech Glaçant",
+    "review": true
+  },
+  "d92ac4cca3ce9c9f2d0aa54afedd29fa": {
+    "text": "Mech Eclair",
+    "review": true
+  },
+  "6d613a1082d62c801ee44e259af1b1c0": {
+    "text": "Mech Crochet",
+    "review": true
+  },
+  "d9b456b51b92221d5cfeb6f52d2d4b86": {
+    "text": "Mech Rocheux",
+    "review": true
+  },
+  "875fd5688d6cde9b8c492cccef408038": {
+    "text": "Mech Bondissant",
+    "review": true
+  },
+  "09ec03f2b8ffa07748e91cbf9ac77091": {
+    "text": "Mech Instable",
+    "review": true
+  },
+  "bfcc0895766aecc2eb8acaecb0b18835": {
+    "text": "Mech Nano",
+    "review": true
+  },
+  "278875695fcaac9987a45e379f3fc74e": {
+    "text": "Coléoptère Robotique",
+    "review": true
+  },
+  "861066178398aa9952feef98b8ed1f38": {
+    "text": "Frelon Robotique",
+    "review": true
+  },
+  "c7014d5dc4a42ce0c6068bb6d5f4e5ee": {
+    "text": "Scarabée Robotique",
+    "review": true
+  },
+  "e0c9637ccbe3486997d4bd0ac5c2cae1": {
+    "text": "Mech Rocher",
+    "review": true
+  },
+  "1fe092475cb2d7bc460597f29b8e8422": {
+    "text": "Drone de Combat"
+  },
+  "69b1bb5428d3a97c61a4c9dc15c3db84": {
+    "text": "Support Civil",
+    "review": true
+  },
+  "0a4738f5f155a9da49346028d434268a": {
+    "text": "Tank Civil"
+  },
+  "59fce4450a3b11a079380f5579f0a372": {
+    "text": "Artillerie Civile"
+  },
+  "3c62c506e7a82bd42cc78d678b8afe7c": {
+    "text": "Rocher",
+    "review": true
+  },
+  "437e62ebf8a773dcdf35c2bbd5f5b7a6": {
+    "text": "Tourelle de Défense"
+  },
+  "80212e46299571495f6060abeaf57449": {
+    "text": "Blobber",
+    "review": true
+  },
+  "8c9f37a59ea67abb5e87f96926bb1a8c": {
+    "text": "Blobber Alpha",
+    "review": true
+  },
+  "e8016c85ada38bdc5fac616ec1318047": {
+    "text": "Blob",
+    "review": true
+  },
+  "080dcb0cc25a7de7ca0d16ddfd76f74e": {
+    "text": "Blob Alpha",
+    "review": true
+  },
+  "5d0f5219d1a5557d70758202f92e0076": {
+    "text": "Scorpion"
+  },
+  "fab4c9aaa073753ed68d8cea36b53fa1": {
+    "text": "Scorpion Alpha"
+  },
+  "e344a4e3a128f4d2297fd379f7c2962d": {
+    "text": "Luciole"
+  },
+  "b9b4d7ca211512787d2defdab96040e2": {
+    "text": "Luciole Alpha"
+  },
+  "862e14690d1a332958f454c3c71e4e7b": {
+    "text": "Sauterelle"
+  },
+  "a8101297565c19fadd30821ac760fcbf": {
+    "text": "Sauterelle Alpha"
+  },
+  "1811944b9abeaa2ec9c73902103631c7": {
+    "text": "Coléoptère"
+  },
+  "89d9739a647b537ddf3834f1cbaeedde": {
+    "text": "Coléoptère Alpha"
+  },
+  "a9fd3ff5b6ff3cd3f3a1a900e46295f8": {
+    "text": "Scarabée"
+  },
+  "53a8f722e88c399600a957fc9796670b": {
+    "text": "Scarabée Alpha"
+  },
+  "ff174d64774d5421545e1b38ded8db2f": {
+    "text": "Crabe"
+  },
+  "1f9e5a121c3fc3499463f8d592b51d68": {
+    "text": "Crabe Alpha"
+  },
+  "d51f75acaec50891f1c4266571497092": {
+    "text": "Mille-pattes"
+  },
+  "f76755f9f210979019d91d3613e523ef": {
+    "text": "Mille-pattes Alpha"
+  },
+  "06c160cf55d41fbb8eaaa0ca36faa66d": {
+    "text": "Creuseur"
+  },
+  "4a9c96354fa8612d7507713cae33c9f9": {
+    "text": "Creuseur Alpha"
+  },
+  "8eda22ed69c3317f592ca1ba97867881": {
+    "text": "Frelon"
+  },
+  "24337948eb76171c88d03f8f1c1a8a98": {
+    "text": "Frelon Alpha"
+  },
+  "a5e635fa28d2bb2767d95a3158d6c63a": {
+    "text": "Jardinier",
+    "review": true
+  },
+  "ed3ce914aa575ee37ef8532bc1954058": {
+    "text": "Psion Soldat "
+  },
+  "726de626bb29b46da89205a236b9c8ad": {
+    "text": "Psion Carapace"
+  },
+  "54cbbf0eb2c89ef11c412f970dd2ade7": {
+    "text": "Psion Sanguin"
+  },
+  "d26c7d085aabd6b0901c9bc286911c74": {
+    "text": "Psion Explosif"
+  },
+  "7d796e27c33c4e66b8e55a8f74596db5": {
+    "text": "Psion Tyrant"
+  },
+  "b4d68660c4a56181cd886fe5ecc08f71": {
+    "text": "Araignée"
+  },
+  "a146db3f7ccf20756eaa1902a51c387d": {
+    "text": "Araignée Alpha"
+  },
+  "964ff4a636a971da902393bf27bb96c2": {
+    "text": "Jeune Araignée"
+  },
+  "13061d4a572d85ef435c56f5ce7cc390": {
+    "text": "Jeune Araignée Alpha"
+  },
+  "8040bf718305f9d77dbf7735859e9b49": {
+    "text": "Enfouisseur Alpha"
+  },
+  "688753a416338633c06b4829c017b82e": {
+    "text": "Canon Robotique",
+    "review": true
+  },
+  "a189dbc1fc88f5f01a647353c053549d": {
+    "text": "Mech Canon",
+    "review": true
+  },
+  "430c9d636495f6f77e5055f999896a9e": {
+    "text": "Artillerie Robotique",
+    "review": true
+  },
+  "fadb37663abcdd46174171265a5270ff": {
+    "text": "Artillerie Mech",
+    "review": true
+  },
+  "280499cfcd74a22ae3482048c499a232": {
+    "text": "Laser Robotique",
+    "review": true
+  },
+  "943613aa1868e392454b0d1d9cde8baa": {
+    "text": "Mech Laser",
+    "review": true
+  },
+  "5903005cc09bc8deeb113854b45854ab": {
+    "text": "Mine Robotique",
+    "review": true
+  },
+  "892f380802a56614333af881d6c7554b": {
+    "text": "Mech Mine",
+    "review": true
+  },
+  "58426d9d4ba407908b95156b7e0aecba": {
+    "text": "Centrale à Charbon"
+  },
+  "9d08ac5ef94ce646ed311540f856865f": {
+    "text": "Clinique"
+  },
+  "ccc0377a8afbf50e7094f5c23a8af223": {
+    "text": "INVALIDE"
+  },
+  "a03c78cae8453f4dd95563e5741aaf4c": {
+    "text": "TBA",
+    "review": true
+  },
+  "76cd867189a32ad1a85605a47bd8a255": {
+    "text": "Tank Support"
+  },
+  "d43c682e48b02a8176b678332ea57bc1": {
+    "text": "Tank Bouclier"
+  },
+  "5dc5378794c12453a87c27a397b6b973": {
+    "text": "Tank Glaçant Support"
+  },
+  "26c6d132c7630bec4643d4005ed47bd0": {
+    "text": "Tank Gravitationnel"
+  },
+  "71ae938bf409d98e5878e704720676bc": {
+    "text": "Robots de Réparation"
   }
 }
