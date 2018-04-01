@@ -144,7 +144,7 @@
     "text": "Unité Blindée"
   },
   "202ce6b05b7cec61e6d4fddb1ea7034c": {
-    "text": "Cette unité est Blindée. Tous les Dégâts d'Armes subits seront réduits de 1. \n\nLes autres type de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés"
+    "text": "Cette unité est Blindée. Tous les Dégâts d'Armes subits seront réduits de 1. \n\nLes autres type de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés."
   },
   "e481cfb5e6c8b599acaecb8a61d588cb": {
     "text": "Lors de cette mission, un évènement spécial se produira à chaque tour. \n\nPassez la souris sur l'icône d'environnement pour obtenir plus d'informations."
@@ -1629,7 +1629,7 @@
     "text": "Blindé"
   },
   "1a3d56cd48403a2caa2833aca9789f86": {
-    "text": "Les Dégâts de cette unité sont réduits de 1. Tous les autres dégâts (Pousser, Bloquer, Feu, etc...) restent inchangés."
+    "text": "Les Dégâts de cette unité sont réduits de 1. Les autres types de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés."
   },
   "3af215f3cbe9b30db1e89e79f51b36a5": {
     "text": "Conçu pour fournir un défi intéressant aux nouveaux joueurs et également aux expérimentés."
@@ -2432,40 +2432,41 @@
     "text": "Échec : Objectif échoué"
   },
   "f0b6960ac53b0cec6c4dae964e645e09": {
-    "text": "Sans les mains"
+    "text": "Sans les mains !"
   },
   "8844806c7e8f08115bc4bcca711c1379": {
-    "text": "Terminer 3 Îles Corporatives sans équiper de nouveaux Pilotes ou d'Armes"
+    "text": "Terminer 3 Îles Corporatives sans utiliser de nouveaux Pilotes ou d'Armes"
   },
   "f7f443b66d90369d388fbeb146fbe542": {
     "text": "Échec : Composition modifiée"
   },
   "c2734ab98f3138399c59a4e8bdabd1ba": {
-    "text": "Boîtes à Butin !"
+    "text": "Les Boîtes à Butin !"
   },
   "3fa6247896efc335f4a13dababda6e21": {
-    "text": "Ouvrir 5 Pods Temporel en une seul partie"
+    "text": "Ouvrir 5 Pods Temporels en une seule partie"
   },
   "f29fabe458056b34fe3588b6e51e8e2e": {
     "text": "Progression : $1 ouvert(s)"
   },
   "8113998324c46089b45c04d9f37355a6": {
-    "text": "Début Chanceux"
+    "text": "Le Radin"
   },
   "eecb35cec7df49abfb319556476bc559": {
     "text": "Finir le jeu (n'importe quelle durée) sans dépenser de Réputation"
   },
   "aeab441ea73e706cb8c6fd3ed9167496": {
-    "text": "Échec : Réputation dépensé"
+    "text": "Échec : Réputation dépensée"
   },
   "7fd779bf1acb84e4957350e56f4863a1": {
-    "text": "Modifier les Chances"
+    "text": "Rétablir l'équilibre",
+    "review": true
   },
   "4e38f69ea685ebaf18e1d3da8dae18c1": {
     "text": "Augmente la Puissance Défensive de 30% ou plus"
   },
   "dd4a0a244d005bffe47183f623e40671": {
-    "text": "Mech Spécialisé"
+    "text": "Le Spécialiste des Mechs"
   },
   "c0a601f62ddfd080696ea3b7504ad244": {
     "text": "Finir le jeu avec 3 Mechs identiques"
@@ -2474,13 +2475,13 @@
     "text": "Impossible : L'Escouade ne répond pas aux exigences"
   },
   "075f89a56d83f316786b6f9b60b1936b": {
-    "text": "Classe Spécialiste"
+    "text": "Le Spécialiste des Classes"
   },
   "72102cc693f3079b0d20ed4e38e6cc4d": {
     "text": "Finir le jeu avec 3 Mechs différents de la même classe"
   },
   "bfc2bec852ae7bea41744a07b3cba306": {
-    "text": "Spécialiste Volant"
+    "text": "Le Pilote Chevronné"
   },
   "0da2f769570bb9cfa532087a459aefd6": {
     "text": "Finir le jeu avec 3 Mechs Volants"
@@ -2495,10 +2496,10 @@
     "text": "Progression : $1 noyé(s)"
   },
   "50529cdf1cf4c706c5209d82dcf3b7e6": {
-    "text": "Vitesse Percutante"
+    "text": "Vitesse Fracassante"
   },
   "749987e15c9aaf3976c149159a7e18fc": {
-    "text": "Tuer un ennemi à 5 tuiles ou plus avec un Frappe Ruée"
+    "text": "Tuer un ennemi à 5 tuiles ou plus avec une Frappe Ruée"
   },
   "5c30759e76214d01203639ff47b5f432": {
     "text": "Île Sécurisée"
@@ -2510,7 +2511,7 @@
     "text": "Incassable"
   },
   "2b1fa5eb7c2151b429f3152bfe66e5fe": {
-    "text": "Mech Blindé absorbe 5 dégâts en une seule bataille"
+    "text": "Avoir un Mech Blindé encaissant 5 dégâts en une seule bataille"
   },
   "8c8422c9244d270e98a6850d514e545a": {
     "text": "Progression : $1 Dégât(s) Bloqué(s)"
@@ -2519,7 +2520,7 @@
     "text": "Alliés Involontaires"
   },
   "72ec56b762989f0dae8fb046c37898cc": {
-    "text": "Avoir 4 ennemis mourant de tir ennemi en une seule bataille"
+    "text": "Avoir 4 ennemis mourant de tirs ennemis en une seule bataille"
   },
   "1eaadc631c2ac84cced14bac47783773": {
     "text": "Progression : $1 tué(s)"
@@ -2534,7 +2535,7 @@
     "text": "Surcharge"
   },
   "2017da19cf10fd60353c524ff4d52e7f": {
-    "text": "Mettre en Surcharge votre Réseau Électrique deux fois en gagnant ou en achetant de la Puissance quand il est plein"
+    "text": "Surcharger deux fois votre Réseau d'Énergie en gagnant ou en achetant de la Puissance"
   },
   "47845556cac0c1bc7e2c21271f05405b": {
     "text": "Progression : Surcharge $1 / 2"
@@ -2543,7 +2544,7 @@
     "text": "Temps Orageux"
   },
   "5f26efc31224add9b58c8d0f4f149805": {
-    "text": "Infliger 12 points de dégâts avec de la Fumée Électrique en une seule bataille"
+    "text": "Infliger 12 points de dégâts avec du Brouillard Électrique en une seule bataille"
   },
   "8984e431bb010b36f6cbe8a7fa3ff6f8": {
     "text": "Progression : $1 dégât(s)"
@@ -2552,7 +2553,7 @@
     "text": "Bataille Parfaite"
   },
   "ad00857262295aba34d2d5f91f819dc3": {
-    "text": "Ne prendre aucun dégât, Mechs ou Bâtiments, dans une seule bataille (les dégâts réparés sont toujours des dégâts)"
+    "text": "Ne prendre aucun dégât (Mech ou Bâtiment) dans une seule bataille (les dégâts réparés sont toujours des dégâts)"
   },
   "bf3bf3ae653d9e6cc560d64c06ae1d4a": {
     "text": "Échec : $1 dégât(s)"
@@ -2564,7 +2565,7 @@
     "text": "Téléporter une unité de 4 tuiles"
   },
   "c0a7ea54330f4e81479eaf296f863c3e": {
-    "text": "Terre Brûlée"
+    "text": "Politique de la Terre Brûlée"
   },
   "a418c2522a5a5a52b7d15a099359b77e": {
     "text": "Terminer une bataille avec 12 tuiles en Feu"
@@ -2573,7 +2574,7 @@
     "text": "Progression : $1 en Feu"
   },
   "1ff4fbca390d5e15ab8724d67c39afd6": {
-    "text": "C'est Bon"
+    "text": "Je vais Bien, Tout va bien"
   },
   "14ffa627534fc17662611a103e4774ce": {
     "text": "Avoir 5 ennemis en Feu simultanément"
@@ -2582,43 +2583,44 @@
     "text": "Progression : $1 actuellement en Feu"
   },
   "a8f1273df84a0106e4c61ed19e4214fb": {
-    "text": "Viens Ici"
+    "text": "Get Over Here"
   },
   "938f1d1490f713c217bf752a06dad3ab": {
     "text": "Tuer un ennemi en l'attirant sur vous-même"
   },
   "86f9db46e19e5735258c95df6587827d": {
-    "text": "Rayon-C Scintillant"
+    "text": "Rayon Laser"
   },
   "a73156ef8c8525834d6cdcd6b59da83e": {
     "text": "Toucher 4 ennemis avec un seul laser"
   },
   "a1ad67f74662202c01316c0c4992853f": {
-    "text": "Maîtrise des Boucliers"
+    "text": "Maître des Boucliers"
   },
   "73f259d0c0ee231eb58d7d0c0b38b945": {
-    "text": "Bloquer les dégâts 4 fois avec un Bouclier dans une seule bataille"
+    "text": "Bloquer des dégâts 4 fois avec un Bouclier dans une seule bataille"
   },
   "ebf546e8dc92660a547fd2024ee22861": {
     "text": "Progression : $1 dégât(s) bloqué(s)"
   },
   "a6523020199a4b1b0d64ee7a46281259": {
-    "text": "Expert Cryo"
+    "text": "Expert en Cryogénie"
   },
   "68fe355164237240709c544311853a25": {
-    "text": "Tirer 4 fois sur le Lanceur-Cryo dans une seule bataille"
+    "text": "Tirer 4 fois avec le Lanceur-Cryo dans une seule bataille",
+    "review": true
   },
   "42b4612090d196cc46c49c9fc33a2d0d": {
     "text": "Progression : $1 tir(s)"
   },
   "956873034b989419c96deff2f6129911": {
-    "text": "Coups Astucieux"
+    "text": "Trick Shot"
   },
   "b1c17d2d2756fa146775f50521317063": {
     "text": "Tuer 3 ennemis avec une seule attaque du Canon Janus"
   },
   "24bf4707fcf0977e9a79dd2c01c0a86f": {
-    "text": "Pacifiste"
+    "text": "Le Pacifiste"
   },
   "8736f6e3076a3cf427584b0f79aef027": {
     "text": "Tuer moins de 3 ennemis en une seule bataille"
@@ -2630,10 +2632,10 @@
     "text": "Attaque en Chaîne"
   },
   "8004194198c4f9e1fbd76c5d0fd18ba6": {
-    "text": "Effectuer une attaque en chaîne à travers 10 tuiles avec Fouet en Chaîne"
+    "text": "Effectuer une attaque en chaîne à travers 10 tuiles avec la compétence Fouet en Chaîne"
   },
   "088d804deeb085797a2d7e8789107613": {
-    "text": "Foudre de Guerre"
+    "text": "La Guerre Éclair"
   },
   "958a48582ae1de5196725947da267940": {
     "text": "Terminer les 2 premières îles Corporatives en moins de 30 minutes"
@@ -2642,13 +2644,13 @@
     "text": "Échec : Trop lent !"
   },
   "a6a9d457342e016ebba057b86eeb39dc": {
-    "text": "Maintenir la Ligne"
+    "text": "Maintenez la position !"
   },
   "df02a098b1636be16a061ac905b9a8a8": {
-    "text": "Bloquer 4 Veks émergent en un seul tour"
+    "text": "Bloquer l'apparition de 4 Veks en un seul tour"
   },
   "80dd330a5c08653498c49a219a124543": {
-    "text": "Guérison"
+    "text": "Le Soigneur"
   },
   "13bbead354ad098b7999729766dcf70d": {
     "text": "Soigner 10 points de Santé Mechs en une seule bataille"
@@ -2660,7 +2662,7 @@
     "text": "Immortel"
   },
   "f11c5fb323c651216197f339edfd0fb3": {
-    "text": "Terminer 4 Îles Corporatives sans qu'un Mech ne soit détruit à la fin d'une bataille"
+    "text": "Terminer 4 Îles Corporatives sans qu'aucun Mech ne soit détruit"
   },
   "655edc36cd1c2327a60df8805f8bb21f": {
     "text": "Échec : Au moins un Mech a été détruit"
@@ -2672,7 +2674,7 @@
     "text": "Infliger 8 points de dégâts à une unité avec une seule attaque"
   },
   "5b5e399c8488fbf11ca35c45b301e306": {
-    "text": "Tuile Feu"
+    "text": "Tuile en Feu"
   },
   "d30b9c6f585a3574be56a7acba1ed946": {
     "text": "Enflamme les unités."
@@ -2681,31 +2683,31 @@
     "text": "Tuile Forêt"
   },
   "2cc4044087609890c0d4a0dd5a11ef92": {
-    "text": "Si endommagé, la forêt s'enflamme."
+    "text": "S'enflamme si endommagé"
   },
   "2d31850ad1a3d48c080994eb0f688d8f": {
-    "text": "Forêt Enflammée"
+    "text": "Forêt En Feu"
   },
   "cccf43c7175f6259eb9feb3bf10cc755": {
-    "text": "Enflamme les unités. Cet incendie a été déclenché lorsqu'un Tuile Forêt a été endommagée."
+    "text": "Enflamme les unités. Cet incendie a été déclenché lorsqu'une Tuile Forêt a été endommagée."
   },
   "6f47450604f9efbb0ee310bc8e27e3c9": {
-    "text": "Tuile Fumée"
+    "text": "Tuile Brouillard"
   },
   "d198823e5b3e1058bbdc74d18e8fd797": {
-    "text": "Les unités dans la Fumée ne peuvent pas attaquer ou réparer."
+    "text": "Il n'est pas possible d'attaquer ou de réparer dans le Brouillard."
   },
   "817feaa7e6efb63c48a00f8522deb833": {
-    "text": "Fumée Électrique"
+    "text": "Brouillard Électrique"
   },
   "06fa7dc8bfeb4f583bebdfd15a8b75d2": {
-    "text": "Les unités dans la Fumée ne peuvent pas attaquer ou réparer. \nL'électricité endommage les unités ennemies."
+    "text": "Il n'est pas possible d'attaquer ou de réparer dans le Brouillard. \nL'électricité endommage les unités ennemies."
   },
   "73eff8cfab2da076e46746250a15ecc1": {
-    "text": "Vek Émergeant"
+    "text": "Vek En Approche"
   },
   "a534c1a0ce7884b68b8eaa7b492795cf": {
-    "text": "Ennemi émergeant au prochain tour. Peut être bloqué."
+    "text": "Ennemi en approche au prochain tour. Peut être bloqué."
   },
   "278d01e5af56273bae1bb99a98b370cd": {
     "text": "Critique"
@@ -2717,7 +2719,7 @@
     "text": "Pylône Électrique"
   },
   "5f03a9840e6e7a1abce0628cfbf1af57": {
-    "text": "Les Pylônes de Puissance à Distance connectent vos Mechs à la Grille même sous terre. Non peuplée.",
+    "text": "Les Pylônes d’Énergie connectent vos Mechs au Réseau d’Énergie même sous terre. Non peuplée.",
     "review": true
   },
   "d96b0db7b54cbeaa88e07635d19cca2c": {
@@ -2730,13 +2732,13 @@
     "text": "Bâtiment Civil"
   },
   "6747a8b368a8452df077a1201be7835a": {
-    "text": "Votre Réseau Électrique est réduit lorsque les Réseaux Structures sont endommagés."
+    "text": "Votre Réseau d'Énergie est réduit lorsque les Bâtiments sont endommagés."
   },
   "438c7520e8f84c36362be71ab6458229": {
     "text": "Bâtiment Évacué"
   },
   "aa3ee7ec81be84f40e0a540c0a567fe2": {
-    "text": "Aucun effet quand il subit des dégâts."
+    "text": "Aucun effet lorsqu'il subit des dégâts."
   },
   "a9d554c1017360e0916c65e972c1b44b": {
     "text": "Débris de Bâtiment"
@@ -2745,37 +2747,39 @@
     "text": "Aucun effet spécifique."
   },
   "4983703ef777c39eb675eba3a72a37ca": {
-    "text": "Débris de Montagne"
+    "text": "Éboulis",
+    "review": true
   },
   "b87d8f26d51a7693fbfa51aad24ccc94": {
-    "text": "Tuile Glacée"
+    "text": "Tuile Gelée"
   },
   "16eaa969e870591f322727564f06cd95": {
-    "text": "Se transforme en Eau lorsqu'elle est détruite. Doit être frappé deux fois."
+    "text": "Se transforme en Eau lorsqu'elle est détruite. Doit être frappée deux fois."
   },
   "5de23b03935f650b16a405bc2b3989ea": {
-    "text": "Glace A.C.I.D"
+    "text": "A.C.I.D Gelée"
   },
   "ecbdcbbda1f5878c010c4a8c2bac2326": {
-    "text": "Se transforme en Tuile A.C.I.D. lorsqu'elle est détruite, mais est actuellement hors de danger."
+    "text": "Se transforme en Tuile A.C.I.D. lorsqu'elle est détruite. Inoffensive en l'état.",
+    "review": true
   },
   "14c582a67aa73b80493ddd47ea287db1": {
-    "text": "Lave Glacée"
+    "text": "Lave Gelée"
   },
   "48fc444966133b7941228939cdc9bb69": {
-    "text": "Se transforme en Tuile Lave lorsqu'elle est détruite, mais est actuellement hors de danger."
+    "text": "Se transforme en Tuile Lave lorsqu'elle est détruite. Inoffensive en l'état."
   },
   "163d3f36867800ed6fde1aea67afa327": {
-    "text": "Tuile Glacée Endommagée"
+    "text": "Tuile Gelée Endommagée"
   },
   "785f0b5b8442eb87efa8f70daf06cea7": {
-    "text": "Se transforme en Tuile Eau lorsqu'elle est détruite. Un coup la détruira."
+    "text": "Se transforme en Tuile Eau lorsqu'elle est détruite. Un seul coup la détruira."
   },
   "862db34b6ead3a6ff05d122abd826c66": {
     "text": "Tuile Gouffre"
   },
   "83a0c92aea6a1e6dd76edcdb92f615e3": {
-    "text": "Les unités terrestres poussées seront \ndétruites."
+    "text": "Les unités terrestres poussées dedans seront \ndétruites."
   },
   "7d3560ca9f563db60b2cd89a4e40544c": {
     "text": "Tuile Sol"
@@ -2784,19 +2788,19 @@
     "text": "Tuile Sable"
   },
   "c89bcef9e696b9c85d5350815e4db961": {
-    "text": "Si endommagé, se transforme en Fumée. \nLes unités dans la Fumée ne peuvent pas attaquer ou réparer."
+    "text": "Se transforme en Brouillard si endommagée,. \nIl n'est pas possible d'attaquer ou de réparer dans le Brouillard."
   },
   "2aa45cd45784128a6eb56fa16c71f35a": {
     "text": "Tuile Montagne"
   },
   "6a8a41b6042dae71180f21f854f40c43": {
-    "text": "Bloque les mouvements et les projectiles. Infliger des dégâts deux fois pour la détruire."
+    "text": "Bloque les mouvements et les projectiles. Doit être frappée deux fois pour la détruire."
   },
   "0b2c65034b43c0e639807942825bc81e": {
     "text": "Montagne Endommagée"
   },
   "01fe68bcbf2ecc73eb613bd1b32f669f": {
-    "text": "Bloque les mouvements et les projectiles. Un coup la détruira."
+    "text": "Bloque les mouvements et les projectiles. Un seul coup la détruira."
   },
   "a473b12b763af6f9a4922d78504122a0": {
     "text": "Tuile Eau"
@@ -2820,16 +2824,17 @@
     "text": "Bassin A.C.I.D."
   },
   "b0eedc468fac49eecc1f8197a3d38021": {
-    "text": "Inflige A.C.I.D. sur la 1ère unité qui marche à cet endroit."
+    "text": "Inflige de l'A.C.I.D. sur la 1ère unité qui marche à cet endroit."
   },
   "948806098b5a47a93d709f0c406d73db": {
-    "text": "A.C.I.D. Gelé"
+    "text": "A.C.I.D. Gelée"
   },
   "d1e81199c4970c688712602e5630c165": {
     "text": "Les températures basses ont rendu l'A.C.I.D. inerte sur cette tuile."
   },
   "7ae421947aba0ffbcf348d031998fb4a": {
-    "text": "Détruit si endommagé ou piétiné par l'ennemi. Collecter avec un Mech, ou défendre jusqu'à la retraite des Veks."
+    "text": "Détruit si endommagé ou piétiné par l'ennemi. A Collecter avec un Mech, ou à défendre jusqu'à la retraite des Veks.",
+    "review": true
   },
   "b44a16fbb7bab48136dc5164cdf24399": {
     "text": "Pod Étrange"
@@ -2853,25 +2858,25 @@
     "text": "Invincible lorsqu'il est Gelé. Tout dégât détruira la glace."
   },
   "54f95a5e234dd10a3244a98632ba45cb": {
-    "text": "Émergent"
+    "text": "En Approche"
   },
   "8472ee1acd4dab558f270fc694f7900d": {
-    "text": "Un Vek va émerger ici au prochain tour. Toute unité bloquant cet endroit subira 1 de dégât."
+    "text": "Un Vek va apparaître ici au prochain tour. Toute unité bloquant cet endroit subira 1 de dégât."
   },
   "e7bb517fc64fa519b26ccf3770f432c5": {
-    "text": "Tuile Haute"
+    "text": "Tsunami"
   },
   "2c848626da0971f771a1d6da6a38a1f5": {
-    "text": "Cette tuile deviendra de l'Eau au début du tour ennemi."
+    "text": "Cette tuile sera immergée au début du tour ennemi."
   },
   "6c3b0371f38792d7188548a13f84458b": {
     "text": "Frappe Aérienne"
   },
   "1cecc63946256c706849a3eed711e3a7": {
-    "text": "Des bombes seront larguées ici, tuant instantanément n'importe quelle unité."
+    "text": "Des bombes seront larguées ici, tuant instantanément n'importe quelle unité s'y trouvant."
   },
   "0b9882bab781b6c8e6e8f9d1dfba7580": {
-    "text": "Mine Ancienne Terre"
+    "text": "Mine de l'Ancienne Terre"
   },
   "1e045c1b8921c31537e4f2a777d111ea": {
     "text": "Toute unité qui s'arrête sur cet endroit déclenchera la mine et sera tuée."
@@ -2895,19 +2900,19 @@
     "text": "Coup Foudroyant"
   },
   "69ff8b753d3bb65d62265e58770cbb9b": {
-    "text": "La foudre frappera ici, tuant n'importe quelle unité."
+    "text": "La foudre frappera ici, tuant n'importe quelle unité s'y trouvant."
   },
   "917605e34918548aceecc19886332080": {
     "text": "Chute de Pierre"
   },
   "5b30bec47bc847e82f2e02eb1f08f7cc": {
-    "text": "Un rocher tombera ici, tuant n'importe quelle unité."
+    "text": "Un rocher tombera ici, tuant n'importe quelle unité s'y trouvant."
   },
   "63ff5b952a52df82b39d2fc57107d184": {
     "text": "Tentacules"
   },
   "c2ea6db10c0585c8ebbcc5ee76c70621": {
-    "text": "Cette unité mourra et la tuile se transformera en Lava."
+    "text": "L'unité placée ici mourra et la tuile se transformera en Lava."
   },
   "119d91cc089acf81e35e6e3c7cba4b67": {
     "text": "Coulée de Lave"
@@ -2940,28 +2945,28 @@
     "text": "Robot Stase"
   },
   "7a67dff819fb92a8d435e65217497f92": {
-    "text": "Ce robot va s'alimenter et prendre part au combat si son Bouclier est endommagé."
+    "text": "Si son Bouclier est endommagé, ce robot prendra part au combat."
   },
   "1877721b12e1dde8ff8bd14477cecb09": {
-    "text": "Scarabée Convoyeur"
+    "text": "Tapis Roulant"
   },
   "f180d233b33cf06ce428595febb2cc0c": {
-    "text": "Cette tuile va pousser n'importe quelle unité dans la direction indiquée par le Scarabée."
+    "text": "Cette tuile va pousser l'unité s'y trouvant dans la direction indiquée."
   },
   "dd6964af6659efd019c4d07cac6e3d07": {
-    "text": "Dalle Téléport"
+    "text": "Dalle de Téléportation"
   },
   "5a4dc40389df4d6efb73e0d2c7021ed3": {
-    "text": "En s'arrêtant sur cette dalle, vous serez Téléporté à la dalle correspondante. Toutes unités présentent seront interverties."
+    "text": "En s'arrêtant sur cette dalle, vous serez Téléporté à la dalle correspondante de même couleur."
   },
   "a0f1b10b70d83cc18fc8f4e03991edc8": {
-    "text": "Caisse Fourniture"
+    "text": "Ravitaillement"
   },
   "78682f82e95f250d714e02e6d9f6d24f": {
-    "text": "Collecter ceci avec un Mech pour soigner TOUTES les unités amies et restaurer TOUTES les Armes à Usage Limité."
+    "text": "Collectez ceci avec un Mech pour soigner TOUTES les unités amies et restaurer TOUTES les Armes à Usage Limité."
   },
   "ed59d14301cd75fc469163d221cd0db9": {
-    "text": "Spores Vivifiants"
+    "text": "Spores Vivifiantes"
   },
   "79c91d3ad6a2762fefc15befc0a3cd09": {
     "text": "Le Soldat Psion fournit +1 HP à tous les Veks."
@@ -2973,10 +2978,11 @@
     "text": "Ce Vek se cachera sous terre après avoir subi un ou plusieurs dégâts."
   },
   "67e5588c1026d324e21b5989307d1d45": {
-    "text": "L'Abomination Psion améliore tous les Veks. Ils gagnent +1 HP, régénération, et explosent à leur mort."
+    "text": "L'Abomination Psion améliore tous les Veks. Ils gagnent +1 HP, la régénération, et exploseront à leur mort."
   },
   "fa6afdba74f0efe521a768266ecea070": {
-    "text": "Ruche Ciblée"
+    "text": "Ruche Ciblée",
+    "review": true
   },
   "b1403593e14797ba61a4b34271d8522b": {
     "text": "Le Tyran Psion fera 1 de dégât à toutes les unités alliées à chaque tour."
@@ -2985,7 +2991,7 @@
     "text": "Carapace Durcie"
   },
   "313c1aa410639c38f51ce3244bcaa783": {
-    "text": "Le Carapace Psion fournit de l'Armure à tous les Veks, réduisant les dégâts des armes infligés de 1. Tous les autres dégâts (Pousser, Bloquer, Tir, etc.) ne sont pas affectés."
+    "text": "Le Psion Carapace fournit de l'Armure à tous les Veks, réduisant les dégâts des armes infligés de 1. Les autres types de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés."
   },
   "ea67ec7a6ae54f42bc31fb5ab4b0f9a7": {
     "text": "Armure Naturelle"
@@ -2994,7 +3000,7 @@
     "text": "Armure Dégradée"
   },
   "7c13dbc3acf9054721b2637f9b947fc0": {
-    "text": "A.C.I.D. annule actuellement les effets d'Armure de cette unité."
+    "text": "L'A.C.I.D. annule actuellement les effets d'Armure de cette unité."
   },
   "93fb94ede88fe65704d75647dfc6595f": {
     "text": "Régénération"
@@ -3006,19 +3012,20 @@
     "text": "Explosion Désintégrante"
   },
   "3605e029f48bf1c3fcb83794d61d0e5f": {
-    "text": "Le Souffle Psion fera exploser tous les Veks en infligeant de 1 dégât aux tuiles adjacentes."
+    "text": "Le Psion Explosif fera exploser tous les Veks en infligeant de 1 dégât aux tuiles adjacentes.",
+    "review": true
   },
   "3aceefcb377d1b14f39762a5f8ced083": {
     "text": "Explose en mourant, infligeant 1 de dégât aux tuiles adjacentes."
   },
   "fb1bf8a5fb1f84fc46f2f4b717d6a91b": {
-    "text": "Cette unité sera poussée par le Scarabée Convoyeur dans la direction indiquée."
+    "text": "Cette unité sera poussée par le tapis roulant dans la direction indiquée."
   },
   "9cb68f96efc64cc0123cff34e045012d": {
-    "text": "Si une autre unité utilise la dalle de téléportation ROUGE, cette unité permutera de positions avec elle."
+    "text": "Si une autre unité utilise la dalle de téléportation ROUGE, celle-ci échangeront leur position."
   },
   "49f5073649529b2b8febb78da54bda29": {
-    "text": "Si une autre unité utilise la dalle de téléportation BLEU, cette unité permutera de positions avec elle."
+    "text": "Si une autre unité utilise la dalle de téléportation BLEU, celle-ci échangeront leur position."
   },
   "c57a9ae97267666b151fe636f28fae17": {
     "text": "+2 de Déplacement pour UN tour."
@@ -3027,25 +3034,25 @@
     "text": "Entravé"
   },
   "c5979e20fd55b93e530ead8e5c12d7c2": {
-    "text": "Les unités Entravés par les Veks ne peuvent pas bouger, mais elles peuvent toujours attaquer."
+    "text": "Les unités Entravées par les Veks ne peuvent pas bouger, mais elles peuvent toujours attaquer."
   },
   "61e6002116b89628df5c5c354f3a1343": {
     "text": "Non Alimenté"
   },
   "75313d5159a1decaa981875c6e2a5c19": {
-    "text": "Les unités sans Puissance sont inactives et ne peuvent pas bouger ou attaquer."
+    "text": "Les unités Non Alimentées sont inactives et ne peuvent pas bouger ou attaquer."
   },
   "c40f3fbfade0ee479b0dd980edefd449": {
     "text": "Massif"
   },
   "9afcaeaff22ec34df4e4bffe4f32d269": {
-    "text": "Les unités massives peuvent marcher dans l'Eau (mais l'Eau empêchera le tir)."
+    "text": "Les unités massives peuvent marcher dans l'Eau (mais l'Eau les empêchera de tirer)."
   },
   "88090e6b4ce449b1204f909a4fb2b062": {
     "text": "Submergé"
   },
   "57757b3a7d366ba0dcbeb6027564ec12": {
-    "text": "Les armes ne fonctionnent pas lorsqu'elles sont submergées dans l'Eau."
+    "text": "Les armes ne fonctionnent pas dans l'Eau."
   },
   "eac248ae295c1ec4745b6ade2f566c0d": {
     "text": "Submergé dans l'A.C.I.D."
@@ -3075,7 +3082,7 @@
     "text": "Sur le Sable"
   },
   "99ca27b89e12e746ff19758836b2d0c8": {
-    "text": "La tuile se transforme en Fumée si elle subit des dégâts, empêchant cette unité d'attaquer."
+    "text": "La tuile se transforme en Brouillard si elle subit des dégâts, empêchant cette unité d'attaquer."
   },
   "d9b51ad1f53056b10741080232ae84e0": {
     "text": "Sur la Glace"
@@ -3093,16 +3100,17 @@
     "text": "A.C.I.D. Corrosif"
   },
   "eed294a4bf885b4d688650faa11b9638": {
-    "text": "Les dégâts des Armes contre cette unité sont doublés. Tous les autres dégâts (Pousser, Bloquer, Feu, etc...) ne sont pas affectés."
+    "text": "Les dégâts des Armes contre cette unité sont doublés. Les autres types de dégâts (Pousser, Feu, Bloquer, etc...) restent inchangés."
   },
   "128f56daccf1968fd92e7e74b1dd7456": {
-    "text": "Bloqué Apparition"
+    "text": "Bloque l'Apparition",
+    "review": true
   },
   "6a0a109e0797f8f52970897cc1f1c829": {
-    "text": "La nouvelle unité ennemie ne va pas apparaître ici, mais cette unité subira 1 de dégât."
+    "text": "La nouvelle unité ennemie n'apparaîtra pas ici, mais cette unité subira 1 de dégât."
   },
   "bc93fd0fa19ed26b6adf8293ada55404": {
-    "text": "Fumé"
+    "text": "Brouillard"
   },
   "db1492313f74a8055f65a39d1933ba13": {
     "text": "Les unités dans la Fumée ne peuvent pas attaquer ou réparer. L'électricité endommage les unités ennemies."
@@ -3111,7 +3119,7 @@
     "text": "Bouclier Énergétique"
   },
   "91e4c65170cbc8ea8d4b7c631f799836": {
-    "text": "Les Boucliers bloquent les dégâts et tous les effets négatifs (Feu, Congélation, A.C.I.D, etc...). Seuls les dégâts directs enlèveront le Bouclier."
+    "text": "Les Boucliers bloquent les dégâts et tous les effets négatifs (Feu, Congélation, A.C.I.D, etc...). Seuls des dégâts directs pourront retirer le Bouclier."
   },
   "1eae2f1c24a0da1af7024a7ddd39f04c": {
     "text": "Bouclier Zoltan"
@@ -3132,7 +3140,7 @@
     "text": "Invincible mais incapable de bouger ou d'attaquer. Tout dégât libèrera l'unité."
   },
   "0366289162103d9225a089cab741e45b": {
-    "text": "Pieds Boostés"
+    "text": "Propulseurs"
   },
   "bde3965037346756f90adda362392dd9": {
     "text": "+2 de Déplacement ce tour."
@@ -3141,7 +3149,7 @@
     "text": "Éviter"
   },
   "50442ce67aeef5440dd5fe7ac9d9c3cb": {
-    "text": "(Compétence Pilote) Cette unité obtient un bonus de Déplacement de Tuile après avoir attaqué."
+    "text": "(Compétence Pilote) Cette unité obtient un Déplacement d'UNE Tuile après avoir attaqué."
   },
   "d947353983a96946f0827ddcb6d4b331": {
     "text": "Impulsif"
@@ -3153,10 +3161,10 @@
     "text": "Coup Double"
   },
   "632f4d9b72306ceb93431637284f7a2f": {
-    "text": "(Compétence Pilote) Cette unité obtient une action bonus car elle n'a pas bougé."
+    "text": "(Compétence Pilote) Si l'unité ne se déplace pas, elle unité obtient une action bonus."
   },
   "50bb178f5d57d75816b5b8bdfcbf261b": {
-    "text": "Tir et Oubli"
+    "text": "Tir et Oublie"
   },
   "f2f46f71d9157b800b006c164652d643": {
     "text": "(Compétence Pilote) Cette unité peut bouger après avoir attaqué."
@@ -3168,16 +3176,16 @@
     "text": "Cette unité ne peut pas être en Feu"
   },
   "138c16509efef993847a9472c837e0cd": {
-    "text": "Immunité à la Fumée"
+    "text": "Immunité au Brouillard"
   },
   "1affe80d55dd64430ae29fd43c1d767b": {
-    "text": "Cette unité n'est pas affectée par la Fumée"
+    "text": "Cette unité n'est pas affectée par le Brouillard"
   },
   "beb7c76d7a4389992af309b1f54cf22b": {
     "text": "Auto-Réparation"
   },
   "e5b0ef5eb092fd79116fbbc212b2b7c1": {
-    "text": "Si elle subit des dégâts, cette unité s'appliquera un Bouclier et se prépare à Soigner."
+    "text": "Si elle subit des dégâts, cette unité s'appliquera un Bouclier et se soignera."
   },
   "d490e452d79be614b146ece9d02536c9": {
     "text": "Danger Environnemental"
@@ -3192,7 +3200,8 @@
     "text": "Les Unités Alpha sont plus puissantes que leurs homologues standard"
   },
   "e43a10af863ca84cbb60b65a7bc3458a": {
-    "text": "Chef Ruche"
+    "text": "Chef Ruche",
+    "review": true
   },
   "8a5a7c32c74427d365a6fd6fed28e1ff": {
     "text": "Ce sont les Veks les plus puissants. Immunisé à l'Eau, ils peuvent être plus difficiles à tuer."
@@ -3315,7 +3324,7 @@
     "text": "Maintenant les Veks n'ont qu'à bien s'tenir !"
   },
   "706d021245223aa01fe1299334b5802b": {
-    "text": "Les Veks vont être désolés maintenant !"
+    "text": "Les Veks vont le regretter maintenant !"
   },
   "44bfad45985d672b7e7b062fce6a972c": {
     "text": "Prends mes lunettes !\nJe veux voir !"
@@ -3336,7 +3345,8 @@
     "text": "Quel est ce bruit ?"
   },
   "443a96a1deb0fe5b88205b79866748f6": {
-    "text": "Tu entends quelque chose ?"
+    "text": "Tu as entendu quelque chose ?",
+    "review": true
   },
   "e89c8a597ec0b2168bc77c0f82af8d8d": {
     "text": "C'est bien eux ?"
@@ -3357,13 +3367,13 @@
     "text": "Nous sommes sauvés !"
   },
   "f4cd8a88fc54d984f094f4873ec79f42": {
-    "text": "Finalement !"
+    "text": "Enfin !"
   },
   "417d1e9b7761d76fd4f926a5c719e069": {
     "text": "Les secours sont là !"
   },
   "174033235e7af256c8677ecc98d99dab": {
-    "text": "Ils sont venu !"
+    "text": "Ils sont venus !"
   },
   "665a24bc01c3ddd4fd59e796aa268389": {
     "text": "Les Mechs sont là !"
@@ -3378,10 +3388,10 @@
     "text": "Ils sont en fuite !"
   },
   "c1737852054a3b1c4d2f7d73c5fd23c2": {
-    "text": "Les Veks courent !"
+    "text": "Les Veks s'enfuient !"
   },
   "715e1b3a11998a946c5cb492aa0a79b0": {
-    "text": "C'était stupéfiant !"
+    "text": "C'était impressionnant !"
   },
   "e65438765d3e92896fd4dd8726a5969e": {
     "text": "Incroyable !"
@@ -3426,7 +3436,7 @@
     "text": "Vous les avez éliminés !"
   },
   "bec4d9824de7850c5efd7cd8e454bb62": {
-    "text": "L'#squad les a battus !"
+    "text": "#squad les a battus !"
   },
   "659ac188126d1fcda30162bf3ded2509": {
     "text": "Les Mechs les ont anéantis !"
@@ -3447,10 +3457,10 @@
     "text": "Tout le monde va bien ?"
   },
   "62574db13f5472a4845f67de0fb89370": {
-    "text": "L'#squad nous a sauvé !"
+    "text": "#squad nous a sauvé !"
   },
   "04abd1cf7fcfc8629255423803ac9fa9": {
-    "text": "Trois hourras pour l'#squad !"
+    "text": "Trois hourras pour #squad !"
   },
   "64e0ad838d143bf09b54007a28494d58": {
     "text": "#corp est sauvé !"
@@ -3459,7 +3469,7 @@
     "text": "Rien n'a été endommagé !"
   },
   "637bf2a53e072160c9d7acc0d0863424": {
-    "text": "L'#squad sont des héros !"
+    "text": "#squad sont des héros !"
   },
   "778199c4b0e2c4c9dc04cfdb2daa700c": {
     "text": "Victoire parfaite !"
@@ -3471,13 +3481,13 @@
     "text": "Merci... Je suppose."
   },
   "84d1185bcd20e2676fc86285e7114f78": {
-    "text": "Ils ont fait plus de mal que de bien ..."
+    "text": "Ils ont fait plus de mal que de bien..."
   },
   "6893c00186883683935ba62fd8489ea3": {
-    "text": "Ma famille ... partie ..."
+    "text": "Ma famille ... partie..."
   },
   "e5c110eb262fcf46e99c990839a735f7": {
-    "text": "Tellement de pertes ..."
+    "text": "Tellement de pertes..."
   },
   "358dbe65cb84b1faadd21da5675fe7e1": {
     "text": "Sont-ils enfin partis ?"
@@ -3486,7 +3496,7 @@
     "text": "Est-ce fini ?"
   },
   "6d68619879c5da361e889b67c029a9d8": {
-    "text": "Il est temps de reconstruire ..."
+    "text": "Il est temps de reconstruire..."
   },
   "ea27a387d6050a1b52155e467ecfa331": {
     "text": "Il nous attaque !"
@@ -3507,10 +3517,11 @@
     "text": "Quelle est cette ombre ?"
   },
   "d9207b34ece1b03e2c99315f22280462": {
-    "text": "Ca ne présage rien de bon ..."
+    "text": "Ca ne présage rien de bon..."
   },
   "1c9e0af6cc2fc9895e3313750b2a5e85": {
-    "text": "Aidez-moi !"
+    "text": "A l'aide !",
+    "review": true
   },
   "d1e57515532c5fcdcb9832dcf1c42d6f": {
     "text": "Nous sommes condamnés !"
@@ -3519,7 +3530,7 @@
     "text": "Notre chance s'est fait la malle..."
   },
   "0dcc028eedf133bf754691fc409e0342": {
-    "text": "Ils nous prennent pour cible !"
+    "text": "Il nous prend pour cible !"
   },
   "79a86bf24730ec3adbdb461c6974b1e2": {
     "text": "Aidez-moi ! Quelqu'un, aidez-moi !"
@@ -3558,10 +3569,10 @@
     "text": "Il est tombé !"
   },
   "8f08e478befb98049524290b28d480bc": {
-    "text": "Ils l'ont enlevé !"
+    "text": "Ils l'ont détruit !"
   },
   "9c6652b858daf58e47386d0e102c1beb": {
-    "text": "Et laissé pour mort !"
+    "text": "Et reste pour mort !"
   },
   "1f2d46c44305deca1a15e5ed7a1ebbe5": {
     "text": "Ils l'ont tué !"
@@ -3579,7 +3590,8 @@
     "text": "Oui !"
   },
   "25e1313e3235ccec22c7b30c1058b95e": {
-    "text": "D'accord !"
+    "text": "ça c'est bon !",
+    "review": true
   },
   "359878442cf617606802105e2f439dbc": {
     "text": "Wow !"
@@ -3594,7 +3606,7 @@
     "text": "Ça devrait les arrêter !"
   },
   "d2a3f2974ee06d51acf325c644cf9944": {
-    "text": "Bouclier !"
+    "text": "Un Bouclier !"
   },
   "e723df000dd980adae87fd0d6fda0cb6": {
     "text": "Nous avons un bouclier !"
@@ -3615,7 +3627,7 @@
     "text": "Prenez les couvertures."
   },
   "adaea32e6c66fb50684041db147c9ff2": {
-    "text": "Blottissez-vous les uns contre les autres, tout le monde."
+    "text": "Blottissez-vous les uns contre les autres."
   },
   "26362c17e69e7e34c686cb7785cf3a20": {
     "text": "La fenêtre est glacée !"
@@ -3624,7 +3636,8 @@
     "text": "Qu'est-il arrivé ?"
   },
   "5e7f9a1094321df045fa031172a12dd9": {
-    "text": "Me sent comme un congélateur !"
+    "text": "Me sens comme dans un congélateur !",
+    "review": true
   },
   "b2b4acb97b13d8eeb76ab74c52aa67a0": {
     "text": "Il fait froid !"
@@ -3654,7 +3667,8 @@
     "text": "Carapace Hérissé"
   },
   "7126bff2af12fbc3550c3c43cf5c7648": {
-    "text": "Écrase contre 3 tuiles sur la rangée."
+    "text": "Écrase contre 3 tuiles sur la rangée.",
+    "review": true
   },
   "e517aaf0b7cd12952c34ff0f64a72f77": {
     "text": "Carapace Saillante"
@@ -3669,7 +3683,8 @@
     "text": "Lancer Dard"
   },
   "09d8741b2aec39a391658dd9a2aa0e5a": {
-    "text": "Poignarde 2 tuiles devant l'unité."
+    "text": "Poignarde 2 tuiles devant l'unité.",
+    "review": true
   },
   "9d98a18cb0b91ce96c068d88a605b87d": {
     "text": "Expulsions Explosives"
