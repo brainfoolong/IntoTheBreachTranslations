@@ -5690,40 +5690,41 @@
     "text": "Tant que les Veks restent piégés sous terre, nos reliques de l'Ancienne Terre et les gens sont en sécurité. Merci, #squad."
   },
   "22ab1bf679dc7bbe00d35e3fc941e904": {
-    "text": "La façon dont vous avez empêché les Veks de faire surface était impressionnante. Et je ne suis pas facilement impressionné. Vous et l'#squad ont mon respect."
+    "text": "La façon dont vous avez empêché les Veks de remonter à la surface était impressionnante. Et je ne suis pas facilement impressionné. Vous et #squad avez mon respect."
   },
   "f95d1ab4de6edc492a0381356b727a87": {
-    "text": "Merci de minimiser l'impact sur la surface. Je reçois toujours des Ping positifs de la majorité des micro-robots de la région."
+    "text": "Merci d'avoir minimisé votre impact sur la surface. Je reçois encore des Pings positifs de la majorité des micro-robots de la région."
   },
   "839e95a5803dc5bcb25858723d776f25": {
-    "text": "L'#squad a réussi, Commandant ! Vous avez gardé les Veks épinglés et sous contrôle - le secteur est à nous !"
+    "text": "#squad a réussi, Commandant ! Vous avez contenu l'invasion Vek - le secteur est à nous !"
   },
   "8be575a9a74dea1057e15692ec4928d5": {
-    "text": "Le secteur est maintenant le nôtre à occuper en toute sécurité, Commandant. Les Veks sous terre ne sont plus."
+    "text": "Nous pouvons maintenant occuper le secteur en toute sécurité, Commandant. Les Veks qui étaient sous terre ne sont plus."
   },
   "e155a2995c597e3fe5bb82ad6fca86a7": {
-    "text": "Nos réserves naturelles sur la surface ont été détruites pendant les combats - il reste peu de la région. Au moins les Veks sont partis maintenant."
+    "text": "Nos réserves naturelles sur la surface ont été détruites pendant les combats - il reste très peu de la région. Mais au moins les Veks sont partis maintenant."
   },
   "fd312b93d667ed8fc9147b123b25a806": {
-    "text": "Des Veks atteignant la surface signifie que les cultures ont été détruites. Mon peuple mourra - pas des Veks, mais de la famine."
+    "text": "Les Veks qui ont creusé la terre pour remonter à la surface ont détruit nos récoltes. Mon peuple mourra - pas des Veks, mais de la famine."
   },
   "6f2bf619a4f6a5c49e140da5239ffacd": {
-    "text": "Chaque milliseconde une autre vie est étouffée par le chaos de votre bataille à la surface. Rediriger ma sortie de sorte que vous puissiez la regarder aussi ..."
+    "text": "Pour chaque milliseconde écoulée dans ce chaos, une vie s'éteint. Je redirige ma vue sur votre monitor pour vous puissiez contempler ce désastre...",
+    "review": true
   },
   "835b935efa2fdaa5d602a359d500bafe": {
-    "text": "Les tentatives de Détritus pour détruire le souterrain Vek ont échoué - trop de gens ont été autorisés à s'échapper. Nous devrons redoubler d'efforts."
+    "text": "Les tentatives de Détritus pour détruire le souterrain Vek ont échoué - trop de Veks ont pu s'échapper. Nous devrons redoubler d'efforts."
   },
   "e0b5db590524e2910c85f246f7b4babc": {
-    "text": "Ol'Horace ici est le seul train diesel qui reste sur cette planète - ce n'est pas au fond de l'océan, de toute façon. Il reste toujours puissant, transportant des approvisionnements vitaux à travers l'île."
+    "text": "Ol'Horace, ici présent, est le seul train diesel qui reste sur cette planète - et qui n'est pas au fond de l'océan, d'ailleurs. Il reste toujours puissant, transportant des approvisionnements vitaux à travers l'île."
   },
   "8aa5ac04ab7fce27d2a812415afccc86": {
-    "text": "Je supervisais moi-même la maintenance de cette locomotive de l'Ancienne Terre. C'est une bonne chose, également - quand le Vek a frappé, OI'Horace est devenu l'épine dorsale de nos lignes d'approvisionnement !"
+    "text": "Je supervisais moi-même la maintenance de cette locomotive de l'Ancienne Terre. Le bon côté est que - lorsque les Veks ont frappé, OI'Horace est devenu la structure principale de nos lignes d'approvisionnement !"
   },
   "80ab8b537e4a77a87d019d563ec990ff": {
-    "text": "Les trains diesel peuvent être démodés selon les normes d'aujourd'hui, mais Ol'Horace est puissant, il est vital pour nos lignes d'approvisionnement !"
+    "text": "Les trains diesel peuvent être démodés aujourd'hui, mais Ol'Horace est puissant et vital pour nos lignes d'approvisionnement !"
   },
   "2b3de972685a1ef5a2011903bc8e7111": {
-    "text": "Ce train à sustentation magnétique est l'une de nos derniers lignes d'approvisionnement. Mon peuple compte sur lui pour les fournitures - sans cela ..."
+    "text": "Ce train à sustentation magnétique est l'une de nos dernières lignes d'approvisionnement. Mon peuple compte sur lui pour les fournitures - sans cela..."
   },
   "cf66b9e3d0258d4f3d0a5af47650d951": {
     "text": "Cette ligne de train à sustentation magnétique est une artère majeure entre nos villes restantes. Nous la perdons, nous perdons aussi les villes."
@@ -5732,94 +5733,95 @@
     "text": "Le train à sustentation magnétique fonctionne à l'énergie solaire - nous devons le sortir de la tempête qui s'approche avant que ses batteries se déchargent."
   },
   "f74833717f2000a921bdb6a0ea1e49d8": {
-    "text": "Assurez-vous que le train d'approvisionnement atteint le point d'extraction - nous pouvons le récupérer à partir de là."
+    "text": "Assurez-vous à ce que le train d'approvisionnement ait atteint le point d'extraction - nous pourrons le récupérer à partir de là."
   },
   "4484e7d48e727040ecdce127cc950b8c": {
-    "text": "Ce train à sustentation magnétique est l'un des rares qui nous reste. Il doit passer à travers, ou mon peuples sera coupés du restant."
+    "text": "Ce train à sustentation magnétique est l'un des rares qui nous reste. Il doit passer à travers, ou mon peuple sera coupé du reste de l'île."
   },
   "2c49ab105e5d2e2b51e6d417c5a7cc7d": {
-    "text": "L'élimination des détritus repose sur des trains qui acheminent des sous-produits dangereux vers nos sites d'élimination ... mais pas si les Veks interceptent les trains."
+    "text": "L'élimination des déchets de Détritus repose sur des trains qui acheminent des produits dangereux vers nos sites d'élimination... Si les Veks les interceptent auquel cas..."
   },
   "d21030e489f564e6f68e7940acbb74d1": {
-    "text": "Nos trains semblent provoquer les Veks - que ce soit les produits chimiques ou la vibration, nous ne le savons pas, mais les Veks les attaquent à vue."
+    "text": "Nos trains semblent provoquer les Veks - nous n'en connaissons pas la raison, mais les Veks les attaquent à vue."
   },
   "3914efc9b7c6bd297f58dff6fefdb243": {
-    "text": "Un train d'élimination des déchets traverse ce secteur. Les vibrations attirent les Veks, nous devons donc le protéger contre les attaques."
+    "text": "Un convoi acheminant des déchets pour leur élimination traverse ce secteur. Ses vibrations attirent les Veks, nous devons donc le protéger des attaques."
   },
   "1d19ba2542c451b00fd95c81c5742b7d": {
-    "text": "Les réfugiés seront reconnaissants pour les fournitures. Et je vous dois mes remerciements personnels pour avoir sauvé Ol'Horace - nous deux reliques avons vécu beaucoup de choses ensemble."
+    "text": "Les réfugiés seront reconnaissants pour le ravitaillement. Et je vous dois des remerciements personnels pour avoir sauvé Ol'Horace - nous avons tous les deux vécu beaucoup de choses ensemble."
   },
   "cf78995a7d11bd965b2531ac1f5c3600": {
-    "text": "Ol'Horace s'est rendu à sa destination sans une égratignure ! Avec la plupart de notre passé sous la mer, c'est une belle journée où nous pouvons protéger notre histoire du Vek !"
+    "text": "Ol'Horace s'est rendu à sa destination sans une égratignure ! C'est un grand jour lorsque nous pouvons protéger notre histoire des Veks, surtout lorsque l'intégralité de notre passé a été submergée dans les mers !"
   },
   "89c9e75f2e9d752782f741a4af5a8d06": {
-    "text": "Les approvisionnements ont traversé et sont en route vers mon peuple dans les villes. Je vous remercie."
+    "text": "Les approvisionnements ont pu traverser sans encombre et sont en route pour nourrir mon peuple. Je vous remercie."
   },
   "a63339122f78c2b586b07f978a550f62": {
-    "text": "Excellent, le train a traversé. Nous vivons pour nous battre un autre jour."
+    "text": "Excellent, le train a pu traverser. Nous pourrons combattre un jour supplémentaire."
   },
   "367715fa86e26512c11ff03ce2713b73": {
-    "text": "Le train est au rapport; il a atteint sa destination sans autre incident. Bien joué, Commandant."
+    "text": "Le train est arrivé en gare; il a atteint sa destination sans incident. Bien joué, Commandant."
   },
   "2845244e030ec9bdde63c1e7a25b7be5": {
-    "text": "J'ai reçu une confirmation, Vommandant - le train est en route en toute sécurité, et aucun autre Vek n'a été détecté sur son passage."
+    "text": "J'ai reçu la confirmation, Commandant - le train est en route et en toute sécurité, aucun Vek n'a été détecté sur son passage."
   },
   "de6ce9d0fa1e46fb6e152a2974bb1794": {
-    "text": "Un autre artefact irremplaçable perdu au Vek. Peut-être que R.S.T. nous vendra un de leur train à sustentation magnétique."
+    "text": "Encore un artefact irremplaçable perdu à cause des Veks. Peut-être que R.S.T. acceptera de nous vendre un de leur train à sustentation magnétique."
   },
   "33b62f2f1e94d75062bdc77ffd01a0f2": {
-    "text": "C'était le dernier train diesel qui ne se trouve pas au fond d'un océan. Regrettable. Nous aurons besoin d'une nouvelle façon de transporter les fournitures maintenant."
+    "text": "C'était le dernier train diesel qui ne se trouvait pas au fond d'un océan. Cela est regrettable. Nous aurons besoin d'un nouveau transport de fournitures maintenant."
   },
   "0bbc1d6e082281e2ccb263913ca2fafc": {
-    "text": "C'était l'un de derniers train à sustentation magnétique que nous avions. Je ferais un rapport des pertes auprès de la prochain ville à destination et verrais ce que je peux faire pour renforcer les secours là-bas."
+    "text": "C'était l'un de derniers train à sustentation magnétique que nous avions. Je ferais un rapport des pertes à la ville destinatrice des fournitures et je verrais ce que je peux faire pour renforcer les secours là-bas."
   },
   "ac059a95dbc36bbe498bd08480676ebc": {
     "text": "Chaque train à sustentation magnétique que nous perdons, nous font perdre deux villes. Protéger mon peuple, c'est protéger les lignes d'approvisionnement."
   },
   "edef4e3b73aa56fcea985f9fed00465b": {
-    "text": "Le train est détruit - et les sous-produits qu'il transportait ont contaminé le secteur. C'est inhabitable pour tous sauf pour les Veks."
+    "text": "Le train est détruit - et les sous-produits qu'il transportait ont contaminé le secteur. C'est encore une zone inhabitable pour tous sauf pour les Veks."
   },
   "89f1306fcf977b7434004e94dd25f996": {
     "text": "Il ne reste plus rien du train. Ou de son équipage. Détritus honore leur bravoure et pleure leur perte."
   },
   "843e6d41cd235dd101d110911e434c7d": {
-    "text": "Si le train est endommagé une fois, il s'arrêtera, mais le joueur peut encore le défendre pour gagner la moitié des récompenses ..."
+    "text": "Si le train est endommagé une fois, il s'arrêtera, mais le joueur peut encore le défendre pour gagner la moitié des récompenses..."
   },
   "e4161909f9a84656e1003301a4398baa": {
     "text": "Il faudra des semaines pour réparer ce train, mais au moins ce n'est pas une perte totale. Pour l'instant, nous devrons trouver un autre moyen d'expédier des fournitures."
   },
   "575ff2ca6c6a382014f174f80827e3d9": {
-    "text": "Ces trains de l'Ancienne Terre ont été construits pour durer ! Malgré les coups subit, nous pouvons toujours le remettre en marche - remarquable !"
+    "text": "Ces trains de l'Ancienne Terre ont été construits pour durer ! Malgré les coups subits, nous pouvons toujours le remettre en marche - remarquable !"
   },
   "1c57a2a2602a6c98e1bd19ab5f36960d": {
-    "text": "Il faudra plus que les Veks pour arrêter Ol' Horace. Nous l'aurons de nouveau sur pieds en un rien de temps!"
+    "text": "Il en faudra aux Veks pour stopper Ol' Horace. Nous le mettrons de nouveau sur pieds en un rien de temps!"
   },
   "e5784cc1fdc602e314d31e38deeb9da1": {
-    "text": "Pourquoi le chemin du train a t-il été interrompu ? Il aurait pu être détruit ... mes ingénieurs disent que c'est récupérable, mais nous ne pouvons pas nous permettre de le laisser au repos pour les réparations."
+    "text": "Pourquoi ligne ferroviaire a t-elle été interrompu ? Le train aurait pu être détruit... mes ingénieurs pensent que ses dégâts sont mineurs, mais nous ne pouvons pas nous permettre de fermer la ligne le temps pour des réparations.",
+    "review": true
   },
   "a44d405f3c1a6a006171e4c9083223fb": {
-    "text": "Nous envoyons des équipes au train maintenant - leur priorité est de le faire fonctionner."
+    "text": "Nous envoyons immédiatement des équipes en direction du train - leur priorité étant de le faire fonctionner."
   },
   "f8f6fa4d57a9d07b2eed1c8c73831be0": {
-    "text": "Le train a été endommagé, mais l'#squad a sauvé l'équipage. Vous avez notre gratitude, Commandant."
+    "text": "Le train a été endommagé, mais #squad a sauvé l'équipage. Vous avez notre gratitude, Commandant."
   },
   "9fd43abb9cc55bfa2c51d008842ee4ba": {
     "text": "Le train a été endommagé, mais pas irréparable - grâce à vous, nos ingénieurs peuvent le remettre en marche."
   },
   "1e15473b71caded0dccb1e019bdf7913": {
-    "text": "Cette mission implique un monstre spécial qui explose lorsqu'il est tué. L'objectif principal est de ne pas le tuer, laissez-le s'enfuir."
+    "text": "Cette mission comporte un monstre ayant une capacité spéciale qui consiste à exploser lorsqu'il meurt. L'objectif principal est de ne surtout pas le tuer, laissez-le s'enfuir."
   },
   "da25fcf75f6876979380d31aba7e6380": {
-    "text": "Ces Veks Volants n'ont pas la courtoisie de simplement mourir - ils explosent et endommagent des régions entières. Manipulez-le, mais quoi que vous fassiez, ne le tuez pas!"
+    "text": "Ces Veks 'explosifs' n'ont pas la courtoisie de simplement mourir - ils explosent et endommagent des régions entières. Manipulez-le, mais quoi que vous fassiez, ne le tuez pas!"
   },
   "e049a51422b094776a044a4ebdaf1068": {
-    "text": "Ces Vek Volants explosent à leur mort ! Éloignez-le et par sécurité, ne le laissez pas exploser !"
+    "text": "Ces Vek 'explosifs' explosent à leur mort ! Éloignez-le et par notre sécurité, ne le laissez pas exploser !"
   },
   "cdad4198d4ce3080afffe0bb8d73f76f": {
-    "text": "Normalement, je ne vous demanderais pas retenir vos coups - mais l'un des Veks est Volatile, il explosera si vous le tuez. Manipulez-le à la place."
+    "text": "Normalement, je ne vous demanderais pas retenir vos coups - mais l'un des Veks est Explosif, il explosera si vous le tuez. Éloignez-le à la place."
   },
   "84fb86e48ec00acd5102d8c413e5461b": {
-    "text": "Des Veks Volants ont été repéré. Quand ils meurent, ils explosent et lancent un nuage de poussière qui brouille nos capteurs pendant des jours - ne le tuez pas, manipulez-le à la place."
+    "text": "Un Vek Explosif a été repéré. Quand ce type de Veks meurt, il explose et lance un nuage de poussière qui brouille nos capteurs pendant des jours - ne le tuez pas, Éloignez-le à la place."
   },
   "397ee6c75b3ce38fd2a967ed4e78b481": {
     "text": "Ce Vek est nuisible. Le Vek Volant ne meure pas tranquillement, il explose ... et emporte des districts entiers avec lui. Ne le tuez pas - faites le courir."
@@ -5828,58 +5830,58 @@
     "text": "Ces Veks Volants sont des bombes vivantes. Ne les tuez pas, éloignez-les avant qu'ils ne transforment la région en cratère."
   },
   "04e293d064ca5fd236801fba4cf9d0e7": {
-    "text": "Mon Processus d'Analyse Vek a déclenché une alerte. Un des Vek dans cette région va exploser à sa mort. Vous devez le manipuler sans le tuer."
+    "text": "Mon Processus d'Analyse Vek a envoyé une alerte. Un des Vek dans cette région va exploser à sa mort. Vous devez l'éloigner sans le tuer."
   },
   "649dba497c01a1c8c7601ccc771ccfd8": {
-    "text": "Nous avons détecté un Vek Volant dans ce secteur, et il est impératif qu'il ne ... détonne pas, ou il peut provoquer une réaction en chaîne."
+    "text": "Nous avons détecté un Vek Explosif dans ce secteur, et il est impératif à ce qu'il n'... explose pas, ou il pourra provoquer une réaction en chaîne."
   },
   "08ca920e6788c71ad315ccc87f0846ae": {
-    "text": "Interceptez les Veks dans ce secteur, mais ne faites pas de mal au Vek Volant - manipulez-le sans le tuer ou les dégâts seront catastrophiques."
+    "text": "Interceptez les Veks dans ce secteur, mais ne faites pas de mal au Vek Explosif - éloignez-le sans le tuer ou les dégâts seront catastrophiques."
   },
   "ebf2c2b3ba7db06bd709b3dc4fd3a31f": {
-    "text": "Nous avons identifié un Vek Volant dans ce secteur, Commandant - \"encouragez-le\" à se retirer - sans le tuer."
+    "text": "Nous avons identifié un Vek Explosif dans ce secteur, Commandant - \"encouragez-le\" à se retirer - sans le tuer."
   },
   "2a4e4445636a6cdbe523f30a2203e4fe": {
-    "text": "Je suis sûr que ce Vek explosif sera de retour, mais au moins rien n'a été endommagé. Hmm... Nous devrions doubler la protection contre les explosions des vestiges avant qu'il ne revienne ..."
+    "text": "Je suis sûr que ce Vek explosif sera de retour, mais au moins rien n'a été endommagé. Hmm... Nous devrions doubler la protection contre les explosions des Vestiges avant qu'il ne revienne..."
   },
   "86a96dbf75b1ede76a70eb60b9d95cc8": {
-    "text": "Si nous avions les ressources, nous pourrions capturer cette monstruosité volante et l'étudier. Au moins c'est parti maintenant, c'est un soulagement !"
+    "text": "Si nous avions les ressources, nous pourrions capturer cette monstruosité volante et l'étudier. Au moins elle est partie maintenant, c'est un soulagement !"
   },
   "8a8d0b67003747dbe7afd4a78656f320": {
-    "text": "Excellent. Nous devrions être en mesure de suivre ce Volatile et le Terra-Bomber lorsqu'il frappera une région abandonnée."
+    "text": "Excellent. Nous devrions être en mesure de suivre ce Vek Explosif et lui placer une Bombe de type Terra lorsqu'il frappera une région abandonnée."
   },
   "0b252d4667fba01f6839d0991be336e5": {
-    "text": "Un de ces jours, nous capturerons ce Volatile et trouverons comment transformer chaque Vek en un ... puis les mettre dans leurs propres ruches."
+    "text": "Un de ces jours, nous capturerons ce Vek Explosif et nous trouverons comment transformer chaque Vek en un Vek Explosif... ensuite nous les enverrons exploser leurs propres ruches."
   },
   "3939984adcc087ad5f1a837fd5a29e67": {
-    "text": "Je crée un nouveau sous-programme pour surveiller où les Veks vont. J'espère qu'ils se tiendront loin."
+    "text": "Je crée un nouveau sous-programme pour surveiller où ce Vek. J'espère qu'il se tiendra éloigné de nos régions."
   },
   "826d285158acb9419df25e41e4b4cbd9": {
-    "text": "Nous traquons le Volatile à présent - cela ne devrait plus être une menace. Nous félicitons vos efforts, Commandant, efficacement appliqués."
+    "text": "Nous traquons le Vek Explosif à présent - il ne devrait plus être une menace pour nous. Nous félicitons vos efforts, Commandant, bien joué."
   },
   "6bec4b2bebceea149e9bff0ca91f1468": {
-    "text": "Le Volatile se retire dans sa ruche. C'est une bonne nouvelle - nous devrions pouvoir le suivre et le faire exploser lorsqu'il atteindra le nid."
+    "text": "Le Vek Explosif se retire dans sa ruche. C'est une bonne nouvelle - nous devrions pouvoir le suivre et le faire exploser lorsqu'il atteindra le nid."
   },
   "52b14b83b73d47f2bce88b9d1def200c": {
     "text": "Il y avait une réserve naturelle dans le rayon de tir du Vek. L'une des dernières espèces de furets restantes est probablement éteinte maintenant."
   },
   "935a096a3340636a86b19fb6d3add634": {
-    "text": "L'un de nos Vestige Technologique souterrains sécurisés a été ouvert lorsqu'un Vek l'a explosé. Je ne peux qu'espérer que rien d'autre à l'intérieur n'a été endommagé !"
+    "text": "L'un de nos Vestige Technologique souterrains a été ouvert lorsque ce Vek a explosé. J'espère que rien d'autre à l'intérieur n'ait été endommagé !"
   },
   "cc7fef57e800ff7def09cc2d2b98a52c": {
-    "text": "Nous avons entendu l'explosion jusqu'à la Tour Corporative R.S.T. Je suppose que vous n'avez pas réussi."
+    "text": "Nous avons entendu l'explosion jusqu'à la Tour Corporative R.S.T. Je suppose que vous avez échoué."
   },
   "c4fee315d4fc7abaab2f6277b0855a40": {
-    "text": "Nous avons détecté l'explosion sur les capteurs ... la région est inutile pour nous maintenant."
+    "text": "Nous avons détecté l'explosion sur nos capteurs ... la région nous est inutile maintenant."
   },
   "c9ffb006bd64a4fc6a2e523e49de3cf4": {
-    "text": "Le Volatile a endommagé nos sous-structures ... nous allons avoir des équipes d'ingénieurs travaillant à tour de rôle pour fortifier l'île."
+    "text": "Le Vek Explosif a endommagé nos sous-structures... nos équipes d'ingénieurs devront travailler d'arracher pied pour fortifier l'île."
   },
   "403c3c05f18ae6aed3fb04dce4f0093f": {
-    "text": "Cette ex#lo...@ion^... end#^@gé... <connexion perdu>"
+    "text": "Cette ex#lo...@ion^... a end#^@gé... <connexion perdue>"
   },
   "0efe20e501e31045cbf03e735868b9f1": {
-    "text": "Nos capteurs ont détecté l'explosion. Il n'y a plus rien à faire maintenant, nous avons évacué les survivants que nous pouvions."
+    "text": "Nos capteurs ont détecté l'explosion. Il n'y a plus rien à faire maintenant, nous avons évacué tous les survivants que nous pouvions."
   },
   "9f9d0dcbdd64e9bc892d1e218c30cab6": {
     "text": "La détonation de Vek a perturbé les opérations de Détritus dans le secteur - nous devrons nous retirer et réévaluer notre plan d'attaque."
@@ -5888,7 +5890,7 @@
     "text": "Une sorte de ... masse gélatineuse s'approche de notre siège social ! Nous n'avons jamais rien vu de tel - vous devez l'arrêter !"
   },
   "1a987f4582f1bae32d17c9c732769314": {
-    "text": "Les capteurs ont détecté un Vek inconnu ... une sorte de créature gélatineuse massive. Quoi qu'il en soit, ne le laissez pas atteindre la tour !"
+    "text": "Les capteurs ont détecté un Vek inconnu ... une sorte de créature gélatineuse massive. Quoi qu'il en soit, ne la laissez pas atteindre la tour !"
   },
   "316e0ff6ae4a63b4e90e65a8a0f07e25": {
     "text": "Nos scientifiques croient que le Vek Suintant a conservé assez de sa biomasse pour rester une menace pour la région. Regrettable."
@@ -5897,13 +5899,13 @@
     "text": "Vous avez échoué à la mission. La créature conserve encore assez de masse pour se reformer et attaquer à nouveau."
   },
   "847c49cdcb90895b5a3dc60fbb5636d9": {
-    "text": "Ha ! Cela devrait chasser le Vek de notre Île des Archives pour de bon ! Merci pour vos efforts afin de préserver notre passé, #squad."
+    "text": "Ha ! Cela devrait chasser le Vek de notre Île Archive pour de bon ! Merci pour vos efforts afin de préserver notre passé, #squad."
   },
   "8b4b8c9aff2fc93265b75fc81d8821e2": {
-    "text": "Je ne sais pas comment vous avez réussi, mais la créature a été détruite - elle ne constitue plus une menace. Je vous remercie - et l'#squad."
+    "text": "Je ne sais pas comment vous avez réussi, mais la créature a été détruite - elle ne constitue plus une menace. Je vous remercie - vous et #squad."
   },
   "ec8cf5a172cafe5e29ec47ce24108a84": {
-    "text": "Une abominations Vek, une sorte de monstruosité ressemblant à une araignée, approche de notre quartier général. Lui et son apparition doit être arrêté !"
+    "text": "Une abominations Vek, une sorte de monstruosité ressemblant à une araignée, approche de notre quartier général. Lui et ses rejetons doivent être arrêtés !"
   },
   "ebbe802f1a7f9b2533a16c9f4defcd1a": {
     "text": "Une abomination Vek a été aperçue - elle engendre une horde d'araignées Vek et attaque la Tour R.S.T. . Nous avons besoin de vos Mechs maintenant."
@@ -7581,5 +7583,108 @@
   },
   "71ae938bf409d98e5878e704720676bc": {
     "text": "Robots de Réparation"
+  },
+  "97ef4a7bb403bc1f3707bf6dee361077": {
+    "text": "Hélas, avec cette abomination Vek encore vivante, les Veks restent une menace sérieuse dans la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.",
+    "review": true
+  },
+  "dc17299d1a4aecffb360400f76ce40cc": {
+    "text": "Si vous êtes vraiment le dernier espoir de l'humanité, alors nous sommes perdus. Cette araignée Vek attaquera encore, je pense que vous ne serez plus là pour nous aider la prochaine fois.",
+    "review": true
+  },
+  "54c39c47810e85f19191c186952ca1f5": {
+    "text": "Avec cette abomination Vek détruite, nous ne devrions plus voir l'apparition de nouvelles ruches sur notre île. Merci à vous et #squad, vous nous avez sauvé !"
+  },
+  "f5d323383423687362672a3f48ccd786": {
+    "text": "Je dois admettre que votre prestation était impressionnante. Nous pouvons souffler maintenant sachant que l'abomination Vek et ses rejetons sont morts"
+  },
+  "2130a1e410f454fd42310cb083f46116": {
+    "text": "Une de nos machines a pris le contrôle d'une ruche Vek et lance une attaque contre la Tour Pinnacle ! Vous devez la stopper !"
+  },
+  "63037c72988d45bbbde15e64204550d0": {
+    "text": "Je trouverai une façon d'éteindre cette machine. Elle est devenue trop dangereuse pour continuer d'exister. "
+  },
+  "d6a55600b05bad4efcacc5fd809c2985": {
+    "text": "Mes serveurs de données dans le Tour Pinnacle ont subi de graves dommages. Je dois supervision leurs réparations."
+  },
+  "9b8be802368c50dad6b3da3bd3fecdb2": {
+    "text": "Si seulement nous savions comment la machine contrôle les Veks, nous pourrions gagner cette guerre. "
+  },
+  "f0e647ca51b802aa767397ea4a376c9c": {
+    "text": "Une sorte d'abomination Vek approche de notre quartier général ! Elle doit être stoppée !"
+  },
+  "f3ddad3fe7ae88dc8143d7bf24081d85": {
+    "text": "La Tour Pinnacle est attaquée. Mon processeur d'analyse n'est pas capable d'identifier les espèces Veks qui nous menacent. Soyez prudent."
+  },
+  "28b2993b7a59f30cf98d6ae66586065a": {
+    "text": "Nos capteurs ont détecté un Vek que nous n'avions jamais rencontré auparavant ... Je crains qu'il soit plus coriace que les autres."
+  },
+  "52a51253f5ff7c5bc75e0b53d5c51556": {
+    "text": "Nous avons détecté un Vek inconnu s'approchant du hub Detritus. Nous rassemblons toutes les informations que nous pouvons, Commandant, mais nous avons besoin de votre escouade. ",
+    "review": true
+  },
+  "40a903d1c5da38f991afe5d4d2842bf8": {
+    "text": "Avec l'abomination Vek encore en vie, les Vek restent une menace sérieuse pour la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.",
+    "review": true
+  },
+  "a42270a3775d9a9a0333da944ea0e6f1": {
+    "text": "Si vous êtes vraiment le dernier espoir de l'humanité, alors nous sommes perdus. Cette araignée Vek attaquera encore, je pense que vous ne serez plus là pour nous aider la prochaine fois.",
+    "review": true
+  },
+  "f996b4fd479c9c013803fc98510aaed4": {
+    "text": "Je vais assigner un drone pour suivre et analyser ce nouveau Vek. Nous devrions obtenir plus de données sur lui pour mieux le combattre."
+  },
+  "ffa52b9881f27525a30a41fed0c58a33": {
+    "text": "Ce Vek monstrueux a survécu - et il nous attaquera probablement encore une fois. Si #squad ne peuvent pas le stopper, je crains que nos forces n'aient aucune chance."
+  },
+  "19f14038ae209002cc68f1f8cf6610e9": {
+    "text": "Vous avez survécu, mais hélas, notre quartier général est détruit... Nous avons perdu tellement des vies face à ces créatures !"
+  },
+  "754fbcb56d58a56afc0edfe1b02c3b95": {
+    "text": "Vous avez laissé notre quartier général se faire détruire par ces créatures. Nous comptions sur vous... Enfin JE comptais sur vous."
+  },
+  "f5863e6530ac690d339978c49bb4328a": {
+    "text": "Notre quartier général a été détruit. Nous évacuons tous les survivants que nous pouvons, mais plus de 30% du personnel de Detritus occupait le QG quand il est tombé."
+  },
+  "b7fa8b11a41b5cc5c96170c61a6e5af0": {
+    "text": "Avec cette abomination Vek détruite, nous ne devrions plus voir l'apparition de nouvelles ruches sur notre île. Vous nous avez sauvé !"
+  },
+  "f23594c7d7f01875c74b9b58ef375f84": {
+    "text": "Je dois admettre que votre prestation était impressionnante. Nous sommes plus serein maintenant que nous savons que cette Montruosité Vek n'est plus.",
+    "review": true
+  },
+  "89e18baaeafad439687298ba960fd57e": {
+    "text": "Des milliers de vie ont été sauvées aujourd'hui. Je suis reconnaissant pour le temps que vous avez sacrifié pour nous aider."
+  },
+  "bc930bb5da95b3bb89b505f401b1b6fb": {
+    "text": "L'abomination Vek est morte, et notre quartier général est intact. Vous et #squad avez nos remerciements. "
+  },
+  "3174584d3c30ee2867d4cc0e8215b3f9": {
+    "text": "Cette région possédait un ancien aérodrome qui peut vous fournir un support aérien. Nous ne connaissons pas encore les engins nouvellement découverts mais nous ferons de notre mieux."
+  },
+  "874a18e9d338a25ca55048990ba4d435": {
+    "text": "Nous avons retrouvé quelques avions de l'Ancienne Terre. Mon personnel n'est pas encore formé à leur pilotage mais nous allons faire de notre mieux !",
+    "review": true
+  },
+  "b7420e18458a41861015777631d5fa0c": {
+    "text": "J'étais fier de voir ces avions voler dans le ciel. Nous avons vraiment montré à ces Vek ce que la technologie de l'Ancienne Terre peut faire!"
+  },
+  "e6396bcb0481df592539e2cbab6f1dd3": {
+    "text": "Cette région est maintenant sans Veks ! J'espère que nos pilotes n'ont pas endommagé vos Mechs pendant la bataille."
+  },
+  "039c450a63d1cbbd3385a1eb98db57bf": {
+    "text": "Nous avons des ingénieurs qui travaillent sur deux chars de l'Ancienne Terre dans cette région. Ils devraient être opérationnels peu après votre arrivée."
+  },
+  "a5d63fda13b02f48fd36425b1797c015": {
+    "text": "Les Vek ont ​​été détruits - et la technologie de l'Ancienne Terre est parfaitement fonctionnelle ! On n'aurait pas pu espérer mieux!"
+  },
+  "d203e86c77e355d3f0d640b054833484": {
+    "text": "Les deux chars ont été détruits ? Mais ... ils étaient la seule autre défense que nous avions dans la région, nous sommes vulnérables sans eux."
+  },
+  "51affb8516c405335c460193f6c16cc5": {
+    "text": "C'est dommage que l'un des chars ait été détruit, mais au moins il nous en reste encore un pour notre exposition sur les conflits planétaires."
+  },
+  "efad920ecdeff2b03c1ce6cdcbe528f4": {
+    "text": "C'est dommage de voir l'un de nos chars détruit, mais au moins il a servi dans une bataille !"
   }
 }
