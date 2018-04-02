@@ -5499,19 +5499,19 @@
     "review": true
   },
   "3ce41ea06a8daec2ed1c120bdeec8910": {
-    "text": "Ne laissez pas la coque renforcée de votre Mech conduire à la complaisance. Réparer son exosquelette est un processus lourd en matériaux avec un coût considérable."
+    "text": "Ne laissez pas la coque renforcée de votre Mech vous conduire à de l'auto-satisfaction. Réparer son exosquelette est un processus lourd en matériaux avec un coût considérable."
   },
   "82ba0520b7cb1598d609f3060760ca07": {
-    "text": "Il semble que vous êtes prêt à risquer vos Mechs et leurs pilotes. Les deux sont nécessaires dans la guerre à venir. S'il vous plaît soyez plus prudent."
+    "text": "Il semble que vous êtes prêt à risquer vos Mechs et leurs pilotes. Les deux sont nécessaires dans la guerre à venir. S'il vous plaît, soyez plus prudent."
   },
   "e184caf0469556637bfcd79efa14b204": {
     "text": "Je n'ai eu d'autre choix que d'assigner toutes les divisions d'ingénierie d'urgence pour réparer votre Mechs. Cela compromettra sérieusement les efforts de défense de Détritus."
   },
   "d1ab9c219f5374d20c7f54d6cd595be1": {
-    "text": "Nos équipes de réparation rapportent - ah, je cite ... \"il y a plus de métal déchiqueté que de Mech\" et concluent avec un ... non optimiste ... rapport des chances de réparation."
+    "text": "Nos équipes de réparation rapportent - ah, je cite ... \"il y a plus de métal déchiqueté que de Mech\" et concluent avec un rapport plutôt pessimiste des chances de réparation."
   },
   "34eaa348f6fd11c89a26fcab9f434a1f": {
-    "text": "Nos pilotes rapportent que l'#squad est tellement endommagé qu'ils ne rentrent quasiment pas dans les baies d'amarrage. Nous devrons affecter du personnel supplémentaire pour les réparations."
+    "text": "Nos pilotes rapportent que #squad sont tellement endommagés qu'ils ne rentrent quasiment pas dans les baies d'amarrage. Nous devrons affecter du personnel supplémentaire pour les réparations."
   },
   "badf3a0928c7aea3fc4041126d1c229e": {
     "text": "Les anciennes centrales électriques de cette île peuvent à peine répondre aux besoins de votre Mech. S'il vous plaît essayez d'éviter tout dommage sur le Réseau !"
@@ -5520,16 +5520,16 @@
     "text": "Le Réseau ici peut à peine alimenter vos Mechs. Combattez efficacement, ou vous serez dans le rouge plus vite que vous ne le pensez."
   },
   "27fc6efd7df4ba983b21199ac451a526": {
-    "text": "Nos noyaux de réacteurs sont gelés comme tout le reste. Nous ne pouvons pas économiser de l'énergie supplémentaire. Faites du Réseau une priorité."
+    "text": "Nos noyaux de réacteurs sont gelés comme tout le reste. Nous ne pouvons pas économiser de l'énergie supplémentaire. Faites de la protection du Réseau une priorité."
   },
   "b988f712ee4679a909d4c5f507c049c7": {
     "text": "Ma puissance de sortie dans cette région est ... <Connection Perdu> ... <Puissance Réseau Faible>"
   },
   "46390ef172873a1bfffaf0618f1a7bfc": {
-    "text": "Le Réseau ici ne peut fournir qu'une puissance limitée. S'il subit des dégâts, vous et l'#squad n'auront peut-être pas assez de puissance pour combattre."
+    "text": "Le Réseau ici ne peut fournir qu'une puissance limitée. S'il subit des dégâts, vous et #squad n'auront peut-être pas assez de puissance pour combattre."
   },
   "0f3c99fb83a8eb4d7f4367d4780dc279": {
-    "text": "Le Réseau ici n'a jamais été destiné à alimenter quelque chose comme votre Mechs. Nous l'avons fait fonctionner, mais à peine - minimiser les dégâts sur le Réseau si vous le pouvez."
+    "text": "Le Réseau ici n'a jamais été destiné à alimenter quelque chose comme votre Mechs. Nous l'avons fait fonctionner, mais à peine - minimisez les dégâts sur le Réseau si vous le pouvez."
   },
   "468597a1ccb4696e93183c61c50e589a": {
     "text": "On dirait que le Réseau a tenu - grâce à votre gestion habile du combat. Nous avons besoin de tout le pouvoir dont nous disposons pour la guerre."
@@ -5538,7 +5538,7 @@
     "text": "Tout fonctionne à un rendement optimal. Je vous remercie."
   },
   "a0d64e9ac871f17200f1018ca21d5079": {
-    "text": "Le Réseau maintenu, Commandant. Le secteur a toujours le pouvoir. Détritus vous remercie et l'#squad."
+    "text": "Le Réseau maintenu, Commandant. Le secteur a toujours le pouvoir. Détritus vous remercie vous et #squad."
   },
   "fb82e117443c39fdf59b503fb4c76f2e": {
     "text": "L'alimentation du Réseau a été ininterrompue. Vous avez combattu de façon conservatrice et efficace, louable."
@@ -5556,43 +5556,43 @@
     "text": "Le Réseau a subi des dégâts considérables, et les pertes ... inacceptables. J'ai besoin de vous pour protéger mon peuple, ne les laisser pas se faire massacrer !"
   },
   "ffdb4d213196ad7e62d3bf976d605497": {
-    "text": "Etes vous venu du futur pour nous ruiner ? Le Réseau est endommagée, nous n'avons aucune idée si nous pouvons le réparer - et les rapports d'accident ? Ils arrivent toujours."
+    "text": "Êtes-vous venu du futur pour nous ruiner ? Le Réseau est endommagée, nous n'avons aucune idée si nous pouvons le réparer - et les rapports des victimes ? Ils arrivent toujours."
   },
   "8a8345376ac0c677bf778d82ac489981": {
-    "text": "Avec autant de dégâts sur le Réseau Électrique, en plus de mes frères mécaniques qui doivent s'arrêter. D'autres sont endommagés de manière permanente et ne peuvent pas être réactivés."
+    "text": "Avec autant de dégâts sur le Réseau d'Énergie, des frères mécaniques supplémentaires doivent s'arrêter. D'autres sont endommagés de manière permanente et ne peuvent pas être réactivés."
   },
   "5b00206d02e9dd2e169f71ae67780efd": {
     "text": "Le Réseau a subi trop de dégâts durant le combats, Commandant. Détritus devra réévaluer ses chances de survie dans la région."
   },
   "97f8b095b73cc3fae6b2c54e0f675fbd": {
-    "text": "Le Réseau s'est effondré. Nous devrons rediriger la puissance des secteurs déjà détruits de Détritus pour garder l'île intacte."
+    "text": "Le Réseau s'est effondré. Nous devrons rediriger la puissance des secteurs de Détritus déjà en difficulté pour garder l'île intacte."
   },
   "ed19dc1eb3881eb259724d844bb6e3ec": {
     "text": "Je sais que vous avez fait de votre mieux avec le peu que le Réseau pouvait fournir, Commandant. C'était une maigre chance, mais nous avons dû le prendre."
   },
   "d7d600690cd67ab3fe86db9206135420": {
-    "text": "Les Veks se retirent lorsque la bataille se déroule contre eux, puis se regroupent et attaquent à nouveau ailleurs. Essuyez-les pour de bon cette fois!"
+    "text": "Les Veks se retirent lorsque la situation sur le terrain est défavorable, puis ils se regroupent et attaquent à nouveau ailleurs. Balayez-les pour de bon cette fois!"
   },
   "d25eb07abcda082c509ccbf6b173715d": {
-    "text": "Ne laissez pas un seuls Veks survirent - s'ils le font, ils ne feront que créer une autre ruche et nous frapper à nouveau. Tuez-les tous."
+    "text": "Ne laissez pas un seul Vek survivre - si c'est le cas, ils recréeront une autre ruche et nous frapperons à nouveau. Tuez-les tous."
   },
   "beabed4720a6eb4ab13e77d20be23f12": {
     "text": "Exterminez tous les Veks - si vous ne le faites pas, nous devrons de nouveau mener cette bataille dans quelques jours. N'en laissez pas un seul s'échapper."
   },
   "6366547c70411d0f100ddab8a81e5a94": {
-    "text": "Continuez à tirer jusqu'à ce que chaque Vek soit mort - puis tirez-les à nouveau. N'en laissez aucun s'échapper, sinon ils nous essaimeront de nouveau en quelques jours."
+    "text": "Continuez à tirer jusqu'à ce que chaque Vek soit mort - puis tirez leur dessus à nouveau. N'en laissez aucun s'échapper, sinon ils nous reviendront de nouveau en quelques jours."
   },
   "0bc91cf98018dd08b8dc59343afdcb26": {
     "text": "Toute vie a de la valeur. Mais je ferai une exception pour les Veks. Ils doivent tous être éliminés."
   },
   "e4d0f5e61b51dfc2e55c39a31ed287a6": {
-    "text": "Ces Veks étaient responsables de la perte de dix millions de vies de machines vivants sur des fermes serveurs. Arrêtez-les avant que plus de vies ne soient perdues."
+    "text": "Ces Veks étaient responsables de la perte de dix millions de vies artificielles qui vivaient à côté de fermes serveurs. Arrêtez-les avant que plus de vies ne soient perdues."
   },
   "2390278b3a336ccfe16da62de5b086bb": {
-    "text": "Mon créateur ne m'a pas appris à rechercher la «vengeance», mais elle n'a pas eu à regarder l'horreur du Vek."
+    "text": "Mon créateur ne m'a pas appris à rechercher la «vengeance», mais elle n'a pas eu à regarder l'horreur Vek."
   },
   "c6ecbea5d92fded7783a5d528c39c8b8": {
-    "text": "Ces Veks ont détruit trois routines d'I.A. en gestation qui étaient dans l'un de nos Vestiges Sentimentaux. Ils doivent être empêchés d'assassiner plus de mes enfants."
+    "text": "Ces Veks ont détruit trois routines d'I.A. en gestation dans l'un de nos Vestiges. Nous devons les empêcher d'assassiner d'autres de mes enfants."
   },
   "f8dff6e44f63442e7e7a13b53c2d3045": {
     "text": "La présence Vek doit être réduite à 0% sinon ils se regrouperont et attaqueront à nouveau."
@@ -5604,55 +5604,55 @@
     "text": "Ces Veks ne nous causeront plus de problèmes ! Bien joué, à tous !"
   },
   "4620d8246ab78a08e0ade00430cb4f41": {
-    "text": "Les Veks attaquants ont été anéantis ! Bon spectacle, #squad !"
+    "text": "Les Veks attaquants ont été anéantis ! Beau spectacle, #squad !"
   },
   "a49ded1735196c3dcc9abafe88ec47e2": {
-    "text": "Un essaim Vek de moins à s'inquiéter. J'ai lu les rapports de bataille - je suis impressionné. Vous et l'#squad étaient très minutieux dans l'extermination."
+    "text": "Un essaim Vek de moins à s'inquiéter. J'ai lu les rapports de bataille - je suis impressionné. Vous et #squad avez été très minutieux dans l'extermination."
   },
   "c17f78f7c3e6c4934ef873cbef495b47": {
-    "text": "Votre rigueur dans l'assainissement sur le champ de bataille est appréciée. Les équipes de balayeurs signalent qu'aucun Vek n'a survécu."
+    "text": "Votre rigueur dans l'assainissement sur le champ de bataille est appréciée. Les équipes de nettoyage signalent qu'aucun Vek n'a survécu."
   },
   "60652bb6c8673b3d61cdc5bacc30acee": {
-    "text": "Premièrement, nous brûlons les Veks à la surface, puis nous creusons et nous exterminons comme vous l'avez fait ici."
+    "text": "Premièrement, nous brûlons les Veks à la surface, puis nous creuserons et nous les exterminerons comme vous l'avez fait ici."
   },
   "f85a26e87813b7193c8d4b29eee16e48": {
-    "text": "Mes capteurs souterrains ne signalent aucun signe de vie. Les Veks sont tous morts. Vous avez rendu le secteur sûr à nouveau."
+    "text": "Mes capteurs souterrains ne signalent aucun signe de vie. Les Veks sont tous morts. Vous avez rendu le secteur à nouveau sûr."
   },
   "b3e33cd94c5464d51fe8fdd977277bdb": {
-    "text": "Les rapports mettent la présence de Vek dans votre secteur à 0% et le succès de la mission à 100%. Vous et l'#squad avez nos remerciements."
+    "text": "Les rapports indiquent que la présence de Vek dans votre secteur est à 0% et le succès de la mission à 100%. Vous et #squad avez nos remerciements."
   },
   "42b7ac696d4afac6495c51858d6a1e00": {
-    "text": "Les Veks ne sont plus, et un autre secteur a été récupéré. Nous vous remercions, Commandant - vous et l'#squad."
+    "text": "Les Veks ne sont plus, et un autre secteur a été récupéré. Nous vous remercions, Commandant - vous et #squad."
   },
   "70a6935996907d7c80e3d8a82af649ae": {
     "text": "Votre intervention a été couronnée de succès à 100%, Commandant. Les capteurs enregistrent aucune activité Vek dans le secteur."
   },
   "dda373800c3e91d1e90653abef15a555": {
-    "text": "Vous laissez un peu de Veks revenir à leurs ruches souterraines. Malheureusement, ils réapparaîtront bientôt et attaqueront une autre région."
+    "text": "Vous avez laissé quelques Veks revenir à leurs ruches souterraines. Malheureusement, ils réapparaîtront bientôt et attaqueront une autre région."
   },
   "43f7f4c4923bbd43026e0dfcfcbf50a5": {
-    "text": "Un jour, nous découvrirons où ces Veks se sont enfuis pour leur livrer le combat ! L'Ancienne Terre n'aurait pas pris cette place !"
+    "text": "Un jour, nous découvrirons où ces Veks se sont enfuis pour leur livrer le combat ! L'Ancienne Terre ne serait pas restée sans rien faire !"
   },
   "520282a22b46655d3b516f1fe11fa7cc": {
-    "text": "Vous laissez échapper un Vek ? Inacceptable - vous n'avez pas gagné, vous avez simplement retardé le combat."
+    "text": "Vous avez laissé échapper un Vek ? C'est inacceptable - vous n'avez pas gagné, vous avez simplement retardé le combat."
   },
   "2d53e76eefae63ff7e731a697e601985": {
     "text": "Si vous ne pouvez pas contenir une zone et la nettoyer des Veks, je trouverai quelqu'un qui le pourra."
   },
   "1240aba1ec8a64464b8874d2b860af13": {
-    "text": "Les équipes de balayeurs signalent déjà que les Veks survivants se sont enfouis trop profondément pour frapper - probablement en train de faire une autre ruche."
+    "text": "Les équipes de nettoyage signalent déjà que les Veks survivants se sont enfouis trop profondément pour être attaqués - probablement en train de faire une autre ruche."
   },
   "5636ae8071a8941a5aab4827e97d20d7": {
-    "text": "J'avais besoin d'un nettoyage complet de Veks, pas d'une tentative à moitié assénée."
+    "text": "J'avais besoin d'un nettoyage complet de Veks, pas d'une tentative à moitié ratée"
   },
   "06264cc1aa1cbce95ae5d9412eca390c": {
-    "text": "Je pensais que j'étais clair - tous les Veks doivent mourir. Tous. Chacun. Seul."
+    "text": "Je pensais que j'avais été clair - tous les Veks doivent mourir. Tous."
   },
   "d55b5d6bc863a4756b4ee25a160e2343": {
-    "text": "Votre échec ici a mis en danger d'autres régions de l'île. Je dois réaffecter des ressources pour les protéger."
+    "text": "Votre échec ici a mis en danger d'autres régions de l'île. Je dois réaffecter mes ressources pour les protéger."
   },
   "68423f718a67500c19d06f911868f6c4": {
-    "text": "Les capteurs rapportent que les Veks se sont échappés, et ils se reproduisent même maintenant. Je sais que vous avez fait de votre mieux, Commandant, mais ce n'était pas une victoire."
+    "text": "Les capteurs rapportent que les Veks se sont échappés, et sont en ce moment même en train de se reproduise. Je sais que vous avez fait de votre mieux, Commandant, mais ce n'était pas une victoire."
   },
   "33b6bed59c14cf6da1358660c18af80a": {
     "text": "Vous avez chassé les Veks, mais assez ont survécu pour rétablir leur nombre dans le prochain cycle de reproduction - alors nous devrons les combattre à nouveau."
@@ -5661,31 +5661,33 @@
     "text": "Objectif bonus pour"
   },
   "bd0ca6be53b0f3d2886fd53fcb52574e": {
-    "text": "Bloqué"
+    "text": "Bloqué",
+    "review": true
   },
   "591d227136cb2c16b73630e65faf5336": {
-    "text": "Vek d'émergence en premier lieu. Comme il ne bloque pas * tout * les Veks, et même si les Veks vous font un blocage, il est difficile de donner une bonne excuse pour expliquer en quoi c'est une bonne chose !"
+    "text": "Vek d'émergence en premier lieu. Comme cela ne bloque pas *tous* les Veks, et même les Veks que vous pourriez bloquer peuvent apparaître, il est difficile de donner une bonne excuse pour expliquer en quoi c'est une bonne chose !",
+    "review": true
   },
   "3fd245c4642668d0ada1c54e6cc7b8c8": {
-    "text": "Cette région a toujours des anciennes routes vierges et un design topiaire ! Ne laissez pas la surface aux Veks, ils vont faire des ravages sur elle!"
+    "text": "Cette région a toujours des anciennes routes vierges et un design topiaire ! Ne laissez pas la surface aux Veks, ils la ravageront !"
   },
   "e6db1c3d983092e41ca852af32fced2a": {
-    "text": "Cette région est l'une des dernières terres cultivable de R.S.T. Ne laissez pas les Veks le détruire."
+    "text": "Cette région est l'une des dernières terres cultivables de R.S.T. Ne laissez pas les Veks la détruire."
   },
   "8b15cd4d38a0757f14f658344b3587f1": {
     "text": "Il y a des micro-robots qui couvrent la surface de cette région. Si les Veks brisent la surface, cela pourrait coûter des millions de vies."
   },
   "ecf958dabbf698f9c1cc69b96e5c9a29": {
-    "text": "Un écosystème fragile de nouvelle vie mécanique évolue ici dans les plaines silicatées. Si trop de Veks les percent, l'écosystème sera dévasté."
+    "text": "Un écosystème fragile de nouvelle vie mécanique évolue ici dans ces plaines silicatées. Si trop de Veks les creusent, l'écosystème sera dévasté."
   },
   "9798c95cdcd0cd600736e03e72143bed": {
-    "text": "L'A.C.I.D. peut détruire des ruches sous ce secteur - mais nous avons besoin que vous empêchiez les Veks de faire surface, donc l'A.C.I.D. a le temps de faire son travail."
+    "text": "L'A.C.I.D. peut détruire des ruches sous ce secteur - mais nous avons besoin que vous empêchiez les Veks de faire surface, le temps que l'A.C.I.D. fasse son travail."
   },
   "7aeaa1cf7a5f84124d588ed5420da40b": {
-    "text": "Nous avons essayé de forer dans les ruches Veks dans cette région, mais ils font surface pour s'échapper. Gardez les autant que possible piégé sous terre."
+    "text": "Nous avons essayé de forer dans les ruches Veks dans cette région, mais ils remontent à la surface pour s'échapper. Gardez les autant que possible piégés sous terre."
   },
   "701afc1da9b7aaf88f78defbe7eb7cab": {
-    "text": "Avec les Veks piégé sous terre, nos reliques de l'Ancienne Terre à la surface sont sûres, et les gens aussi. Merci, #squad."
+    "text": "Tant que les Veks restent piégés sous terre, nos reliques de l'Ancienne Terre et les gens sont en sécurité. Merci, #squad."
   },
   "22ab1bf679dc7bbe00d35e3fc941e904": {
     "text": "La façon dont vous avez empêché les Veks de faire surface était impressionnante. Et je ne suis pas facilement impressionné. Vous et l'#squad ont mon respect."
