@@ -882,7 +882,7 @@
     "text": "Passif"
   },
   "be7938e9a87618a98a7b6b47e12aa44b": {
-    "text": "Prime",
+    "text": "Principal",
     "review": true
   },
   "bf95767d6b787321422729e56f902e63": {
@@ -3938,7 +3938,7 @@
     "text": "Force Amplifiée"
   },
   "2f9bfbc4b79be77c965f19f2e5df679a": {
-    "text": "Tous les Vek subissent +1 de dégât provenant de Choc et ils bloquent les Vek émergents.",
+    "text": "Tous les Vek subissent +1 de dégât supplémentaire quand ils sont poussés contre un objet ou quand ils bloquent l'apparition d'autres Veks.",
     "review": true
   },
   "51f96c06246a4f8a57fbba0f895f8b69": {
@@ -4067,7 +4067,8 @@
     "text": "Repousse toutes les tuiles adjacentes."
   },
   "994bfa8c6c1d7f35af26357afa40b523": {
-    "text": "Lance Principale"
+    "text": "Lance",
+    "review": true
   },
   "b69ef338d22ec50a69d23207f8c3b5c0": {
     "text": "Poignarde plusieurs tuiles et pousse la tuile touchée la plus éloignée."
@@ -5107,26 +5108,30 @@
     "text": "Aérodrome"
   },
   "493b65fe311f8c609142c57323ba122c": {
-    "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique (I.A.)."
+    "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique (I.A.).",
+    "review": true
   },
   "e9c9102ec8ab898399b304e01c4470ce": {
-    "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique Archive."
+    "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique Archive.",
+    "review": true
   },
   "462fbe0f3a0d372b274aa377e7f43c34": {
-    "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique R.S.T."
+    "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique R.S.T.",
+    "review": true
   },
   "9ecaa7178993757a552f149481fb4b2c": {
-    "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique Pinnacle (I.A.)."
+    "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique Pinnacle (I.A.).",
+    "review": true
   },
   "632dbfa9409986e18573e75ff87a0afe": {
     "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique Détritus"
   },
   "66dbb5914dd52298c9273ebe57d43c5f": {
-    "text": "Ralph Karlsson [Unknown] Ralph a franchi la brèche plus de fois qu'il ne peut compter - il y a eu au moins une centaine de ligne temporelle qu'il a regardé s'effondrer (à l'heure actuelle, il n'a pas encore réussi à en sauver une seule). Ce cycle continu de guerre l'a rendu impitoyablement efficace, étant disposé a ne pas dormir s'il le fallait, car il sentait que chaque seconde compte ... et chaque seconde qui s'échappe pourrait être le moment critique provoquant la perte des Veks. Il a parcouru un long chemin depuis le soldat aux Large-Yeux qu'il fut en premier (il y a plusieurs vies de cela il semblerait, et c'était le cas), et il essayait d'éviter d'avoir de l'attachements pour les autres pilotes, car il savait qu'ils risquaient de mourir au combat. Il n'a jamais dit de quelle île il était originaire, mais il y aurait des suspicions sur le fait qu'il viendrait de quelque part au delà de l'archipel Corporative ... Peut-être même venant d'une station spatiale. Si cela est vrai, Ralph a refusé de le confirmer, bien qu'il y a quelques lignes temporelles, Bethany, Harold et Isaac ont observé l'architecture du Pod Temporel comme étant un modèle de technologie spatiale (notamment une capsule de lancement d'une fusée ... ou une capsule de sauvetage d'une fusée).",
+    "text": "Ralph Karlsson [Unknown] Ralph a franchi la brèche temporelle plus de fois qu'il ne peut compter - il a assisté à la chute d'au moins une centaine de lignes temporelles (à l'heure actuelle, il n'a même pas encore réussi à en sauver une seule). Ce cycle infernal de guerres continuelles l'a rendu impitoyablement efficace, allant jusqu'à ne pas dormir du tout s'il le fallait, car, pour lui, chaque seconde compte... et chaque seconde qui s'échappe pourrait être le moment critique qui provoquerait notre perte face aux Veks. Il a parcouru un long chemin depuis le jeune soldat novice qu'il fut (c'était il y a une éternité mais il faut bien commencer quelque part), et il essayait d'éviter de tisser des liens avec les autres pilotes, car il savait qu'ils risquaient inévitablement de mourir au combat. Personne ne sait d'où il vient, peut-être de quelque part au delà de l'archipel Corporative, qui sait... Peut-être vient-il d'une station spatiale ? Et si cela est le cas, Ralph a toujours refusé de le confirmer, bien qu'il y a quelques lignes temporelles, Bethany, Harold et Isaac ont remarqué que la modèle de construction du Pod Temporel pouvait faire être issu de modèles d'engins spatiaux (notamment une capsule de lancement d'une fusée... ou une capsule de sauvetage d'une fusée).",
     "review": true
   },
   "26dc82d2d190682b34f07c9b37e4293f": {
-    "text": "Bethany Jones [Pinnacle] Bethany Jones a travaillé comme ingénieur physicien chez Pinnacle, aidant à concevoir et affiner la technologie du bouclier Pinnacle. Ayant seulement grandi sur Pinnacle, elle est quelque peu à l'abri des regards par rapport aux autres îles, et elle a tendance à faire confiance aux autres, les prenant au mot. Elle aime le froid et la neige, mais elle est aussi excitée par les opportunités de visiter les autres îles dans l'archipel Corporative et d'apprendre des gens s'y trouvant. Alors que Isaac et elle sont techniquement frères et sœurs, il n'y a pas eu de ligne temporelle où ils étaient tous les deux vivants pour qu'ils réalisent cela (soit Bethany meurt à un jeune âge, soit Isaac meurt - seulement l'un d'entre eux pouvait être sauvé d'une maladie chronique de Utérus b/c que leurs parents avaient). Bethany a eu une éducation plus positive qu'Isaac, et son génie est davantage tempéré par plus d'empathie et d'optimisme que Isaac (qui a eu une enfance beaucoup plus difficile).",
+    "text": "Bethany Jones [Pinnacle] Bethany Jones a travaillé comme ingénieure physicien chez Pinnacle, aidant à concevoir et affiner la technologie de bouclier propre à Pinnacle. Ayant grandi sur l'Île Pinnacle et n'ayant jamais voyagé sur les autres îles, elle est d'un caractère plutôt naïf et a tendance à faire confiance aux autres, les prenant au mot. Elle adore le froid et la neige, mais elle est également très enthousiaste dès qu'il s'agit de visiter les autres îles dans l'archipel Corporative et d'apprendre à connaître les gens qui y vivent. Alors que Isaac et elle sont techniquement frères et sœurs, il n'y a aucune de ligne temporelle où ils sont tous les deux vivants au même moment (soit Bethany meurt à un jeune âge, soit Isaac meurt - seulement l'un d'entre eux pouvait être sauvé d'une maladie chronique que leurs parents avaient). Bethany a eu une éducation plus positive qu'Isaac, et son génie est davantage tempéré par plus d'empathie et d'optimisme qu'Isaac (qui a eu une enfance beaucoup plus difficile).",
     "review": true
   },
   "8c46c91cee3cc5cbd262ac34749c23a8": {
@@ -5917,10 +5922,10 @@
     "text": "et"
   },
   "0533a9324cee976bc12beaf00bbc6d02": {
-    "text": "Détruire 2 montagnes"
+    "text": "Détruire 2 Montagnes"
   },
   "d7c8c85bf79bbe1b7188497c32c3b0ca": {
-    "text": "Échoué"
+    "text": "Échec"
   },
   "8045a0a6c688b0635e3caccc408a1446": {
     "text": "Générique"
@@ -5932,7 +5937,8 @@
     "text": "générique"
   },
   "3135fb9c8e39e9599dfbdc7fa766fcbe": {
-    "text": "terre brûlée"
+    "text": "de la terre brûlée",
+    "review": true
   },
   "978b697963cfc5abfced8a4b611977c9": {
     "text": "An"
@@ -5941,7 +5947,7 @@
     "text": "Réactivation"
   },
   "ce8bccdf33884089050e13fff7d0076b": {
-    "text": "Abe Isamu [R.S.T.] Parfois, en plaisantant appelé \"Honest Abe\" dans les lignes temporelles précédents, rien ne pouvait être plus éloigné de la vérité. Abe a servi comme un «nettoyeur» (assassin et travail de «boîte noire») pendant les premières années de l'arrivée au pouvoir du PDG Kern, et il a pris beaucoup de noms et d'identités au seins des services de R.S.T. traitant les «questions difficiles» qui se poseraient et qui devraient être traitées par la société. Il est impitoyable lorsqu'il reçoit un objectif (dans ce cas, combattre les Veks), et sert de support au sol dans sa ligne temporelle originale avant de voler le Mech d'un pilote mourant (?) et d'utiliser sa technologie pour s'échapper de la ligne temporelle après que l'escouade périssent sur l'île volcanique. Depuis lors, \"Abe\" a suivi les ordres de son premier PDG Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne temporelle soit vaincu ... Une tâche sans espoir, mais \"Abe\" se rend compte qu'il n'a pas grand-chose d'autre que se battre, et même s'il restait dans une ligne temporelle qu'il a sauvée, il ne pouvait pas faire face à l'idée que d'autres lignes temporelles étaient encore en péril. Il n'a pas encore rencontré sa copie, et si oui, il ne peut pas les reconnaître en raison de la chirurgie et de la fluctuation des identités que son travail exigeait avant l'attaque Vek.",
+    "text": "Abe Isamu [R.S.T.] Parfois appelé \"Honest Abe\" pour rire dans les lignes temporelles précédentes, rien ne pouvait être plus éloigné de la vérité. Abe a servi comme un «nettoyeur» (assassin et travail de «boîte noire») pendant les premières années de l'arrivée au pouvoir du PDG Kern, et il a pris beaucoup de noms et d'identités au seins des services de R.S.T. traitant les «questions difficiles» qui se poseraient et qui devraient être traitées par la société. Il est impitoyable lorsqu'il reçoit un objectif (dans ce cas, combattre les Veks), et sert de support au sol dans sa ligne temporelle originale avant de voler le Mech d'un pilote mourant (?) et d'utiliser sa technologie pour s'échapper de la ligne temporelle après que l'escouade périssent sur l'île volcanique. Depuis lors, \"Abe\" a suivi les ordres de son premier PDG Kern et est déterminé à continuer à se battre jusqu'à ce que chaque Vek dans chaque ligne temporelle soit vaincu ... Une tâche sans espoir, mais \"Abe\" se rend compte qu'il n'a pas grand-chose d'autre que se battre, et même s'il restait dans une ligne temporelle qu'il a sauvée, il ne pouvait pas faire face à l'idée que d'autres lignes temporelles étaient encore en péril. Il n'a pas encore rencontré sa copie, et si oui, il ne peut pas les reconnaître en raison de la chirurgie et de la fluctuation des identités que son travail exigeait avant l'attaque Vek.",
     "review": true
   },
   "a53aa50bdbc9b2443e69a3aaf6067516": {
@@ -6383,7 +6389,7 @@
     "text": "#squad, restez à l'écart de la rampe de lancement ou vous serez réduit en cendres !"
   },
   "6d99c3fb39789670bbdf16455ed93895": {
-    "text": "#squad, vous devez être félicité - les capteurs confirment que les Veks ont été repoussés. Le secteur est à nouveau le nôtre."
+    "text": "Vous devez être félicité - les capteurs confirment que les Veks ont été repoussés. Le secteur est à nouveau le nôtre."
   },
   "b9f0c53fbb8536119a213bb96e5795c4": {
     "text": "#squad ... Nous avons détecté plusieurs points d'émergence potentiels de Vek . Soyez prêt."
@@ -6477,7 +6483,7 @@
     "text": "1 pour l'#squad ! Vek : 0 !"
   },
   "d84795f8f8fa671ca9301f4d73bca3ad": {
-    "text": "100% des cuves ont été détruites et les produits chimiques se libèrent. Nos capteurs détectent déjà une activité Vek réduite dans la région."
+    "text": "100% des cuves ont été détruites et les produits chimiques ont été libérés. Nos capteurs détectent déjà une activité Vek réduite dans la région."
   },
   "73e2ddbb8dcd6422f1b760037cdc9be6": {
     "text": "100% de succès. C'est le nombre que le PDG Singh aime voir."
@@ -6867,7 +6873,7 @@
     "text": "Une lame doit être affûtée, mais pas assez pour qu'elle se brise."
   },
   "9f23c06c83d8177267431d5cef5b9196": {
-    "text": "un affichage de la force"
+    "text": "une démonstration de force"
   },
   "b75c6fabd7018ee28757ba16ab205d39": {
     "text": "Un peu plus comme ça, et nous pouvons l'emballer."
@@ -6968,7 +6974,7 @@
     "review": true
   },
   "89f3781bb18ac83695b51c70f5b550ca": {
-    "text": "Un succès, Commandant - avec votre aide, un nombre suffisant de Vek ont été infligés par l'A.C.I.D. pour études."
+    "text": "C'est un succès, Commandant - avec votre aide, nous avons obtenu un nombre suffisant de cadavres Vek infectés par de l'A.C.I.D."
   },
   "623b40262579b4daab77c670ed069835": {
     "text": "Une capsule temporelle entre dans notre zone de travail."
@@ -7686,5 +7692,482 @@
   },
   "efad920ecdeff2b03c1ce6cdcbe528f4": {
     "text": "C'est dommage de voir l'un de nos chars détruit, mais au moins il a servi dans une bataille !"
+  },
+  "b864bf6d7e7dbf9272d1fc4cced219de": {
+    "text": "Ces satellites étaient la pièce maîtresse de notre exposition \"La Course pour découvrir l'espace\" , mais ils s'avèreront plus utiles pour la télémétrie de nos défenses."
+  },
+  "2bd7bf89dd2aeb22fabdd4129a997683": {
+    "text": "Ces satellites ont été récupérés de leur orbite il y a longtemps, mais ils devraient encore fonctionner suffisamment bien pour nous aider à détecter l'activité Vek à travers l'île."
+  },
+  "23ec2d5595fe54d5b29f2f94943a7168": {
+    "text": "Nous avons amélioré ces anciens satellites et devrions pouvoir les utiliser. Avec un peu de chance, ils survivront au lancement !"
+  },
+  "adc3f4a53e85a205282634e66ed97ae9": {
+    "text": "Nous avions l'intention de lancer ces satellites depuis un certain temps, j'espère que vos Mechs pourront empêcher les Veks de saboter nos efforts."
+  },
+  "39adf439d0b00ac360caf12077f7f7eb": {
+    "text": "Nous récupérons déjà des données des satellites en orbite. Excellent travail, dorénavant, nous serons en mesure de prévoir et contrer les attaques Veks !"
+  },
+  "e38f27379b76baa58f2044b16b79485d": {
+    "text": "J'ai rêvé de lancer ces satellites dans l'espace toute ma vie ! C'est incroyable de voir que la technologie de l'Ancienne Terre en action et continuant de remplir son objectif."
+  },
+  "2643795350ed42cc896c4b3f5c1c3644": {
+    "text": "De mon point de vue personnel, j'étais toujours triste de voir ces satellites exposés ainsi et prenant la poussière. Maintenant qu'ils sont dans l'espace, ils aident l'humanité et c'est pour ça qu'ils ont été créés !",
+    "review": true
+  },
+  "60af190bd64b598e27c2a86bdfc5c519": {
+    "text": "Encore plus d'artéfacts détruits par les Vek et avec eux l'amenuisement de nos chances d'établir un système d'alerte prédictif",
+    "review": true
+  },
+  "57a52931f7529a840271c2894c9cea70": {
+    "text": "Mon grand-père a récupéré ces satellites pour la Corporation Archive - de nombreuses vies auraient pu être sauvées si nous avions pu les remettre en orbite. C'est une tragédie de les avoir tous les deux perdus."
+  },
+  "e1d8b39b037feebbb39f3d92b5b03ed6": {
+    "text": "Il aurait été préférable de mettre les deux satellites en orbite, mais au moins l'un d'eux est là-haut et nous transmet des informations vitales !"
+  },
+  "7d4177559f90a3240f95e35223cfd248": {
+    "text": "Je soupçonne que les scientifiques de l'Ancienne Terre n'auraient pas été satisfait d'un taux de réussite de 50%, mais c'est le meilleur résultat que nous aurions pu avoir, pour nous, simples amateurs !"
+  },
+  "41c4772812a2c2979026ea82270f95d8": {
+    "text": "Nos techniciens ont récemment mis en service une batterie d'artillerie de l'Ancienne Terre ! S'il vous plaît, assurez-vous à ce qu'elle survive au combat."
+  },
+  "11a78b4a5322969f4d516bf3f3cba645": {
+    "text": "Excellent travail, nous laisserons la batterie d'artillerie opérationnelle et prête au cas où les Veks décideraient de revenir !"
+  },
+  "97024fb35fd8ae6cb25a6856f5cb2ee2": {
+    "text": "Nous espérions étudier cette batterie d'artillerie pour étendre notre force de frappe militaire. Maintenant, c'est juste un autre tas de ferrailles sans valeur."
+  },
+  "c07eac794a96a4ac861713bf96710110": {
+    "text": "L'Ancienne Terre produisait des quantités massives d'explosifs. Cette région est jonchée de munitions encore actives, regardez bien où vous mettez les pieds !"
+  },
+  "764fa1a939d05933c202ed15b3c899fd": {
+    "text": "Il y a des centaines d'années, beaucoup de mines de proximité de l'ancienne Terre ont été ensevelies dans cette région. Nous les désarmions petit à petit - mais nous nous sommes dit : pourquoi ne pas les utiliser contre les Veks ?"
+  },
+  "e0f407b4404a3f260e747105c5fbdc6c": {
+    "text": "Nous menions des fouilles dans cette région lorsque les Veks ont ​​utilisé des mines de proximité de l'Ancienne Terre. Vous pourrez peut-être les utiliser contre les Veks !",
+    "review": true
+  },
+  "4a18b97217a32914e9f48146d582b78c": {
+    "text": "Regarder ces mines exploser les Veks était un vrai régal ! Et cela a l'autre avantage de déminer les environs pour que nos forces puissent se déplacer sereinement dans la région.",
+    "review": true
+  },
+  "63ce11854b9ca5fffce007fe4eb6c797": {
+    "text": "Avec le départ des Veks et le déminage de certaines mines de proximité, nous pouvons maintenant établir une présence militaire permanente dans la région !"
+  },
+  "18bc1bb1303b8910afc8d424e3bb8fde": {
+    "text": "La destruction du barrage dans cette région est un mal nécessaire - cela créera une barrière naturelle entre nous et les Veks fouisseurs."
+  },
+  "78fefd471ebd5fb4149e987d7c12c539": {
+    "text": "Ce barrage de l'Ancienne Terre était utilisé pour générer de l'énergie, mais a peu d'utilité maintenant. En le détruisant, la rivière créera une barrière naturelle et retardera les Veks."
+  },
+  "9db399434f492041b015907529d2ddba": {
+    "text": "C'était douloureux de voir tomber ce monument historique. J'espère que le jeu en valait la chandelle"
+  },
+  "2b4ed491d885aaad34f81814b3c57ace": {
+    "text": "Merci, #squad - la destruction de ce barrage va retarder les Veks le temps que nous puissions remettre en marche d'autres technologies militaires récemment récupérées !"
+  },
+  "c7994015ff81c9acf63b0b140cc867c3": {
+    "text": "Maintenant, il y a une énorme rivière entre les réfugiés et les ruches Vek, nous devrions tous être beaucoup plus en sécurité ! Merci, #squad."
+  },
+  "e4c6dc03328e948a0b9f9acb78059063": {
+    "text": "La destruction de ce barrage aurait été utile. Au moins c'est toujours impressionnant à regarder.",
+    "review": true
+  },
+  "79032ec84724c9771abfb73bc415672e": {
+    "text": "Tant que la rivière sera contenue derrière le barrage, les centres de réfugiés de la région voisine seront des cibles faciles pour les Veks Enfouisseurs."
+  },
+  "07601ad780ce443415957201c2e3b7a9": {
+    "text": "Un volcan en mer provoque des tsunamis le long de la côte - il pourrait peut-être nous aider à noyer les Veks qui menacent la région."
+  },
+  "e4aeaf27c3235db3cdeaeae1ab5a6a19": {
+    "text": "Mère nature vient à notre défense ! C'est une bonne chose que les structures dans la région aient été préparées pour l'inondation. Merci, #squad!"
+  },
+  "0a59be70d394e9c996c45f433279b7f0": {
+    "text": "Cette mission implique"
+  },
+  "819eabdab04d6926c2c0fcce87c525c2": {
+    "text": "contre les Veks. Les Objectifs Bonus sont de :"
+  },
+  "8270a854e7b6fba39f1ffc9bf49eae43": {
+    "text": "Nous devons agir agressivement. Nous avons besoin que vous détruisiez autant de terres dans la région que vous le pouvez avant que les Veks n'utilisent les montagnes comme des ruches."
+  },
+  "a697f192cb9580d89e6c76551c50d0e8": {
+    "text": "Nous devons repousser les Veks - tuez tout ce que vous pouvez, puis détruisez les chaînes de montagnes avant qu'elles ne deviennent des ruches."
+  },
+  "2da9dc629bb0026270ea8e92f7533360": {
+    "text": "Bien joué. Normalement, j'aurais été ravi d'avoir une terre enfin stable dans n'importe quelle partie de R.S.T. - mais pas si celle-ci profite aux Veks.",
+    "review": true
+  },
+  "e123152df4c97fe802a7faabcda87f08": {
+    "text": "Pas assez de Veks ont ​​été tués ... et les rapports indiquent qu'il reste assez de terre stable pour construire une ruche. Cette mission a été un échec complet."
+  },
+  "6f75d783cea0e7e5e7dd3c432b45e3a2": {
+    "text": "Les montagnes sont encore debout (facultatif, nous pourrions simplement avoir",
+    "review": true
+  },
+  "93e71fee6070b038d016e820de1d6105": {
+    "text": "messages et ne pas être dérangé avec ceux-ci.",
+    "review": true
+  },
+  "0bbdc7f7b2a53542763c677f5017fe03": {
+    "text": "Il y a eu juste assez de Veks tués, mais la terre stable restante peut être pour construire d'autres ruches pour reconstituer leur nombre."
+  },
+  "1a1c0910ef27b675c54049516ba94dc7": {
+    "text": "Il reste encore des Veks vivants (optionel, nous aurions pu avoir générique",
+    "review": true
+  },
+  "1fbf943193bdccf458c1b9c6c7e824d2": {
+    "text": "Des Veks sont encore présents dans la région. Mais au moins avec les terres stables détruites, nous n'aurons pas de ruches à nettoyer si nous les frappons à nouveau."
+  },
+  "5376a2a6db99882e0a5a6286ef987445": {
+    "text": "Identique aux missions 'génériques', excepté que celle-ci possède des Frelons Veks qui sortent de trous massifs du le sol au lieu de Veks venant sous les tuiles standard. Actuellement, nous n'avons pas d'explications sur l'origine de ces trous, de sorte que le texte peut répondre à cela.",
+    "review": true
+  },
+  "69d958658d9b7cf6de6b2c2a343a9d6e": {
+    "text": "Nous détectons une étrange activité Vek - des Veks volants sortent de ruches souterraines situées sous l'île à travers des points d'érosion."
+  },
+  "4c8b6b89e4e3dcc9ee1bc408e876e3d4": {
+    "text": "Des rapports nous indiquent que des Veks sortent de trous pour s'envoler. Nous ne pouvons pas non plus leur permettre d'avoir une supériorité aérienne.",
+    "review": true
+  },
+  "f580c2ac67e9e30a64fe990ced06133b": {
+    "text": "Des rapports nous indiquent que les Veks ne font pas que creuser des galeries dans le sous-sol mais également qu'ils sortent de terre pour s'envoler. Ils contrôlent déjà les sous-sols, il ne faut pas leur laisser également les airs !"
+  },
+  "6a453423840fdebd93833dfc9896acf6": {
+    "text": "Je veux que vous fassiez de cette zone une zone d'exclusion aérienne pour les Veks - transformez ces points d'érosion en tombes."
+  },
+  "a8a50dafd45fdcd90941ff62e9b3fbb6": {
+    "text": "réussite pour cette mission, car elle peut impliquer un certain nombre d'objectifs bonus différents (faible puissance de grille, faible puissance mech, etc.)",
+    "review": true
+  },
+  "9743e0447f9e6faf344a49605ac8e9ea": {
+    "text": "Pas Vek en l'air ou foulant le sol - bref aucun Vek vivant. Bien joué."
+  },
+  "7125d2152c3cd364cdd56e2614144902": {
+    "text": "Nous avons arrêté l'infestation Vek ici - nous serons prêts si plus de points d'érosion apparaissent."
+  },
+  "d3b97ec771d328f325f0fac1922ebb5d": {
+    "text": "mission, mais celui-ci a la foudre frappant le sol à chaque tour. Les systèmes de contrôle climatique sont-ils hors de contrôle ?"
+  },
+  "2b4eb63abe72f9e853777a82f9364399": {
+    "text": "Une de nos stations météorologiques a signalé que les Veks convergeaient vers eux. Interceptez-les - mais méfiez-vous du temps, il pleut littéralement des éclairs."
+  },
+  "baa91bd00c3abc6518b8e87535f8eb6c": {
+    "text": "Une de nos turbines météorologiques nous a rapporté une attaque Vek. Nous ne pouvons pas nous permettre de perdre la turbine, mais méfiez-vous des tempêtes dans la région - elles échappent à notre contrôle."
+  },
+  "355d378bfea87368733b04a98e293ad2": {
+    "text": "succès car il peut également impliquer beaucoup d'objectifs de bonus.",
+    "review": true
+  },
+  "1ab164bdf229c90803b47550f147ce91": {
+    "text": "Bien joué. R.S.T. Les conditions météorologiques sont notoirement difficiles à contrôler, mais elles sont l'une de nos meilleures armes contre les Veks."
+  },
+  "0d94cfc81b5a1a9f9ce2ba96ba030066": {
+    "text": "La Mission attend à ce que le joueur utilise le Terraformeur pour transformer l'herbe en sable (dans le cadre de la Politique RST",
+    "review": true
+  },
+  "7778b9a87e54f204553d80e3f837b030": {
+    "text": "Bien que Justin s'inquiète du fait qu'il est troublant pour le joueur de vouloir transformer de la terre arable en sable, la mission ne précise pas en effet pourquoi ces prairies détruites font une différence stratégique.",
+    "review": true
+  },
+  "6caa5289043b5db7aeb026e81ba783ab": {
+    "text": "Nous devons activer l'un de nos terraformeurs pour détruire une ruche Vek sous la surface."
+  },
+  "e2a16d78f4217ebe80ce2517d0672387": {
+    "text": "Utilisez le terraformeur sur le sol dans ce secteur. Nous ne pouvons pas laisser les Vek utiliser de la terre stable pour se reproduire; toute la région pourrait être perdue."
+  },
+  "17f118fcfc14a3dae2cd5b1526794e92": {
+    "text": "Notre technologie de terraformation est l'une de nos meilleures armes contre les ruches Vek."
+  },
+  "f854875acc479ca8eb9867a0b48bdb96": {
+    "text": "Nous devons utiliser le terraformeur dans cette région pour faire écrouler les tunnels Vek dans nos sous-sols."
+  },
+  "74db47481ed07e64f6c06bf552479c0e": {
+    "text": "Le Terraformeur est en sûreté - et les capteurs ne signalent aucune activité de Vek sous la surface. La région est enfin à nous."
+  },
+  "92dda731144a17378eb23c28a0c3b801": {
+    "text": "Perdre la verdure de notre île de cette façon est quelque chose que je peux endurer du moment que je sais que les Veks ne pourront pas l'exploiter.",
+    "review": true
+  },
+  "7cf2e372ba249fdea32ffc6b0629a443": {
+    "text": "Le terraformer a été détruit - et nous avons déjà des rapports qui indiquent que des ruches Vek se sont construites dans la région. Une de nos meilleures armes dans la guerre est partie."
+  },
+  "72a5648b7b78cd0d6100641b2a96852b": {
+    "text": "Le Terraformeur a survécu mais les terres exploitables par les Veks également."
+  },
+  "35ec4b06dba50bdf895b2918e15bcf3b": {
+    "text": "Vous avez sécurisé le terraformer, mais il est trop tard pour arrêter les ruches - et cela signifie que les régions environnantes sont également en danger."
+  },
+  "d78a263f97eec84938e6ceb9d68f58fd": {
+    "text": "La carte entière est en train de tomber, seulement la moitié de la carte reste à la fin de la bataille",
+    "review": true
+  },
+  "74564bc5a7997f8dcdf123db10b365a0": {
+    "text": "La défaillance d'un terraformeur détruit la terre de cette région. Essayez de ne pas tomber dans les profondeurs."
+  },
+  "bb84e6e9b7bb331ae6167008faace116": {
+    "text": "Ce gouffre devrait s'avérer trop profond pour même les Veks. Peut-être que nous devrions commencer à couler plus de notre île ...",
+    "review": true
+  },
+  "a301e33ff65bc879540689c0a55a8e1c": {
+    "text": "Les Veks ont retiré le stabilisateur de sol de cette région. Nous ne savons pas quel sera le résultat ... Faites attention."
+  },
+  "5a7edcc239228e7a85de0cf506b8f90c": {
+    "text": "Encore un jour où une partie de notre foyer a été détruite. Une fois que ces Veks auront disparus, nos terraformeurs auront du travail à faire."
+  },
+  "4118a82c6c869204704a69393cab8a67": {
+    "text": "remplit un gouffre dans la terre. Le joueur doit le défendre."
+  },
+  "20eaec9c413cba4e83f0075c66ba862d": {
+    "text": "Un de nos Remueurs Terrestres remplit un gouffre créé par des stabilisateurs défectueux. Assurez-vous qu'il reste en une seule pièce.",
+    "review": true
+  },
+  "d7de4f7aa6bfb59c17126b308de563d4": {
+    "text": "survit et le sol est rempli"
+  },
+  "dff2ff76add1c24caea479276f8aa211": {
+    "text": "Nous commencerons à construire des défenses souterraines sur cette nouvelle terre avant que le Vek puisse s'y enfouir."
+  },
+  "7ec1fd33578fcee7e7f8e6d0e709057c": {
+    "text": "meurt - le sol peut encore être rempli, alors n'abordez pas cela.",
+    "review": true
+  },
+  "1aea09e0a3a76dff0851048e91f7f7fc": {
+    "text": "La terre stable est une aubaine sur cette île - nous avions besoin de ce Remueur Terrestre pour créer les fondations pour de nouveaux abris et de nouvelles routes!",
+    "review": true
+  },
+  "fed2f7cf3ff75e811579d5edb35beff5": {
+    "text": "Nous façonnons les conditions météorologiques sur l'île afin que nos fermes solaires puissent récolter la lumière du soleil douze heures par jour. Mais pour ce faire, les fermes solaires doivent rester intactes."
+  },
+  "51e6a25d792a58ae5ff66eeafb58022d": {
+    "text": "Ces fermes solaires sont essentielles pour maintenir le Réseau d’Énergie. C'est un miracle que vous ayez empêché les Veks de les détruire."
+  },
+  "29914da8250397a1cbe4b97281554bf2": {
+    "text": "Une seule ferme solaire est insuffisante. Alors que l'île subit des pannes de courant, je suis sûr que vous vous attendez à ce que vos Mechs reçoivent un traitement prioritaire."
+  },
+  "d23a84fa5761d89b78ce7d8b2b8ec360": {
+    "text": "Sans énergie, vos Mechs ne valent rien. Peut-être que la prochaine fois vous devriez considérer cela quand vous verrez l'ennemi détruire nos fermes solaires."
+  },
+  "479d74bd9d82ce0a04b5848a31f4e35b": {
+    "text": "Ce site contient deux ogives conçues par un physicien temporel, le Dr Renfield, utilisant votre technologie de 'brèche'. R.S.T. a été jugé l'endroit le plus sûr pour les tester."
+  },
+  "3fac80207d6e15effe0395c93f3ad5fb": {
+    "text": "Excellent, les deux prototypes sont intacts. Je peux ordonner à Renfield et à son équipe de passer à la deuxième étape."
+  },
+  "82055e7bfbace29f54c8d6a49e1fdb33": {
+    "text": "Alors que vous avez perdu l'un des prototypes de Renfield, au moins l'autre est intact. Mais votre manque de rigueur pourrait nous coûter la guerre."
+  },
+  "94872bc7d971f79c3e208d7474968e25": {
+    "text": "Votre incompétence ne connaît pas de limites. Pas un, mais les deux prototypes de Renfield ont été détruits ... vous nous avez fait perdre la guerre !"
+  },
+  "561bbfc8f2624edf989e488a25d940d2": {
+    "text": "Le joueur reçoit un tank capable de congeler des unités dans la glace pour cette mission. Ils sont chargés de geler 2 Robots hostiles qui sont présents, et assurez-vous qu'ils survivent (gelés) jusqu'à la fin."
+  },
+  "f3e1b9ed02476ca31865176a2191eeca": {
+    "text": "Ces machines ne sont pas actuellement elles-mêmes. Voyez-les comme des êtres vivants au-delà de leur agression dysfonctionnelle."
+  },
+  "8a6eec61361f06997cdc5bbdc4aa01a4": {
+    "text": "Merci de protéger notre vie artificielle. Je suis sûr que je serai en mesure de restaurer leur programmation."
+  },
+  "7a564e0b851b8dbf8958b421d445ab86": {
+    "text": "Il est regrettable que vous ayez été incapable de sécuriser les deux machines, mais je vous suis reconnaissant d'avoir fait preuve de retenue et de les avoir maintenues en vie."
+  },
+  "cbf69b2b5b781407e3b15508d0eb86ae": {
+    "text": "Je sais que je vous ai contraint. Mais au moins une des machines a survécu, et ses Soeurs qui sont également des serveurs de données vous seront reconnaissantes."
+  },
+  "f0422822446e227bf46575d8b432324f": {
+    "text": "Je sais que je vous ai contraint. Mais je dois pleure la perte de vies...",
+    "review": true
+  },
+  "13a512424625976fb4b28cbdb89f676e": {
+    "text": "Deux robots neutres posent des mines sur la carte, ignorant les joueurs et les ennemis. Le joueur doit les défendre tous les deux jusqu'à la fin."
+  },
+  "3749b6486c9aed92937d951393253aef": {
+    "text": "Nos robots poseurs de mine ont perdu leurs E/S et tentent de faire tourner de vieux programmes. Protégez ces créatures aveugles sans défense."
+  },
+  "481cd62aaa680829174eaf325a7ceee7": {
+    "text": "Avec les Veks détruits, nous pouvons tenter en toute sécurité les réparations sur nos machines. Je vous remercie."
+  },
+  "7bcfa28c6eb1361cffe404a6cf0982da": {
+    "text": "Ces usines fabriquent des machines hostiles, mais il y a des centaines de vies innocentes à l'intérieur. S'il vous plaît, défendez-les pendant que nous essayons de les fermer en toute sécurité."
+  },
+  "5026e091806cdf70ac36b41ac8b386c3": {
+    "text": "J'ai traversé leur pare-feu et j'ai coupé l'alimentation électrique de ces usines. Elles ne constitueront plus une menace."
+  },
+  "d3c01e806f5775787c8d9e3b5ed4a633": {
+    "text": "Cette usine ne contenait pas seulement des vies, mais pouvait en créer. Peu d'installations de ce type demeurent sur notre île. Maintenant il y en a une de moins qu'avant."
+  },
+  "1398e7a562a64472d42e6604882ca469": {
+    "text": "Cette usine ne contenait pas seulement des vies, mais pouvait en créer. Peu d'installations de ce type demeurent sur notre île. Maintenant il y en a deux de moins qu'avant."
+  },
+  "95fb34bc5505e3ed8f87d61d5516722f": {
+    "text": "est un abus de langage à ce stade. Le champ de bataille est plein d'unités ennemies figées dans la glace, à chaque tour, des unités sortent de la glace. Pas d'objectif spécial, juste une bataille rangée."
+  },
+  "d1b0ddcc6d25e745d322a9e204c87137": {
+    "text": "Quand j'ai perdu le contrôle de mes processus environnementaux, des centaines de Vek et de machines ont été gelés. Dès que les conditions météorologiques redeviendront à la normale, ces dangers sont libérés."
+  },
+  "988cc65e20d12919c0bc2b022f7313c4": {
+    "text": "Ces machines étaient irréparables après avoir subi de telles températures extrêmes; les tuer était une nécessité pour sauver plus de vie. J'espère."
+  },
+  "d679ef50d356e5c454169e2554259117": {
+    "text": "Il est dommage à ce que vous ayez tué ces robots"
+  },
+  "879caae2df08941143d08ae020b98516": {
+    "text": "serait approprié"
+  },
+  "f7a4a1b9f6cc9e740f5130b238c47869": {
+    "text": "Je ne peux pas vous laisser de tuer les machines hostiles de cette région, mais je reconnais que leur menace est trop grande pour être ignorée."
+  },
+  "290ed4d8bc178b07ba6c68d488c52da0": {
+    "text": "Cela ne ressemble pas à une victoire quand la bataille est menée contre des individus malades issus de votre propre population."
+  },
+  "f239282ba82f9cf88307e41692779e1a": {
+    "text": "Bataille générique, mais la carte contient 2 robots anormalement dangereux. Le joueur devrait être encouragé à ne pas libérer les robots, bien qu'ils ne soient pas pénalisant, cela ne devrait donc pas sembler un objectif.",
+    "review": true
+  },
+  "b3e2e73483747b8a4a2514fb91e84a3f": {
+    "text": "Menace Diagnostic: Je vous recommande de les éviter."
+  },
+  "b53331c2fe1d8805d648e4dbc06ded6a": {
+    "text": "Les Veks sont déjà assez puissant pour menacer notre survie à tous. Je suis désolé que mes semblables malades vous fournissent des complications supplémentaires.",
+    "review": true
+  },
+  "351413d5f9b14b5fcd96851ba763d68a": {
+    "text": "Bataille générique, mais la carte est pleine de mines qui gèlent l'ennemi."
+  },
+  "20f4820f3cf67e196d514fe70ea418c7": {
+    "text": "Je calcule qu'il y a encore trois cent soixante-treize cryo-mines dans cette zone destinées à la pacification de machines hostiles. Gardez vos capteurs en alerte maximale."
+  },
+  "4fcaa83c63eb99c0bf068f3042079524": {
+    "text": "Laissez tout ce que les cryo-mines ont gelé à mes droïdes de nettoyage. Je vais consacrer le temps qu'il faudra pour m'assurer à ce que tout cela soit en toute sécurité."
+  },
+  "f57f2b501f389f3f7cc6eb8b6d098046": {
+    "text": "Un de mes processus environnementaux est défaillant, et le résultat a été qu'une ville entière a été enfermée dans la glace. Les vies à l'intérieur sont toujours fonctionnelles - mais elles mourront si elles ne sont pas libérées à temps."
+  },
+  "bacc9b9b87f55061797e1aec609a386a": {
+    "text": "Les occupants ne devraient pas avoir de séquelles. Et mon moniteur environnemental fonctionne normalement à nouveau.",
+    "review": true
+  },
+  "9425d9092b36ff879057c025311a9a4a": {
+    "text": "Ces bâtiments sont maintenant des tombes glacées à la fois pour la vie mécanique et biologique. Nous les libérerons après la guerre et nous les enterrerons avec respect.",
+    "review": true
+  },
+  "2b78b71d000fa54eea25669e08cfcb47": {
+    "text": "La station de refroidissement locale a explosé, libérant des tempêtes de cryo-nanites dans l'atmosphère. Évitez-les ou vos Mechs seront gelés."
+  },
+  "6760f4cd2a3bf2d33b354c84a33e9b6a": {
+    "text": "C'est bon de vous voir décongelé. Je travaille pour contenir les cryo-nanites, et les tempêtes dans la région ont déjà cessé.",
+    "review": true
+  },
+  "fa83ced380418ee02369ded08be90aa6": {
+    "text": "Les cuves dans cette région contiennent des produits chimiques toxiques pour les Veks - brisez-les et les Veks quitteront le secteur."
+  },
+  "a92140c6f95c417fdf3cd0e956328a67": {
+    "text": "Malheureusement, pas assez de produits chimiques ont été dispersés dans le sol - les Veks restent encore vivant dans le secteur."
+  },
+  "67bce3b49c78ba681559cf2e10d712e9": {
+    "text": "L'invasion Vek a été ralentie, mais pas assez de cuves ne furent détruites pour les arrêter complètement. Malheureusement, il n'y a plus rien à faire."
+  },
+  "0d65ae02ff8d2aa7a0a02411c8174749": {
+    "text": "Les ruches Vek infestent les montagnes dans ce secteur. Un lanceur d'A.C.I.D.est stationné dans la région - défendez-le pendant qu'il détruit la chaîne de montagnes.",
+    "review": true
+  },
+  "c8ff00593cf31535f31172898b8292e7": {
+    "text": "Nous avons besoin de votre escouade pour défendre ce lanceur d'A.C.I.D. pendant qu'il dissout les ruches Vek infestant les montagnes."
+  },
+  "88bee54b76411e6439f9c98b43f07e37": {
+    "text": "Décevant - le lanceur et son équipage sont morts, tandis que les ruches Veks ont survécu. Nous devrons abandonner le secteur."
+  },
+  "940a24846509d6fc704f46c64db77ec9": {
+    "text": "Le lanceur d'A.C.I.D. a été détruit, avec son équipage. Je vais informer les familles personnellement, et mettre le secteur en quarantaine."
+  },
+  "e931552336c876e9f18c07792e891f6e": {
+    "text": "Les ruches Vek ont survécu. Les capteurs rapportent qu'elles sont en train de créer de nouveaux Vek. Nous devrons abandonner le secteur avant qu'ils ne nous envahissent."
+  },
+  "1538f185cb1a18f42a82cbbf82447e76": {
+    "text": "Le lanceur est toujours actif, mais les ruches dans les montagnes ont survécu. Les capteurs rapportent que les Vek envahissent la région - nous devons nous retirer."
+  },
+  "e06306dd374a62249e22d88b178e5586": {
+    "text": "Le lanceur d'A.C.I.D.a été détruit avec son équipage - mais leur sacrifice n'a pas été vain. Les ruches Vek ont ​​été éradiquées."
+  },
+  "25d4567d759eccd2e0f921921093361e": {
+    "text": "L'unité d'élimination a survécu, les montagnes ont été détruites"
+  },
+  "9213cd75a2b61a197162aaab39f69e26": {
+    "text": "Votre mission a été un succès, commandant - Le lanceur d'A.C.I.D.est intact et les Veks ont été désintégrés."
+  },
+  "c83ed3c3536a8bbb7fb538a863da65f4": {
+    "text": "Detritus a déployé un tank A.C.I.D. dans ce secteur pour votre escouade - utilisez-le pour étudier les effets de A.C.I.D. sur les Veks."
+  },
+  "94bbe521cd1e47913cae8acd1b0acb4f": {
+    "text": "Un tank A.C.I.D. a été déployé dans ce secteur. Tuez tous les Veks touchés par ce tank, puis sécuriser le secteur pour pouvoir étudier les cadavres Vek."
+  },
+  "3f2ce42a13f53a7471ee56280c39e512": {
+    "text": "Trop de Vek ont ​​échappé aux tests à l'A.C.I.D. - nous n'avons pas assez de cadavres Vek pour effectuer une analyse correcte."
+  },
+  "301918e54934644b08ca86496e7663c6": {
+    "text": "Bataille classique, mais les Veks sautent hors des mares d'ACID pour attaquer. Ils ont ACID pré-appliqué à eux comme un effet de jeu. (Ils s'adaptent? Ils peuvent vivre étonnamment longtemps avec ça?)",
+    "review": true
+  },
+  "a05a0be1919f932faad6e043349e478b": {
+    "text": "Ces mares d'A.C.I.D. ont été touchées par les Veks, mais les Vek semblent ... s'adapter aux produits chimiques. Nous devons arrêter les Veks avant qu'ils soient immunisés."
+  },
+  "36b0a615f82b46cd7d16c305cc74dbd6": {
+    "text": "Ce secteur comporte plusieurs lacs d'A.C.I.D. Les Veks semblent les utiliser comme des routes pour atteindre la surface."
+  },
+  "7e9443fd73f2ba9f93e08cdd9d8d5a68": {
+    "text": "Ce secteur a deux installations d'alimentation en Énergie qui alimentent de nombreuses usines de Detritus. Ces installations sont essentielles aux défenses de Detritus."
+  },
+  "75f23158ef613510fd020c5c6deadad7": {
+    "text": "Les centrales électriques dans ce secteur sont critiques contre les Veks, Commandant. Si nous les perdons, nous pourrions également perdre Detritus."
+  },
+  "703b928e51799923fceb18279912c020": {
+    "text": "Un des deux centrales a été détruite, et il n'y a pas eu de perturbation dans le Réseau d’Énergie. Vous et vos pilotes avez notre gratitude, commandant."
+  },
+  "094b6bbb59652cc154b55053cbd488ca": {
+    "text": "Les deux centrales ont été mise en fonctionnement, et il n'y a pas eu de perturbation dans la Réseau d’Énergie. Vous et vos pilotes avez notre gratitude, Commandant."
+  },
+  "91fd30f1e7f3beb821261ebc0b50254b": {
+    "text": "La perte des deux centrales a non seulement mis hors courant nos installations mais également des centres de réfugiés. Je dois relocaliser ces gens immédiatement."
+  },
+  "923e1d2d25b9316cfd002ed5bf889d5d": {
+    "text": "Bataille classique, mais la carte possède des tapis roulants massifs qui poussent les unités. (Normalement utilisé pour le transport de déchets et le recyclage? Utilisé pour le transport de civils?)"
+  },
+  "6ed26e8d18744e327e3728db0bc35ba9": {
+    "text": "Normalement, nous utilisons ces tapis roulants pour transporter les cuves de rebut - mais vous et #squad pouvez utiliser ces tapis roulants contre le Vek."
+  },
+  "a7aeb8161c7f5774eb565425b6b16ef4": {
+    "text": "La chaine de transport est sécurisée. Merci, commandant - nous n'avions pas pensé à utiliser les tapis roulants à titre militaire."
+  },
+  "6789250c425d560f5d7fb7396707fe8e": {
+    "text": "Bataille classique, mais la carte possède des téléporteurs qui peuvent transporter les unités entre différents espaces sur la carte. (Encore une fois, pourquoi? Transport de déchets / personnes / technologie / etc?)"
+  },
+  "ab11016d1920c781a1af71155fafad13": {
+    "text": "C'est l'un de nos sites téléporteurs - il transporte les déchets en démontant et en réassemblant la matière. Vous pourriez être en mesure d'utiliser ces téléporteurs contre les Veks."
+  },
+  "3d7a7db651d93f2bccb75ccaf707ff76": {
+    "text": "Alors que la téléportation de biomatériaux est interdite par les Accords Corporatifs, je peux faire une exception pour vous - et les Veks."
+  },
+  "b6174d5504e065a332684eeff6a2e5ad": {
+    "text": "Les téléporteurs d'élimination des déchets sont actifs dans ce secteur, construits pour désassembler et transporter les déchets. Vous pouvez les utiliser contre les Veks."
+  },
+  "59c47cb20fd6c86bf51d0ee5d6eb122c": {
+    "text": "Le site de téléportation est à nous - nous continuerons à utiliser ces téléporteurs contre les Veks si besoin."
+  },
+  "9ff5d860302490ae1f8dc95750af40d4": {
+    "text": "Le site est de nouveau sous notre contrôle - et suivant votre exemple, nous pouvons utiliser les téléporteurs contre les Veks s'ils attaquent à nouveau."
+  },
+  "47b76be85300e175c977956f8850cbfa": {
+    "text": "Petite histoire personnelle"
+  },
+  "5a9d7072289846e26e4639302041a77b": {
+    "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique Detritus.",
+    "review": true
+  },
+  "45c95bb357dae50006c9e38f5fdfec07": {
+    "text": "Il faudrait une douzaine de Remueurs Terrestres R.S.T. pour combler cette ruche... nous ne pouvons pas le faire nous-mêmes."
+  },
+  "045b26f60fb2c18b6ae9e41d0e0f1b54": {
+    "text": "Vous pensez que c'est impressionnant ? Attendez de voir un Remueur de Terre R.S.T. en action."
   }
 }
