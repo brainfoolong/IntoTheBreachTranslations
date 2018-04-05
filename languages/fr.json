@@ -1851,7 +1851,7 @@
     "text": "NIVEAU SUP !"
   },
   "522bf35ce3719884885e0e3c6a03f0bf": {
-    "text": "ATTENTION !",
+    "text": "ALERTE !",
     "review": true
   },
   "8530425c190c6183c7e247b996f921b5": {
@@ -1902,7 +1902,7 @@
     "review": true
   },
   "e9990c2957ad03fabbb236b291a475a9": {
-    "text": "FUMÉE PARALYSANTE !",
+    "text": "BROUILLARD BLOQUANT !",
     "review": true
   },
   "c837b420d0ba22a799fc7297dbfc892c": {
@@ -8196,6 +8196,13 @@
     "review": true
   },
   "7b552847ff80412b69e32cb1fec409a0": {
-    "text": "Les Rocks ou Peuple Rochers sont une race extraterrestre du jeu FTL. Le texte générique est utilisé pour rationaliser ces pilotes pour une utilisation dans le jeu. Ariane est un pilote bonus qui peut être gagné au cours du jeu.\n\\ n\nContexte général: Les Rocks (il existe les deux genres au sein de l'espèce: les hommes et les femmes) sont de grands bipèdes herbivores. Les hommes Rocks sont des misanthropes par natures et aiment être seuls. Ils sont dogmatiques et déterminés. Dans leurs mondes natals, ils sont en grande partie des zélotes religieux et ont une interprétation assez particulière de la transgression culturelle (ex: les offres commerciales peuvent être interprétées comme hostiles). Les hommes Rocks sont élevées de manière à ce que les membres radicaux de leur espèce soient séparés de la population et gérés avec soin afin qu'ils puissent s'intégrer au reste de leur culture. Les interactions avec des espèces aliens sont illégales. Leur culture d'origine implique des mariages arrangés. Ils étaient l'un des fondateurs de la Fédération (avec les humains et Engi).\n\\ n\nLes hommes Rocks qui ne se conforment pas au stéréotype de leur espèce (par exemple, se rebeller contre la religion ou en étant simplement ... différents) peuvent être trouvés parmi les stars, et plusieurs exemples de pirates et de guerriers Rock existent dans le Big Black (ils sont connus pour couvrir leurs navires avec \"décorations bannies\").\n\\ n\nContexte spécifique: Ariane (femelle de l'espèce) fuyait un mariage arrangé à l'avance avec un chef de basilisk (voir FTL) quand une balise de détresse a détourné son vaisseau. Son crime l'empêche de vouloir retourner dans l'espace Rock même si elle le pouvait ... mais elle est mal à l'aise parmi les nombreuses cultures sur la nouvelle planète qu'elle a trouvée. Elle est vaguement curieuse de savoir à quelle heure la technologie de déplacement / brèche pourrait faire pour effacer son crime et les événements qui l'ont précédé, permettant un nouveau départ."
+    "text": "Les Rocks ou Peuple Rochers sont une race extraterrestre du jeu FTL. Le texte générique est utilisé pour rationaliser ces pilotes pour une utilisation dans le jeu. Ariane est un pilote bonus qui peut être gagné au cours du jeu.\n\\ n\nContexte général: Les Rocks (il existe les deux genres au sein de l'espèce: les hommes et les femmes) sont de grands bipèdes herbivores. Les hommes Rocks sont des misanthropes par natures et aiment être seuls. Ils sont dogmatiques et déterminés. Dans leurs mondes natals, ils sont en grande partie des zélotes religieux et ont une interprétation assez particulière de la transgression culturelle (ex: les offres commerciales peuvent être interprétées comme hostiles). Les hommes Rocks sont élevées de manière à ce que les membres radicaux de leur espèce soient séparés de la population et gérés avec soin afin qu'ils puissent s'intégrer au reste de leur culture. Les interactions avec des espèces aliens sont illégales. Leur culture d'origine implique des mariages arrangés. Ils étaient l'un des fondateurs de la Fédération (avec les humains et Engi).\n\\ n\nLes hommes Rocks qui ne se conforment pas au stéréotype de leur espèce (par exemple, se rebeller contre la religion ou en étant simplement ... différents) peuvent être trouvés parmi les stars, et plusieurs exemples de pirates et de guerriers Rock existent dans le Big Black (ils sont connus pour couvrir leurs navires avec \"décorations bannies\").\n\\ n\nContexte spécifique: Ariane (femme Rock) fuyait un mariage arrangé avec un chef de basilisk (voir FTL) quand une balise de détresse a détourné son vaisseau. Son crime l'empêche de vouloir retourner dans l'espace Rock même si elle le pouvait ... mais elle est mal à l'aise parmi les nombreuses cultures sur la nouvelle planète qu'elle a trouvée. Elle est vaguement curieuse de savoir à quelle heure la technologie de déplacement / brèche pourrait faire pour effacer son crime et les événements qui l'ont précédé, permettant un nouveau départ.",
+    "review": true
+  },
+  "6b92eed5a1dd9560f079f598538899de": {
+    "text": "Voir la biographie du PDG dans la documentation narrative."
+  },
+  "a024d1b6941fd71445f5d3eddf4eb6e7": {
+    "text": "Guide des personnages pour discussions"
   }
 }
