@@ -6949,7 +6949,7 @@
     "text": "Une promotion ? Ma mère adoptive serait fière."
   },
   "74db7e0ad67178da589ad5ac91cb61d6": {
-    "text": "Une machine relativement calme et pragmatique qui s'est adaptée au changement de son objectif initial de prospection minérale à la destruction. Il tend à quantifier ses solutions en fonctions des actions qui affecteront d'abord l'environnement, puis en second les individus.",
+    "text": "Autrefois chercheuse de minerais, cette machine relativement calme et pragmatique a du s'adapter à son nouvel objectif : le combat. Elle tend à quantifier ses solutions en fonctions des actions qui affecteront d'abord l'environnement, puis en second les individus.",
     "review": true
   },
   "63957b37e9780e6aa38fd3ffd7b3837c": {
@@ -8213,6 +8213,127 @@
     "review": true
   },
   "4f1c6b3fa81ff78a4d111e7f1541f772": {
-    "text": "R.S.T. les pilotes ne sont pas idiots et partagent une grande partie du pragmatisme parfois trop agressif de Kerns. Ils ont tendance à être plus durs et tenaces que les autres pilotes de l'île. Certaines fois trop raides, militaires et réfléchis et d'autres fois trop impulsifs surtout quand il s'agit de tuer des Veks."
+    "text": "R.S.T. les pilotes ne sont pas idiots et partagent une grande partie du pragmatisme parfois trop agressif de Kerns. Ils ont tendance à être plus durs et tenaces que les autres pilotes de l'île. Certaines fois trop raides, militaires et réfléchis et d'autres fois trop impulsifs surtout quand il s'agit de tuer des Veks.",
+    "review": true
+  },
+  "7dcc667a5c4b903654b7f5917826f03d": {
+    "text": "Pinnacle sont tous des I.A./êtres artificiels doués de raison, juste pour renforcer le thème robotique (même s'il y a des humains sur l'île).",
+    "review": true
+  },
+  "e4ddfb46768dd174559b6ba5869f1653": {
+    "text": "Les pilotes de Detritus sont prudents, soigneux (les deux en raison de leur profession) et polis - ils croient d'abord à la sécurité des personnes, comme leur PDG, et \"éliminent\" les matières dangereuses (y compris les Veks) plutôt de manière sûre que de manière rapide. Ils sont plus pragmatiques et se concentrent sur les faits et les résultats. \"Bien fait et surtout sans déchet\" est une expression de l'Ancienne Terre qui illustre bien leur approche lente et méthodique."
+  },
+  "9071b3468e8fd3277442206d674112ce": {
+    "text": "Vétéran expérimenté classique et froid. N'a pas de temps pour ceux qui ne peuvent pas suivre. Cynique/réaliste quant à vos chances de survie. Pas un personnage qui exagère ses propos."
+  },
+  "7c8245207ff4d3504b82c7b0adc92cb1": {
+    "text": "Soigneux, intelligent et pragmatique. Un peu naïf en combat. Toujours plein d'espoir et encourageant. Cherche le meilleur de l'humanité."
+  },
+  "2ccf154ef214df1c05ed92513379c585": {
+    "text": "Stoïque, calculateur et froid. Ayant une voix douce."
+  },
+  "345fbf042db18267172a67301d1a1989": {
+    "text": "Curieux; Axé plus sur l'apprentissage que sur le combat. Facilement distrait. Un peu désintéressé et indifférent. Pas très empathique."
+  },
+  "196da1ba2d09583fe769c2c181cd4b78": {
+    "text": "Prospero a été réaffecté pour exploiter son Mech dans des conditions difficiles. Son anglais est bon mais n'est pas heureux de ses nouvelles conditions de \"travail\"."
+  },
+  "8947ba3c7106205e16d559692a0fca55": {
+    "text": "Vraiment enthousiaste. Optimiste voire un peu idiot. Se sent invulnérable. Voit cela comme un jeu."
+  },
+  "bba94bbd05baccf3cb711077d9ca4ffa": {
+    "text": "Chen est consciencieux. Il est fiable et essaie d'être un soldat modèle. Il est l'un des meilleurs exemples de compétences managériales et de leadership de Detritus, et cela se voit dans la lutte contre les Veks."
+  },
+  "51309c154ba3ab4d6a83ff355a646ffd": {
+    "text": "Fier. Sent qu'il est le héros. Se sent invulnérable. De mauvaise foi."
+  },
+  "e1685593b7cc628821e77c759368fe35": {
+    "text": "Bon soldat prototypique. Traite la bataille comme une guerre militaire. N'a pas le temps pour des futilités. Souhaite que les autres soient aussi professionnels. Bien qu'elle partage des traits avec Chen Rong, ils se heurtent occasionnellement (et discrètement) sur des problèmes militaires (elle est plus active dans les combats, alors que Rong préfère les superviser)."
+  },
+  "3cd9993c95f25731e8945b4e7215dc08": {
+    "text": "Robot de construction adapté pour un usage militaire. Destiné à l'interface avec les gens doit donc communiquer avec eux. Il s'exprime avec des phrases brusque et sans émotion."
+  },
+  "2aa9c57eb2084788502d1cd6ab4b17dc": {
+    "text": "Paranoïaque et pessimiste. Généralement une bonne personne mais qui ne gère pas bien le stress, avec une attitude qui peut parfois être démoralisante - il se méfie de ses propres succès et victoires. C'est une personne plutôt fataliste qui pourrait dire \"cette ligne temporelle est déjà à moitié perdue\". Bégaie en raison de ses études de recherche temporelles... Cela a causé un problème dans son système nerveux qui l'empêche de parler correctement."
+  },
+  "3c3d97716e39fefe317f16ea28bcfee2": {
+    "text": "Bien élevé, aristocratique, se sent supérieur (il pense venir d'une ligne temporelle plus avancée), et peut être condescendant envers les humains."
+  },
+  "6b64c1695a293a45abafa102648eb1a6": {
+    "text": "La langage des Mantis est basé plutôt sur des sortes de bruissement - (c'est-à-dire que les noms ont beaucoup de sons \"k\" ou de \"tch\")."
+  },
+  "da8bc51c4c4e79c0d64190ca78259a0e": {
+    "text": "Les Zoltans are fait d'énergie pure… alors peut être ont-ils un parler éthéré et vaporeux ?"
+  },
+  "c01ac88388dbaa42c51fc99e252f9613": {
+    "text": "Le \"Langage\" Rocks ressemble à un faible grognement - assez lent, presque comme un son de roches qui grincent."
+  },
+  "6ca47be4dfc53f79893bddff0d1f47b3": {
+    "text": "Cela arrive au début d'un nouveau jeu"
+  },
+  "8e381fe415ce2f6798ff5553a5c67939": {
+    "text": "Je suis de retour... et il y a Archive, et en plus, intacte ! Pourtant, cela ne durera pas si je n'arrête pas les Veks."
+  },
+  "8bad500feed1f7b33492d6c259c52273": {
+    "text": "C'est ici - Les îles touchées par l'invasion Vek. Les capteurs le confirment R.S.T. résiste bien. Pour l'instant.",
+    "review": true
+  },
+  "6ec0da274f49732701e0a5c2715f2b2d": {
+    "text": "C'est Detritus, avant la catastrophe. Peut-être que nous pouvons appliquer mes données de combat pour débarrasser ces îles de la contamination Vek.",
+    "review": true
+  },
+  "ccd50025cd7d53e0b3cff1f934935e6f": {
+    "text": "Ces îles corporatives sont infestées de Veks. Éradiquez-les ici et maintenant et nous sauvons le monde."
+  },
+  "650d0dc9834043b69afe92884ab5ef81": {
+    "text": "Non impossible, je ne laisserais jamais les Veks prendre les îles cette fois !"
+  },
+  "df06e78b0574dc6a501e48590ad18458": {
+    "text": "Cette ligne temporelle sera un cimetière de Veks"
+  },
+  "cd3337d88ab937b9e16d57d13e4bd456": {
+    "text": "Nous protègerons cette ligne temporelle quoi qu'il arrive !"
+  },
+  "0c1159036fa3548a84be23a8c44ea447": {
+    "text": "On nous a donné une autre chance de sauver le monde - Tout repose sur ces îles : Je peux le faire !"
+  },
+  "ddd154366167f4f1fc55ae844e5e0b47": {
+    "text": "Je ne suis pas là pour vous sauver. Je suis là pour vous former à vous sauver !"
+  },
+  "ab6e8b43a59a5164ee8953b473263c85": {
+    "text": "Sans force ni détermination, ces îles tomberont aux griffes des Veks. Soit vous êtes avec moi, soit vous restez en dehors de mon chemin."
+  },
+  "11dfeb8c00760fc062c85e43687233d1": {
+    "text": "Notre stratégie reste la même : défendre ces îles. Cependant, je me demande... est-ce qu'il y a quelque chose de différent sur cette ligne temporelle ?"
+  },
+  "bd3691bbbfee63a8d1611d93df45dc22": {
+    "text": "Je me demande ... y avait-il des divergences technologiques importantes dans cette ligne temporelle par rapport aux autres ? Je suppose que nous le verrons dans les batailles à venir!",
+    "review": true
+  },
+  "f7ee5d54756d52ea0570e55cdd63fed1": {
+    "text": "Je suis de retour - presque comme si rien ne s'était passé. Combien de temps ce cycle peut-il continuer?"
+  },
+  "0fd416ea44be95f02eb1e7e773445512": {
+    "text": "Je me demande ... ces brèches causent-elles des dommages à la ligne temporelle où nous arrivons ? Les émissions de tachyons seules prouvent le contraire...",
+    "review": true
+  },
+  "a970c58b16227e4ca2c33ba452773990": {
+    "text": "Détection de fortes concentrations d'insectes carnivores infestant toutes les îles corporatives. Activation des protocoles Vekticides"
+  },
+  "650db71cdc29612dee1468178ae28418": {
+    "text": "Les parasites Vek ont ​​infesté les réserves environnementales des îles. Je vais rectifier cela."
+  },
+  "f0572d0012e753b445a75bfc2869679e": {
+    "text": "Ces îles sont comme mes jardins. Et comme lorsque j'entretiens mes jardins, je nourris le sol... Sauf que l'engrais ici sera produit par les cadavres de Veks.",
+    "review": true
+  },
+  "59a17dbd92bdba081f5d440871e4b184": {
+    "text": "Ces biomes insulaires sont menacés par les Veks. Je veillerai à ce que leurs restes nourrissent le sol."
+  },
+  "f9bad0aa59f0a530b2a1578552a19894": {
+    "text": "Et c'est parti ! Une autre chance de sauver le monde !"
+  },
+  "ddc8e1155a5ce6a67d71a5e27bc447bf": {
+    "text": "Bonjour...? Est-ce que j'ai réussi ? Oh... Je capte des signaux des îles maintenant. Bonjour, là-bas !"
   }
 }
