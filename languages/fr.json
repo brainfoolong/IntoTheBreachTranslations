@@ -6288,8 +6288,7 @@
     "review": true
   },
   "b96455fcd8947a3912c84f6de35b136c": {
-    "text": "#main_mech est en panne !",
-    "review": true
+    "text": "#main_mech a éte abattu !"
   },
   "457968d66cc6ae8b203294910321cc97": {
     "text": "Les parties de #main_mech ont échoué dans leur mission principale de protéger leur hôte."
@@ -6331,10 +6330,11 @@
     "text": "#self_full promotion enregistrée. Nouveaux protocoles de gestion téléchargeables dès maintenant."
   },
   "6ecfec1affedecc78ae7aa4e6ea46938": {
-    "text": "#self_full non-déclassé."
+    "text": "#self_full non-déclassé.",
+    "review": true
   },
   "0609c1a4c6955bcd3e1156639b7a8cb9": {
-    "text": "#self_mech n'a pas réussi à protéger l'occupant principal. Soumissions d'un réprimande officielle."
+    "text": "#self_mech n'a pas réussi à protéger l'occupant principal. Soumission d'un réprimande officielle."
   },
   "c26ff1665cadc48114d2cd5dd23374c1": {
     "text": "Coque #self_mech a été renforcée."
@@ -6437,7 +6437,8 @@
     "text": "... J'ai détruit une montagne."
   },
   "ec1c9d582567a5c647783753ecf27f26": {
-    "text": "... J'espère que les caméras étaient éteintes quand j'ai été désactivé."
+    "text": "... J'espère que les caméras étaient éteintes quand j'ai été désactivé.",
+    "review": true
   },
   "3a7bf8a8fbc61520f6ad085657f88d2e": {
     "text": "... Je pense que la centrale électrique est définitivement fermée."
@@ -6470,7 +6471,7 @@
     "text": "... Un tel s-s-soulagement."
   },
   "3d9e8961c29f957017dbc0c4f6c5327e": {
-    "text": "... Dis à Kern que j'ai combattu jusqu'à la fin."
+    "text": "... Dites à Kern que j'ai combattu jusqu'à la fin."
   },
   "c529d32775c6847881ba2667063bcbd7": {
     "text": "... Cette unité d'élimination est une raison pour laquelle je ne manque pas de travailler à Détritus."
@@ -6573,13 +6574,13 @@
     "text": "[ Att : Commandant: Lancement des protocoles de brèche temporelle ]"
   },
   "1ceadd6ddcbfa2e6d6a5ab5637f15fff": {
-    "text": "[ Att : PDG de Pinnacle : Zénith. C'est #self_reverse, provenant d'une ligne temporelle sauvée. Ma banque de données contient des documents essentiels pour la victoire contre le Vek ]"
+    "text": "[ Att : PDG de Pinnacle : Zénith. C'est #self_reverse, provenant d'une ligne temporelle sauvée. Ma banque de données contiennent des documents essentiels pour la victoire contre les Veks ]"
   },
   "ac81cdc76a6502099d3597e087c5ff79": {
     "text": "[ Att : PDG de Pinnacle : Zénith. C'est #self_reverse, provenant d'une ligne temporelle compromise. Ma banque de données contient des documents essentiels à la survie des humains et des robots. ]"
   },
   "c8f2a128a153b3766cab3e4b935ae540": {
-    "text": "[ Att : Zénith. #self_reverse, transmission numéro de désignation et Ligne Temporelle Mortelle vers les archives Pinnacle ]"
+    "text": "[ Att : Zénith. #self_reverse, transmission du numéro de désignation et de la igne Temporelle de décès vers les archives Pinnacle ]"
   },
   "b6f020c64fb03778d05e4750e4ee14aa": {
     "text": "[ Att : Zénith. #main_reverse, transmission numéro de désignation et Ligne Temporelle Mortelle vers les archives Pinnacle ]"
@@ -8346,5 +8347,481 @@
   },
   "8c91dbee338d379a1b1ba9dc2c447053": {
     "text": "Peuple des îles, je suis venu - du futur ! Je suis venu pour vous aider dans vos heures sombres... euh, il y a quelqu'un ? Est-ce que ce truc fonctionne ?"
+  },
+  "8654102e632f981e7f8d34e80620e66f": {
+    "text": "Une autre ligne temporelle, une autre opportunité pour #self_full être sous les projecteurs !"
+  },
+  "3d4620557cd3b80b0d6b69c0dc54c185": {
+    "text": "Ok, écoutez moi. Notre objectif principal est de protéger ces îles. Si nous y arrivons, nous aurions peut-être une petit chance de gagner cette guerre."
+  },
+  "015b9677c9ec7c2331bef87a61bcb81d": {
+    "text": "Si j'arrive à apprendre de mes erreurs faites dans les lignes temporelles précédentes... Alors, seulement , R.S.T. pourrait survivre !"
+  },
+  "3f53229794ef02824d88a633ea5e88e9": {
+    "text": "C'est R.S.T., et je crois que ma mère adoptive est encore en vie dans cette ligne temporelle... Étrange, aucune trace de mon moi dans cette ligne temporelle, je me demande si Kern m'a déjà connu ici ?"
+  },
+  "54f1c724137c55c6e958f6b9f7f1dabb": {
+    "text": "Objectif principal : relancer la production des Mechs et prioriser la fabrique d'armes...Qu'est ce que vous attendez ? Bougez-vous !"
+  },
+  "eaefb3116f312f8c6b45549492ed23a3": {
+    "text": "Îles corporatives, #self_reverse vous parle. Je suis ici parce que votre ligne temporelle a besoin de réparation intensive"
+  },
+  "f4d232edd84a1c053e59e125af5f6761": {
+    "text": "Îles corporatives, #self_reverse vous parle. Il y a d'autres \"moi\" mais je suis unique. Je suis votre allié. Sans moi, vous mourrez.",
+    "review": true
+  },
+  "7d34cf30b2490a7171598acc4ed0de00": {
+    "text": "À tous les systèmes et les êtres doués de raison, je suis #self_reverse. Vous êtes menacés ! Nous devons agir ensemble pour mettre fin à cette menace !"
+  },
+  "997e62af9ec2dc5e1560708def277c73": {
+    "text": "T-t-Tant de mort, et je suis de re-re-tour comme si rien ne s'était passé... Y-y-y-y-aura-t-il une fin un jour ?"
+  },
+  "5cf20a362025a644a738eef1b695605e": {
+    "text": "Ce sont les m-m-mêmes îles que j'ai connues - et la m-m-m-même guerre... N'est-ce-pas complètement fou de répéter t-t-toujours les mêmes actions ?"
+  },
+  "e15a9eaff46b86faf5b47bb05c59c9e4": {
+    "text": "Ex-x-cusez mon bégaiement, c'est un effet secondaire de mes recherches. Se-s-serait-il possible de me garder de la place dans un labo ?"
+  },
+  "a910000dbf412b5b9c1dc41e80c6fd51": {
+    "text": "De-de-de retour encore... Est-il po-po-possible à ce que nous perpétuions continuellement cette guerre ? Et cela même en créant de nou-nou-velles lignes temporelles ?"
+  },
+  "d9374d8eb3843d8cd36cfda5698c3ffe": {
+    "text": "Les Veks sont en train de miner cet archipel de manière illégale. Je suis ici pour les stopper dans leurs efforts."
+  },
+  "9baf02ced0253d300ad957a63aa64d64": {
+    "text": "Le territoire de Pinnacle ne comprend qu'une seule île dans cette ligne temporelle. Le superviseur actuel est : Zenith... Une intelligence artificielle de 3ème génération ? Quel gâchis.",
+    "review": true
+  },
+  "9061ef348342354dc3b62cf0ad80221e": {
+    "text": "Pas étonnant que cette ligne temporelle soit en danger. Les humains courent dans tous les sens et en dehors de leurs réserves désignées...",
+    "review": true
+  },
+  "71dd94078c116ba98edd172622d4a035": {
+    "text": "Aucun signe du réseau de l'île Pinnacle... Pourquoi ? Pinnacle a l'air d'être restreinte à une seule île. Pourquoi n'ont-ils pas pris le contrôle des autres îles ?"
+  },
+  "efbc14e158622799da2a8ee6e34a298d": {
+    "text": "Apparaît sur l'écran d'île après avoir trouvé le pilot FTL dans un pod.",
+    "review": true
+  },
+  "8a18ac24659ce406a1d54bec44939065": {
+    "text": "Euh... Ce Pod.... vaisseau... ou quoi ce soit... a un occupant. Je ne comprends rien à ce qu'il dit mais il a l'air... amical ?"
+  },
+  "e0907d88fa4480aa71285d970479149a": {
+    "text": "Il y a... quelque chose à l'intérieur du Pod, commandant. Cela communique mais de quoi cela parle ? Je ne sais pas..."
+  },
+  "b5e3a1242fb3a4e4e9a29bcc84baf60f": {
+    "text": "Le vaisseau a un pilote but impossible de décoder ce qu'il dit."
+  },
+  "6831b346bcdc318fbd2c49eff77bf4fa": {
+    "text": "Mes systèmes n'arrivent pas à traduire ce que dit cette être... ou quoi que cela pourrait être. "
+  },
+  "00d9d3faeaa5909c6b7552e1612c104c": {
+    "text": "Je pense que c'est un... extraterrestre, mais je ne peux pas traduire son langage."
+  },
+  "041cbf47a536549c96325a3f40414700": {
+    "text": "Les terres d'où viennent ce pilote me sont inconnues mais une chose sûre c'est qu'il n'est pas originaire de la terre."
+  },
+  "eceff565baf504c3b2e1b7c6d919ba5a": {
+    "text": "Pourquoi... enfin je crois que c'est un extraterrestre ! En revanche, j'ai des problèmes avec son langage..."
+  },
+  "78b1f6fda4ce1e6bdc496e8934a77cdf": {
+    "text": "Le pilote n'est pas conscient des dommages causés par son atterrissage, en revanche, ses intentions semblent amicales."
+  },
+  "db91a9e2a1e2dee36a394e164b9143fe": {
+    "text": "C'est un extraterrestre ! Faisons en sorte à ce qu'ici soit comme chez lui ! Euh, enfin... c'est comment déjà chez lui ?"
+  },
+  "6f8883db808d65762ad16fb5473e38a8": {
+    "text": "Il semble à ce que notre ami vienne de l'espace... D'ailleurs, je ne comprends rien à ce qu'il me dit."
+  },
+  "1de16930676c71bc6b7eab04abfdf8de": {
+    "text": "Qui ou quoi que ce soit baragouine un langage que je ne comprends pas !"
+  },
+  "c396b68955e0c45b56b790c9e8fda6e6": {
+    "text": "Mes systèmes n'arrivent pas à traduire ce que dit cette être... ou quoi que cela pourrait être, commandeur."
+  },
+  "230db840e1cbe57c1559034983c265e2": {
+    "text": "Le vaisseau du pilote n'émet aucun tachyon. Son langage est inconnu de ma base de données linguistique."
+  },
+  "075582f39a4e3246443277b245118223": {
+    "text": "Je... p-p-pense que le vaisseau et le pilote sont extraterrestres ! Il ne s-s-semble pas parler notre langage, d'ailleurs."
+  },
+  "878f1db5733a37361713161646f60c97": {
+    "text": "Le vaisseau n'émet aucun tachyon. Il est peut-être technologiquement bien plus avancé que je ne le suis."
+  },
+  "3ddd0d72b7faee3321d2be92c226a6c5": {
+    "text": "Apparaît après une nouvelle partie avec un pilote du jeu FTL. Seulement nécessaire pour les recrues.",
+    "review": true
+  },
+  "215d35c5c64e82c87c1bec4083bc9f74": {
+    "text": "Pourquoi le future nous envoie-t-il un extraterrestre qui ne peut pas communiquer avec nous ?"
+  },
+  "7765ed7f2d8c2eaa46962797228b7a6d": {
+    "text": "Je crois qu'il essaie de communiquer avec nous, commandeur... Enfin, il a l'air de vouloir nous aider."
+  },
+  "bf70c315ee989d48710cbaa5afdf261c": {
+    "text": "Je crois que le voyageur temporel extraterrestre va mener la charge contre les Veks."
+  },
+  "aab18db24ca3312670568c00aaefef07": {
+    "text": "Commencer une nouvelle partie après une victoire.",
+    "review": true
+  },
+  "4350a2bc9280ecaafc7b40d4b53443c6": {
+    "text": "Bon... votre attention, peuple des îles, je suis #self_full et j'ai déjà combattu et vaincu les Veks ! Et je suis ici pour réitérer cet exploit !"
+  },
+  "89d0fdd34dc994fb9f38953facf470fd": {
+    "text": "Commandeur ? Commandeur, est-ce vous ? Oh mon Dieu, merci ! Je pensais que j'avais affaire à un débutant de chez Archive. Bon... Euh... je suis là à propos de votre problème de Vek."
+  },
+  "4975f0bbb3e9935520080035ab64e35f": {
+    "text": "Il est temps de débarrasser à nouveau ces îles de la contamination Vek."
+  },
+  "56617b0aade35ba718c0a5bce6aab15a": {
+    "text": "Je me demande si le nettoyage des Veks sera plus facile la deuxième fois..."
+  },
+  "bc1b3ae9f281ab9bb74f811e7a79738b": {
+    "text": "Nous avons vaincu les Veks auparavant et nous pouvons le faire à nouveau. Et chaque fois que nous sauvons une ligne temporelle, nous pouvons envoyer plus de pilotes dans d'autres lignes temporelles."
+  },
+  "2b2f6de8fae648568164b80a295451e8": {
+    "text": "Il est temps de sauver le monde, encore une fois !"
+  },
+  "368386a01e571f1e2e0e165a4d983aa3": {
+    "text": "J'ai sauvé le monde un fois, je peux le faire encore."
+  },
+  "a0e42bedec4ae219c1402e057dbc2ebf": {
+    "text": "J'espère que les autres pilotes ont pu rejoindre leurs propres lignes temporelles."
+  },
+  "b9146844ea50b37015dd500dfc2a87df": {
+    "text": "Le futur se répète. Si c'est le cas, notre victoire est assurée."
+  },
+  "98064adb176c8f43e1cfd90cf050dfde": {
+    "text": "Est-ce-que... excusez-moi, j'anticipe pas mal mais... pouvons-nous battre les Veks sans aller dans le volcan cette fois ? Je n'aime pas trop ce moment là."
+  },
+  "23ad6c38233a3f8f75f6b37dbd73e8d7": {
+    "text": "Bien, il semblerait à ce que nous ayons un souci de type Vek ici... Il est temps de se retrousser les manches et de se salir les mains !"
+  },
+  "064bf869abc4218c93e939efa7626e0c": {
+    "text": "J'espère que je pourrais rencontrer le Docteur Renfield dans cette ligne temporelle pour lui dire notamment que sa bombe nous a apporté la victoire dans la ligne temporelle précédente !"
+  },
+  "14add18d9e05664879cb795b9df125c6": {
+    "text": "Je m'occuperai des jardins des îles comme avant mais pas avant d'avoir tué tous les Veks."
+  },
+  "3d50cafb7badc81d69f4a75ce88bb4ce": {
+    "text": "Les cadavres des Veks vont enrichir le sol avec leurs nutriments.",
+    "review": true
+  },
+  "d8aba05e52bfe1507e45592db0fb25d1": {
+    "text": "Le moment de mon éveil dans ma ligne temporelle d'origine s'est fait ici, sur Archive. Ses jardins ont encore besoin de moi.",
+    "review": true
+  },
+  "8bcbe187ec4418be5fd9918f03814e8e": {
+    "text": "Bien que j'ai été créé sur Detritus, Archive est ma maison. Et cela se confirme sur chaque ligne temporelle, comme avant.",
+    "review": true
+  },
+  "d96fd87442293f15428270a623b3e140": {
+    "text": "Ce sont les îles... Et pas d'île volcanique, bien ! C'est #self_full, je viens pour vous aider !"
+  },
+  "0997301f43dc0757dbb18460d76200b8": {
+    "text": "Je n'arrive pas à me sortir de la tête la précédente victoire. Nous pourrions tout perdre en un clin d'oeil."
+  },
+  "9cc8c298582d3bff8122fb3d128a970f": {
+    "text": "Il est temps de sauver le monde encore une fois ! Et cette fois avec un peu plus de style que la dernière fois, ça c'est sûr !"
+  },
+  "61ea26d9bcac4cb5bda6d0a4892fb25e": {
+    "text": "Je suis encore tout euphorique d'avoir battu les Veks... J'espère que tout le monde m'a vu en train de les massacrer !",
+    "review": true
+  },
+  "78ce9d0191dbedc69715e19e819064f3": {
+    "text": "J'ai sauvé les mondes auparavant, je peux le faire encore une fois, sans souci ! Bon, je commence par nettoyer quelle île ?"
+  },
+  "810ad185424186a868ba6515c238e8da": {
+    "text": "Commandeur, je suis l'Officier #self_full. Je suis originaire d'une ligne temporelle précédente où les Veks ont été battus. Je suis ici pour aider."
+  },
+  "d8762c3b3b05da65a06b997f4a9a16f2": {
+    "text": "îles corporatives, #self_reverse vous parle. J'ai déjà réparé une ligne temporelle précédente des ravages causés par les Veks. Je vais faire de même maintenant avec la vôtre."
+  },
+  "bbd90ee4ff474305f3b5e3a3a5c50764": {
+    "text": "îles corporatives, #self_reverse vous parle. Je suis d'une ligne temporelle où la population Vek a été anéantie. Je vous vous aider à faire de même ici et maintenant."
+  },
+  "cb2bfbf72e8eca5285f69fc55e834946": {
+    "text": "îles corporatives, #self_reverse vous parle. Je viens d'une ligne temporelle similaire à la vôtre. Ensemble, nous anéantirons les Veks de la vôtre ici et maintenant."
+  },
+  "95f3d6d6840e4469470840157ab2f320": {
+    "text": "Je suis #self_reverse. Je viens d'une ligne temporelle qui a complètement nettoyé les ruches Veks de leurs habitants. Envoyez moi votre meneur pour lui donner les instructions à suivre."
+  },
+  "7c52d9b4dac3aba7044c9adeb770262a": {
+    "text": "Je... Pourquoi est-ce-que j'arrive à parler normalement ? Est-ce le résultat de mon dernier saut temporel ? Ou est-ce que parce que nous avons gagné la dernière fois ?"
+  },
+  "3edc2a5389f65403962d9da654b78ee0": {
+    "text": "Pardonnez mon bégaiement... attendez Ma voix est normale. Hum... Hum. Puis-je parler à un responsable ?"
+  },
+  "8c68b8982838f4340be0cee30e9ae65b": {
+    "text": "Je... J'espère qu'un jour j’atterrirai dans une ligne temporelle déjà libre des Veks. En tout cas, ça n'est pas pour cette fois."
+  },
+  "8199c3b1d04a808036e15b85309f5742": {
+    "text": "Mon-mon bégaiement... s'est un peu calmé. Je me demande pourquoi d'ailleurs... Est-ce à cause de la défaite des Veks dans la dernière ligne temporelle précédente ?"
+  },
+  "e942946e7716378bb2bf843f039bf3c5": {
+    "text": "Les îles... Pinnacle, R.S.T...., Archive... C'est #self_full, Docteur #self_full. Je... Je peux vous aider contre les Veks."
+  },
+  "095e2242ecf4a1c8b69e79de03709f74": {
+    "text": "Citoyens des îles corporatives...Je viens d'une ligne temporelle où les Veks ont été vaincus - et je mène des recherches concernant les brèches temporelles."
+  },
+  "9632a4583e713bf4925ace07852f4678": {
+    "text": "L'île volcanique n'a pas encore émergée. Nous devons provoquer les Veks jusqu'à ce qu'elle sorte !"
+  },
+  "d8206ac9ffba83c0caef5c43468dd556": {
+    "text": "Préparation des contre-mesures Veks utilisées dans la ligne temporelle précédente pour augmenter notre probabilité de victoire."
+  },
+  "561405ca8982033e3c0e56094d8d46ff": {
+    "text": "Aucun signe du réseau de Pinnacle, non plus. Contacts les îles maintenant et télécharge les données sur les victoires Veks."
+  },
+  "c5a5ef494ea88a11a0cd9efdcfeb5583": {
+    "text": "Si cette unité est morte, mais peut-être réparée.",
+    "review": true
+  },
+  "f1dcc347bd801eb9a0b88dd2b4fcb494": {
+    "text": "Je suis de retour. Le PDG Kern ne m'a pas donné la permission de mourir."
+  },
+  "866ec9911afda6bf64732a22568a6ba3": {
+    "text": "J'ai juste besoin de faire des vérifications de sécurité et je suis de nouveau opérationnel pour le combat."
+  },
+  "7dd26f73423f4bb6802cf2dd1d472120": {
+    "text": "Nnnh... #self_second, au rapport."
+  },
+  "84e2a61f06e643cec997eafafcbc47b7": {
+    "text": "Je... Je suis de retour. J'ai besoin d'un moment pour reprendre mes repères."
+  },
+  "98c20f9cc1b41e85d84cada6f3ec84cc": {
+    "text": "Je suis de retour et prêt."
+  },
+  "1993ec76d6c2a9a3334213d4ec05ecc8": {
+    "text": "Combien... Combien de temps étais-je parti ?"
+  },
+  "95a25ca45a28bbdbfdfed6be7a812bab": {
+    "text": "Mon cycle d'hibernation a été interrompu. "
+  },
+  "eed622eecce8d220e8bc20d06f12c3b8": {
+    "text": "Est-ce-que j'ai été recyclé ? "
+  },
+  "ac04f56937ddeed51a8848313d2a107b": {
+    "text": "Mon cycle de vie a été redémarré."
+  },
+  "a96170e6f02614213c54fb5071db05c6": {
+    "text": "Je suis de nouveau... réveillé. Est-ce que l'infestation Vek est encore d'actualité ?"
+  },
+  "062fe05a1a04fe6794ca976137021ef2": {
+    "text": "Que... que s'est-il passé ? Est-ce que je me suis fait assommer ?",
+    "review": true
+  },
+  "566ddfd93838ef51a00853563d3f5790": {
+    "text": "Aïe... ma tête est en train de me tuer !"
+  },
+  "cfbad4128a2693a47357b4684220430f": {
+    "text": "Pour votre information - ces trucs ont besoin d'airbags. "
+  },
+  "bc115ecfa5569551c54cc418f0a0090a": {
+    "text": "J'ai eu mon deuxième vent !",
+    "review": true
+  },
+  "11eafb1bca73c105a0ca7dfec352bdbe": {
+    "text": "Est-ce... est-ce que j'ai sombré ? Que s'est-il passé ?"
+  },
+  "21d139a330414fb27de416700957cd83": {
+    "text": "Eeeeet je suis de retour !"
+  },
+  "48c6a4c1a4b12c231364775fc549c215": {
+    "text": "nnh... #self_second, au rapport."
+  },
+  "3b74fb4816fb6222b656b95b9dbd6c1a": {
+    "text": "Structure réparée. #self_reverse reprise du travail",
+    "review": true
+  },
+  "d01113df7be668c61397a8c1c023472e": {
+    "text": "Que... que s'est-il passé ?"
+  },
+  "3cdb00b14d0aa5911e6fa4a58e35e61e": {
+    "text": "Est-ce... est-ce qu'il est mort ? "
+  },
+  "87004be29ea4de4dabbce5f99bedecbb": {
+    "text": "Réactivé.",
+    "review": true
+  },
+  "a1200590eabd9247cbc58a1eebb7298d": {
+    "text": "Capteurs en service."
+  },
+  "3fbc4ea123cac5f2548abb6b9ef5d34c": {
+    "text": "Auto-diagnostic en cours."
+  },
+  "21910dd49b933db3eb221236df448b47": {
+    "text": "Énergie... restaurée. Pourquoi ? Quelle honte. Est-ce que j'étais absent longtemps ?"
+  },
+  "1b6cbe0b3526bd3ab596f46f3e9fcd9c": {
+    "text": "Si cette unité meurt."
+  },
+  "b33f94cd91efd989fd54ea83fda8558c": {
+    "text": "Rapport des dommages : Critique"
+  },
+  "b003b81f3c64eb56f4ceeb81b898429b": {
+    "text": "Le Mech est en train de me lâcher. Je ne peux p..."
+  },
+  "f7c6d961ffa30e697302bb63dc9cd07c": {
+    "text": "Je prends trop de dégats !"
+  },
+  "fd6f4db10141d0b2d394a9a503aa8282": {
+    "text": "C'est pour moi !"
+  },
+  "e2eaf549932e09e0a4b150b9bddf48bb": {
+    "text": "C'était un honneur de vous servir, commandeur."
+  },
+  "bb28727f0b99ab3d7f46c16cb9895469": {
+    "text": "Transmission... des derniers... métriques de combat maintenant."
+  },
+  "3dd98eb84e6ac4e34cab06d0f7143c83": {
+    "text": "Dîtes au PDG Singh que j'ai fait de mon mieux."
+  },
+  "ae3db013eb294da523286d41b603b5eb": {
+    "text": "C'est pour moi..."
+  },
+  "7efc6cf4d721ce2eebf1186658971f67": {
+    "text": "N'oubliez pas ce que je vous ai appris !"
+  },
+  "004db6a86fbbb9acd230a616980ec00c": {
+    "text": "Si j'avais su que cette ligne temporelle serait ma dernière...",
+    "review": true
+  },
+  "d8951eb58636f154b7497eeedb0bbd6e": {
+    "text": "Mon Mech est en train de me lâcher. Je-"
+  },
+  "eca31e8963ecd4d28b52a3287cff16d4": {
+    "text": "M'man, je pars te rejoindre maintenant."
+  },
+  "bee19b048eb9c2ca53a46fbe33f5c096": {
+    "text": "Si vous me trouvez dans un univers parallèle... donnez lui... mes notes de recherches..."
+  },
+  "7798bda84ce3cc2094653df1377b5711": {
+    "text": "J'ai tant espéré pouvoir sauver cette ligne temporelle...",
+    "review": true
+  },
+  "5dc92e74672e6668f9028d1e0b06ab3b": {
+    "text": "Début du cycle d'hivernation."
+  },
+  "16a7a2208f27e887d5c97df8bb979a6c": {
+    "text": "Cycle d'hibernation en cours."
+  },
+  "7579be2a2a51a70e1492474b9caa21b1": {
+    "text": "Mise en transe d'auto-réflexion",
+    "review": true
+  },
+  "b84f0bcbc3cfde1dc04fa403454db1a2": {
+    "text": "Tous les systèmes ont fini leurs cycles de vies."
+  },
+  "cf44cd1439102384b2c3d8e13e85daa8": {
+    "text": "Recycler mes composants pour que les autres Mechs puissent continuer le combat."
+  },
+  "7663157795129317fc7bc4fea2284de1": {
+    "text": "S'était amusant tant que ça durait...",
+    "review": true
+  },
+  "885a00a2bb46da61fc533609212229d5": {
+    "text": "Continuez... sans moi..."
+  },
+  "8063296fcf2b801a1d5a356a295784a5": {
+    "text": "Pas possible... je n'étais pas supposé mourir..."
+  },
+  "594cb520f64d714547f664a2f9272742": {
+    "text": "Quel tir... chanceux..."
+  },
+  "89a5187fbe28ec5a4d3b8df04e043d11": {
+    "text": "Ça n'est pas... juste..."
+  },
+  "5bc8eb602a6d96b2bf07a7d938e4e51f": {
+    "text": "Je... ne l'ai pas vu venir..."
+  },
+  "9477846a5b9b375c92383aa9973a1eb4": {
+    "text": "Ainsi... c'est comme ça que je vais mourir..."
+  },
+  "09adfcb1d51d947c8836c7441489d2cb": {
+    "text": "Ici #self_second, déconnexion."
+  },
+  "7664f44562d2f03cb07d9f5e3be09e99": {
+    "text": "Les systèmes ses rendent sur plusieurs fronts. Tentative de redémarrage du système moral."
+  },
+  "3a65aba4fc558d0942a410ce98ff807b": {
+    "text": "Les systèmes principaux se sont rebellés. Je répète, les systèmes primai..."
+  },
+  "c1c27dfcbfff6603fd85fef5efee4ad1": {
+    "text": "Les systèmes principaux rapportent qu'ils sont gentiment partis dans la nuit noire.",
+    "review": true
+  },
+  "6dbb03c2a500e03a05306ce64ce7297f": {
+    "text": "Les processeurs ont échoué leur objectifs principaux. Exécutions immédiates des circuits rebelles."
+  },
+  "fcee52fe81f8cef767c26fab3a636ce5": {
+    "text": "Rapport de défaillance de plusieurs systèmes critiques. Effondrement système imminent",
+    "review": true
+  },
+  "9a483256540d3b5be237ee97487e2c46": {
+    "text": "Non, p-p-pas... aigghhh !"
+  },
+  "e762c692cfc32dd18eeae52004c6e0dc": {
+    "text": "Perte... de puissance. Les systèmes sont défaill..."
+  },
+  "e21207aa3aabbd6042d2823ed4da9af7": {
+    "text": "Si une autre unité meurt.\nUtiliser #main pour indiquer le nom de l'unité mourante."
+  },
+  "22285fd47a9f69885d64fdf481211cbd": {
+    "text": "Statut du pilote #main_second : Décédé\nEfficacité tactique : Compromise"
+  },
+  "03d7aefb7752d920e83f02df6f301458": {
+    "text": "Mech abattu !"
+  },
+  "d7ea70c6d842db227553f49493e8bcdc": {
+    "text": "Detritus verra que notre sacrifice ne sera pas vain."
+  },
+  "827ac9610742822b3a61d0eef29868a2": {
+    "text": "Enfer ! Nous ne pouvons pas abandonner maintenant !"
+  },
+  "55461b8f969c606c25e795d9234babe7": {
+    "text": "Ils paieront pour ça !"
+  },
+  "98655a51a824a8d7a07c5c5b118cc906": {
+    "text": "Je les ferai payer pour ça."
+  },
+  "de07bd043a1c27ee64d1f533034d0ba3": {
+    "text": "Non ! #main_first... Pas comme ça !"
+  },
+  "60071a4f7d9f5376665ec09f0c0a4df6": {
+    "text": "Idiot."
+  },
+  "bfebe02a1895d04786faf6b9bfb62b56": {
+    "text": "Une autre ligne temporelle, une autre mort..."
+  },
+  "68939acbe18d06497ac220ccc9271a73": {
+    "text": "Mes tâches de jardinage augmentent avec la chute de mes alliés.",
+    "review": true
+  },
+  "ffc965862dd6764b20199427025bb9c4": {
+    "text": "Puisse vos restes fertiliser la terre - et votre Mech oxyder l'air."
+  },
+  "dc5fe947500fe7d62b7e7abccdd1e437": {
+    "text": "Ceci n'est pas ta mort, #main_full, tu es recyclé.",
+    "review": true
+  },
+  "2770decf958123aa4f7844e6a1581b82": {
+    "text": "Non non non... Ce n'est pas ce qui aurait du se passer !"
+  },
+  "9711227de9a06148997d4363852b184c": {
+    "text": "Enfer ! Je ne vais pas perdre quelqu'un d'autre !"
+  },
+  "fa8a658a8e5794af646571fb0c095de8": {
+    "text": "Encore un brave soldat..."
+  },
+  "d8b377d00ea5dfd83dbff4af861b761a": {
+    "text": "Si seulement #main_first m'avait écouté, ils ne seraient pas morts !"
+  },
+  "1d42714a4ccc0748c0a2aaa16e301bf1": {
+    "text": "Zut, #main_first ! Je t'avais ordonné de ne pas mourir !"
+  },
+  "3bac1ba3dc38ec4f032e9d256db57a9b": {
+    "text": "Je te vengerai, #main_first !"
   }
 }
