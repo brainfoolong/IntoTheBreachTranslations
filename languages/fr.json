@@ -8213,8 +8213,7 @@
     "review": true
   },
   "4f1c6b3fa81ff78a4d111e7f1541f772": {
-    "text": "R.S.T. les pilotes ne sont pas idiots et partagent une grande partie du pragmatisme parfois trop agressif de Kerns. Ils ont tendance à être plus durs et tenaces que les autres pilotes de l'île. Certaines fois trop raides, militaires et réfléchis et d'autres fois trop impulsifs surtout quand il s'agit de tuer des Veks.",
-    "review": true
+    "text": "Les pilotes R.S.T. ne sont pas idiots et partagent une grande partie du pragmatisme agressif de Kerns. Ils ont tendance à être plus durs et impitoyables que les autres pilotes de l'île. Parfois rigide et militaire (\"commandant\"), mais à d'autres fois, leur empressement à tuer Vek sort."
   },
   "7dcc667a5c4b903654b7f5917826f03d": {
     "text": "Pinnacle sont tous des I.A./êtres artificiels doués de raison, juste pour renforcer le thème robotique (même s'il y a des humains sur l'île).",
@@ -8335,5 +8334,17 @@
   },
   "ddc8e1155a5ce6a67d71a5e27bc447bf": {
     "text": "Bonjour...? Est-ce que j'ai réussi ? Oh... Je capte des signaux des îles maintenant. Bonjour, là-bas !"
+  },
+  "4faf2d8d6e7bb2ddba6b1ab5dbd89044": {
+    "text": "Faites-moi savoir ce dont vous avez besoin, commandant. Je peux aider à unir les îles en une force de combat unique contre les Vek, il suffit d'un mot de votre part."
+  },
+  "54bb7b7e5c34cdbdc786c1ed35f2c45a": {
+    "text": "Nous n'avons pas beaucoup de temps. Chaque seconde gaspillée en débats inutiles font gagner du terrain aux Veks."
+  },
+  "307f68d72e6d5b82ec351ade57f196b5": {
+    "text": "Chers citoyens des îles - n'ayez pas peur ! Je, #self_full, suis venu pour détruire les Veks !"
+  },
+  "8c91dbee338d379a1b1ba9dc2c447053": {
+    "text": "Peuple des îles, je suis venu - du futur ! Je suis venu pour vous aider dans vos heures sombres... euh, il y a quelqu'un ? Est-ce que ce truc fonctionne ?"
   }
 }
