@@ -21,8 +21,6 @@ The work on the tools and everything to get this thing ready for real translator
 * [![DE](https://img.shields.io/badge/DE_-40%25%20Translated-orange.svg)](https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/de.zip)
 * [![FR](https://img.shields.io/badge/FR_-50%25%20Translated-orange.svg)](https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/fr.zip)
 * [![IT](https://img.shields.io/badge/IT_-16%25%20Translated-orange.svg)](https://github.com/brainfoolong/IntoTheBreachTranslations/raw/master/packages/it.zip)
-=======
-
 * Other languages are missing contributors. Become one.
 
 ## How to install
