@@ -2443,5 +2443,226 @@
   },
   "ccfcb82c966c38b94bd1cb0ba2ff0d4d": {
     "text": "Seleziona Missione Unità 1"
+  },
+  "0a6d8caecdb62b9b8f278db13d1ec7b8": {
+    "text": "Siamo salvi!"
+  },
+  "3d2a159c7bdbfdf3e8763af9b82b8342": {
+    "text": "Due al prezzo di uno."
+  },
+  "7d1aff45be134baa1c15c5e978be3097": {
+    "text": "Seleziona l'unit di missione che controlli in questo momento (se disponibile)",
+    "review": true
+  },
+  "6799f38346a63281c3281b5c31579824": {
+    "text": "Seleziona Unit Missione 2",
+    "review": true
+  },
+  "fa19134bfb49626009a9893255036a48": {
+    "text": "Seleziona la seconda unit di missione che controlli (se disponibile)",
+    "review": true
+  },
+  "aa9356bdb7a00c303a7da7c2f990a954": {
+    "text": "Scorri unit",
+    "review": true
+  },
+  "575213fe153f111ec860aff389498b67": {
+    "text": "Passa alla prossima unit attiva e controllata",
+    "review": true
+  },
+  "cfa907d84135db952a9c9f0932e1697d": {
+    "text": "Deseleziona / Disarma Arma"
+  },
+  "97cbd580ed85eb7dc53ea309b964f1a4": {
+    "text": "Resetta l'unit correntemente selezionata",
+    "review": true
+  },
+  "1bb5b2a88971a285391d6f9e273b222a": {
+    "text": "Finestra informazioni"
+  },
+  "11d3de52b4f3312b785a0fe02d6900e4": {
+    "text": "Scorri il mouse per ispezionare una qualsiasi unit sotto il tuo mouse",
+    "review": true
+  },
+  "cd461c86ccd5fe4f56a9d6d3db7adc69": {
+    "text": "Finestra Ordini d'Attacco"
+  },
+  "397e67a8f83a6493892e4d70713591a5": {
+    "text": "Passa il mouse per vedere l'attuale ordine di attacco dei nemici"
+  },
+  "7f8a77a3b290dcd8fe1dfaab6615d180": {
+    "text": "Arma 1"
+  },
+  "d5340b233c6a205c5df141be552a526a": {
+    "text": "Arma 2"
+  },
+  "6e4085b56bdc02cf028dfeef19499410": {
+    "text": "Arma o disarma la prima arma equipaggiata da un'unit",
+    "review": true
+  },
+  "acd57b51180047d91092584782b68033": {
+    "text": "Arma o disarma la seconda arma equipaggiata da un'unit",
+    "review": true
+  },
+  "a996706aefbcd1b0c7fe3d539706e707": {
+    "text": "Attiva l'Abilit di Riparazione Mech (se disponibile)",
+    "review": true
+  },
+  "981d57b1e4997c2f3c9f3d102b1620da": {
+    "text": "Finisci il tuo turno, o conferma l'ordine di rilascio"
+  },
+  "f3b350b739134cb26b57ee8e5d9269b5": {
+    "text": "Imposta Schermo Intero"
+  },
+  "a757b68f63f07496914e91d95e5550fe": {
+    "text": "Imposta Schermo Intero"
+  },
+  "3120878cf92b0ba7e11bcc4c5f7d3d8a": {
+    "text": "Un gioco di:"
+  },
+  "aab21594c7b53037cf150d127c3ffd3b": {
+    "text": "SUBSET GAMES"
+  },
+  "b5158bf5be48253279dc5d514bf89cea": {
+    "text": "Creato da:"
+  },
+  "bcc732b18507baf1d93350b4af0bbe45": {
+    "text": "Justin Ma e Matthew Davis"
+  },
+  "29c99dddbf32d94d8095951866456f1a": {
+    "text": "Musica:"
+  },
+  "7882ef4b0a81bd84c2872b1829fa0c85": {
+    "text": "Suono:"
+  },
+  "34de3f01ca0ede8a75226a85037b0a33": {
+    "text": "Designer del Suono:"
+  },
+  "c368a46cdf899ffa88acf4d5fad82ab3": {
+    "text": "Ben Prunty"
+  },
+  "8412db77b9adc0f2d6ac1d974115ecac": {
+    "text": "Power Up Audio"
+  },
+  "faa4665b3c11c83b9c5fc053231cfaaa": {
+    "text": "Joey Godard\nJeff Tangsoc\nKevin Regamey\nCole Verderber"
+  },
+  "9f3c03009d95b2ccc04a7577d604d56d": {
+    "text": "Libreria del Suono:"
+  },
+  "e5a576b98bb4eb19cb9c5367c9a1331f": {
+    "text": "Testi:"
+  },
+  "317369dbddb0f0bbef03dd5b9f81a522": {
+    "text": "Chris Avellone"
+  },
+  "cb337e35d4e402a1240b6c164cf560b4": {
+    "text": "Alison Waller"
+  },
+  "9b7e18a43799a7b516dd004356cdaa82": {
+    "text": "Editing Aggiuntivo:"
+  },
+  "4aacc3a15ce97526c9034582ccb9efdb": {
+    "text": "Gestione Community:"
+  },
+  "93bce36407fbf6bfd08d66d1f1cfbae0": {
+    "text": "Isla Schanuel"
+  },
+  "11fe22216e23ac1d8ffa97c1670c937b": {
+    "text": "Concept Art Ritratti:"
+  },
+  "e77771f6533b085c905d2150d10f5f3a": {
+    "text": "Polina Hristova"
+  },
+  "f88520b5848c303e269bb914c441303a": {
+    "text": "Concept Art Mech:"
+  },
+  "ace65a48ad4ba7ae0b2f4b682885234a": {
+    "text": "Gareth Davies"
+  },
+  "9d17c916654bd3ae060e90b1fa0e2ac7": {
+    "text": "Testing Qualit :",
+    "review": true
+  },
+  "7fb4cc800cbe695ec766272521a9d63e": {
+    "text": "The Research Centaur UX+QA"
+  },
+  "8ea54912e057c4409adbaa57482b527a": {
+    "text": "Specialista QA:"
+  },
+  "96599af9164eb508112ca3136e782cf7": {
+    "text": "Test Manager:"
+  },
+  "c2f19165431d93387a53e1ef56ea399f": {
+    "text": "Jay Fernandes"
+  },
+  "201306df12a2519aaf2f1256e6b00558": {
+    "text": "Matthew Barnes\nLucia Aldana"
+  },
+  "c03194935124ab2880023d952948807f": {
+    "text": "Grazie ai nostri fantastici tester:"
+  },
+  "1915d9cbe9bc72d760d7a9430f2f0382": {
+    "text": "5thHorseman\\n\nAlfie275\nchewbacca77\nDarthcaboose\nDiscord\nFynn\nJoni\nKieve\nLem\nNick Patrick\nRick Edmonds\nSleeper Service"
+  },
+  "5d0bd58e10b79127d9082df3ff9c84d1": {
+    "text": "Un grazie speciale per i loro consigli e supporto:"
+  },
+  "77271b6ae88dc394d6706b849e3a0c50": {
+    "text": "Maria\nAlison\nMichael Nielsen\nEstelle Tigani\nAllison Thrower\nBryan\nIlona Koleda\nEsther Oh"
+  },
+  "717661adaa6ab0eb18cb8dec809f3c3c": {
+    "text": "e al resto della nostra famiglia, amici,\ne ai nostri amici sviluppatori indie"
+  },
+  "ad3ec94f9d3681e69e39f7cac60460b9": {
+    "text": "Production Babies:"
+  },
+  "5cd17525c026baa6fe3ff472fa2cee28": {
+    "text": "Fox and Willow"
+  },
+  "9f38be5556f95aea4a8a90f3b72822a3": {
+    "text": "Grazie per aver giocato!"
+  },
+  "ed837c950ae03759ae483804222fd610": {
+    "text": "Vittorie"
+  },
+  "61d51b0aea3d2bbc914af9e6969e999c": {
+    "text": "Metagame"
+  },
+  "5ce9e453e1bd8785b86a8450bce18177": {
+    "text": "Sfide Isola"
+  },
+  "d3c6f26dde1025efe61164ba2996893a": {
+    "text": "Sfide Pilota"
+  },
+  "86989f92dd486053006ae35c5856ad26": {
+    "text": "Sfide Partita"
+  },
+  "1f5c647d9066bc9e350b70aa2d16aec4": {
+    "text": "Vittoria"
+  },
+  "158c46453f6af885ea47bc59df6441f1": {
+    "text": "Completa il gioco(qualsiasi durata)"
+  },
+  "788cac4affd804c97d99095648f83602": {
+    "text": "Vittoria Difficile"
+  },
+  "65523442264a450ba4d1075cd0dccd94": {
+    "text": "Completa il gioco su Hard (qualsiasi durata)"
+  },
+  "9349de00597d01bb4a1b9b4390fb4e2d": {
+    "text": "Vittoria Adattabile"
+  },
+  "bac2ad3164a1c9d1642ab8353276ac8c": {
+    "text": "Completa una partita almeno una volta per durata (2, 3, e 4 Isole di Corporazione protette)"
+  },
+  "5c36db7d75dc0c882556f349860c7946": {
+    "text": "Progresso: $1/ 3 completate"
+  },
+  "2eb09bc9d65eb3ab6af1df4139643293": {
+    "text": "Vittoria Squadre"
+  },
+  "5902fa7c72c1acc933626af9644d6861": {
+    "text": "Completa il gioco con 4 diverse Squadre (Qualsiasi durata)"
   }
 }
