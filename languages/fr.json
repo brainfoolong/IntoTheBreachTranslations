@@ -8844,5 +8844,86 @@
   },
   "4640241efe4ab4cbcf5be040e7ab0f7a": {
     "text": "Activation des systèmes de filtration."
+  },
+  "769c3b3928acee66bfa771cf9fd9cb12": {
+    "text": "Activer les stabilisateurs de sol, l'île se coupe en deux !"
+  },
+  "38f452c01ab53d90d7040db1d22e61e6": {
+    "text": "Activer la brèche ! Nous devrons réessayer !"
+  },
+  "158f53b2d14d5310cdbd31d0155102a2": {
+    "text": "Activer la brèche temporelle !"
+  },
+  "f9f81b2a5cc1a0c5abb7817db57a2e54": {
+    "text": "Activation des mesures d'urgence du de voyage temporel."
+  },
+  "b8374f225a3118e1d09af62e439657cf": {
+    "text": "Activation : Stabilisateurs de sol"
+  },
+  "d20993563ee9e5a589260300af4f989e": {
+    "text": "Activité détectée à partir d'unités précédemment congelées."
+  },
+  "3bad3700e21db9243cfa4c905fbd3707": {
+    "text": "Ajout de dispersion de fumée aux routines Vekticide."
+  },
+  "bf7e34d52fdd9fedb50b10c8ba83b6af": {
+    "text": "Affirmatif. Vous avez entendu le PDG, citoyens, allons faire ca.",
+    "review": true
+  },
+  "3a929c320b2445eb7136ef42d182da5a": {
+    "text": "Après l'animation complète de l'inondation du barrage "
+  },
+  "d7ea403a37840b1f86feca0d70aefaac": {
+    "text": "Après que le joueur utilise le terraformeur (pas nécessairement en premier, chance aléatoire)\n\nCela obéira aux mêmes règles que les autres embarquements, tel que la mort d'un pilote qui aura la priorité.",
+    "review": true
+  },
+  "78eff192ebcc88dc0d6d3566c1bd6bb9": {
+    "text": "Ah, une touche de civilisation."
+  },
+  "6b2863b34cc0f4f695ffd55c893011db": {
+    "text": "Ah, en approche de la technologie civilisée."
+  },
+  "18ed6990ad64872add672a338201d092": {
+    "text": "Ah ... plus de cible d'entrainement Vek",
+    "review": true
+  },
+  "ab43cbde6e81bc8b15b96d326672a337": {
+    "text": "Ah ... malheureux. J'avais espéré que nous pourrions garder l'unité intacte, c'était la clé de notre défense."
+  },
+  "086682363098b5f8fb1f137f54aebd98": {
+    "text": "Ah ... malheureux. Pourtant, mieux vaut rationner le pouvoir à partir de maintenant que de perdre la région !"
+  },
+  "124a96ae5cea09d1726a5a623ff5a872": {
+    "text": "Frappe aérienne en approche !"
+  },
+  "434b4596a68221003b328e9803091044": {
+    "text": "Alerte : Soutien aérien en approche"
+  },
+  "59493f4b22e2dc3ce6dbcc7b1975ae33": {
+    "text": "Tous #squad - si vous n'avez pas un tir clair sur le Vek, nivelez les montagnes !",
+    "review": true
+  },
+  "7c60bb4d9c20a81ba33390a77b3eb1da": {
+    "text": "Tous les composants, la protection de la bombe est notre priorité. Rappelez-vous de votre entraînement.",
+    "review": true
+  },
+  "b1f1c6c9602adbfc5e00b96496ed251b": {
+    "text": "Toutes les unités terrestres, sachez que nous avons un effondrement du terrain en vigueur."
+  },
+  "65c159bf91843de6bee8dd3f3e004ea1": {
+    "text": "Tous mes sens semblent ... plus affinés. Les couleurs semblent ... plus claires.",
+    "review": true
+  },
+  "67047e0ece463830b204ce05a03c18af": {
+    "text": "Très bien, #squad, nettoyons ça proprement."
+  },
+  "d09b53f854fb469b2abc88123580a13c": {
+    "text": "Très bien, la récréation est terminée."
+  },
+  "6ffdcfed04551e9ee993e76c5ca96d56": {
+    "text": "Très bien, le Pod Temporel est stocké en toute sécurité dans la cargaison."
+  },
+  "9ab915a79d8eb8909dc5dd7e0eb81d73": {
+    "text": "Bien, qui est le prochain ?"
   }
 }
