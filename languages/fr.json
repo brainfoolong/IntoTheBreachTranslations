@@ -6269,7 +6269,7 @@
     "text": "Les signes de vie de #main_full ont cessé."
   },
   "1ae0a90f3235ea8251ebb096b700d0db": {
-    "text": "#main_full, vous vous souviendrez."
+    "text": "#main_full, on se souviendra de vous."
   },
   "d799e8778a833dab8c40631fce9a0879": {
     "text": "#main_mech numéro de désignation enregistré pour le prochain pilote qualifié."
@@ -6291,7 +6291,8 @@
     "text": "#main_mech a éte abattu !"
   },
   "457968d66cc6ae8b203294910321cc97": {
-    "text": "Les parties de #main_mech ont échoué dans leur mission principale de protéger leur hôte."
+    "text": "Les parties de #main_mech ont échoué dans leur mission principale de protéger leur hôte.",
+    "review": true
   },
   "56a6ab8bf65dddda4d99f16a1c26bf3a": {
     "text": "Le pilote de #main_mech a réalisé une synergie avec son partenaire."
@@ -8197,8 +8198,7 @@
     "review": true
   },
   "7b552847ff80412b69e32cb1fec409a0": {
-    "text": "Les Rocks ou Peuple Rochers sont une race extraterrestre du jeu FTL. Le texte générique est utilisé pour rationaliser ces pilotes pour une utilisation dans le jeu. Ariane est un pilote bonus qui peut être gagné au cours du jeu.\n\nContexte général: Les Rocks (il existe les deux genres au sein de l'espèce: les hommes et les femmes) sont de grands bipèdes herbivores. Les hommes Rocks sont des misanthropes par natures et aiment être seuls. Ils sont dogmatiques et déterminés. Dans leurs mondes natals, ils sont en grande partie des zélotes religieux et ont une interprétation assez particulière de la transgression culturelle (ex: les offres commerciales peuvent être interprétées comme hostiles). Les hommes Rocks sont élevées de manière à ce que les membres radicaux de leur espèce soient séparés de la population et gérés avec soin afin qu'ils puissent s'intégrer au reste de leur culture. Les interactions avec des espèces aliens sont illégales. Leur culture d'origine implique des mariages arrangés. Ils étaient l'un des fondateurs de la Fédération (avec les humains et Engi).\n\nLes hommes Rocks qui ne se conforment pas au stéréotype de leur espèce (par exemple, se rebeller contre la religion ou en étant simplement ... différents) peuvent être trouvés parmi les stars, et plusieurs exemples de pirates et de guerriers Rock existent dans le Big Black (ils sont connus pour couvrir leurs navires avec \"décorations bannies\").\n\nContexte spécifique: Ariane (femme Rock) fuyait un mariage arrangé avec un chef de basilisk (voir FTL) quand une balise de détresse a détourné son vaisseau. Son crime l'empêche de vouloir retourner dans l'espace Rock même si elle le pouvait ... mais elle est mal à l'aise parmi les nombreuses cultures sur la nouvelle planète qu'elle a trouvée. Elle est vaguement curieuse de savoir à quelle heure la technologie de déplacement / brèche pourrait faire pour effacer son crime et les événements qui l'ont précédé, permettant un nouveau départ.",
-    "review": true
+    "text": "Les Rocks ou Peuple Rochers sont une race extraterrestre du jeu FTL. Le texte générique est utilisé pour rationaliser ces pilotes pour une utilisation dans le jeu. Ariane est un pilote bonus qui peut être gagné au cours du jeu.\n\\ n\nContexte général: Les Rocks (il existe les deux genres au sein de l'espèce: les hommes et les femmes) sont de grands bipèdes herbivores. Les hommes Rocks sont des misanthropes par natures et aiment être seuls. Ils sont dogmatiques et déterminés. Dans leurs mondes natals, ils sont en grande partie des zélotes religieux et ont une interprétation assez particulière de la transgression culturelle (ex: les offres commerciales peuvent être interprétées comme hostiles). Les hommes Rocks sont élevées de manière à ce que les membres radicaux de leur espèce soient séparés de la population et gérés avec soin afin qu'ils puissent s'intégrer au reste de leur culture. Les interactions avec des espèces aliens sont illégales. Leur culture d'origine implique des mariages arrangés. Ils étaient l'un des fondateurs de la Fédération (avec les humains et Engi).\n\\ n\nLes hommes Rocks qui ne se conforment pas au stéréotype de leur espèce (par exemple, se rebeller contre la religion ou en étant simplement ... différents) peuvent être trouvés parmi les stars, et plusieurs exemples de pirates et de guerriers Rock existent dans le Big Black (ils sont connus pour couvrir leurs navires avec \"décorations bannies\").\n\\ n\nContexte spécifique: Ariane (femelle de l'espèce) fuyait un mariage arrangé à l'avance avec un chef de basilisk (voir FTL) quand une balise de détresse a détourné son vaisseau. Son crime l'empêche de vouloir retourner dans l'espace Rock même si elle le pouvait ... mais elle est mal à l'aise parmi les nombreuses cultures sur la nouvelle planète qu'elle a trouvée. Elle est vaguement curieuse de savoir comment effacer son crime grâce aux technologies de voyages dans le temps et les événements qui l'ont précédé, lui permettant un nouveau départ."
   },
   "6b92eed5a1dd9560f079f598538899de": {
     "text": "Voir la biographie du PDG dans la documentation narrative."
@@ -8834,10 +8834,12 @@
     "text": "Nous avons perdu #main_second ! Enfer !"
   },
   "8a404abf9c4522f992df279f7bd9d05b": {
-    "text": ""
+    "text": "Aucun pilote artificiel n'a été recensé à l'intérieur du #main_mech. Perte de #squad: minimale.",
+    "review": true
   },
   "753c145bb1c840be2904795382fd31f8": {
-    "text": "Quand est-ce que ces combats finiront-ils ?"
+    "text": "Quand est--ce--ce que ces combats finiront-ils ?",
+    "review": true
   },
   "5180a59cc2a00131ef00a70dba4f25c5": {
     "text": "Systèmes additionnels en ligne."
@@ -8961,5 +8963,15 @@
   },
   "eb922550ad195cd1eb262aba01de5e6d": {
     "text": "Je suis en train de tester le moral des composants de base. Les déserteurs seront jetés dans la lave."
+  },
+  "f088a36fc3a2da5274a22fb3b502845f": {
+    "text": "Les parties des pilotes ont échoué dans leur mission principale de protéger leur hôte.",
+    "review": true
+  },
+  "d6986c784129dc5143d111dc3a31f18f": {
+    "text": "Cette gu-gu-guerre c'est de la folie."
+  },
+  "87e147288c21b0f2e44359924e1da3c9": {
+    "text": "Mon Dieu... Le Mech ne bouge plus. Et aucun de s-s-signe de vie n'émane du cockpit."
   }
 }
