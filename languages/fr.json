@@ -8969,9 +8969,78 @@
     "review": true
   },
   "d6986c784129dc5143d111dc3a31f18f": {
-    "text": "Cette gu-gu-guerre c'est de la folie."
+    "text": "Cette gu-gu-guerre, c'est de la folie."
   },
   "87e147288c21b0f2e44359924e1da3c9": {
     "text": "Mon Dieu... Le Mech ne bouge plus. Et aucun de s-s-signe de vie n'émane du cockpit."
+  },
+  "5dfe9e857a18a66d0667054ed127cfaa": {
+    "text": "Scanne #main_mech pour d'éventuelles ressources utiles",
+    "review": true
+  },
+  "5063f8c576e4f8a1bba20d10f8254f99": {
+    "text": "Pourquoi les humains sont si fragiles ?"
+  },
+  "9af76c7471a57b4d9f9a41285acea1f9": {
+    "text": "Perdre un soldat est dur mais nous devons nous concentrer sur la mission !"
+  },
+  "b3ca1dc15b8483ad63b07800adb29fab": {
+    "text": "Encore une vie que les Veks paieront. ",
+    "review": true
+  },
+  "fd3b4955ef792cdb138835dc0c58c09e": {
+    "text": "Aucun sacrifice ne sera vain."
+  },
+  "5695a39b1a710bada2881bccf58b97af": {
+    "text": "Nous pleurons la perte de votre pilote, commandeur."
+  },
+  "75312f40f98722ec5515e5c72272f795": {
+    "text": "Il n'y a plus aucun signe de vie de #main_second. Sa perte est ressentie par tous.",
+    "review": true
+  },
+  "246028ce42b47b7b2dadce0886f12969": {
+    "text": "Si un autre Mech tombe mais il n'aura pas de pilote pour l'accompagner dans sa mort.",
+    "review": true
+  },
+  "102b56ac4ecf5bfdd26dafa6994df013": {
+    "text": "Voir de la bonne techno mourir m'horripile...",
+    "review": true
+  },
+  "8d9957188123389e5c2e6f2d21ad2f17": {
+    "text": "Ce mech et son pilote ont été réduits en miettes - Continuez à vous battre !"
+  },
+  "0c2555a62b8cc01e56cbe9847e069a48": {
+    "text": "Ce n'est pas une perte vaine - Detritus peut encore recycler l'épave"
+  },
+  "f52d8ac6895299bfa66f1888e3819e8d": {
+    "text": "Nous avions besoin de ce Mech, mais heureusement qu'il était piloté par une intelligence artificielle - Continuez à vous battre !"
+  },
+  "9d57ed20c792f753a4ea0184e8653d2e": {
+    "text": "#main_mech a été détruit !"
+  },
+  "cd5afb849e880439e6d0077a9bf9de14": {
+    "text": "Ne vous laissez pas distraire."
+  },
+  "26896814b62e71edad1f3570548f77f1": {
+    "text": "Quel gâchis...",
+    "review": true
+  },
+  "a07a6133417b13c6fc2163925c54745d": {
+    "text": "Je peux vous assurer que votre coque et ses composants seront recyclés comme nouveau Mech."
+  },
+  "f5368739cc1d14673fe5d2c2e8ca6f61": {
+    "text": "Vos composants auront une nouvelle vie dans un nouveau Mech."
+  },
+  "afbe07561345261de9bde2faa7f00c82": {
+    "text": "Non ! #main_mech est détruit !"
+  },
+  "b6a768068a9cb4ba988681e2723430fa": {
+    "text": "Nous avions besoin de ce Mech, piloté artificiellement ou non !"
+  },
+  "955cc2c61d421171f5b9ed59db5faae2": {
+    "text": "Nous avons un Mech à terre !"
+  },
+  "292819a6dd04524283fd560dcc3e7522": {
+    "text": "Bon, c'est ce qui arrive lorsque vous laissez les machines piloter les Mechs. Sans vouloir vous offenser."
   }
 }
