@@ -8857,7 +8857,8 @@
     "text": "Activer la brèche temporelle !"
   },
   "f9f81b2a5cc1a0c5abb7817db57a2e54": {
-    "text": "Activation des mesures d'urgence du de voyage temporel."
+    "text": "Activation des mesures d'urgence du voyage temporel.",
+    "review": true
   },
   "b8374f225a3118e1d09af62e439657cf": {
     "text": "Activation : Stabilisateurs de sol"
@@ -9042,5 +9043,140 @@
   },
   "292819a6dd04524283fd560dcc3e7522": {
     "text": "Bon, c'est ce qui arrive lorsque vous laissez les machines piloter les Mechs. Sans vouloir vous offenser."
+  },
+  "52e401d230581b413d933e7aacc4e0c5": {
+    "text": "Demande autorisation pour nettoyer l'obstruction faite par #main_mech de la zone de travail dangereuse."
+  },
+  "b771ca32bb2ec38953c7e680620e806a": {
+    "text": "Au m-m-oins, il n'y avait pas de pilote humain... D-d-désolé, c'était grossier de ma part."
+  },
+  "6830a2b6aa0cd9ea50ff313697b0d0ee": {
+    "text": "ça... au-aurait pu être moi."
+  },
+  "af727f984a740a364e52b013d6f84d84": {
+    "text": "Le prochain qui pourrait tomber p-p-pourrait être moi. "
+  },
+  "0789e16cbbeee5d1cb0d8f7218a91af8": {
+    "text": "Le mech a été endommagé."
+  },
+  "73bd6a16e7e10c2a48accaee1455b030": {
+    "text": "Cette intelligence a un tel potentiel..."
+  },
+  "5220e525578771e7ec6f74fa53182048": {
+    "text": "Je... Je pense que nous pouvons recycler ce Mech, mais l'I.A. n'est pas réparable en l'état."
+  },
+  "9ffaf9f73b9e3ce267e8a1896593c066": {
+    "text": "Peu importe le nombre machines que les Vek détruisent, nous trouverons un moyen d'en faire plus. Nous le devons."
+  },
+  "f6d4982eb864f158afbb473e42a5f2d7": {
+    "text": "Ce mec est inutile en l'état."
+  },
+  "6b2f3965c7c2e1a8692daae9b08301cb": {
+    "text": "Il nous aurait été utile de préserver cette I.A. même avec sa capacité de réflexion limitée."
+  },
+  "f6d8fd06ec06b349422f5db379bc7304": {
+    "text": "Cette I.A. limitée était à la fois un atout et une vie unique. Elle nous manquera."
+  },
+  "4c2f0c229b70d9e25b5e5145415b47c3": {
+    "text": "Nous devrions être capable de réparer votre Mech après la bataille, commandeur. En revanche, cette I.A. devra être changée."
+  },
+  "8feb4cae9e0f397a85b29f3252744d30": {
+    "text": "La dernière chose que le pilote dit avant de voyager après une victoire.",
+    "review": true
+  },
+  "c98bca988fe3dbcced0af65f17285037": {
+    "text": "Mise à jour : Les disques de données sont prêts pour un saut temporel"
+  },
+  "9d5ab9209ddfab7bfc419a83c1667670": {
+    "text": "Bon #squad... On se voit sur l'autre côté!"
+  },
+  "3873ab6160f3144beff5cc62578952c2": {
+    "text": "Il est temps de partir dans d'autres lignes temporelles"
+  },
+  "1ca866768b8cb8c2a60de9dcb0fa48aa": {
+    "text": "Les vieux soldats ne meurent jamais... Ils voyagent juste dans d'autres lignes temporelles."
+  },
+  "8dc5fb943867d4a5d5dba65c34f7cb8a": {
+    "text": "Maintenant, il est temps de nettoyer d'autres lignes temporelles..."
+  },
+  "63ee6b55072f46b0d3e2b4644cdcf98e": {
+    "text": "Je... Nous... avons gagné. Maintenant, peut-être, nous pouvons changer le cours de la guerre partout."
+  },
+  "c2e6efa13af1c6660a5258457e7fa7f1": {
+    "text": "Allons-y #squad... Nous avons d'autres lignes temporelles à sauver."
+  },
+  "4b8ef93f876c5e663cc8912e941ab9e4": {
+    "text": "Adieu, #squad... Je ne vous oublierai pas."
+  },
+  "92678a5bc0bf9ffcc7c5536c25b1a361": {
+    "text": "Notre guerre n'est pas encore gagnée. Continuez à voyager dans le temps et continuez à vous battre."
+  },
+  "c9259b738beb42f71b7f0021f810710f": {
+    "text": "On dirait que je dois repartir... Nouvelles lignes temporelles, nouvelles découvertes !"
+  },
+  "6514a9aee391e1720f0b3979bd758f20": {
+    "text": "Les Veks ont été délogés de cette ligne temporelle. Maintenant les îles pourront prospérer sereinement."
+  },
+  "063a3d71c87244fd2e45bfc997cb8297": {
+    "text": "Vekticide accompli. Il est temps pour nous de continuer ce cycle ailleurs."
+  },
+  "3399deaaa63be5deb0f752ec637b90f6": {
+    "text": "C'est tout ? Mais... nous nous reverrons encore ? Peut-être ?"
+  },
+  "91893050d7cd964ef5f10f5baa4e9a40": {
+    "text": "Il n'y a pas à être triste... Sniff... Il vaut mieux que je parte sur une note joyeuse, non ?"
+  },
+  "f115fadb3ecacc9f0de6dd45620c04c0": {
+    "text": "Nous avons battu les Vek ! Et cela signifie que nous pouvons le faire encore et sauver une autre ligne temporelle !"
+  },
+  "712c4c21502ea0345f13b47a6a5882aa": {
+    "text": "C'était un honneur, #squad. Dans cette ligne temporelle, et partout ailleurs."
+  },
+  "7931b5bd25560029693c7793f0d999d4": {
+    "text": "C'était un honneur. Si je vois vos doubles, je leur passerai vos salutations."
+  },
+  "848a1156cf6ad60ffda64bda1e165f52": {
+    "text": "Bon, euh... Je ne veux pas pleurer ou autre, mais... bon, j'ai passé un excellent moment avec vous.",
+    "review": true
+  },
+  "f59c3c035300661c4b0cbd40390f3f7b": {
+    "text": "à la prochaine ? Ne m'oubliez pas, ni moi, ni ce que nous avons accompli aujourd'hui."
+  },
+  "796913f27fbe8e61ac621d9868982460": {
+    "text": "C'était... un honneur, commandeur, de servir à vos côtés, vous et #squad."
+  },
+  "2fd6ab58815362904845d6662ba3e085": {
+    "text": "Puissions nous rencontrer encore dans chaque ligne temporelle sauvée."
+  },
+  "6a82f22b16c53e6b403f91d31c4896fe": {
+    "text": "Reconstruction d'une nouvelle zone temporelle imminente. Cela a été efficace de réparer cette ligne temporelle avec vous, #squad.",
+    "review": true
+  },
+  "85d1d31059578edefeeef358c4b546fb": {
+    "text": "Jjk? …Ckt'ch'kht?!"
+  },
+  "2d99d045a22f9a2912e2430a44089bed": {
+    "text": "Notre travail continue. De nombreuses lignes temporelles attendent d'être sauvées. L'escouade #squad a prouvé qu'elle était à la hauteur de la tâche."
+  },
+  "63b208e4ecc0b9d9d993f5f1ed2504de": {
+    "text": "Je... Je vous souhaite bonne chance, à ceux qui resteront ici... Et également ceux qui continueront à voyager."
+  },
+  "903597ea9afbe7050f2e2010b13a4d5d": {
+    "text": "Je... Je suppose que H.G. Wells me sourit maintenant."
+  },
+  "9ad8b00e1482f6aa7a9312795ce7e373": {
+    "text": "Je... J'apporterai avec moi toute l'expérience que j'ai acquise ici dans la prochaine ligne temporelle."
+  },
+  "1c54f6ac6d9aecc7032cfe5a712e2330": {
+    "text": "Excavation temporelle initiée. Ré-engager le combat avec les Veks dans une ligne temporelle alternative à l'aide de nouvelles données."
+  },
+  "2fb41a8abfc0fdc219336f2cfedfbbc4": {
+    "text": "Mon travail ici est enfin terminé mais voyage continue."
+  },
+  "b0267b84e61ec17f99f3090a30b85eb7": {
+    "text": "Merci, #squad... Vous nous avez sauvé. Vous avez toute notre gratitude."
+  },
+  "6c590c23833a1a7de013862f95cda932": {
+    "text": "Ma confiance en vous était justifiée. Vous avez été testés et vous "
   }
 }
