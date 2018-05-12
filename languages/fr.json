@@ -6298,7 +6298,7 @@
     "text": "Le pilote de #main_mech a réalisé une synergie avec son partenaire."
   },
   "59c0aebe089e1ace10583ac6825284f3": {
-    "text": "L'ensemble des compétences de #main_mech ont réussi à supprimer tous les Veks de la zone de travail menacée."
+    "text": "L'ensemble des compétences de #main_mech ont réussi à éradiquer tous les Veks de la zone."
   },
   "1cedeffddcd0e365b5808d0927edd0e1": {
     "text": "La formation #main_mech de son pilote a réussi."
@@ -6414,7 +6414,8 @@
     "review": true
   },
   "01403df661e08c5f1d1d7ba7b2104787": {
-    "text": "... Avez-vous détecté un problème étrange dans vos capteurs ?"
+    "text": "...Avez-vous détecté quelque chose d'étrange dans vos capteurs juste maintenant ?",
+    "review": true
   },
   "a7b8395f882dd6cccd0df92aef7ecbcd": {
     "text": "... Les unités d'élimination de ce genre sont une raison pour laquelle je me porte volontaire comme pilote."
@@ -6482,7 +6483,7 @@
     "text": "... Le pouvoir de ces Mechs m’effraie parfois."
   },
   "3104412f180546a42d3fac01466b8b71": {
-    "text": "... C'est pour chaque ligne temporelle qu'ils ont détruit."
+    "text": "...C'est pour chaque ligne temporelle qu'ils ont détruit."
   },
   "386f90695511693566aceaa1fe80745b": {
     "text": "...Est-ce que cette central électrique est sur le point d'exploser ?"
@@ -6500,7 +6501,7 @@
     "text": "100% des cuves ont été détruites et les produits chimiques ont été libérés. Nos capteurs détectent déjà une activité Vek réduite dans la région."
   },
   "73e2ddbb8dcd6422f1b760037cdc9be6": {
-    "text": "100% de succès. C'est le nombre que le PDG Singh aime voir."
+    "text": "100% de succès. Le PDG Singh aime ce nombre."
   },
   "66b3a9adc4ad2834348132927415da85": {
     "text": "Bien ! #main_first, tu deviens bon à ça !"
@@ -6600,7 +6601,7 @@
     "text": "(Actuel :"
   },
   "db3154ba0f3ddf6dc6314dd47141c202": {
-    "text": "[ Ruche centrale Vek découverte, probabilité de détruire la ruche avec une force de frappe faible ]"
+    "text": "[ Ruche centrale Vek découverte, probabilité de détruire la ruche avec la force de frappe actuelle, faible ]"
   },
   "b36b14eb507b53b9a6e8b17874667453": {
     "text": "[ Les contrôles ne répondent pas ]"
@@ -6662,13 +6663,14 @@
     "text": "[ Lancer imminent ]"
   },
   "315ef771f30f3b5e475b9a580101fbc6": {
-    "text": "[ Localisation de brèche complétée ]"
+    "text": "[ Localisation de la faille complétée ]"
   },
   "82b40b516249669fabba38f398d1b2f9": {
     "text": "[ Les montagnes doivent encore être détruites ]"
   },
   "d03ec4d31276a6b11e92637e4f1f2e60": {
-    "text": "[ Nouvel objectif, défendre la bombe identifiée ]"
+    "text": "[ Nouvel objectif, défendre la bombe ]",
+    "review": true
   },
   "11483b6b0284ce49729c9b14aa313193": {
     "text": "[ Aucun signe de vie Vek détecté sur les capteurs ]"
@@ -6802,7 +6804,7 @@
     "text": "[ Cette unité a besoin de réparations. ]"
   },
   "c724f816b11b22fe3e47b411cdc0f5fc": {
-    "text": "[ Cette unité s'expose à l'arrivé de cette ruche volcanique Vek alors cette autre unité pourrait persister ]",
+    "text": "[ Cette unité s'expose à l'arrivée de cette ruche volcanique Vek afin que les autres unités puissent continuer leur combat ]",
     "review": true
   },
   "984ca13d1b79857cc3bdf55c8785fa0f": {
@@ -6861,7 +6863,7 @@
     "text": "[ Le Vek a été rendu inerte ]"
   },
   "08fa7b8e3a4c9e285ded7ee72c9db18f": {
-    "text": "[ Les Veks ont été détectés en quittant la zone ]"
+    "text": "[ Les Veks ont été détectés quittant la zone ]"
   },
   "d6dd130b823575192e9d614d1fa85d5e": {
     "text": "[ Infestation Vek détectée ]"
@@ -6893,7 +6895,7 @@
     "text": "Un peu plus comme ça, et nous pouvons l'emballer."
   },
   "0f3ae20e047be63984f403870e09e10e": {
-    "text": "Un peu plus comme ça, cette guerre est gagnée !"
+    "text": "Un peu plus comme ça et cette guerre est gagnée !"
   },
   "b89c8c5db3ba56a0a05c943adb67b4b1": {
     "text": "Un travail dégoûtant, mais superbement fait."
@@ -6978,7 +6980,7 @@
     "text": "Un petit sacrifice si nous pouvons sauver cette ligne temporelle."
   },
   "6234858b3891fc8ca923638f336b6c64": {
-    "text": "Une escouade de pylônes d'approvisionnement hautement entraînés a été déployée pour nous aider."
+    "text": "Une escouade de pylônes d'approvisionnement a été déployée pour nous aider."
   },
   "6a7453c97f3c03c2a822369ccd09f94e": {
     "text": "Un pas dans la bonne direction pour de tels systèmes primitifs."
@@ -8179,7 +8181,7 @@
     "review": true
   },
   "45c95bb357dae50006c9e38f5fdfec07": {
-    "text": "Il faudrait une douzaine de Remueurs Terrestres R.S.T. pour combler cette ruche... nous ne pouvons pas le faire nous-mêmes."
+    "text": "Cela prendrait une douzaine de remueurs terrestres pour enterrer cette ruche... Nous ne pouvons pas le faire nous même."
   },
   "045b26f60fb2c18b6ae9e41d0e0f1b54": {
     "text": "Vous pensez que c'est impressionnant ? Attendez de voir un Remueur de Terre R.S.T. en action."
@@ -8849,7 +8851,7 @@
     "text": "Activation des systèmes de filtration."
   },
   "769c3b3928acee66bfa771cf9fd9cb12": {
-    "text": "Activer les stabilisateurs de sol, l'île se coupe en deux !"
+    "text": "Activation des stabilisateurs de sol, l'île est en train de se couper en deux !"
   },
   "38f452c01ab53d90d7040db1d22e61e6": {
     "text": "Activer la faille temporelle ! Nous devrons réessayer !"
@@ -8915,8 +8917,7 @@
     "text": "Toutes les unités terrestres, sachez que nous avons un effondrement du terrain en vigueur."
   },
   "65c159bf91843de6bee8dd3f3e004ea1": {
-    "text": "Tous mes sens semblent ... plus affinés. Les couleurs semblent ... plus claires.",
-    "review": true
+    "text": "Tous mes sens semblent ... plus affinés. Les couleurs semblent ... plus intenses."
   },
   "67047e0ece463830b204ce05a03c18af": {
     "text": "Très bien, #squad, nettoyons ça proprement."
@@ -8925,7 +8926,7 @@
     "text": "Très bien, la récréation est terminée."
   },
   "6ffdcfed04551e9ee993e76c5ca96d56": {
-    "text": "Très bien, le Pod Temporel est stocké en toute sécurité dans la cargaison."
+    "text": "Très bien, le Pod Temporel est stocké en toute sécurité dans le cargo."
   },
   "9ab915a79d8eb8909dc5dd7e0eb81d73": {
     "text": "Bien, qui est le prochain ?"
@@ -8940,7 +8941,7 @@
     "text": "Tous les Veks sont détruits !"
   },
   "06e5343c07b9664fe9c5f1052f03329b": {
-    "text": "Tous les Veks sont éliminé, Commandant."
+    "text": "Tous les Veks ont été détruits, Commandant."
   },
   "5d38600681f70a4a822e56ddb5650fdf": {
     "text": "Tout est prêt pour le lancement !",
@@ -9188,7 +9189,7 @@
     "review": true
   },
   "6b80712939a4aa9fff4a01522b0a9df9": {
-    "text": "Statut : Effondrement du Réseau d’Énergie\\nInvasion Vek : Instoppable"
+    "text": "Statut : Effondrement du Réseau d’Énergie\nInvasion Vek : Instoppable"
   },
   "434745c5cf068abc25b9af21b3b4eb6b": {
     "text": "Le Réseau d’Énergie s'est effondré ! L'île est perdue !"
@@ -9297,7 +9298,7 @@
     "text": "Réponse ci-dessus"
   },
   "5eef590b2a8643e0ec556a7f95b9e1ef": {
-    "text": "Humanité : Détuite\\nLancement : Protocole voyage temporel"
+    "text": "Humanité : Détuite\nLancement : Protocole voyage temporel"
   },
   "2e445e1ea64972d8014235648606ddb9": {
     "text": "C'est fini... saut dans une autre ligne temporelle",
@@ -10086,5 +10087,1103 @@
   },
   "b70fbaddec09f4dc88ebf6e4dd41907d": {
     "text": "Est-ce que nous avons créé une nouvelle ligne temporelle ou bien..."
+  },
+  "a0039f54d1b3f3423c739e5a312b6db7": {
+    "text": "J'ai entendu dire qu'utiliser des failles à répétition pouvait nous faire bégayer... oh non.",
+    "review": true
+  },
+  "f5052ca7d291347094ea5a14e677a589": {
+    "text": "Corrigeons nos erreurs maintenant.",
+    "review": true
+  },
+  "77beeee741acd043fdf43e1d25df4429": {
+    "text": "Nous connaissons les mouvements de nos ennemis, utilisons cela contre eux maintenant.",
+    "review": true
+  },
+  "056974d242e25f898b40bf6844968ace": {
+    "text": "Fascinant ! Tout est là, à la même place !"
+  },
+  "329d37aeeb4eab992656784686abe421": {
+    "text": "Oh, je suis là où j'étais quand... ou à la même place où j'étais... lorsque... laissez tomber.",
+    "review": true
+  },
+  "d5f75ee1eb6ddfd98e37287187faeab8": {
+    "text": "Je suis relativement certain que les failles courtes n'étaient pas l'utilisation première de cette technologie...",
+    "review": true
+  },
+  "ae6f19eaf23e32a86d6535722bfe7616": {
+    "text": "Le temps a été recyclé."
+  },
+  "76c41c4cbf658054fc26e91989ef4967": {
+    "text": "Çà a marché ! Nous n'avons pas déchiré l'espace-temps ou quoi que ce soit !"
+  },
+  "42d4a4f61f5ff6ab9414b68653df9821": {
+    "text": "Ça. C'était. Trop. COOL."
+  },
+  "84271cb10815e3c337734a601c65ee70": {
+    "text": "Eeeeet nous sommes de retour !"
+  },
+  "42b1185fad70543d5d4b3aed16c88c62": {
+    "text": "Localisation de la faille avec succès."
+  },
+  "614ecf82fe9ca953a6014fcc00c6c85c": {
+    "text": "On dirait que nous sommes en train de dépouiller les engrenages du temps quand nous faisons cela..."
+  },
+  "559f6236b244fed38c81cf6b2f7f2154": {
+    "text": "Nnnh... Les failles localisées me donnent des maux de tête."
+  },
+  "7e9983137cfd31b55a1313e8490aaad9": {
+    "text": "Je ne pourrais pas faire ça pendant un long moment."
+  },
+  "6b0527f95ae3a7d6a18f5cf7eaf132cc": {
+    "text": "Nous avons une deuxième chance, faisons en sorte que cela compte."
+  },
+  "584adec170b4074cd972872819d43d70": {
+    "text": "Localisation de la brèche avec succès, Commandant... Euh, cela pourrait être la première fois que vous entendez cela."
+  },
+  "18654fa876a63b77e3c29e84e5cd094c": {
+    "text": "Réinitialisation des chronomètres. Objectifs inchangés."
+  },
+  "947c74a95aee1f2ca92a341f761ee4fd": {
+    "text": "Localisation de la faille avec succès. Je suggère que nous évitions l'utilisation prolongée de cette technologie sur cette les lignes temporelles.",
+    "review": true
+  },
+  "a785d1c1c0e9a6a5d0a6630d367e949f": {
+    "text": "Réinitialisation du temps... a-a-avec s-s-succès."
+  },
+  "0a9325178179df45b1d908741d42bbbe": {
+    "text": "Recalibration de l'ancre tachyon... ef-ef-effectuée."
+  },
+  "97edbac776806ba448b5a80580803dc8": {
+    "text": "Réinitialisation com-complète. Nous devons faire plus attention, s'il vous plaît !"
+  },
+  "62aa887ee820bca2bb38e31e12482899": {
+    "text": "Ce n'est pas ce à quoi mes travaux de recherche étaient destinés..."
+  },
+  "eee26ebddfb7e804a7e17a0dcb915003": {
+    "text": "Réinitialisation des systèmes."
+  },
+  "6a6c193eacb6065a6fe7751afac0baee": {
+    "text": "Avons-nous simplement remonté le temps ? Ou avons-nous créé une divergence temporelle ?"
+  },
+  "fad23c0dd1154b033f1660af57675d75": {
+    "text": "Qu-est ce que c'était ? Je viens d'avoir un moment de déjà vu... Comme lorsque vous arrivez la première fois à un endroit.",
+    "review": true
+  },
+  "b8de7b1b0064eae787f38a53869865ca": {
+    "text": "Mes senseurs viennent d'enregistrer une faille temporelle. Était-ce un dysfonctionnement?"
+  },
+  "c43e0446f6ed50fba3dc5cab0f777818": {
+    "text": "Fin de mission générique lorsque tous les ennemis sont tués."
+  },
+  "224a14e63d19b821dc8e57ce4026ef95": {
+    "text": "Mise à jour : Mission accomplie\\nObjectifs : Accomplis",
+    "review": true
+  },
+  "da43800f72bd1d887d844477a54e2b37": {
+    "text": "Nous les avons tous tués ! Les Veks sont morts !"
+  },
+  "2a2f1606678202595a955acde7380157": {
+    "text": "Nous les avons éradiqués ! La région est sauvée !"
+  },
+  "c7d22fa9790f638c2c523b27841e0a04": {
+    "text": "On les a tous tués. #corp sera heureuse de l'apprendre."
+  },
+  "5a725b3227ccf3f07912d5adc07fe5c9": {
+    "text": "Même Kern a un sourire."
+  },
+  "4148bc3fe1ea348288edf41d161794f2": {
+    "text": "La région est libérée des Veks, Commandant."
+  },
+  "8b5b4918abe3645eceb18d351914e682": {
+    "text": "Aucune trace des Veks sur nos scanners."
+  },
+  "a65119d9de698252c90c2ada646fa27c": {
+    "text": "Nous avons nettoyé les Veks aussi bien qu'un bain d'A.C.I.D.",
+    "review": true
+  },
+  "e2bb8c09ac22e1daead1a564c33136c3": {
+    "text": "Nous avons réussi. Leur emprise ici a été affaiblie."
+  },
+  "345af4c8541d455e07dc3f2c113d8500": {
+    "text": "On les a tous eu ! "
+  },
+  "775c4b735ecf19c15c0dba9001fafe9a": {
+    "text": "Plus un seul Vek sur nos senseurs - bien."
+  },
+  "8d085a81dec946806c927fcfe3415a62": {
+    "text": "Un bon Vek est un Vek mort."
+  },
+  "02c1e6e8d9d637a8b631b99830a860b9": {
+    "text": "Bon travail, #squad. Mais la guerre n'est pas encore terminée."
+  },
+  "9da9e40cc1bc9f6278d3079619ab4576": {
+    "text": "On l'a fait ! Bon travail à tous !"
+  },
+  "a210ac566b0d9c40a2811678d92a1f32": {
+    "text": "Bon travail, #squad ! Nous avons éradiqué les Veks !"
+  },
+  "0203ca233458f1386304d055207c7b6f": {
+    "text": "Est-ce que nous les avons tous eu ? Vraiment ?"
+  },
+  "877d30515afebfb6c752b669aea9b757": {
+    "text": "Région sécurisé. Plus un seul Vek sur nos senseurs."
+  },
+  "e4acebd5b0515658143606a23099211e": {
+    "text": "Ces Veks n'étaient pas à la hauteur. Quelle honte."
+  },
+  "84b4b3eeb7e6e776ece5f31128f3b59d": {
+    "text": "Approfondi.",
+    "review": true
+  },
+  "2ed0eb88a32dc869734fd7035c189f21": {
+    "text": "Les Veks sont morts. La région est sécurisée."
+  },
+  "fc8ab3834c197c30e67554487faadc49": {
+    "text": "Je n'ai pas collecté assez de données sur les Veks pour mener une analyse complète."
+  },
+  "d01f2cce2227939832d6b1e59113f6e1": {
+    "text": "Vekticide de la région complète."
+  },
+  "fc6d42cd4742a4461c50261365f5fcd0": {
+    "text": "La terre a été assainie pour de nouvelles plantations."
+  },
+  "22205b4e42035fc33f9da6ee37396ec8": {
+    "text": "La nature a été préservée."
+  },
+  "f12ca17bd82dac26a757f1ae6e287bb3": {
+    "text": "Les parasites Veks ont été éradiqués."
+  },
+  "114e24ee0cc6d3c1e32256ba3c87bbb3": {
+    "text": "Nous l'avons fait ! C'était bien marrant !"
+  },
+  "76678c307cbd5f24a4570067e45fa517": {
+    "text": "Le dernier arrivé à la Carrière est une poule mouillée !",
+    "review": true
+  },
+  "af7b6f34c20c9682e3c47e1470259694": {
+    "text": "Voilà comment ça doit être fait ! #squad, nos sauveurs !",
+    "review": true
+  },
+  "3f4d5eaf8beee3c1d29b648d89b81f51": {
+    "text": "Nettoyons et balayons ce qui reste et allons nous en.",
+    "review": true
+  },
+  "4e331e999bdc609b5f2402fec8ffb112": {
+    "text": "Aucun Vek sur nos senseurs. Bon travail, #squad."
+  },
+  "687ae4424eaabca1b4c876d1fa9fd36e": {
+    "text": "Propre, net et sans bavure, #squad. Bien joué."
+  },
+  "08660e0788e0c5c6f41e46c33e87b13f": {
+    "text": "C'est tout ce que vous avez ? Je peux faire ça pendant des jours entiers !"
+  },
+  "d5eddba986220d58901a243e1dff6328": {
+    "text": "C'étaient tous les Veks ? Vraiment ?"
+  },
+  "af270182db4f878bdd8f46494dec77a4": {
+    "text": "Veks éliminés, Commandant."
+  },
+  "f840dab8df1ce4413d9e8a6305a2b359": {
+    "text": "La mission a été un succès, Commandant. Tous les Veks ont été détruits."
+  },
+  "c47984252d776d2b369094fb36744b34": {
+    "text": "Menace Vek éradiquée. Composants, vous vous êtes comportés admirablement."
+  },
+  "5e7d3ff3c2d707c934dd0ef311d22824": {
+    "text": "Est-st-st que c'est fini ? Il en reste...?"
+  },
+  "2acefcb22aa07424e769d79b27aa730a": {
+    "text": "Ennemis détruits"
+  },
+  "22d072ea904ef6860cd943077054b6ff": {
+    "text": "Stérilisation de la zone complète.",
+    "review": true
+  },
+  "fab4e4fdde4d2f20fa37fa824b98f411": {
+    "text": "Les Veks ont été nettoyés de la région.",
+    "review": true
+  },
+  "5ccd68f1cb2345796a846b10a469c725": {
+    "text": "Pas un seul signe de vie Vek détecté dans la région - nous les avons éradiqués !"
+  },
+  "60b872a1d18396e3283070e9b50724ad": {
+    "text": "Tous les Veks ont été éradiqués. Bien - et impressionnant."
+  },
+  "45223c04493f58be1dae3415d801daec": {
+    "text": "Lancement d'un scan en profondeur... Aucun Vek détecté."
+  },
+  "71f703b06650a8ebc0110dee829f1c1c": {
+    "text": "Aucun Vek détecté dans la région. Bien joué."
+  },
+  "247f275010debbd240d5d87dd68707af": {
+    "text": "Je vous suis vraiment reconnaissant pour votre aide, beaucoup de vies ont été sauvées ici."
+  },
+  "fa62db106ee25bf67c3814b01c2074bf": {
+    "text": "Les senseurs de Detritus ne détectent plus aucun signe Vek."
+  },
+  "62fa76dbab5075214f9030ed91d2efb5": {
+    "text": "Fin générique de mission lorsque les ennemis se retirent.",
+    "review": true
+  },
+  "13c15d816da70849a8414f093d61efbc": {
+    "text": "Mise à jour : Retraite ennemie",
+    "review": true
+  },
+  "c921f6db9787f7622a05498e6632a784": {
+    "text": "Nous avons remballé les Veks... j'espère qu'ils ne reviendront pas."
+  },
+  "6fb805e537b57f8df5e57813930afca7": {
+    "text": "Nous les aurons tous la prochaine fois. Le reste des Veks n'iront pas bien loin."
+  },
+  "9d45bc936b1dcc8b2151bf68aeb78953": {
+    "text": "Nous avons remballés les Veks, Commandant."
+  },
+  "fdf438ae44f0ec4542a0196fbb6973c0": {
+    "text": "La prochaine fois, nous ne pourrons pas laisser les Veks s'enfuir - ils se regrouperont problablement."
+  },
+  "2756f284548899f2a4c0644c76ab44cf": {
+    "text": "Nous détectons encore des Veks fuyant la zone... Ce n'est pas idéal mais c'est quand même une victoire pour nous."
+  },
+  "9cc6ef243bce16e4d0ae903ecaf200c8": {
+    "text": "Je déteste laisser ces Veks fuir la région mais au moins elle est sécurisée."
+  },
+  "9803ccca0e9de3c5cedee31605c9153c": {
+    "text": "Les Veks battent en retraite. Nous surveillerons la zone, il est sûr qu'ils vont se regrouper ailleurs."
+  },
+  "3a1cf9052317af556c38e5b8a3f1c438": {
+    "text": "Je déteste laisser ces Veks s'enfuir, mais au moins nous avons sécurisé la région."
+  },
+  "84804d1660a28ba162324df6b8dc2eee": {
+    "text": "Les Veks peuvent fuir, mais ils n'iront pas loin."
+  },
+  "89d62346cf8bf38170557d5edd379f0c": {
+    "text": "Nous avons fait fuir les Veks."
+  },
+  "6c1d8890cc37ad1f1b89d7ae2262602e": {
+    "text": "Ils se dispersent ! Nous les avons repoussés !"
+  },
+  "669430bcc36b1ea05722bce29ac9830c": {
+    "text": "Les Veks se retirent... Vont-ils se regrouper ?"
+  },
+  "f826910bddc2884c2f3066a1a2c3f11c": {
+    "text": "Les Veks fuient vers les autres régions. J'espère qu'ils ne vont pas mettre en danger les civils là bas..."
+  },
+  "eff4dc83b21e868976dc29212a60ef7f": {
+    "text": "Les Veks se dispersent ! Nous avons sécurisé la région !"
+  },
+  "99bc45da28f6636913a00feab0ffe31b": {
+    "text": "Les Veks s'enfuient. Lâches."
+  },
+  "992af9301b3754e98a63f92615f9fb78": {
+    "text": "Où est-ce que les Veks se retirent ? Comment creusent-ils aussi rapidement... ?"
+  },
+  "1cad6d227b970bd42db953cae4e67c33": {
+    "text": "Vekticide de la région complète. Actions de jardinage supplémentaires dans les autres régions requises.",
+    "review": true
+  },
+  "de1323277d8c66aa87b6b9edb4f68ba2": {
+    "text": "La nature a été protégée. Actions de jardinage supplémentaires requises.",
+    "review": true
+  },
+  "8a082da5c91e6a9be47c33d4c175ede7": {
+    "text": "Les parasites Veks se sont relocalisés dans d'autres régions."
+  },
+  "d4ac8ab89d27116090dfb7bd181031f6": {
+    "text": "Les nutriments des corps Veks ont été dispersés dans le sol."
+  },
+  "cc40e5827e781835bff6c942d3099067": {
+    "text": "Hey, où est-ce que les Veks s'enfuient ? Je venais à peine de commencer à m'amuser !"
+  },
+  "d2ef7b5b59eafb120147470ef7295956": {
+    "text": "Oh, juste au moment où les choses devenaient intéressantes, les Veks s'enfuient !"
+  },
+  "3ad3187e0fbd4db4b7f7256ba48a800e": {
+    "text": "C'est ça les Veks ! Courrez ! Et ne revenez pas !"
+  },
+  "b72426f22a06e6058299fbb3a37ea090": {
+    "text": "Je n'aime pas laisser les Veks s'enfuir... mais nous avons bien travaillé aujourd'hui."
+  },
+  "c8c82573d9386860026904cfa54770be": {
+    "text": "Les Veks s'enfuient... Mais ils reviendront."
+  },
+  "a2c0dcc29dc1de2d70ead71b9daad4f3": {
+    "text": "Ha ! Courrez, bande de lâches !"
+  },
+  "62910edd687e19684bacdcad7d50c9d0": {
+    "text": "Rentrez dans vos ruches, enfoirés de Veks !"
+  },
+  "6c0998548983ca752bfe59a168aec9ff": {
+    "text": "Les Veks sont en déroute, Commandant."
+  },
+  "6c51a31c42ea260110ae9108dec8d259": {
+    "text": "Les Veks ont été chassés. Paré pour l'evac, Commandant."
+  },
+  "b725fbe44468d6b62fd51fdff1ca2d60": {
+    "text": "Les Veks ont fui la zone. Envoi de l'information aux équipes de construction dans les autres régions."
+  },
+  "7ce361fc02889f16b4a332897e9a56ad": {
+    "text": "Les Veks ont été relocalisés. L'intégrité du site de construction a été maintenue."
+  },
+  "4cf730d37d5b14b41159df388abece7b": {
+    "text": "Sont... sont-ils en train de fuir ? Pou-pourquoi... nous avons gagné !"
+  },
+  "4bb7edbe0200f87d2ae49711c39c587c": {
+    "text": "Les ennemis se désengagent."
+  },
+  "76e66acab3e9181cbf0e53f79f1e5653": {
+    "text": "Les Veks ont été partiellement désinfectés."
+  },
+  "30c0154817a8ec43d1e45961dcab037b": {
+    "text": "Les Veks battent en retraite. D'autres désinfections seront requises plus tard."
+  },
+  "dfc3216631b0e16d35993c6fd271da3f": {
+    "text": "Nos scanners détectent une activité Vek réduite. Quel soulagement !"
+  },
+  "d321dd5b625421b7f3fbf36b8a2df1b5": {
+    "text": "Vous les avez repoussés ! Bien joué, #squad, bien joué !"
+  },
+  "36fbaa06350695f4358f046d4fdbaba8": {
+    "text": "Difficile à croire, mais apparemment vous les avez chassé."
+  },
+  "fdbc76c0ea67794c6b116d512e70f143": {
+    "text": "Le retrait des Veks nous donne de l'espoir. Initialisation des sous-routines pour traquer les survivants."
+  },
+  "d994c4bda667ecc6b48f7660bb3eccb4": {
+    "text": "Les Veks - ils s'enfuient. Nous devons vous remercier vous et #squad, Commandant."
+  },
+  "8f22b3c84375b9f0282b24fb3216f222": {
+    "text": "Les Veks sont en déroute. Nous allons les gérer à partir de maintenant, Commandant - merci à vous et à votre escouade."
+  },
+  "39df026bff26a2f78b3ca47a4f0d5183": {
+    "text": "Joue au début de la mission finale",
+    "review": true
+  },
+  "4c79df39da618414a8cfc4b0ea07a15d": {
+    "text": "Urgence : Réseau d’Énergie hors de portée"
+  },
+  "0bcc29cc51f8c014a7d4039ee82d2f80": {
+    "text": "Nous y sommes... Mais pas sûr de pouvoir y arriver sans le Réseau d’Énergie.",
+    "review": true
+  },
+  "a01418017763606a0a80533f8f6ea327": {
+    "text": "Nous y sommes, mais nous sommes également trop loin du Réseau d’Énergie... Nos Mechs ne tiendront pas longtemps."
+  },
+  "6abc6d0b540ae590b8005975bcb4ff98": {
+    "text": "Déploiement avec succès. Cependant, nous sommes hors de portée du Réseau d’Énergie."
+  },
+  "5444534988773915c34a976397d97eda": {
+    "text": "Nous y sommes."
+  },
+  "40a668f5264a06aa04a101c323c839a1": {
+    "text": "Nous sommes si près du but - allons-nous réussir ?"
+  },
+  "740f25c7e41ef4dcad7718e2dd96babc": {
+    "text": "C'est la dernière ligne temporelle que les Veks gagneront.",
+    "review": true
+  },
+  "7bfcdf0e185cc1d9e414d978aedbe329": {
+    "text": "Nous avons fait tout ce chemin pour ça - continuons un tout petit peu plus loin !"
+  },
+  "532e6902607be99482608ce376c45461": {
+    "text": "C'est la fin."
+  },
+  "67877e5347cb3bd7af2794b8c144ce79": {
+    "text": "Cela déterminera si cette ligne temporelle a un futur.",
+    "review": true
+  },
+  "d875505e8dab5677619906a671db0692": {
+    "text": "Impressionnant... L'activité Vek a du déclencher cette éruption volcanique."
+  },
+  "05268011be561613cd8c38de3c6f4a7e": {
+    "text": "Les niveaux thermiques s'affolent - le volcan entre en éruption."
+  },
+  "c228bf353d917b865e74e687e3323554": {
+    "text": "Cette île est une nouveau biome... Créé par les Veks ?"
+  },
+  "a1a18be23cf9246b82efa2333b9931c7": {
+    "text": "J'ai une théorie. Peut-être que les Veks veulent recycler l'Ancienne Terre en utilisant l'activité volcanique."
+  },
+  "66d1fd9c4b5153c92e66412c3f8039db": {
+    "text": "Redirection de toute la puissance vers les protocoles Vekticides."
+  },
+  "c7fcaa4db0c0aa40add76fd883104469": {
+    "text": "C'est maintenant ou jamais. Enfin... jusqu'à la prochaine ligne temporelle, je suppose."
+  },
+  "e446dfa718efb34c05bb761025657ede": {
+    "text": "Vous ne trouvez pas qu'il fait chaud ici ?"
+  },
+  "f3d2bef8413e43f06ad9ed175323e878": {
+    "text": "C'est à quoi j'ai été entrainé. A tous, en formation.",
+    "review": true
+  },
+  "767c0b06156c32397f765bc607409c6a": {
+    "text": "Premièrement, sécuriser la surface, deuxièmement, protéger la bombe."
+  },
+  "00a7c8aa0818ff028a8fd4ad60877cda": {
+    "text": "J'espère qu'ils nous enregistre depuis les îles... Je ne peux pas tenir la pose pour toujours."
+  },
+  "56a7b3092ffd5c851358a34b46da2023": {
+    "text": "Nous allons revenir VIVANT, n'est-ce pas ? Y a quelqu'un ?"
+  },
+  "594e30d66fda1d3e6b4d2cf76e968dc8": {
+    "text": "Je ne veux pas paraître tout mou, mais c'est marrant, Commandant. Faisons cela.",
+    "review": true
+  },
+  "0e714a7b2f69a20a3892fd9a65f9d22f": {
+    "text": "Nous y sommes. La ruche centrale."
+  },
+  "fda0d10f299833ed131a34d098c9210a": {
+    "text": "Nous détectons une activité tectonique... Attention à la lave, ce volcan est actif."
+  },
+  "66da5b3e694880934c6dc6f50befafd0": {
+    "text": "Analyse de la reconstruction temporelle nécessaire à l'emplacement actuel. Les temps de calculs augmentent exponentiellement.",
+    "review": true
+  },
+  "4b4c16bd34421397f7fd751999c60023": {
+    "text": "Mes composants de base sont préparés pour la désintégration avant le déshonneur."
+  },
+  "656df50d9cd25f5e8cc6576198cec5e7": {
+    "text": "Ce volcan est en violation des lois des zones corporatives."
+  },
+  "5e6e620f677e40bfd87c8ba5b5b50d18": {
+    "text": "Cette île viole les accords corporatifs interdisant la construction d'une île sans contrôles de sécurité certifiés"
+  },
+  "f7852f32d84d0d31a1baf7cde30db419": {
+    "text": "Ce nid Vek viole l'ordonnance de construction 1.i, 2.ii et le plan local d'urbanisme 13.a.i",
+    "review": true
+  },
+  "14784e7e897b3edddefbba22dab44040": {
+    "text": "est-est ce que c'est la fin ? "
+  },
+  "abbb6bb7fddc8fcaa0ffc4adb833cef8": {
+    "text": "Cette île... n'a... n'a p-pas l'air sûre ?"
+  },
+  "ef0b2a5fea8404bfa4aee5cb0cb4f31b": {
+    "text": "Co-comment sommes-nous supposé partir de cette île quand nous aurons fini cette mission ?"
+  },
+  "a920904905073ebeb023397d1b2992be": {
+    "text": "Balayage de la masse terrestre pour la découverte de gisements de minerais utiles. Accès au Réseau d’Énergie impossible."
+  },
+  "f1632edbc3569efbab334f6b7c52f454": {
+    "text": "Impossible d'accéder au Réseau d’Énergie. Sans énergie, la probabilité de réussite de la mission est de 0%."
+  },
+  "0d8c1e7e42728888bc78a344b360dc18": {
+    "text": "Arrivée des pylônes énergétiques"
+  },
+  "a5684b0f43030288f0adef340426721f": {
+    "text": "Mise à jour : Pylônes en approche"
+  },
+  "0645f206faaf946099a64d0f73671c82": {
+    "text": "Les pylônes sont en approche !"
+  },
+  "0677fd912880c9353a444811438687f5": {
+    "text": "Nos senseurs ont détecté l'arrivée des pylônes, Commandant - Ils arrivent très rapidement !"
+  },
+  "c919317ce3e5a4e2c87de0307930bd7e": {
+    "text": "Les senseurs confirment l'arrivée des pylônes."
+  },
+  "47bd4a4a5d27eb7d3d2811e83135a159": {
+    "text": "Arrivée imminente des pylônes."
+  },
+  "74f3e8a5c8828f9ed79e529619ecbabf": {
+    "text": "Les senseurs indiquent l'arrivée imminente des pylônes."
+  },
+  "885a40c23ad465a2f3857451c3f4ed54": {
+    "text": "Préparez à protéger les pylônes lorsqu'ils arriveront."
+  },
+  "eb9d42eb5442431db7e100227b555b86": {
+    "text": "Des pylônes énergétiques autonomes ? Je pourrais en utiliser quelques uns pour moi-même."
+  },
+  "c14ee5bf559e7d161da1081e1695e256": {
+    "text": "Les pylônes ont commencé leur descente."
+  },
+  "da7c45a1c655df6009a766e815113320": {
+    "text": "Nous avons de la compagnie ? Même si ce sont seulement des pylônes, ils devraient nous éclairer un peu la zone."
+  },
+  "b1ccf014ab18e5d60c85a1a0876c76a8": {
+    "text": "Lancement des pylônes détecté... Trajectoire confirmée."
+  },
+  "fedbc603b5815a02dade1154f8261625": {
+    "text": "Bien. Sans le Réseau ici, nous aurions été complètement inoffensifs contre les Veks.",
+    "review": true
+  },
+  "9467471e8a131e3b83d8bc5aa7f9b900": {
+    "text": "Les pylônes, juste à temps."
+  },
+  "ea6b04bf7deeab8c5ab0544c52e751f9": {
+    "text": "Nos senseurs détectent l'arrivée de pylônes."
+  },
+  "ca1cf3ace907f642c2641dde7dae6790": {
+    "text": "D-d-détection de p-p-pylons en t-t-train d'être déployés sur site."
+  },
+  "f5cc2e91577fef1a2681757cddd096c4": {
+    "text": "Déploiement de pylônes détecté."
+  },
+  "c8965083ad428b42055f5c3a944acbc0": {
+    "text": "Pylônes en route."
+  },
+  "7b3821e421c5018438a100868707fa49": {
+    "text": "Déploiement de pylônes énergétiques autonomes. Ils nous permettront de nous connecter au Réseau."
+  },
+  "77dbec0bdc4e133e9b2858be686a1d07": {
+    "text": "Joue au début de la mission finale",
+    "review": true
+  },
+  "91296da66011112138f633f03cf53fc4": {
+    "text": "Activités sismiques en cours. Accrochez vous."
+  },
+  "0a7699bd8638a21a886999361b2efc3d": {
+    "text": "Joue une fois que le sol a bougé",
+    "review": true
+  },
+  "bef8818c85fc7bda4f14c618ff78e12b": {
+    "text": "Mise à jour : Effondrement de l'île"
+  },
+  "14fb8b6352f62ace75380816f04e2bed": {
+    "text": "Séisme en approche ! L'Île s'effondre !"
+  },
+  "a4ff709b128e6180218537e16ee29df4": {
+    "text": "Le sol est instable, nous allons tomber dans la brèche !"
+  },
+  "432a5933a8ac5d83fa4b6c9187fc687a": {
+    "text": "L'île va s'effondrer !"
+  },
+  "632e22948898e11c29ec657af8d98af5": {
+    "text": "Les relevés sismiques sont impressionnants !",
+    "review": true
+  },
+  "465c4c4918c2e22843ce98ac641efd6f": {
+    "text": "L'île est en train de s'effondrer sur elle-même !"
+  },
+  "e6945aab1983d522a798ee1a0ea0f4c6": {
+    "text": "L'île n'a pas pu nous battre, elle essaie donc maintenant de nous avaler entier."
+  },
+  "a560c2d756c7c48a1d07218b56c16cda": {
+    "text": "Secousses détectées... Accrochez vous !"
+  },
+  "718f102ca79dc618514d4057289273b3": {
+    "text": "Nouvelle faille détectée en dessous de nous."
+  },
+  "416db751bbfb04b3c5a9cb52e3c076ea": {
+    "text": "Le sol se déchire littéralement... Attention à vous !"
+  },
+  "36c71f01645c4ee91458a4e3aae5cf0f": {
+    "text": "Je n'aime pas ces secousses..."
+  },
+  "127cefa874e9b06755840627151581c7": {
+    "text": "Un tremblement de terre ? Et puis QUOI ENCORE ?"
+  },
+  "7e39803bf4ead4bb975695de7fa70a6c": {
+    "text": "Cette putain d'île essaie de nous avaler vivant !"
+  },
+  "f02d989949795833dcddbb34533697ab": {
+    "text": "Les fondations de l'île sont en train de s'effondrer à cause de l'activité inhabituelle des Veks sous la surface. "
+  },
+  "751d4663fa82487d8f2730a8034e2d5b": {
+    "text": "L'île ! Elle s'eff-effondre sur elle-même !"
+  },
+  "002544fb10661125082560eb2012ce31": {
+    "text": "L'activité sismique est en train de s'intensifier. Le terrain est de plus en plus instable."
+  },
+  "282a43168b0fa98b99ca18bada8fa14e": {
+    "text": "Envoi de pylônes énergétiques. Gardez les opérationnels, nous n'en avons plus après ceux là."
+  },
+  "2c0b7dd529494969b46e6e93e6f7d00a": {
+    "text": "Mise à jour : Cible acquise\\nMission: Détruire la ruche Vek"
+  },
+  "89cf3142957af925facac3b1c5839dca": {
+    "text": "Nous allons avoir besoin de quelque chose d'assez massif pour exploser entièrement la cave et pour stopper les Veks."
+  },
+  "384ba09f09921bf8c6c45dd05fab862c": {
+    "text": "Cela prendrait une flotte entière de lanceurs d'A.C.I.D. pour tuer cette ruche nous même... Nous ne pouvons pas le faire seul."
+  },
+  "ad0e1a1fff8a2b2642d353a2a82e2f19": {
+    "text": "Nous aurons besoin de beaucoup de puissance de feu pour détruire ce complexe. Des idées ?"
+  },
+  "d47ca5afab73f13513d7f17321d359eb": {
+    "text": "Ce nid... il est trop gros pour être détruit par nous !"
+  },
+  "45850793131e32328e3a3abb2b47fefe": {
+    "text": "Nos armes ne peuvent pas tuer cette ruche. Elle occupe l'île entière."
+  },
+  "8c0f5c9dece516b6d67456122c073973": {
+    "text": "Sans être pessimiste, nos Mechs seuls ne peuvent pas détruire cette ruche. C'est titanesque."
+  },
+  "84e8dd2d5f0f3dfebc60935d42f788ff": {
+    "text": "L'infestation Vek est largement au dessus de ce que nous nous sommes imaginés.",
+    "review": true
+  },
+  "80c44aa4f80ece990e53d8f26717de80": {
+    "text": "Donc 'que dois-je faire maintenant ?' Dit Jonah, à l'intérieur de la baleine..."
+  },
+  "80afde880257c900814c56bff22b6663": {
+    "text": "Okay, la taille de la ruche est un touuuut petit peu plus large que ce que nous avions imaginé... Soyez prêts et attendez les ordres, #squad !"
+  },
+  "09137629a9a4bd9a504ff3462cb81a22": {
+    "text": "Super, vraiment super ! Maintenant quoi d'autre ? Nous n'avons aucune chance de faire exploser tout ça !"
+  },
+  "1f4f4adeb6028182bfecd8f1aa7408c9": {
+    "text": "Si nous souhaitions détruire cette ruche, nous allons avoir besoin de beaucoup plus de bombes."
+  },
+  "77ca0414f77de578514e76f55bd641f6": {
+    "text": "Les explosifs requis pour détruire ce nid excèdent notre force de frappe actuelle.",
+    "review": true
+  },
+  "0038a406590fd52c84155588746cec37": {
+    "text": "Nous sommes à l'intérieur du nid... Mais... Co-comment allons-nous dé-détruire une chose de cette taille ?"
+  },
+  "21dccd1675dd8f4d1e259399df93fe28": {
+    "text": "Efforts de démolition impossible à cause de la taille de la cible.",
+    "review": true
+  },
+  "2f05a939d620df6fb5be76d7dc2b8069": {
+    "text": "Mes calculs indiquent que même une centaine de Mechs ne pourraient pas venir à bout de ce nid."
+  },
+  "12b873681ac2c7064ec4c54b91bd4b29": {
+    "text": "Avant de lâcher la bombe",
+    "review": true
+  },
+  "83690592e76eee6d7610fde5e1f6225c": {
+    "text": "Déploiement d'une bomb Renfield. Défendez la pendant qu'elle se charge et elle détruira la ruche."
+  },
+  "dd711e018816a7406766c6fe31f1b0eb": {
+    "text": "Joue au début de la section finale (après MissionFinal_BombResponse)"
+  },
+  "efbcebdbb59ac2947a23b7c3808ea830": {
+    "text": "Mise à jour prioritaire : Défendre la bombe"
+  },
+  "c4a5a5b4973339057767437e41965648": {
+    "text": "Préparez vous, #squad ! Défendez la bombe !"
+  },
+  "a340a6f5e5cd336d35c6aa8aaf029151": {
+    "text": "Les Veks vont vouloir attaquer la bombe, ils devront nous passer sur le corps avant."
+  },
+  "b25a61cfff266bdd075d8a7b6b79c0f1": {
+    "text": "Faites tout ce que vous pouvez pour empêcher les Veks d'approcher la bombe. Ceci est notre seule chance !"
+  },
+  "4171eb70b4bd4cb4a4b02031ebd32718": {
+    "text": "Empêcher les Veks d'approcher la bombe - impossible de les laisser s'en sortir après ça."
+  },
+  "16187e01a4bb1f224fd9a4235db41631": {
+    "text": "A tous, défendez la bombe !",
+    "review": true
+  },
+  "9fd70ac3ad963383d48a9ab527fb9e85": {
+    "text": "Défendez la bombe. Avec vos Mechs. Et avec vos vies."
+  },
+  "b124ff85a86745f8ce99cc454ca0f007": {
+    "text": "Nous devons garder la bombe du Dr. Renfield intacte... même si elle n'explose pas je pourrais quand même l'étudier."
+  },
+  "da10222fd7b24a86ca953654da0edece": {
+    "text": "Ne laissez pas les Veks contaminer la bombe."
+  },
+  "f6fb912eae3b968a1e22b4273111995f": {
+    "text": "Je ne me souviens pas de la partie où il y avait une bombe. Mais... d'accord, nous la défendrons."
+  },
+  "0d980ee2d35d879f86cf92b684c5a111": {
+    "text": "Confirmé. Okay #squad, formez un cercle autour de cette bombe."
+  },
+  "9abd6ba02a6190f602af63affa157751": {
+    "text": "C'est bon, #squad. Protégez cette bombe et Je... Nous... sauverons le monde."
+  },
+  "08afdedd6777e66c5ed86cb53b4329c7": {
+    "text": "Les explosifs sont amorcés. Assurez vous que la coque de la bombe n'est pas compromise.",
+    "review": true
+  },
+  "af5edcab9b7c32a1eb33c5e4cc490b8a": {
+    "text": "Nous avons besoin de protéger cette bo-bombe... Ne laissez pas les Veks la détruire ou la guerre sera perdue !"
+  },
+  "187abdfce878bed182623d3841bf218a": {
+    "text": "Ordres d'autorisation de démolition et de défense de l'explosif Renfield à base de tachyons enregistrés.",
+    "review": true
+  },
+  "2df8578985c788e8bebb5a3025eddb9d": {
+    "text": "Donc nous devons empêcher les Veks d'approcher le joujou ultra-dangereux de Renfield. Allons y."
+  },
+  "06ff942bdcd3ac2d27303325960f8d16": {
+    "text": "Si la bombe est détruite, une autre sera envoyée et la durée de la bataille sera prolongée."
+  },
+  "6799ddb736a621b2270cae641da22fa9": {
+    "text": "Déploiement d'une autre bombe, mais cela prendra plus de temps pour l'armer. Essayez de garder celle-ci en une pièce."
+  },
+  "d3771751b7121948bee4dde5337c1377": {
+    "text": "Mise à jour prioritaire : Bombe armée"
+  },
+  "f6b9cb903ec4809e80ff3755ea331684": {
+    "text": "La bombe... elle est prête ! Ça y est !"
+  },
+  "aecaec2e898b5f66ab0a9f81c4ad7994": {
+    "text": "La bombe va exploser !"
+  },
+  "36320142f789f7f3b185d64e0c6c9e62": {
+    "text": "Bombe activée !"
+  },
+  "9040d5e669fcc23e4aff90f7bbadbc8e": {
+    "text": "La bombe est prête à exploser la ruche !"
+  },
+  "e1c9474035e13d38a05827bb9f4d94c6": {
+    "text": "Détection d'une augmentation d'émissions de tachyons émanant de la bombe !"
+  },
+  "e6737adf3830fb7b47976214c3c8d2cb": {
+    "text": "La bombe est sur le point de remplir son objectif."
+  },
+  "7793082cd0423fe51f35d92ec8b6016a": {
+    "text": "La bombe temporelle de Renfield vient s'amorcer... charge des tachyons en cours !",
+    "review": true
+  },
+  "3a29d8f912fb622fdbb9ee20ae63e3c3": {
+    "text": "La bombe s'est réveillée, signalant un changement radical dans ce biome."
+  },
+  "1383b237dd801cb56f4faef7cde58855": {
+    "text": "La bombe va exploser ! J'es-espère que cela va fonctionner !"
+  },
+  "f644a278cec05a9f1020a50c1af91cd8": {
+    "text": "Bombe Renfield activée... Préparez vous à l'impact."
+  },
+  "1b3338b40367b59329c6701e4db46597": {
+    "text": "Cette putain de bombe vient de s'activer, enfin ! Elle a pris son temps."
+  },
+  "606742fea224f841767ac31cb4c83d2c": {
+    "text": "Bombe activée ! Elle va exploser !"
+  },
+  "a274e51a1bad4f22756cabe871655862": {
+    "text": "La bombe est active maintenant. Début de la démolition de la ruche Vek."
+  },
+  "180a2c251c7f8181da6c7c34113509f9": {
+    "text": "Je dé-détecte une augmentation de la concentration des tachyons... La bombe, elle est activée !"
+  },
+  "197823407ad8be8879f3d6185d63eefa": {
+    "text": "Bombe Renfield activée. Début de la démolition de la ruche."
+  },
+  "c84049eca39fc6e6b91a6cfb07a9c677": {
+    "text": "Bombe temporelle de Renfield activée. Préparez vous à l'impact."
+  },
+  "78d069a34f6a742bad5c1dd623b6d749": {
+    "text": "La bombe Rendield est prête. Je vous recommande de partir maintenant ou vous partagerez cette tombe avec les Veks."
+  },
+  "c84ec09cfb6723520376ed0b77d825e4": {
+    "text": "Le pod va atterrir"
+  },
+  "128115dbcedd89de049d441f6a9062ea": {
+    "text": "Mise à jour : Pod détecté"
+  },
+  "9fcba1b4612aaa5abf9e28b0ca6d48c3": {
+    "text": "Est-ce que c'est l'un de ces Pods dont vous parliez?"
+  },
+  "0231c4f9f8c73359c96ec9851b2dc4b8": {
+    "text": "Nous détectons un objet, Commandant."
+  },
+  "67827c5ed47c56fab1e4a12e966d5069": {
+    "text": "Nos capteurs ont détecté un objet non identifié."
+  },
+  "94bc4528ed2dbbe8cc43ebedbb4daa57": {
+    "text": "Un Pod temporel va atterrir dans la zone."
+  },
+  "64a5f6d495dc1d0bc0c1c1e677d18fab": {
+    "text": "Nos senseurs détectent l'arrivée imminente d'un Pod temporel."
+  },
+  "5b931362c1c46cef9b102124a0862d47": {
+    "text": "Nos senseurs viennent de détecter - un Pod temporel."
+  },
+  "6e38d2525412b4c07b07667ec504a40f": {
+    "text": "Regardez ! Un Pod temporel !"
+  },
+  "8afa93e3851ffb8af08c29b97b0d4dc1": {
+    "text": "Nos capteurs détectent un Pod temporel !"
+  },
+  "4e1d65ecd3ddfd1470efab6ba3f6f2fb": {
+    "text": "J'ai quelque chose sur mes senseurs - c'est un Pod temporel !"
+  },
+  "588d1ff691b95f96e4a7593d10f7055b": {
+    "text": "Attention à votre tête."
+  },
+  "4d6565828baa9dac07c4fbd06fd418f5": {
+    "text": "Calcul de la trajectoire d'impact d'un Pod temporel..."
+  },
+  "7313ec8a7fa34b6edcf4e469094ae1d3": {
+    "text": "Je détecte une distorsion temporelle... Un Pod temporel !"
+  },
+  "df549574a39ae61bbafaf5f1a726a7dc": {
+    "text": "Détection d'une émission de Tachyons... Un Pod temporel !"
+  },
+  "40804c326c018bebc671dff6b7a524c0": {
+    "text": "Quoi ? Une alerte d'impact imminent ? Est-ce un Pod ?"
+  },
+  "b8f9ecb89bc2e603a844ac2c9fd3dd27": {
+    "text": "J'ai des relevés complètement fous... Je pense qu'un Pod approche !"
+  },
+  "bea3527344d06075f317a0e2846df42e": {
+    "text": "Les senseurs détectent un Pod temporel."
+  },
+  "925178b9b1b858afa8dfd456547f730a": {
+    "text": "J'ai un Pod temporel en approche."
+  },
+  "1a844936fedad31f9f46606e0f4e1d79": {
+    "text": "On dirait qu'un cadeau du futur va arriver."
+  },
+  "b40e18ec47d8ea0d3220c10bda065e23": {
+    "text": "Objet étranger en approche !"
+  },
+  "29ce8ade5c4227518f53bd60c331a66e": {
+    "text": "Pod temporel en approche !"
+  },
+  "95707c12d0c42050427c2e652db7db51": {
+    "text": "P-p-pod temporel en approche. J'esp-esp-espère qu'il survivra à son atterrissage..."
+  },
+  "7e37a8cefcff9244571b2793ca0588fe": {
+    "text": "Anomalie atmosphérique détectée."
+  },
+  "1283b6fe793d212562227d21a81cd5cd": {
+    "text": "Mes capteurs détectent un Pod temporel."
+  },
+  "b90b67dd64991a337e8bb83d23653173": {
+    "text": "Nos satellites détectent un Pod en approche."
+  },
+  "e02acca8a8369620d6afa3fff43b0fa4": {
+    "text": "Un autre Pod de 'votre futur' est en approche."
+  },
+  "293c32cbab8ec11156a20c9435f96664": {
+    "text": "J'ai détecté un Pod temporel. Sa trajectoire indique qu'il va atterrir près de vous."
+  },
+  "4d697ffe221c7ca247362f2b379cec29": {
+    "text": "Nous avons détecté un projectile en approche - il est sorti de nulle part !"
+  },
+  "72350b3f7683b60df5ed064ad0fb21c1": {
+    "text": "Nouvel Objectif Secondaire : Acquérir les ressources du Pod"
+  },
+  "db1ea616d8ac892b3a760b50be33859a": {
+    "text": "Allons récupérer le Pod si c'est possible !"
+  },
+  "a77dca4bca94908fe45d11133a33ce8f": {
+    "text": "Ne laissez pas les Veks marcher sur le Pod sinon ils vont le détruire !"
+  },
+  "7d0848318fce6d80b83af314aabd95ae": {
+    "text": "C'est l'un de ces Pods. Il pourrait y avoir quelqu'un dedans."
+  },
+  "6e359a9308c3fe90371cf56ee867c0d1": {
+    "text": "Je suppose que nous sommes bon pour un ravitaillement."
+  },
+  "9fe0fba072a2ee84b4ec64808bb3ceae": {
+    "text": "Soyez sûr de suivre les protocoles de sécurité avant d'ouvrir ce Pod."
+  },
+  "dc5a1542e13e03ac5a447539167bf9fb": {
+    "text": "Sécurisez le Pod avant que les Veks ne le détruisent."
+  },
+  "d9dde1755b02b467ca5ae5a0c5f2e1c7": {
+    "text": "Nous pouvons essayez de sécuriser le Pod - ou sécurisez ses environs en premier."
+  },
+  "a19500a3ad518120f3e59a26dff2116f": {
+    "text": "Ce Pod - nous avons besoin de ce qu'il contient."
+  },
+  "85a09f0279c6a90543692e58ca8a92b9": {
+    "text": "Éloignez les Veks du Pod avant qu'ils ne le broient."
+  },
+  "40b75ac1544b5448e5147533e8b4d4a8": {
+    "text": "Sécurisez le Pod."
+  },
+  "f75b82016e147c57c1b9e1719b042ba3": {
+    "text": "Sécurisez moi ce Pod !"
+  },
+  "f6b04771b5541ae82e16daa54d0a73c0": {
+    "text": "Nous avons besoin de récupérer ce Pod avant les Veks."
+  },
+  "8aa23223531fa715e2274e8078399783": {
+    "text": "Assurez vous que les civils soient à l'abri en premier ! Le Pod peut attendre !"
+  },
+  "95aac95831e48056dee48aad1ab6ccd2": {
+    "text": "Les civils en premier, ensuite le Pod !"
+  },
+  "d766bdd3299fc9028857a7ea5e3be0d0": {
+    "text": "Nous devons garder ce Pod en sécurité !"
+  },
+  "56d0da39ba411d41143075cdd09b3d41": {
+    "text": "Quelqu'un d'autre l'a eu."
+  },
+  "c7ddc3467a5bfdf0424344240f6df884": {
+    "text": "Si ce Pod contient des armes, gardez les pour l'après bataille.",
+    "review": true
+  },
+  "1c409e828ff18deec964f39f0bbc7b8f": {
+    "text": "Je DOIS mettre la main sur ce chargement. Imaginez, de la technologie venant du futur !"
+  },
+  "213c9016e4a62ade0db50a3a72a319cf": {
+    "text": "Nous ne pouvons pas laisser cette technologie se faire endommager !"
+  },
+  "96ce916ec959a93e5b52e5e10e1ff5f8": {
+    "text": "Ce Pod temporel a perturbé le sol. Devons-nous l'enlever ?"
+  },
+  "4ab68f05f4c099e67707f7fab65edf19": {
+    "text": "Le sol a été contaminé par l'impact du Pod temporel."
+  },
+  "326c05c32b4b07eca0127993b274edcc": {
+    "text": "Oooh... quelqu'un nous a envoyé un cadeau !"
+  },
+  "e0a63cd28e4000e814202ea6e996516c": {
+    "text": "Je vais voir si je peux l'attraper !"
+  },
+  "6818c9e272436e8757264a1a7449976d": {
+    "text": "Souvenez vous - le Réseau en premier, ensuite les Veks et enfin la sécurisation du Pod."
+  },
+  "812e3d014b7227992a279efd9a76a0ad": {
+    "text": "La Chance est de notre côté. Allons récupérer ce Pod !"
+  },
+  "c52b7ce7992f6bfabc6297355f744782": {
+    "text": "Nous avons besoin de soldats aguerris, pas de jouets supplémentaires."
+  },
+  "244abb2e85e7d84c0203f2d3fd4fad2f": {
+    "text": "Ne rompez pas la formation - la mission d'abord, ensuite nous irons récupérer le chargement."
+  },
+  "2ef256f3a694453f7a300995ddb0df4c": {
+    "text": "Concentrez vous sur la mission, pas sur le Pod."
+  },
+  "7bd2249deebcf3fc50276963f977e627": {
+    "text": "Sécurisez le Pod temporel et retenez ses composants pour un interrogatoire."
+  },
+  "908cba6682b92622fac65f91be45da26": {
+    "text": "Ce Pod temporel viole les protocoles du code du travail de l'hygiène et de la sécurité."
+  },
+  "a77ef0a720630ceacdfba4e1c9d06d12": {
+    "text": "Pou-pouvons nous récupérer le Pod avant nos ennemis ?"
+  },
+  "4c6f90d7e41d19d6c3812c17308fe822": {
+    "text": "N-nous devrions être prudent qu-quand nous utilisons nos armes près du Pod. No-nous pou-pourrions l'endommager."
+  },
+  "501b0747ffc73c9953a441c0690f6c15": {
+    "text": "D-dois-je le récupérer ? Ou... Est-ce-ce que quelqu'un peut le faire ?"
+  },
+  "0b87c55c4d3acaa2d06c7ef206dd2e5f": {
+    "text": "Attention à ce Pod... Nous ne sa-savons pas d'où ni de quand il vient..."
+  },
+  "1130e740c5028d978de5f7820257a9e3": {
+    "text": "Le Pod a creusé une tranchée non autorisée sur la surface de l'île."
+  },
+  "9cd524f5fe65ac8d1dce05296b5f964a": {
+    "text": "Je me demande si le Pod aura un être aussi intelligent que moi à son bord."
+  },
+  "b7eaacac2881b74e07beee43aec95483": {
+    "text": "il est vital à ce que nous récupérions ce Pod. Il pourrait contenir quelque chose qui pourrait nous aider à gagner cette guerre."
+  },
+  "b9c0ea86aa4432eff782e37b8cd894e1": {
+    "text": "Ce Pod est techniquement la propriété de l'entreprise, assurez vous à ce qu'il soit récupéré en un morceau."
+  },
+  "2bd6bcfd5c8c398f614e1ffb2733a900": {
+    "text": "Je veux ce Pod intact... Et si vous n'arrivez pas à le récupérer pendant la bataille, éloignez les Veks de lui."
+  },
+  "634c80f8a1ceaf1d5a20b57a9aa93609": {
+    "text": "Si seulement ces Pods pouvaient tuer quelques Veks en tombant."
+  },
+  "8d63d8a02a2f05ec9c176fcba08e7402": {
+    "text": "Si vous pouvez sécurisez le Pod temporel, faites le, mais ne mettez pas en danger les êtres doués de raison."
+  },
+  "bcd7f88ac18c5eeef216f5a61c085482": {
+    "text": "La technologie de ce Pod temporel pourrait nous aider à protéger cette île et les autres."
+  },
+  "3631b1a24b74c2208a284175021e7c6f": {
+    "text": "Quel que soit l'objet, récupérez-le si vous le pouvez, mais ne vous mettez pas en danger."
+  },
+  "078d249c63d731644e6f5edb76c971ac": {
+    "text": "Pod collecté (par le pilot en train de parler)"
+  },
+  "a7831efd61634108f6ec0a163cbaabf9": {
+    "text": "Mise à jour : Pod récupéré"
+  },
+  "491575ab7dea5b1d0be7f8e3e9082b1e": {
+    "text": "J'ai récupéré le Pod !"
+  },
+  "e576f93c790adbeb48e1d7cfe23be202": {
+    "text": "Maintenant concentrons nous sur la mission."
+  },
+  "5b733a70ad423e035e2656c6060448a4": {
+    "text": "Le Pod temporel a été récupéré en tout sécurité."
+  },
+  "4a855b7dcedbafdd5bf120b34730223b": {
+    "text": "J'ai le Pod. Concentrez vous sur vos ennemis."
+  },
+  "098f0c050b90136d7c522fe6e6b62cef": {
+    "text": "Le Pod est en ma possession."
+  },
+  "344970fff63f64285caa95ce95910019": {
+    "text": "Technologie acquise !"
+  },
+  "8830fb3bc6772277c53d7e9d5a3f3cfa": {
+    "text": "J'ai sécurité le Pod !"
+  },
+  "19fc9ff15f42514016a1acaf2729d66a": {
+    "text": "Le Pod temporel a été extrait de son habitat."
+  },
+  "9e7416d0fa5f95963ec4a24f4680af2a": {
+    "text": "Pod temporel récupéré. La tranchée créée par son atterrissage devra être refertilisée."
+  },
+  "36ca3d21dfa8dd0abd3f42b78b171590": {
+    "text": "Désherbage terminé. Pod temporel enlevé.",
+    "review": true
+  },
+  "57fd9599c57bd56cf081875302337324": {
+    "text": "J'ai attrapé le Pod ! Attendez... est ce que cela signifie que je suis 'ça' ?"
+  },
+  "e2d27363f2197b31716ed3ad4f89c3c2": {
+    "text": "Pod en sécurité !"
+  },
+  "29dcec1c055a7682ad163f3c6bde69a7": {
+    "text": "Pod sécurisé. Maintenant concentrez vous sur l'objectif primaire."
+  },
+  "c90d40fe47ffed8f47dd77644e3211cb": {
+    "text": "J'ai le Pod ! ",
+    "review": true
+  },
+  "b57cc5d13f3610ee3388d9b2abb743ed": {
+    "text": "J'ai déterré le Pod - vous pourrez me remercier plus tard."
+  },
+  "88a8311f8d5a06c72685383e37cbf597": {
+    "text": "J'espère que mon Père n'est pas à l'intérieur du Pod..."
+  },
+  "faaaa3f87be06027e4ed483b333910f8": {
+    "text": "Le Pod temporel est dans ma soute."
+  },
+  "59161aa308c4a3df55072a28eb15cff8": {
+    "text": "Pod temporel récupéré, Commandant."
+  },
+  "ebe7d01508d6166dbf3b3943894a73c4": {
+    "text": "Nous avons récupéré le Pod."
+  },
+  "f20546ae0bed36903ed9e4fbb8b61326": {
+    "text": "Le Pod temporel a été appréhendé et ses composants sont en train d'être interrogés."
+  },
+  "232345f28e33fdfb343893a8824fa403": {
+    "text": "Le Pod temporel a été appréhendé et ses composants sont retenus pour un interrogatoire."
+  },
+  "ebdc3c689bfbb0b072e8d72d81c93c42": {
+    "text": "Je superviserai le démantèlement de ce Pod temporel personnellement."
+  },
+  "96c2536e90e0d6299bf31f1f01a20fec": {
+    "text": "J'ai ré-réussi à le sauver !"
+  },
+  "f69858c64bd55972af8d12778c096451": {
+    "text": "Le Pod... est en sé-sécurité ! Pour le moment."
+  },
+  "5c2a3111d3e45792b66570ee168046ff": {
+    "text": "J'ai le Pod - il est encore correctement scé-scellé."
+  },
+  "121a51826851db45f60ade5072df9476": {
+    "text": "J'ai récupéré le P-P-Pod. il a l'air in-intact."
+  },
+  "9de62c9f6295032704518f4f6c473e40": {
+    "text": "Pod extrait du terrain."
+  },
+  "e07c12cc1b1f17544b8a56e67ed1f0e7": {
+    "text": "J'ai récupéré le Pod temporel. Comme prévu, il est sale."
+  },
+  "d51d8284be3bdac92073e859eb9da169": {
+    "text": "J'ai le plaisir de vous annoncer que, grâce à mes efforts, le Pod temporel est sécurisé."
+  },
+  "9ae3d027d760ce50b7f331d7ca2f6b68": {
+    "text": "Pod détruit (par tous, Vek inclus, excepté par le narrateur)"
+  },
+  "bc002cde4ad1a905a44fad0240949616": {
+    "text": "Mise à jour : Pod Détruit"
+  },
+  "52e8c2f212630a2042aaabeb679719d6": {
+    "text": "J'espère que personne n'était dans ce Pod..."
   }
 }
