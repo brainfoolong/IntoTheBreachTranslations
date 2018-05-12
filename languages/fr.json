@@ -8841,8 +8841,7 @@
     "review": true
   },
   "753c145bb1c840be2904795382fd31f8": {
-    "text": "Quand est--ce--ce que ces combats finiront-ils ?",
-    "review": true
+    "text": "Qu...qu...que..quand est-ce que ces combats finiront-ils ?"
   },
   "5180a59cc2a00131ef00a70dba4f25c5": {
     "text": "Systèmes additionnels activés."
@@ -8972,7 +8971,7 @@
     "review": true
   },
   "d6986c784129dc5143d111dc3a31f18f": {
-    "text": "Cette gu-gu-guerre, c'est de la folie."
+    "text": "Cette gu...gu..guerre est insensée..."
   },
   "87e147288c21b0f2e44359924e1da3c9": {
     "text": "Mon Dieu... Le Mech ne bouge plus. Et aucun de s-s-signe de vie n'émane du cockpit."
@@ -11430,7 +11429,7 @@
     "text": "Je... Je pense que c'est une sorte de balise."
   },
   "34f8d4b49ff5118658e136613e503814": {
-    "text": "Le périphérique s'est activé."
+    "text": "Le dispositif s'est activé."
   },
   "c5e91b9ba5a6bd9edca9ced1fc44ec59": {
     "text": "Je... Je ne suis pas sûr mais je crois que c'est une sorte de... transmetteur."
@@ -11700,5 +11699,18 @@
   },
   "34faf43169621399807b874bdfce357f": {
     "text": "Super. Encore d'autres Veks."
+  },
+  "5c6da2836b63b7040414375d0b6fa1be": {
+    "text": "Renvoyons ces Veks dans le sol."
+  },
+  "a610864b59496212b956df26d30d37c9": {
+    "text": "Renvoyons ces Veks là d'où ils viennent, dans la terre !"
+  },
+  "98353b7a8bb4595917e87883967204bf": {
+    "text": "Les Veks ont atteint la surface."
+  },
+  "78be48c122720b353f7702c3eae95765": {
+    "text": "Attention, Veks : Vous n'êtes pas autorisé à circuler dans cette zone.",
+    "review": true
   }
 }
