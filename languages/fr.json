@@ -6543,7 +6543,7 @@
     "text": "[ Un engin de sauvetage temporel, désigné \"Pod Temporel\", a atterri à proximité]"
   },
   "e0c38e49d03dce4253133e60652c7dd7": {
-    "text": "[ Un Vek a été empêché un autre Vek de faire surface ]"
+    "text": "[ Un Vek a empêché un autre Vek de faire surface ]"
   },
   "c31c5a7f04b6f9dd0afd5a92e38d049a": {
     "text": "[ Un Vek a fait surface. Verrouillage des capteurs sur lui ]"
@@ -11831,5 +11831,112 @@
   },
   "1cae712ee661177dabd953e45bf27ce7": {
     "text": "J'ai bloqué ce Vek !"
+  },
+  "eea5537deea294e554e516f3537f59b2": {
+    "text": "Ce Vek est bien en place !"
+  },
+  "13cfac1489d38c80c6a05a3801809bee": {
+    "text": "L'intégrité du sol de la zone de travail est maintenue."
+  },
+  "5310af725bf75bc04d8a8186d5d3384e": {
+    "text": "Le matériau Vek dangereux a été bloqué.",
+    "review": true
+  },
+  "f7e947452844a4e32f518e9a47925d6a": {
+    "text": "Le danger Vek est sécurisé."
+  },
+  "41845a18f2e0d849c094e3b01d89887a": {
+    "text": "Le Vek est j-j-juste en dessous de moi !"
+  },
+  "67cb93f8c4d44586c7a33a7eb2eae17f": {
+    "text": "Je-je ne peux pas tenir ce Vek pour longtemps !"
+  },
+  "4414250454a7a52e0c7a9df8e3a49849": {
+    "text": "Point d'émergence Vek scellé."
+  },
+  "3dbbf7fbcf70f57a5b34eaa9e018f6e7": {
+    "text": "Ce Vek n'est pas autorisé à atteindre la surface."
+  },
+  "1aa0b9c017edb8fd3f1234c1209918eb": {
+    "text": "Bloquer les Veks de cette manière est plutôt embarrassant."
+  },
+  "0af5f9eb54140bee418ab645c09ee52a": {
+    "text": "S'accroupir sur des Veks n'était pas ce pour quoi j'ai été programmé."
+  },
+  "f169bff6d2ce667f7764a9ed07dc59d6": {
+    "text": "Bien sûr que nous pouvons trouver une meilleure solution pour bloquer ces créatures autrement qu'avec nos Mechs."
+  },
+  "afd14be2a5b07df69b8f24921b1c6409": {
+    "text": "Un Vek bloque un autre Vek faisant surface."
+  },
+  "a4bc07dbbd3f2f329f2082c4d9292553": {
+    "text": "Mise à jour : Voie Vek bloquée par un Vek"
+  },
+  "f206aee916a96fed0d0fc8c30eae8e77": {
+    "text": "Que pensez-vous de ça - ils font le travail pour nous."
+  },
+  "9269c6736c81e6a728e9c9b32b566f0f": {
+    "text": "J'espère qu'ils vont se tuer les uns les autres."
+  },
+  "e0a8f96aa41c8285081664260e020b18": {
+    "text": "Ils ne peuvent pas s'arrêter de faire surface... Même lorsque l'un des leurs est au dessus."
+  },
+  "22718608565c753825962869e3ad911f": {
+    "text": "C'est bien de voir que les Veks peuvent se bloquer les uns les autres."
+  },
+  "92c91e9cea6ec20811caf31fa6132b95": {
+    "text": "Celui-là essaie de forcer sa sortie."
+  },
+  "157395047756c1b89fd876befb58764c": {
+    "text": "Nous utiliserons votre nombre contre vous."
+  },
+  "25f133af0451542e7c756fa597b70833": {
+    "text": "Apparemment, les vies de leur propre congénères ne comptent pas pour eux."
+  },
+  "f6ffdcd22c843ff240594b42cfb60b48": {
+    "text": "Le Vek de creuser à travers son propre congénère."
+  },
+  "d491f5c17727a75794069dbdb4213eb9": {
+    "text": "Enfin, un Vek utile ! Il bloque un autre Vek de faire surface !"
+  },
+  "e70c421d7b9a88a1237c679363edf67b": {
+    "text": "Les Veks s'empêchent les uns les autres de faire surface."
+  },
+  "78ce7eff904ccd40ffa69682e99794f8": {
+    "text": "On dirait qu'il y a comme un désaccord entre Veks ici.",
+    "review": true
+  },
+  "e5ae5dd934fdbeaded4b977f3c172aba": {
+    "text": "Rien de tel qu'un tête à queue de Veks."
+  },
+  "6a0432f413809a6111c8b0021ac80471": {
+    "text": "Laissons ces enfoirés de Veks se rentrer dedans les uns les autres tout en essayant de jouer avec nous !"
+  },
+  "d11b4097efb228eae5f3b7e2b95fc004": {
+    "text": "Ce Vek est en train de train bloquer l'autre !"
+  },
+  "cdfeb77661fcd0154ae97412a25b6e04": {
+    "text": "Les matières dangereuses sont en conflit avec d'autres matières dangereuses Vek."
+  },
+  "33d83485a10fc4c737ece1819f22faaa": {
+    "text": "Le danger Vek a bloqué un autre danger Vek."
+  },
+  "6edd71f0730d570c9394170d336b9bd6": {
+    "text": "Les Veks ne s-s-semblent pas coordonner leurs actions."
+  },
+  "421da522a78c83bccb3fd2a9954b5549": {
+    "text": "Les réflexes Veks ne s-s-semblent pas s'adapter aux conditions du terrain."
+  },
+  "e23fdae0e1782c491e817403f010d9b9": {
+    "text": "Les V-V-Veks semblent travailler chacun pour soi les uns les autres."
+  },
+  "1bb98f2abc63ab3a63b238b41b59dd90": {
+    "text": "La sortie d'un Vek a été stoppée par un autre Vek."
+  },
+  "e3766269f1e6c7a05d731616a142f867": {
+    "text": "C'est bien de voir des Veks se rendant utiles."
+  },
+  "0b99d3c12b178b5783eaa5a10b63ecde": {
+    "text": "C'est bien de voir des Veks bien placés."
   }
 }
