@@ -6429,7 +6429,8 @@
     "text": "... Ai-je déjà utilisé cela dans une autre ligne temporelle ?"
   },
   "2532af2e32bde47c1a19a623a1fc3542": {
-    "text": "... J'espère qu'ils ont travaillé sur cette anomalie avec cela dans cette ligne temporelle."
+    "text": "... J'espère qu'ils ont réglé les anomalies de l'arme dans cette ligne temporelle.",
+    "review": true
   },
   "5702e360a74cdda62971bacae09dcef6": {
     "text": "...Je n'ai pas besoin de cela."
@@ -6466,7 +6467,7 @@
     "text": "... Collectez les signaux étranges sous la glace, Commandant."
   },
   "19c4431128b450b07251aee0b89010d9": {
-    "text": "... Le réacteur fait dresser mes cheveux."
+    "text": "... Le réacteur me fait dresser mes cheveux."
   },
   "6c8398a060a25ca3307130cde23eda8c": {
     "text": "... Un tel s-s-soulagement."
@@ -6572,7 +6573,7 @@
     "text": "[ Att : Commandant. Rapport de réactivation avec succès suite à une défaillance du système ]"
   },
   "e5b5767a935703cc96352d1f8d70e801": {
-    "text": "[ Att : Commandant: Lancement des protocoles de brèche temporelle ]"
+    "text": "[ Att : Commandant: Lancement des protocoles de voyage temporel ]"
   },
   "1ceadd6ddcbfa2e6d6a5ab5637f15fff": {
     "text": "[ Att : PDG de Pinnacle : Zénith. C'est #self_reverse, provenant d'une ligne temporelle sauvée. Ma banque de données contiennent des documents essentiels pour la victoire contre les Veks ]"
@@ -6883,7 +6884,7 @@
     "text": "[ Systèmes d'armes en ligne ]"
   },
   "113d02b13e64acd26607bdf704f94099": {
-    "text": "Une lame doit être affûtée, mais pas assez pour qu'elle se brise."
+    "text": "Une lame doit être affûtée, mais si elle ne l'est pas assez elle se brise."
   },
   "9f23c06c83d8177267431d5cef5b9196": {
     "text": "une démonstration de force"
@@ -6930,7 +6931,7 @@
     "text": "Une p-p-promotion ? Mais... Je n-n-ne veut pas être meilleurs en massacre de Vek."
   },
   "324eaba00f4768d2631d2cf89c14d9e3": {
-    "text": "Une batterie primitive, mais efficace."
+    "text": "Une batterie primitive mais efficace."
   },
   "18a6b81d0414960f804ed70815ff1ca1": {
     "text": "Une promotion - en souhaitant que ma mère adoptive ait survécu pour voir cela."
@@ -7139,7 +7140,7 @@
     "text": "Arme sécurisée. Initialisation en cours."
   },
   "f239ddc8b5b41e16ec202d76c4190618": {
-    "text": "Arme vérifée, Commandant."
+    "text": "Arme vérifiée, Commandant."
   },
   "9987d4ed8b82665aa8dfdf950e1c3515": {
     "text": "Nous... nous pouvons essayer de nouveau. La prochaine fois - nous réussirons."
@@ -8842,7 +8843,7 @@
     "review": true
   },
   "5180a59cc2a00131ef00a70dba4f25c5": {
-    "text": "Systèmes additionnels en ligne."
+    "text": "Systèmes additionnels activés."
   },
   "4640241efe4ab4cbcf5be040e7ab0f7a": {
     "text": "Activation des systèmes de filtration."
@@ -8851,10 +8852,10 @@
     "text": "Activer les stabilisateurs de sol, l'île se coupe en deux !"
   },
   "38f452c01ab53d90d7040db1d22e61e6": {
-    "text": "Activer la brèche ! Nous devrons réessayer !"
+    "text": "Activer la faille temporelle ! Nous devrons réessayer !"
   },
   "158f53b2d14d5310cdbd31d0155102a2": {
-    "text": "Activer la brèche temporelle !"
+    "text": "Activer la faille temporelle !"
   },
   "f9f81b2a5cc1a0c5abb7817db57a2e54": {
     "text": "Activation des mesures d'urgence du voyage temporel.",
@@ -8954,7 +8955,7 @@
     "review": true
   },
   "2a61db10ee105d298d3faf4fbbc75980": {
-    "text": "Est-ce que je suis remplacé ?"
+    "text": "Vais-je obtenir un remplacement ?"
   },
   "3e498888f26561a64a05b3066d69b3e3": {
     "text": "Dois-je retourner dans mon verger sur Archive ?"
@@ -9177,6 +9178,913 @@
     "text": "Merci, #squad... Vous nous avez sauvé. Vous avez toute notre gratitude."
   },
   "6c590c23833a1a7de013862f95cda932": {
-    "text": "Ma confiance en vous était justifiée. Vous avez été testés et vous "
+    "text": "Ma confiance en vous était justifiée. Vous avez été testés et vous avez réussi."
+  },
+  "219082ed643d39b48cd8e2eb0bce7650": {
+    "text": "Adieu, #squad. Vous nous avez sauvé. Maintenant, essayez de sauver les autres."
+  },
+  "d1bdcac8a7d39c883a54d139406e30fb": {
+    "text": "Juste quand vous perdez",
+    "review": true
+  },
+  "6b80712939a4aa9fff4a01522b0a9df9": {
+    "text": "Statut : Effondrement du Réseau d’Énergie\\nInvasion Vek : Instoppable"
+  },
+  "434745c5cf068abc25b9af21b3b4eb6b": {
+    "text": "Le Réseau d’Énergie s'est effondré ! L'île est perdue !"
+  },
+  "3fe3304f6f0f46748650a59286e1fddd": {
+    "text": "Le Réseau d’Énergie est défaillant."
+  },
+  "1471e5bde3dcf9b9d12a280d9c3782df": {
+    "text": "Les ingénieurs du réseau électrique indique une défaillance complète du système."
+  },
+  "8cca6f0b20aeb907bde7e41e472e42f9": {
+    "text": "J'ai espéré que nous aurions pu réussir cette fois."
+  },
+  "a3a3b10fd024dc52880a2c2c4aa14c04": {
+    "text": "Effondrement du Réseau d’Énergie ! Bon sang !"
+  },
+  "a55bbc1121266cc15c8338ff39d20bdd": {
+    "text": "Le Réseau d’Énergie s'effondre !"
+  },
+  "d93f4581699051880c2e873c3699bd5d": {
+    "text": "Le système indique des défaillances énergétiques - Le Réseau d’Énergie est en train de s'effondrer !"
+  },
+  "eb66d445daa2f549ff45a53b5d4f33aa": {
+    "text": "Les systèmes perdent de la puissance, le Réseau d’Énergie est en train de tomber !"
+  },
+  "c08ddb4bff4d2621f636e8f8fe91dd84": {
+    "text": "Mon Mech... ne répond pas !"
+  },
+  "def2fc6910328466bd0c8b99024e3355": {
+    "text": "Commandeur... que-"
+  },
+  "b2c607a87943f694fa757e32057c17ce": {
+    "text": "Le Réseau est tombé. C'est fini."
+  },
+  "34e3c2627d28c6a2919f0cdc3937c1ce": {
+    "text": "Le... Le... Le Réseau d’Énergie qui nous alimente n'est plus."
+  },
+  "5e303293f554a50450a9cfa138905fe9": {
+    "text": "Le Réseau est tombé. Bientôt, les îles ne seront plus."
+  },
+  "02800bbb4b5872bc9d74351523a1dff2": {
+    "text": "Cette île jardin est perdue. Elle appartient à ces parasites Veks maintenant."
+  },
+  "9c72794fc1b91873950b94187a8eb436": {
+    "text": "Protocole Vekticide échoué. L'humanité représente l'espèce parasite maintenant."
+  },
+  "fb747b20ceb70230de629565744c325e": {
+    "text": "Mes contrôles sont bloqués ! Que faisons-nous ?!"
+  },
+  "e86d6febdc6d6c996050daafe34c19e4": {
+    "text": "Le Réseau est en train de s'effondrer... Les Veks ont gagné. Encore une fois."
+  },
+  "cb2d3dffe75b6bcb62f069a78fbb1197": {
+    "text": "Cela ne peut pas arriver ! J'ai tout fait parfaitement !"
+  },
+  "3a71df4e06d006bc03cc9652e1aa0361": {
+    "text": "Quoi ? Ma technique était parfaite !"
+  },
+  "0bc3b4e0226350b4cda84e8f6283c705": {
+    "text": "Le Réseau d’Énergie est tombé. Les rapports indiquent que les Veks ont envahi les îles... On dirait que nous n'avons plus de choix... "
+  },
+  "df5bde2c3b2506dd2121986be92783a1": {
+    "text": "Le Réseau est tombé ! L'île est infestée de Veks !"
+  },
+  "af9f77f986e409f6fada7089a0b554d3": {
+    "text": "Le Réseau d’Énergie est hors service. La menace Vek est en constante augmentation. Retrait immédiat conseillé."
+  },
+  "11a0a08be1a1803af56f711a4ccf7e71": {
+    "text": "Le Réseau d'Énergie est tombé, ses circuits sont au bout de leur capacité. Nous devons nous retirer."
+  },
+  "368115f0313f7c2d4f559af772c4565e": {
+    "text": "Je signale que le Réseau d’Énergie a été perdu au combat."
+  },
+  "f3e0099780d07ad3798df5052c25a90e": {
+    "text": "Le Réseau d’Énergie est t-t-tombé. Vous avons enc-encore... éch-échoué..."
+  },
+  "3fb062e633f123e7e8d9c31f0b2bde1b": {
+    "text": "Le Ré-réseau d’Énergie - il a lâ-lâ-lâché !"
+  },
+  "e51e82a465ea4e1fd51edb9476aff794": {
+    "text": "Défaillance du Réseau d'Énergie détectée."
+  },
+  "f3479dc51d9767074721baa26cdf4fe2": {
+    "text": "Bon, et maintenant le Réseau d'Énergie. Et la planète entière. Plus de machines douées de raison, plus aucun humain non plus.",
+    "review": true
+  },
+  "f07b0394922eba581fcdea08065638f7": {
+    "text": "Le Réseau d'Énergie est en train de lâcher ! Les Veks envahissent l'île !"
+  },
+  "f0a0adf565686489011585708cd62322": {
+    "text": "Le Réseau d'Énergie est tombé ! Nous avons échoué !"
+  },
+  "9602e6a59a93b99ab8a9704a05eea650": {
+    "text": "Nous avons échoué à protéger le Réseau ! R.S.T.... toutes les îles... Nous sommes vaincus !"
+  },
+  "3953883964fbfbc833589d0fbb542b2b": {
+    "text": "Le Réseau est tombé. Toutes les machines douées de raison vont disparaître de cette ligne temporelle."
+  },
+  "c0ccd39aa65f562c0939e6a2ceb293d6": {
+    "text": "Le Réseau est en train de lâcher !"
+  },
+  "8a1cc4224d24f05c5d99a370a3fea5fe": {
+    "text": "Le Réseau est tombé ! C'est... C'est terminé pour Detritus. C'est terminé pour tout le monde."
+  },
+  "521289cdd59cd7b82abef4558fc2b519": {
+    "text": "Réponse ci-dessus"
+  },
+  "5eef590b2a8643e0ec556a7f95b9e1ef": {
+    "text": "Humanité : Détuite\\nLancement : Protocole voyage temporel"
+  },
+  "2e445e1ea64972d8014235648606ddb9": {
+    "text": "C'est fini... saut dans une autre ligne temporelle",
+    "review": true
+  },
+  "a57fa8d5a510a24503dd1ce0447c1693": {
+    "text": "Ceci n'est pas la fin. Lancement des protocoles de voyage temporel."
+  },
+  "ddea3744145545716d8452c2eba040f4": {
+    "text": "Nous devons suivre les protocoles d'échec de la mission - lancement du voyage temporel"
+  },
+  "a1ab847bd0e5fd885d6f56a60bf90a3e": {
+    "text": "Nous devons ouvrir une faille temporelle maintenant !"
+  },
+  "4530db8b8985f3456c71a16559e7f466": {
+    "text": "Nous avons échoué - mais seulement dans cette ligne temporelle. Ouvrez une faille temporelle maintenant !"
+  },
+  "ec8c44768814ca8bb896b442c1bf862e": {
+    "text": "Il est temps pour nous de partir."
+  },
+  "b31055f74ac95efbac9f45b1bde6ba1d": {
+    "text": "Ce monde est mort."
+  },
+  "163e52762eabcca2980bb56ffa6d197a": {
+    "text": "Ce monde est mort. Il est temps de partir."
+  },
+  "58e5ce3f9974c3298fd07038bd1d2bf9": {
+    "text": "Lancement d'une faille temporelle. Laissons le cycle de la vie continuer."
+  },
+  "c9b130a48761d69c40d7377d0778e3aa": {
+    "text": "Faille en cours d'initialisation... Adieu, mon Archive originelle."
+  },
+  "d32ad330f0c18efb9e7d92e9aad0c168": {
+    "text": "Une autre ligne temporelle a besoin du protocol Vekticide. Initialisation d'une faille temporelle."
+  },
+  "6e1919f6b4461607e0c4a9c79fe10532": {
+    "text": "Nous devons réessayer encore une fois ! Activation de la faille temporelle... Maintenant !"
+  },
+  "a02dd00c5006c6828c2f14948e4fb3a0": {
+    "text": "Activation de la faille temporelle. La prochaine ligne temporelle nous attend."
+  },
+  "951ef817b8368f897c2ebb3fb02f8346": {
+    "text": "Il n'y a plus rien à faire à part partir. Il n'est pas question à ce que j'échoue encore une fois !"
+  },
+  "21a26f24abc0260dfb39ece0c2001960": {
+    "text": "Bon sang ! Qu'est ce que j'aimais cette ligne temporelle !"
+  },
+  "65d0dfcf1f4ad0d7e2e4ffa956689a7a": {
+    "text": "Nous devons évacuer ! Activation de la faille temporelle maintenant !"
+  },
+  "a96ab277de03373c69093c042a102d44": {
+    "text": "Cette ligne temporelle est une réserve à Veks. Protocole de nettoyage d'une nouvelle ligne temporelle en cours de traitement.",
+    "review": true
+  },
+  "8c06bb41eb3fc39b548f7093445a5cc9": {
+    "text": "Les efforts de construction ont échoué. Activation du signal de fin de décalage temporel.",
+    "review": true
+  },
+  "19f0003261acbeaecafead39d448339b": {
+    "text": "Reconstruction temporelle stoppée. Demande d'autorisation de travailler dans une nouvelle ligne temporelle."
+  },
+  "990029412da1313ac7dd9f78cc7e77f2": {
+    "text": "Nous a-a-avons fait tout ce que nous pouvions... Préparation d'une ouverture d'une f-f-faille temporelle."
+  },
+  "9fb615173a3ca9815a68f9e5e9660a04": {
+    "text": "Je p-p-ensais que pour cette ligne temporelle... Cela aurait été différent. T-t-temps de partir."
+  },
+  "6584c0a6bee16a25ede03635e4f039a8": {
+    "text": "Excavation temporelle initiée. Ré-engage le combat contre les Veks dans une ligne temporelle alternative."
+  },
+  "9b4e5fc4a778798ccbe593c439e1b088": {
+    "text": "Devons-nous ouvrir une faille et réessayer ?"
+  },
+  "fed339928674380d6c8797454ea87c77": {
+    "text": "Si vous pouvez réellement voyager dans le temps - faites le maintenant"
+  },
+  "fec82712a58bf08532ffe87c4588a594": {
+    "text": "Les Veks envahissent toutes les îles... Si vous pouvez vous mettre en sécurité, faites le."
+  },
+  "7d0ef16e4f90ae7fbe6678872ede7761": {
+    "text": "Si vous êtes des voyageurs du temps, prouvez le. Il n'y a plus rien à faire ici."
+  },
+  "645cb42fcaf3fea08083f057b7774cc3": {
+    "text": "Partez maintenant. Si d'autres lignes temporelles peuvent être sauvées, alors allez-y."
+  },
+  "4ebd1052c1fcdd10c05ebec3b854b689": {
+    "text": "D'autres lignes temporelles ont besoin de vous. Allez-y tant qu'il est encore temps."
+  },
+  "31b17684fc0cc7ef2fc9c9e3e34802ef": {
+    "text": "Des vies peuvent être sauvées dans d'autres lignes temporelles, allez les aider maintenant."
+  },
+  "c88d1f8d8e6bc4dfd09860fb21aabf30": {
+    "text": "Allez-y, mes amis. Sauvez vous."
+  },
+  "c2af4acc1af5db8c6bc00e7115c39da1": {
+    "text": "Alimente une nouvelle arme."
+  },
+  "8bc92d45267582c71fa2074714e0078f": {
+    "text": "Interfaçage : Nouvel équipement détecté"
+  },
+  "76a8df6c7e66fd6c174ba4f3e5d6c9b0": {
+    "text": "Fonctionne à merveille."
+  },
+  "8ef09ed38c95a9c7701721fe73f1eaee": {
+    "text": "Quand puis-je le tester ?"
+  },
+  "10e0959751e70d2470dbb41fa4ae9e37": {
+    "text": "Verrouillé et chargé."
+  },
+  "555dab7a97e3ed335fe2e0bf0e4e6bb1": {
+    "text": "Vérification de la sécurité de l'arme maintenant."
+  },
+  "082f54ea5220e6c4bb1648cc991cda37": {
+    "text": "Début des diagnostics du système."
+  },
+  "a0a9892d63942a4b36850d064d5b0010": {
+    "text": "Je n'ai jamais vu quelque chose d'aussi avancé à Detritus."
+  },
+  "14dd0272adf8a5fe45e5c7af32dbfa5e": {
+    "text": "Est-ce sûr ?"
+  },
+  "f68789c0ec80374d2a3dc718b7df1fda": {
+    "text": "Cela va me donner un avantage."
+  },
+  "2e6c323a60b463f4e946270fda6e164c": {
+    "text": "Mieux vaut l'utiliser maintenant, je ne peux pas l'emmener avec moi au prochain saut."
+  },
+  "c7e313e552ebcc6ce2032c2fba5f991a": {
+    "text": "Merci ! Je vais le tester maintenant !"
+  },
+  "854bfd4be251b0bd454bdc94c3d3cc88": {
+    "text": "Cela fonctionne à merveille !"
+  },
+  "09e7e76f4e58788841ec56807787f879": {
+    "text": "Cela semble fonctionner. Effectuer un diagnostic maintenant."
+  },
+  "e658fe5c3af58a05c5ec8a8aab2a48ca": {
+    "text": "Cela servira."
+  },
+  "5d693d686dc8017a06fb68072ce4d5d8": {
+    "text": "intéressant. Ses condensateurs de puissance peuvent s'interfacer avec presque n'importe quel matériel sans aucune modification..."
+  },
+  "e9486141724f3ebe35368c1f1e32afa5": {
+    "text": "Les indicateurs sont au vert. J'pourrais faire quelques ajustements, bien sûr, mais je vais laisser ça pour mon labo."
+  },
+  "abef91a3afcd711a25847132ab22b58a": {
+    "text": "Bien, pourriez-vous y jeter un coup d'oeil. Cela entre parfaitement !",
+    "review": true
+  },
+  "9add9c78c5eb4cebdde5e61534fd0123": {
+    "text": "Est-ce un nouvel outil de jardinage ?"
+  },
+  "bcaae45e3a3d08164824f4ee0c081d42": {
+    "text": "Cela améliorera mes efforts Vekticides."
+  },
+  "075864c5f946630073fcc1e2094fbbbc": {
+    "text": "Je dois ré-équilibrer la balance écologique de l'île avec ça ?"
+  },
+  "97e4b6a5a991984abf3f9cd3a7d4cdd4": {
+    "text": "Ooooh - J'ai hâte de tester ça !"
+  },
+  "153ee4341edfc30f37d453a8c938c0b0": {
+    "text": "Écoutez le !"
+  },
+  "ff075de600e36a4ade1bf9386b244eeb": {
+    "text": "Ooh - J'en ai la chair de poule."
+  },
+  "ad2654acfeab81a6d56ee59575f8b388": {
+    "text": "Cela nous donnera un avantage certain."
+  },
+  "fdb2b17b952ba33fca507b392ea0d39d": {
+    "text": "Les Veks ne vont pas comprendre ce qui va leur arriver."
+  },
+  "bfb3163ffc0913e71b9367b41e215e06": {
+    "text": "Amorcée."
+  },
+  "1e9b43c5a9fd6bdf5d8ca49e384e755f": {
+    "text": "Armé et paré."
+  },
+  "f1b08549fe2e5e2db85c8ad1572f0c4a": {
+    "text": "Cela nous aidera à faire le travail."
+  },
+  "86f2ee11cdd9a7e6ab90f7031f814619": {
+    "text": "Parfait. Je sais exactement comment l'utiliser... mais, euh, montrez moi quand même comment cela fonctionne."
+  },
+  "3fba7726f2e7dee4598083974e73d857": {
+    "text": "J'ai hâte de faire goûter cela aux Veks. C'est bien une arme, non ?"
+  },
+  "6629f35413246046a084b4c0d4d12e98": {
+    "text": "Maintenant, je pense que nous jouons avec le feu. C'est quoi déjà ?"
+  },
+  "94b448fc38609a49f5e140f98ad977f6": {
+    "text": "Donnez moi une arme automatique et je serai content."
+  },
+  "f53217dcad4c7e90434e9d9a89494e7d": {
+    "text": "Ce truc est plus gros que moi."
+  },
+  "2f67121221da75322b2ff7bd8c804348": {
+    "text": "Installation matérielle reconnue. Accès aux schémas et aux instructions d'utilisation.",
+    "review": true
+  },
+  "4902558782299d2f3b123ce0dab9a9c0": {
+    "text": "Exécution de l'appel des nouveaux systèmes. Systèmes, ok.",
+    "review": true
+  },
+  "b987053a4ec0030fdf1ca209a8189e27": {
+    "text": "Début de l'entrainement des composants. Composants, au rapport !",
+    "review": true
+  },
+  "ac96476662ea4b795d525cefd0b283f0": {
+    "text": "Au nouveau matériel : Votre entrainement commence maintenant."
+  },
+  "9220b6b96389da1f9c2e468304a101b9": {
+    "text": "Au nouveau matériel : Je n'attends rien de moins que 100% de vos performances."
+  },
+  "5c24bfa1caec05187a404b58763ec031": {
+    "text": "Att-attendez... Comment ce truc fonctionne déjà ?"
+  },
+  "2e8716d132a2de4c7cab9d93e98ca3ef": {
+    "text": "Que fa-fait ce truc déjà ?"
+  },
+  "d91caec20b002df0e3114ff7bc270662": {
+    "text": "Je n-ne suis pas entièrement à-à l'aise avec cela."
+  },
+  "91879b19f86d68cf4614ba0e768c01d3": {
+    "text": "Ma f-f-force réside dans mes connaissances et non dans les t-t-tests d'armes."
+  },
+  "40dcd6b5e9a27e071e4ad32d39c6e79e": {
+    "text": "Matériel installé."
+  },
+  "57b3665ca6a0ff8729d3997e3fc1a17a": {
+    "text": "Nouveau outil d'excavation acquis."
+  },
+  "362f52b68b9ff6cf5a5cf6fa1421e485": {
+    "text": "Équipement d'excavation modifié."
+  },
+  "cc286d5185a25210f4aa6fdabb5af280": {
+    "text": "Là. Tout fonctionne !"
+  },
+  "7228429526834fa2a2c72ad01ba96408": {
+    "text": "Bien, cela est certainement... Destructeur."
+  },
+  "20f091adc495d27bd5cdf4b570a05116": {
+    "text": "J'espère que nous pouvons désarmer cela aussi facilement que nous les installons... pour le bien de l'humanité."
+  },
+  "33d8cc68db49ea8f2c3ad8bd7ffc3324": {
+    "text": "Si vous n'avez aucune arme alimentée, cela s'affichera à chaque fois que vous enlèverez toutes les armes d'un pilote."
+  },
+  "c611e753a359925b7dfdb8c58dd21e67": {
+    "text": "Erreur : Aucune arme détectée"
+  },
+  "dd3e2e4fc58107ad57177ffe651b2c19": {
+    "text": "Efficacité tactique : Sous-optimale"
+  },
+  "de7f3ba53c2924267ec2c5b3561c4308": {
+    "text": "Hum, demande de munitions, Commandant. J'peux pas me battre sans elle.",
+    "review": true
+  },
+  "d746921fc9497f3d2f51297771151194": {
+    "text": "hum, je me suis engagé principalement pour tester des armes..."
+  },
+  "fcdd703d8f7aeed58018bd2b4d3ccc97": {
+    "text": "Besoin de munitions avant le déploiement, commandant."
+  },
+  "dfdadf659fd96465e9277451bc0b5766": {
+    "text": "Je ne suis pas prêt au combat, Commandant. J'ai besoin d'une arme."
+  },
+  "419cf12e21433e244480ce49d71d46c0": {
+    "text": "Vais-je obtenir un remplacement ?"
+  },
+  "8deffc1d1939a3609ccdb9722a00d449": {
+    "text": "Aurons-nous du soutien sur le terrain ?",
+    "review": true
+  },
+  "14a2baab65962154962ece30e9708cd1": {
+    "text": "Si vous me prenez mon arme, s'il vous plaît, faites en sorte à ce qu'elle soit bien traitée."
+  },
+  "4b59adeddcc20f36808f0725ccc5d65e": {
+    "text": "Je ne peux pas aller au combat désarmé, Commandant."
+  },
+  "1e339fec184aa93eebd8caa3fbde2716": {
+    "text": "J'ai besoin d'une arme avant d'aller me battre."
+  },
+  "8d7676e81eddc04c1f2ecbc66c0bf034": {
+    "text": "Je ne vais pas combattre les Veks les mains vides."
+  },
+  "2888035cc1acfce8845d452c99e94583": {
+    "text": "Hum, Commandant ? Je suis désolé, mais je ne peux pas me battre sans une arme..."
+  },
+  "d83dc68f96ade01413c36bde36deabcf": {
+    "text": "Je suis flatté de vous apporter un support visuel sur le terrain, mais je me sentirais plus à l'aise avec une arme."
+  },
+  "b9b4325dffa5dba20d7cc6da7b14bbcb": {
+    "text": "Pourriez-vous me donner quelque chose de la division des sciences pour remplacer cela ?"
+  },
+  "912427d16949dad296221167c0f2de9c": {
+    "text": "Si vous distribuez de l'équipement neuf, j'accepte tout ce qui n'est pas mortel.",
+    "review": true
+  },
+  "6107225d7bbdbd5471409f530d83e40a": {
+    "text": "Ce Mech est taillé pour le combat. Il doit être armé."
+  },
+  "d250ea7b7fa425952b7df46e0047febc": {
+    "text": "Cela pourrait être... contre-productif... d'entrer dans une bataille sans matériel à tester."
+  },
+  "1510cc935724eeae671a038a47016ae4": {
+    "text": "J'aimerais être plus qu'un leurre. Fournissez moi quelques armes, peut-être ?"
+  },
+  "b8987823279e01b22ffbae44413eef4c": {
+    "text": "Est-ce que vous prenez cela pour l'améliorer ? Puis-je regarder ?"
+  },
+  "694537800a2e5822139d7500f257a07b": {
+    "text": "Je peux être plus utile avec l'armement de jardinage."
+  },
+  "42a04ee4b728d53c1833b8538a983f3d": {
+    "text": "Je devrais avoir besoin de matériels pour continuer mes efforts Vekticides."
+  },
+  "1ca8cbc6ed13bf2be43a0e995c18a957": {
+    "text": "Attendez ! J'ai besoin d'une arme !"
+  },
+  "0ff032b411b89c62a587426c2073658e": {
+    "text": "Attendez, je ne peux pas amener mon #self_mech sur le terrain sans une arme !",
+    "review": true
+  },
+  "9ad86a9319c722260f52e3b5c44e1ff4": {
+    "text": "Mon petit #self_mech n'a rien qui puisse tuer un Vek.",
+    "review": true
+  },
+  "66c07b4638d6526312de16f22089e8a0": {
+    "text": "Non ! Je vous promets que je ne jouerai plus avec !"
+  },
+  "3f38ade3023b72e0baeb6c721d05ab7b": {
+    "text": "J'ai besoin d'une arme avant de combattre les Veks."
+  },
+  "9e83405a25729deb2e13c71106d1cf3e": {
+    "text": "On change l'armement ?",
+    "review": true
+  },
+  "556065d32de5906b9648107dd6af7877": {
+    "text": "Avez-vous quelque chose d'autre d'utilisable ?"
+  },
+  "c091e068acd904cce4815f9ab68b7904": {
+    "text": "Soit vous me donnez quelque chose de nouveau, soit vous me rendez ce que vous m'avez pris."
+  },
+  "8d1680566cda43fdf985e23f6f41397d": {
+    "text": "J'ai besoin d'une autre arme qu'un sourire désarmant."
+  },
+  "752c3517c50784356ee6c5750cb02819": {
+    "text": "A moins que vous vouliez que je salue les Veks, j'ai besoin d'une arme."
+  },
+  "e4495b045a739f732d2e0db27397b363": {
+    "text": "Vous vous attendez à ce que j'utilise mes poings ? ...Commandant."
+  },
+  "8e44e13be85dbd513109885bb2378419": {
+    "text": "J'espère que vous allez me rendre ce que vous m'avez pris."
+  },
+  "99ffc77b86e3805d5db188613fc4000b": {
+    "text": "J'ai besoin de cela - ou d'autre chose plus puissant.",
+    "review": true
+  },
+  "05abcac9d57fec97f93da6610a8ac2b0": {
+    "text": "Est-ce que vous me relevez de mes fonctions ?"
+  },
+  "bcffff8ba48c92438fb80b5f8188efa5": {
+    "text": "Alarme critique. Cette unité ne dispose pas d'armement."
+  },
+  "d8e27b61dc4b72224beb450b606529ac": {
+    "text": "Est-ce que cette unité retourne travailler sur les chantiers de construction ?"
+  },
+  "44c4a76c1fa0782e15809f06d54364ed": {
+    "text": "Ai-je été assigné en cour martiale ?"
+  },
+  "8f02f7bffd2de451bfebbfb98de2bb6d": {
+    "text": "Est-ce que cet appareil a été abandonné pendant son devoir ?",
+    "review": true
+  },
+  "2747b81293cc9621f65015463329184c": {
+    "text": "Si je-je dois aller sur le terrain, j'aurai besoin... de, qu-quelque chose."
+  },
+  "3a9a4c550598c25d542a9c81f4518e9f": {
+    "text": "Est-ce que ma de-demande de transfert au labo a été acceptée ?"
+  },
+  "1524fb64a0a78a3f4f6c8c269e9bc2a2": {
+    "text": "Est-ce que ma de-demande de transfert à la division des sciences a-a-a été acceptée, alors ?"
+  },
+  "ea4131d9a62c3f2c0a6162bb8eb3ce7a": {
+    "text": "Erreur. Outil d'excavation non trouvé.",
+    "review": true
+  },
+  "55444d132585d47ce7489f95b2817df0": {
+    "text": "Est-ce que le commandant vous a accordé la permission de toucher à ma personne ?"
+  },
+  "e4b87b68857c1ee5894dc7d1a415b36c": {
+    "text": "Je n'ai pas autorisé mon propre désarmement."
+  },
+  "ae613cc98c1254ef536c241efe88df6c": {
+    "text": "Dans ma ligne temporelle, les humains ne sont pas autorisés à porter des armes, et encore moins à désarmer des robots."
+  },
+  "43526ff82accdf5f4ab5415a78e1ae8b": {
+    "text": "Je ne suis pas habitué à être désarmé par un humain."
+  },
+  "b4cb28952e574f2dca96de42a1a5f7f5": {
+    "text": "J'aurai besoin d'un appareil pour contrer les Veks."
+  },
+  "3b06bb9a74337d40b7659aa13c55bce3": {
+    "text": "Renvoie la puissance du réacteur soit pour gagner en Vie ou en Mouvement (statistiques de base du Mech, pas une arme).",
+    "review": true
+  },
+  "8a8bca48f55bcbfa8b210718274dcaf3": {
+    "text": "Calibration : Optimisation des niveaux de puissance"
+  },
+  "e7d5889e5319eb61a068d0c2443ab283": {
+    "text": "Mise à jour : Distribution d'énergie terminée"
+  },
+  "755cb2a821c2156789845b487adc2c71": {
+    "text": "Réacteur fonctionnel."
+  },
+  "62fae7d07dd19236027e2fb5f1c9ea12": {
+    "text": "Installation complète."
+  },
+  "1c71105a94df3528512103f50f8150ee": {
+    "text": "Pouvez-vous regarder ça !"
+  },
+  "6de4348962f2e5cd496abb306349f34c": {
+    "text": "Les indicateurs d'énergie sont allumés maintenant.",
+    "review": true
+  },
+  "c41aafb86d11b984052422e39dae52fc": {
+    "text": "Cœur de réacteur fonctionnel, Commandant.",
+    "review": true
+  },
+  "6712db0bba722f1c5c313d0470b53d77": {
+    "text": "Amélioration du réacteur effectuée, Commandant."
+  },
+  "01928bfa10b64257de3623a558f7c800": {
+    "text": "Puissance Réacteur redistribuée... Lancement des vérifications de sécurité maintenant."
+  },
+  "daf3e0b2d861fd20be78f6608e4c74ea": {
+    "text": "Sécurité du réacteur acceptable.",
+    "review": true
+  },
+  "f6d25ea2bd33c82612fbdf2c7680e39a": {
+    "text": "Les diagnostics internes sont au vert."
+  },
+  "bb3a7370eddd8b1007bb761090eb1274": {
+    "text": "Bien sûr, content qu'il n'ait pas pété une durite.",
+    "review": true
+  },
+  "b621eb44542b63988c4cdda8bb7961ff": {
+    "text": "Cela pourrait aider."
+  },
+  "2f9e5d8ffaadbb7238c7e11c6f09896e": {
+    "text": "Cela pourrait faire basculer nos chances."
+  },
+  "baa1372b78fd20c44e64adac61334654": {
+    "text": "Voici l'avantage que j'attendais pour ce Mech",
+    "review": true
+  },
+  "0e33a589b925148edc814a92bd3f038c": {
+    "text": "Amélioration Mech complète."
+  },
+  "f773bfedb3b8dede32259eecd7b30fbe": {
+    "text": "Je vais mettre ça à profit !"
+  },
+  "7feeb3f412054132e2ddf4d33059a657": {
+    "text": "Je me demande jusqu'où peut être amélioré ce Mech..."
+  },
+  "714f4a4aff54c2962ed0f26fa5057776": {
+    "text": "J'ai hâte de tester cela sur le terrain !"
+  },
+  "d522d63083003b3d0002bcd581c6f5ca": {
+    "text": "Cette technologie est impressionnante !"
+  },
+  "04e668581a48bd20c91e98b158b534a2": {
+    "text": "Les capacités de ces Mechs à s'améliorer sans provoquer de surcharge est remarquable..."
+  },
+  "daeebee4eaddbd4ab15be06f3a707fef": {
+    "text": "Mon Mech et moi-même grandissons ensemble."
+  },
+  "71c5eb14001853494ef89c9d32c674a3": {
+    "text": "Je me demande... de quelle ligne temporelle est issue la technologie de cœur de réacteur ?",
+    "review": true
+  },
+  "9c59b888d398e000db798e13bfe928d8": {
+    "text": "Les cœurs semblent essentiels à nos munitions.",
+    "review": true
+  },
+  "cc25e51a2394f5a446ee1d466cc58923": {
+    "text": "Plus mon Mech se nourrit, plus il devient puissant."
+  },
+  "fe2a4ea8b959549f994a4f1db27a9369": {
+    "text": "Mon Mech est rassasié."
+  },
+  "8b75a4b8ea3d399fd365f36c6afdd4bd": {
+    "text": "Le réacteur nourrit les systèmes de mon Mech."
+  },
+  "e63ae4cebed66b2f8af7fe98296ace7a": {
+    "text": "Ce réacteur devrait faire grandir et renforcer mon Mech."
+  },
+  "c9960acbb79b4fe938dd734caf326b66": {
+    "text": "Plus de puissance !"
+  },
+  "7bfa95fce9d095a893444bf25778c133": {
+    "text": "Cool ! Et merci !"
+  },
+  "d248d7296f0e4ca1c06c179646d67106": {
+    "text": "Ooh, cela est exactement ce dont avait besoin mon bébé, n'est-ce pas ? Que tu en avais besoin ?",
+    "review": true
+  },
+  "493584a3891d0b48129baa7378bd0eab": {
+    "text": "Ooh, cela est exactement ce dont mon petit #self_mech avait besoin, n'est-ce pas ? Que tu en avais besoin ?",
+    "review": true
+  },
+  "5ed32198ec4d21a1049edba60221dd61": {
+    "text": "Cœur de réacteur installé - tous les systèmes sont au vert."
+  },
+  "afacdb8c255af7efc2a41f91b35c751c": {
+    "text": "Ce Mech est paré au combat."
+  },
+  "7ee8cf31aa87d2035487e9b28f1f1064": {
+    "text": "Vous avez fait le bon choix."
+  },
+  "46330ebd8f18db05505c4de98617b335": {
+    "text": "Ooh, ouais... Écoutez comment ce Mech ronronne."
+  },
+  "5c10cb036a45921e843c596ea2ac6112": {
+    "text": "Écoutez ce réacteur ! On entend qu'il est plus puissant qu'avant !"
+  },
+  "f843e16e2512066453283f2784ee87a9": {
+    "text": "Hé, est-ce que ces choses sont radioactives ? Allo ?"
+  },
+  "a3ac8f9491ca234a0e6f3f691d0350cd": {
+    "text": "Compris."
+  },
+  "9297aebf86db39761d6048dbc00bb839": {
+    "text": "Puissance Réacteur améliorée."
+  },
+  "e10fc1cbd0a0c47eb0160247ac9e4b52": {
+    "text": "Cœur installé."
+  },
+  "af3736a3dac9ed1f5073f2d92e4e914b": {
+    "text": "Installation du réacteur acceptée."
+  },
+  "c446ce318b0a73438b22e2e89277bea5": {
+    "text": "Sortie du réacteur optimisée.",
+    "review": true
+  },
+  "dabd4197520a017951b9637843efb51b": {
+    "text": "La puissance de sortie a augmentée. Bien joué, réacteur, tu as le droit à ta promotion."
+  },
+  "81808be1c73bf55cb9310563b08f2371": {
+    "text": "Je me-me de-demande si cela est important."
+  },
+  "59b03b0b11f598c625b2877093d2e50e": {
+    "text": "Est-ce-ce que plus de puissance va vraiment aider ?"
+  },
+  "4443805e1cafd9d195f54aeb5f021008": {
+    "text": "Systèmes Mech améliorés."
+  },
+  "0febb4e36226b91662b5472340f45a36": {
+    "text": "C'est tellement inspirant de voir ce Mech à la hauteur de son potentiel."
+  },
+  "f8edd00a615177e22444bcfac9b326b2": {
+    "text": "A la pointe des avancées scientifiques, un noyau à la fois.",
+    "review": true
+  },
+  "ff0b9597bafdcab98773c2f8ccc55ac5": {
+    "text": "C'est une avancée lente dans l'évolution des Mechs mais il y arrivera !"
+  },
+  "5b6a88201b794e5bc570a234e2f0f981": {
+    "text": "Commencement d'une mission générique"
+  },
+  "818cd6bda7f08b5ea459c7b2baaaa65e": {
+    "text": "Allons transformer les Veks en reliques !",
+    "review": true
+  },
+  "3c0c029c38fbf3325cf6e40f4d07b708": {
+    "text": "Ce Mech rend les anciennes reliques d'Archive presque préhistoriques."
+  },
+  "60a5a824df6b6dd4e1ae167af0125f9f": {
+    "text": "Veks en vue, Commandant."
+  },
+  "fd8e52cd75921e647a1b5ddfca427612": {
+    "text": "Largage accompli."
+  },
+  "187f2ba28eb70c8b6034f5cad67fd72a": {
+    "text": "#self_second, au rapport."
+  },
+  "ed303a7f15c40242f6ce808da1463a10": {
+    "text": "Sécurisons la région, et nettoyons en bonne et due forme."
+  },
+  "a1da44f6d8302c4b8926226091f66460": {
+    "text": "Montrons à ces Veks comment Detritus s'occupe de ses poubelles."
+  },
+  "22c0ce425feb5b120e00ad6fb45cca11": {
+    "text": "C'est le jour des poubelles... And voici les Veks, pile poil à l'heure."
+  },
+  "45ee7cfd10c770be39ddc53bb582f941": {
+    "text": "Protégez en priorité la ville. Les Mechs peuvent être réparés... mais pas les bâtiments."
+  },
+  "423732dbb2cb612521cb2be583a86cdb": {
+    "text": "Frappez les vite et fort."
+  },
+  "0f5909bef614136c0117793234db1460": {
+    "text": "Il est temps de faire quelques victimes Veks."
+  },
+  "08c04c407816856e59831723bdb666cc": {
+    "text": "Nettoyons la zone."
+  },
+  "4d40c10759eaa25c78df7ca382b86125": {
+    "text": "Nous devons aider ces gens !"
+  },
+  "b44d9493c118779017239f976c1bcd01": {
+    "text": "Vous savez quoi faire."
+  },
+  "b3f646d8e301eefe3d12afac9b0bbc20": {
+    "text": "Empêchez les Veks de se retirer et tuez les un par un."
+  },
+  "4cd84f2721fbc2ed916f0a5e4018f1be": {
+    "text": "Le reste d'entre vous, restez en dehors de mon chemin."
+  },
+  "1c946eac7fd2acfbc8bbf54ddf40f374": {
+    "text": "Encore une chance de tester les capacités de cette machine !"
+  },
+  "f3fb109be7f7a46cfc00cbc54984fd94": {
+    "text": "Voyons comment se comportent nos Mechs sur le terrain de test !"
+  },
+  "408248a50fd343a51322cec9c86065ce": {
+    "text": "Les parasites Veks ont infesté la région. Protocoles Vekticides activés."
+  },
+  "d01cef2fb9c1b55de3cfcf2179f3a47f": {
+    "text": "Protocoles Vekticides activés."
+  },
+  "fbff54cab35bc06756e5b46ca9441c91": {
+    "text": "Préparation des recycleurs pour la conversion des Veks en nutriment."
+  },
+  "1a2d95fb84ead2987372fb5a757460de": {
+    "text": "Infestation Vek détectée dans la région. Le jardin doit être stérilisé."
+  },
+  "2afe596473c537a867ab734afa00b0fe": {
+    "text": "C'est parti !"
+  },
+  "c5b0beab15bd4324fee686f24730640c": {
+    "text": "Suis impatient d'y aller !"
+  },
+  "5891629eab0ef3c51e42e78fde895adf": {
+    "text": "A tous, couvrez vous les uns les autres et protéger le réseau.",
+    "review": true
+  },
+  "b57b0f6cef6c12f65eacd635704e5edb": {
+    "text": "Souvenez-vous - si le réseau venait à tomber, la batailler sera terminée."
+  },
+  "57415decd69794806496079f19123c9e": {
+    "text": "Vous connaissez la chanson, #squad - nettoyez moi ça, en bonne et due forme."
+  },
+  "03cc32109a71de2f02f8695a0e93c6f4": {
+    "text": " A tous, vous pouvez vous détendre, je viens vous sauver !",
+    "review": true
+  },
+  "099b99bf0adcc6a5d0b83e03c3a950bf": {
+    "text": "Repeignons le paysage avec du sang Vek."
+  },
+  "9db1038e92369e12b2d7718949344000": {
+    "text": "Citoyens de #corp, le botteur de cul que vous avez demandé est arrivé."
+  },
+  "cde16093299bed96df8c8148eb76f374": {
+    "text": "Il est temps de lutter contre les ravageurs.",
+    "review": true
+  },
+  "9661c4c0a168a7be32b4a71204a4551d": {
+    "text": "Quelqu'un a appelé l'exterminateur ?",
+    "review": true
+  },
+  "7a70dcd2ee2ae8f5e5891e37a8065e9b": {
+    "text": "Ennemis en vue. En attente de vos ordres, Commandant.",
+    "review": true
+  },
+  "35e45007dbdbc5ec062facf8f20fb227": {
+    "text": "Évaluation des menaces à proximité des infrastructures. Contre-mesures de déconstruction initiées."
+  },
+  "e47b0db3d6d0e5808fc974e18cec9299": {
+    "text": "Reconstruction temporelle initiée. Retrait du matériau Vek commencé."
+  },
+  "9fa5f4807cf347314fd416d16210ce0c": {
+    "text": "Mes armes sont opérationnelles. Tous les composants ont hâte d'accomplir leur mission."
+  },
+  "41dc790ad8f0707cd8901e90cc43dc3a": {
+    "text": "C'est parti... Ce-ce-cette fois je peux le faire."
+  },
+  "8de1fe9e655f3d00ce26a56e3b247c02": {
+    "text": "Je ne-ne m'y habituerai jamais."
+  },
+  "a89a6806a4d51d31454f40b990e8849d": {
+    "text": "Déployé... Euh, évaluation des m-menaces... acquisition des c-c-cibles."
+  },
+  "613bb16a425608a2df0305b64003eb1e": {
+    "text": "Euh, Pilote #self_full... au r-r-rapport."
+  },
+  "1d41972cc0b2d3169e89f8331a33c517": {
+    "text": "M-m-maintenant ou jamais."
+  },
+  "e1b778faf8856c1b9ee1940c3fd67ee9": {
+    "text": "Région scannée. Déploiement initié."
+  },
+  "a524fa9e45a9dc7de1187ef33c695226": {
+    "text": "Scan de la région pour découvrir des sources utiles."
+  },
+  "329b6a49826ab268293f9f925fe289fb": {
+    "text": "Attention, citoyens de #corp. S'il vous plaît, restez dans vos abris de sécurité jusqu'à ce que le calme soit revenu.",
+    "review": true
+  },
+  "055ddfe22bb0efe427bdcce7a730d233": {
+    "text": "Attention, citoyens de #corp. Je suis le leader des #squad. Nous sommes là pour vous protéger."
+  },
+  "236f9fc58056bd87a3352a821c76fa9b": {
+    "text": "Citoyens, restez dans vos abris de sécurité jusqu'à ce que le calme soit revenu."
+  },
+  "bfc811180b4ef93f85290533bf0f96a9": {
+    "text": "Des centaines de personnes habitent ces bâtiments, faites en sorte à ce qu'ils restent debout !"
+  },
+  "d29c4ff7ef2689dc87aac7b63dc748ec": {
+    "text": "Maintenant montrez moi ce que ces Mechs peuvent faire."
+  },
+  "766e6e52e5dfa62eaae017abf089567c": {
+    "text": "Beaucoup de vies comptent sur vous. Protégez vous et aidez tous ceux que vous pouvez.",
+    "review": true
+  },
+  "e27d7118f79c454ac797de018d35ae14": {
+    "text": "Des centaines de vies sont entre vos mains. Faites attention."
+  },
+  "30529976320b320d15900772f8229a67": {
+    "text": "Nous vous surveillons d'ici. Bonne chance #squad."
+  },
+  "8df7ac0fc048f968cfc49ef6f80eece5": {
+    "text": "Detritus vous suivra du mieux possible, Commandant - #squad, Bonne chance."
+  },
+  "a20274517e662b5ffa0788a25e03ae3b": {
+    "text": "Se déclenche après un nouveau tour",
+    "review": true
+  },
+  "2f20fbbda89864e1fc88c8b75b978b6d": {
+    "text": "Mise à jour : Localisation de la faille terminée"
+  },
+  "681ae5409ac2f713a3850156b0741487": {
+    "text": "Nnnnh... Les failles localisées me font tourner la tête.",
+    "review": true
+  },
+  "b3300147f5877d5728264ec4a1f78b5e": {
+    "text": "On est de retour ? Où devrions-nous être?"
+  },
+  "1bbdea409791d47e7e88299f0b3c5611": {
+    "text": "Sommes-nous arrivés où et quand nous devrions être ?"
+  },
+  "9bd3f328beb34d11104c479627656cfb": {
+    "text": "Localisation de la faille avec succès... Tous les systèmes sont fonctionnels."
+  },
+  "df7ac4aa304d8aa5d9120c30932e057f": {
+    "text": "Donc, voici à quoi ressemble l'époque de la terraformation..."
+  },
+  "47788b29ddd590fb4f770b6e72f5926f": {
+    "text": "Était-ce vraiment prudent ?",
+    "review": true
+  },
+  "85d82df199f845239b5e9497e6d21803": {
+    "text": "Nnnh... Les failles localisées me donnent l'impression d'être à deux endroits à la fois."
+  },
+  "5d4e22ddd496767ef442b58130e44dbf": {
+    "text": "Prêt à refaire cela ?"
+  },
+  "dcbb12954f5db79bb4fac1f6701c28dd": {
+    "text": "Sommes-nous prêt à nouveau ?"
+  },
+  "47d614de48a1a4759ff6536e5ebabf54": {
+    "text": "Faisons mieux cette fois-ci."
+  },
+  "5106aa143c8651d9c4ca5aa9c37ad2d8": {
+    "text": "Localisation de la faille complète. Utilisons cela à notre avantage.",
+    "review": true
+  },
+  "37348a42d04498f9252b3e78c144775e": {
+    "text": "Nous avons gagné un peu de temps, profitons en !",
+    "review": true
+  },
+  "44c96ecfe50774f634dbfdac6948da4d": {
+    "text": "Les couleurs ne vous semblent-elles pas plus... colorées ?"
+  },
+  "b70fbaddec09f4dc88ebf6e4dd41907d": {
+    "text": "Est-ce que nous avons créé une nouvelle ligne temporelle ou bien..."
   }
 }
