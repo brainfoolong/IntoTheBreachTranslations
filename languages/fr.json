@@ -6404,7 +6404,7 @@
     "text": "Vous devez être félicité - les capteurs confirment que les Veks ont été repoussés. Le secteur est à nouveau le nôtre."
   },
   "b9f0c53fbb8536119a213bb96e5795c4": {
-    "text": "#squad ... Nous avons détecté plusieurs points d'émergence potentiels de Vek . Soyez prêt."
+    "text": "#squad ... Nous avons détecté plusieurs points d'émergence potentiels de Veks . Soyez prêt."
   },
   "8fb0637832b612213ab8a33a00e06a37": {
     "text": "... E-E-Est-ce que cette p-p-promotion signifie p-p-plus de missions de combat ?"
@@ -6734,11 +6734,11 @@
     "review": true
   },
   "431a22975cb4ccb83c7876a8f424b067": {
-    "text": "[ Les lectures sismiques indique une activité ennemi sous la surface, ainsi que leur soulèvement ]",
+    "text": "[ Les lectures sismiques indiquent une activité ennemie sous la surface, et sont en augmentation constante ]",
     "review": true
   },
   "b55b417b5afe406cd32831c674565b02": {
-    "text": "[ Les capteurs sont verrouillés sur l'émergence Vek ]",
+    "text": "[ Les capteurs sont verrouillés sur les Veks faisant surface ]",
     "review": true
   },
   "3734e912e4ebec15bfb7e5f5ab2c43f2": {
@@ -11523,12 +11523,182 @@
     "text": "Nos capteurs ont détecté un objet qui descend dans l'atmosphère... Si c'est un vaisseau, je n'ai jamais vu de tel de toute ma vie."
   },
   "fa63d0def33508827bbeac671ee3a945": {
-    "text": ""
+    "text": "Les apparitions sont mise en attente.",
+    "review": true
   },
   "0fecf24a3d58803d6eb6d061af611e4d": {
     "text": "Alerte : Veks approchant de la surface"
   },
   "ed62c30b5a7ad36a92c11de426784d6f": {
     "text": "Nous détectons des tremblements de terre - Les Veks sont en train de creuse leur chemin vers la surface !"
+  },
+  "084d0925abfbcf9b44058d48d43bee18": {
+    "text": "Nous avons encore d'autres Veks creusant vers la surface, préparez vous !"
+  },
+  "df2f78f7596e5afba2259eb0eb29f246": {
+    "text": "Nous avons des Veks qui émergent à la surface, surveillez le terrain !"
+  },
+  "37a5fde80aee9d0e3e55fab62c609a16": {
+    "text": "Les lectures sismiques indiquent que les Veks creusent leur chemin vers la surface."
+  },
+  "ed5abca8a208163fd4d39373d69b0ee9": {
+    "text": "Encore plus d'ennemis sont en chemin !"
+  },
+  "a92d4764aa7a83383c89bf310568f7d1": {
+    "text": "Peu importe nos chances, nous gagnerons si nous travaillons tous ensemble."
+  },
+  "ecda0a723c19c571392a2af424c9c0b6": {
+    "text": "Ils appellent des renforts d'en dessous !"
+  },
+  "a80672df08f49d362e028f5a266dc974": {
+    "text": "Encore plus de Veks émergent pour nous tuer."
+  },
+  "88c4d646adfe9853121379b332c218b4": {
+    "text": "Des Veks supplémentaires arrivent pour mourir"
+  },
+  "d5e368dcdb0268f44dc73eac9d3ade6c": {
+    "text": "Les Veks font surface pour nous combattre à l'air libre. Bien. "
+  },
+  "b201d337650de29003133762f4daf243": {
+    "text": "Si seulement nous pouvons trouver le nid de ces Veks. Nous pourrions en apprendre tellement sur eux !"
+  },
+  "30ec63f27bb02677ff68b5ed7e448faf": {
+    "text": "Fouissements Veks détectés. Perturbations du sol cataloguées."
+  },
+  "193626eb02f82ed4fa9692f517da70b8": {
+    "text": "Les perturbations souterraines Veks augmentent en amplitude. Préparation des outils de récolte."
+  },
+  "eb4f03b6d42c6e75489ef2dddeb9f781": {
+    "text": "Plus de Veks à écraser ? Pas de problème !"
+  },
+  "804ebaf2df296f4bc15d3f0d68b67118": {
+    "text": "On dirait que d'autres Veks veulent se joindre à la fête ! "
+  },
+  "96d66a8a6a770f69efbb9dcabfa1d5fa": {
+    "text": "Je lis les activités sismiques - et je perçois des Veks creusant leur chemin vers la surface."
+  },
+  "bc6bb7880be52ab95a68b7aa8906ee54": {
+    "text": "Les Veks créent des tunnels vers la surface et montent rapidement."
+  },
+  "bea37ef8be71bc34e634ebd513d37501": {
+    "text": "Je suppose que les Veks vont amener leurs potes pour équilibrer les forces."
+  },
+  "14e9092e67807d9366ed8905502ac286": {
+    "text": "Le sol tremble - des Veks supplémentaires sont en chemin. Bien."
+  },
+  "b9d27584146e9155b93a5f874085a232": {
+    "text": "Renforts ennemi en approche !"
+  },
+  "8d8297e91ea18ddab78792499f616eaa": {
+    "text": "J'ai encore plus de Veks qui viennent du dessous !"
+  },
+  "54768da5484f127ffea964d41d9adbbc": {
+    "text": "Les Veks creusent leur chemin vers la surface !"
+  },
+  "9ce3e51c45da1f52158188056c284885": {
+    "text": "Des Veks non autorisés ont été détectés."
+  },
+  "6f6aa834ffc2f6f43ce5a2917e3c4ed9": {
+    "text": "Les Veks se préparent à émerger à la surface sans permis."
+  },
+  "7ea5a2432e7d9db4864cd1f4c06cbd44": {
+    "text": "Ils continuent à-à venir... A quelle vitesse se reproduisent-ils ?",
+    "review": true
+  },
+  "fedd2329fd238a810bd0d097b5946142": {
+    "text": "En-encore plus de Veks sont en train de creuse vers la surface !"
+  },
+  "8737e9f1463cfebc498b5792456d786e": {
+    "text": "Les activités sismiques indiquent que les Veks approchent de notre position."
+  },
+  "552a51212b9b1019cbe251d03608fae3": {
+    "text": "Les Veks sont en train de faire leur chemin vers la surface."
+  },
+  "616bf7b3ea2fa8c15f09e4ae423027a9": {
+    "text": "Les Veks sont en train d'émerger. Ils sont vraisemblablement hostile et essaieront de nous tuer."
+  },
+  "68933c08d84e9c211c63710b19351acc": {
+    "text": "Les relevés sismiques indiquent que d'autres Veks se dirigent vers vous !"
+  },
+  "077e99dafb62b6c14be6a197344eee6c": {
+    "text": "Les activités sismiques sont de plus en plus importantes. D'autres Veks seront sur vous très bientôt."
+  },
+  "0b11d3ad3c2d0c87e5f795e351e27b4f": {
+    "text": "Les Veks creusement leur chemin vers vous. Ils arriveront très bientôt."
+  },
+  "ddf83e04365f95de00811676d9587a30": {
+    "text": "Veks en approche"
+  },
+  "eec1102c76ffc7e1b290b34ec373e686": {
+    "text": "Alerte : Veks à la surface"
+  },
+  "de749fe7c3deb117e6b4bd6c9be7b57c": {
+    "text": "J'ai un visuel sur les Veks qui émergent."
+  },
+  "730d7b9a4662d5c164edc301caab370f": {
+    "text": "Écrasons ces Veks et renvoyons les d'où ils viennent."
+  },
+  "4a9f764355826309c9b519df3a912b9f": {
+    "text": "Les Veks ont surgit juste à temps pour être écrasés."
+  },
+  "211d6c464aa7913e0f551f2477ab894a": {
+    "text": "Les Veks ont fait surface. Mise application des protocoles de combat."
+  },
+  "2059e501def084243a12244805e0b3ef": {
+    "text": "Confirmation des Veks. Recalibration des capteurs de visées."
+  },
+  "cc4826952c67dbf385922a465102670e": {
+    "text": "Les Veks font surface !"
+  },
+  "e2bd0a47296a38bbaaa1360661117ba0": {
+    "text": "Nous avons des Veks sur le terrain !"
+  },
+  "7bcb42f368d3551cc2acf4845410b2e9": {
+    "text": "Encore un autre ?"
+  },
+  "f05e14cf08c888378e4c3b0720be1112": {
+    "text": "J'ai encore un autre Vek sur mes capteurs."
+  },
+  "feab976f102844af1ff29747e8c03eb0": {
+    "text": "Réduisons leur nombre."
+  },
+  "36439e51f42311527e76f35b32e77b98": {
+    "text": "Les Veks sont venus mourir à la lumière du soleil."
+  },
+  "fe52af6da884b83361691ea4b040cb78": {
+    "text": "Les Veks ne vont certainement pas perdre de temps pour envahir notre position..."
+  },
+  "0c9031578215a14f933ef915aad5d167": {
+    "text": "Les Veks répondent rapidement à notre présence..."
+  },
+  "13af940546e511dcab1be81f4b1522a9": {
+    "text": "Je devrais utiliser toutes les parties des corps Veks pour refertiliser la région."
+  },
+  "96480970a18025a8ed89465eec9dc849": {
+    "text": "Ces Veks sont mûrs pour la récolte."
+  },
+  "7b35353a23df1cac741c3a939c4aeab2": {
+    "text": "Ces Veks sont prêts pour le recyclage."
+  },
+  "87075338ca6e3f7edc5eb19c944b56dc": {
+    "text": "Les Veks ont atteint la surface !"
+  },
+  "703b799f35f72670fc1ff98de7b44b89": {
+    "text": "Nous avons des Veks à la surface !"
+  },
+  "3d20b442fb01e190377064835b119c80": {
+    "text": "D'autres Veks ont fait surface - Accueillons les proprement."
+  },
+  "f38e028edc7be81d373258e77910751d": {
+    "text": "J'ai d'autres Veks à la surface."
+  },
+  "9c01f1b99dcf2f0a572255dd19c369d0": {
+    "text": "J'ai d'autres Veks menaçant le Réseau !"
+  },
+  "779ed841d3e989549660f2b3f3b6c663": {
+    "text": "D'autres Veks veulent se joindre à la fête."
+  },
+  "34faf43169621399807b874bdfce357f": {
+    "text": "Super. Encore d'autres Veks."
   }
 }
