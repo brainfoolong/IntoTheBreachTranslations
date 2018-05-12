@@ -6462,10 +6462,10 @@
     "text": "... Est-ce un test ?"
   },
   "9d01b612d76f8e84fa1af4ed7662e774": {
-    "text": "... Collectez les signaux étranges provenant de cette montagne, Commandant."
+    "text": "... Des signaux étranges proviennent de cette montagne, Commandant."
   },
   "168518bf679828407cd413d2386393e6": {
-    "text": "... Collectez les signaux étranges sous la glace, Commandant."
+    "text": "...Je détecte des signaux étranges sous la glace, Commandant."
   },
   "19c4431128b450b07251aee0b89010d9": {
     "text": "... Le réacteur me fait dresser mes cheveux."
@@ -6492,7 +6492,7 @@
     "text": "... Que faites-vous à mon Mech ?"
   },
   "6747b1af2c56cfd733c97883a8479a49": {
-    "text": "...Quel est cet enfer ?"
+    "text": "...Qu'est ce que c'est que ça ?"
   },
   "b03f496b10802b76dc4d9ce6870d6099": {
     "text": "1 pour l'#squad ! Vek : 0 !"
@@ -6823,7 +6823,7 @@
     "text": "[ L'appareil est entré en mode veille ]"
   },
   "4b918a0133a3b06aa8521a3655748c07": {
-    "text": "[ Périphérique inconnu détecté dans l'espace autrefois occupé par la montagne ]",
+    "text": "[ Appareil inconnu détecté dans l'espace autrefois occupé par la montagne ]",
     "review": true
   },
   "065475fbaac94b0e990cdc57c74daced": {
@@ -6922,11 +6922,11 @@
     "text": "Une nouvelle fosse de drainage a été créée."
   },
   "fa3c6242ba118a330009ddb7b9aa8694": {
-    "text": "Un dispositif non-#corp a été détecté sous la glace. Entravez-le si possible.",
+    "text": "Un dispositif n'appartenant pas à #corp a été détecté sous la glace. Récupérez-le si possible.",
     "review": true
   },
   "7379ffb483d56ac41e51a12b1ddc8a0a": {
-    "text": "Un périphérique non-#corp a été détecté dans la montagne. Entravez-le si possible.",
+    "text": "Un appareil n'appartenant pas à #corp a été détecté dans la montagne. Détenez-le si possible.",
     "review": true
   },
   "4ff032c1afd15091f54524bd4100d627": {
@@ -10177,7 +10177,7 @@
     "text": "Fin de mission générique lorsque tous les ennemis sont tués."
   },
   "224a14e63d19b821dc8e57ce4026ef95": {
-    "text": "Mise à jour : Mission accomplie\\nObjectifs : Accomplis",
+    "text": "Mise à jour : Mission accomplie\nObjectifs : Accomplis",
     "review": true
   },
   "da43800f72bd1d887d844477a54e2b37": {
@@ -10690,7 +10690,7 @@
     "text": "Envoi de pylônes énergétiques. Gardez les opérationnels, nous n'en avons plus après ceux là."
   },
   "2c0b7dd529494969b46e6e93e6f7d00a": {
-    "text": "Mise à jour : Cible acquise\\nMission: Détruire la ruche Vek"
+    "text": "Mise à jour : Cible acquise\nMission: Détruire la ruche Vek"
   },
   "89cf3142957af925facac3b1c5839dca": {
     "text": "Nous allons avoir besoin de quelque chose d'assez massif pour exploser entièrement la cave et pour stopper les Veks."
@@ -11185,5 +11185,350 @@
   },
   "52e8c2f212630a2042aaabeb679719d6": {
     "text": "J'espère que personne n'était dans ce Pod..."
+  },
+  "419a363ebada2eb688ccf91f6e0b5e9f": {
+    "text": "Le Pod n'était qu'une distraction de toute façon."
+  },
+  "e032c1a8a1cd5102b0559afbc1db4cf2": {
+    "text": "Le Pod n'était pas notre objectif principal, mettez le de côté."
+  },
+  "323c7ee394726f44a66452e0634b7b7a": {
+    "text": "Nous avons fait de notre mieux pour le récupérer."
+  },
+  "b4aa928049002f9dca5d2b66bdfa746a": {
+    "text": "Ne vous blâmez pas. Sa récupération n'avait pas été dans nos prévisions de tout façon",
+    "review": true
+  },
+  "a76d13e2a78e3dbfd2426103a48f774c": {
+    "text": "Celui qui a conçu ses Pods aurait du renforcer les coques..."
+  },
+  "a218f6f2f1f8bfb42e8c9ee92e543e6c": {
+    "text": "Nous avons perdu le Pod !"
+  },
+  "d98de45e84a40bf3a3b6f873eada8a24": {
+    "text": "Si seulement nous avions pu le récupérer..."
+  },
+  "c3463e8844cbe0c024568b46d6f8c76d": {
+    "text": "Le Pod n'a plus besoin de notre protection maintenant."
+  },
+  "49750bafc4bddc2712a86fb93ae18e17": {
+    "text": "Le Pod a été détruit. Concentrez vous sur les Veks."
+  },
+  "f93984e9778bffe36925d20163f147e8": {
+    "text": "Le Pod... Il a été détruit."
+  },
+  "1c20893b9508bcf193c13a321ad66a9f": {
+    "text": "Les débris du Pod temporel fuient dans le sol maintenant."
+  },
+  "443758831389870c4463b4e70334c0fa": {
+    "text": "Le Pod temporel... Et son éventuel occupant... enrichissent le sol maintenant."
+  },
+  "5efa14e6c0ea6dad02519186bfa73e00": {
+    "text": "Le Pod... oh non."
+  },
+  "8b08e0de9bcd80501c622c4fa48d4df3": {
+    "text": "Quoi... Et s'il y avait eu une personne dedans ?"
+  },
+  "5ad48f8d5ce9fdfd7501849663f707c4": {
+    "text": "Le Pod est détruit. Concentrez vous sur l'objectif principal."
+  },
+  "ebe1f11dea1b6626beb4cb0c6f31b1e8": {
+    "text": "C'est insensé de pleurer sur un Pod complètement détruit."
+  },
+  "727448f6adbf331dbf412b6d51d8ae8c": {
+    "text": "Le Pod n'aurait jamais du atterrir dans une zone de combat."
+  },
+  "57271997f1d8070815e18e37f2d48471": {
+    "text": "Le Pod temporel a été détruit, Commandant."
+  },
+  "f8484a59b8d8ed1de28e6e290909624d": {
+    "text": "Le Pod a été perdu."
+  },
+  "2f9f76bdd6c3c51dea59fcc3a4ec4020": {
+    "text": "Récupération du Pod échouée, Commandant."
+  },
+  "e712cbe6c630b53d774926dbdc0f5b2d": {
+    "text": "Le Pod temporel n'entrave plus la zone de chantier."
+  },
+  "b1926980adb060de5c32947c707b9f6d": {
+    "text": "Le Pod temporel a prouvé qu'il est insensé d'entrer dans une zone de chantier sans une autorisation appropriée."
+  },
+  "14a3751ae61ffe733cf3db2f7a610254": {
+    "text": "L'intégrité structurelle du Pod temporel a été compromise."
+  },
+  "a4fe139a54ffd0feace222ae027b75d4": {
+    "text": "Le Pod... Il a été d-d-détruit."
+  },
+  "6c982020cc699b79240d06a90a68f799": {
+    "text": "Si seulement ce P-Pod avait atterri ai-ailleurs."
+  },
+  "64c8d9b165195fdf66fd005a8a5edad0": {
+    "text": "Pe-pensez-vous qu'il y avait qu-quelqu'un dedans ?"
+  },
+  "2fcf83eca0d26a797114f4dc314d8684": {
+    "text": "Le Pod a été dispersé sur une surface plus grande."
+  },
+  "e299d783a6230f352c17a556842d3fe1": {
+    "text": "J'ai le regret de vous informer que le Pod temporel souffre de dommages irréparables."
+  },
+  "2af95ad40363b92431b6bf09fa6ae840": {
+    "text": "Peut-être que quelque chose peut être récupéré de l'épave du Pod. Bien que vu d'ici, j'en doute vraiment."
+  },
+  "11159add2873ff175413506277cfdff1": {
+    "text": "Négligent."
+  },
+  "361125acdede7f5b77f36f4737a73473": {
+    "text": "J'espère qu'il n'y avait pas de pilot dans ce Pod."
+  },
+  "52fb76b79825ce6c211a8b9142c78fec": {
+    "text": "La technologie contenue dans ce Pod aurait pu sauver de nombreuses vies."
+  },
+  "c6a0c2926a6c3d5c3be8b5027416b295": {
+    "text": "C'est dommage. J'espère qu'il n'y avait pas un de vos pilotes à l'intérieur, Commandant. "
+  },
+  "c2a4214b89974110c1f2a1602ec6c568": {
+    "text": "Un objet secret était à l'intérieur de la montagne\n\nN'a besoin que d'une ligne par pilote"
+  },
+  "083958bb525cc8ed189ec22e398d9c4f": {
+    "text": "Mise à jour : Anomalie détectée dans la montagne"
+  },
+  "dcbe65a7b0d6a16144abbcd4a1e9f7e3": {
+    "text": "Regardez dans les décombres - qu'est ce que c'est ? Une relique ?"
+  },
+  "a1e77fac7845d11a3360dacf7535a139": {
+    "text": "Je détecte quelque chose d'étrange dans les décombres..."
+  },
+  "05a4db40a20e3338ae1f22696025b5c7": {
+    "text": "Je détecte d'étranges signaux provenant des décombres... ces signaux ne sont pas reconnus par mes systèmes."
+  },
+  "22196b85e7b7b2572b75cadf692124a1": {
+    "text": "Mais qu'est ce que c'est que ça ? Là, dans les décombres."
+  },
+  "22441b77606f9147118e4da3b890d63f": {
+    "text": "Je détecte des signaux anormaux... On dirait qu'il y a quelque chose d'enterré dans la montagne."
+  },
+  "706ace4a20eda96ece6c49331d781f5c": {
+    "text": "Quelque chose a été enterré dans la montagne."
+  },
+  "5199517ce602bc6199443887431a40f7": {
+    "text": "Bien, qu'est ce que nous avons là ? La montagne nous cachait quelque chose."
+  },
+  "df9a3cbdb17e67d9f9abb289932c1574": {
+    "text": "Le recyclage de la montagne nous a fait découvrir un objet inconnu."
+  },
+  "063ee01d5df10a9c47a2ef9054ae05af": {
+    "text": "Je détecte... quelque chose... provenant des décombres."
+  },
+  "5d0b87d49d1c22d96517c13a960376a2": {
+    "text": "J'ai un signal provenant des restes de cette montagne."
+  },
+  "8ea30b8fda29c2f2d15aacbe032268ba": {
+    "text": "Je pense que quelque chose était caché dans cette montagne."
+  },
+  "c92220b99261eb93cb35a14a7637b7f1": {
+    "text": "Je dé-détecte un signal provenant des restes de cette montagne."
+  },
+  "32dfad45148bcdc35c607dcf58b237f8": {
+    "text": "Objet inconnu détecté sur le site d'excavation de cette montagne."
+  },
+  "d5f635bf91721daa25dddf424a836d2a": {
+    "text": "Qu'est ce qu'il y a dans la montagne ? Pourquoi... sa construction est plus avancée que je ne le suis.",
+    "review": true
+  },
+  "ad2e9c13f961323f08c605d9331fa380": {
+    "text": "Bizarre... Nous détectons des sortes de signaux émanant de cette montagne."
+  },
+  "d4f41c676b359e57cb57bbb583b71937": {
+    "text": "Nos capteurs relèvent des signaux étranges émanant de cette montagne. Enquêtez sur ceux-ci si vous le pouvez."
+  },
+  "255cf4850905ea3f9e9fd888f20af828": {
+    "text": "Je détecte des signaux étranges qui proviennent des restes de cette montagne."
+  },
+  "29e9143cb884bb53f686eb741b576a2d": {
+    "text": "L'analyse des restes de cette montagne montre qu'il y a quelque chose d'étrange dans les décombres.",
+    "review": true
+  },
+  "43e68e113befc2948c245ce28f398db6": {
+    "text": "Un objet secret était coincé sous l'eau après avoir détruit la glace\n\nN'a besoin que d'une ligne par pilote"
+  },
+  "43fa0ce1658146ca75716bef86e87370": {
+    "text": "Mise à jour : Anomalie détectée sous la glace"
+  },
+  "6c1bb981073f1d340df28c2c50040837": {
+    "text": "Je détecte quelque chose d'étrange sous la glace..."
+  },
+  "23463b676c9fcfa3e96fc76d36490256": {
+    "text": "Regardez sous l'eau - qu'est ce que c'est ? Une relique ?"
+  },
+  "1d8144cda347c3b5b09503376940b99a": {
+    "text": "Je détecte d'étranges signaux sous la glace... ces signaux ne sont pas reconnus par mes systèmes."
+  },
+  "22c1025b888974cf7b258c83bedda1f1": {
+    "text": "Mais qu'est ce que c'est que ça ? Là, sous la glace."
+  },
+  "d0b1e51d82b72d24ca4147dfcb5f5293": {
+    "text": "Je détecte des signaux anormaux sous la glace."
+  },
+  "bec5ed37bb1c6965adc92cdf6fe0762d": {
+    "text": "Je vois quelque chose sous la glace."
+  },
+  "026b14ce277643f26e19a1da85486c01": {
+    "text": "Bien, qu'est ce que nous avons là ? La glace nous cachait quelque chose."
+  },
+  "c8fb3a2c34433ed267c5bf157e8bddea": {
+    "text": "Fracturer la glace nous a révélé un objet inconnu sous la surface."
+  },
+  "74a4f5eca705860695926b885a2c6c04": {
+    "text": "Je détecte quelque chose... sous la surface glacée."
+  },
+  "18f3089a0f48f3adde5b05952a356bdb": {
+    "text": "J'ai un signal provenant de sous la glace."
+  },
+  "ef96390623446096e4ec355346ea3f6f": {
+    "text": "Je pense que quelque chose était caché par la glace."
+  },
+  "66e13144ab12e4d5e9c1eee42c4f5e44": {
+    "text": "Je dé-détecte un signal provenant de sous la glace."
+  },
+  "5c54cf8747d3b0c504f5b0c7183514aa": {
+    "text": "Objet inconnu détecté sur le site d'excavation de cette glace."
+  },
+  "30a0abdafee48f65010395b1eafc4169": {
+    "text": "Qu'est ce qu'il y a sous la glace ? Pourquoi... sa construction est plus avancée que je ne le suis."
+  },
+  "f9645aed6b7729b9c71e90c4a397bc98": {
+    "text": "Bizarre... Nous détectons des sortes de signaux émanant sous la glace."
+  },
+  "64fd82c41fca00b883898d957e10d5a4": {
+    "text": "Nos capteurs relèvent des signaux étranges émanant sous la glace. Enquêtez sur ceux-ci si vous le pouvez."
+  },
+  "36d88117f4160b20609a28cb7e117645": {
+    "text": "Je détecte des signaux étranges qui proviennent de sous la glace."
+  },
+  "84f75b7e4d265c457972e3e17899f3c1": {
+    "text": "Je détecte des signaux étranges qui proviennent de sous glace."
+  },
+  "11ed74e982947e41c4eac101e533a5fc": {
+    "text": "N'a besoin que d'une ligne par pilote"
+  },
+  "0771c6d8830302f2fd526ca9b49f4fce": {
+    "text": "Émetteur : Activé"
+  },
+  "0c2cce074f029c0817e3fe767e70fdb9": {
+    "text": "Ça s'est activé ! Ce n'est pas ma faute, c'est arrivé... comme ça !"
+  },
+  "957f9d28ef1c5b5a2a06451a2421abdd": {
+    "text": "Quoi que c'était, c'est vivant et ça émet une sorte de signal."
+  },
+  "9d37002a938a146b5493c6b7c2fbe351": {
+    "text": "Euh, ce truc brille quand je m'approche. On dirait qu'il transmet... quelque chose."
+  },
+  "df9ddd9aa13dd013cbebb8b052e8c1ea": {
+    "text": "Quoi que ce soit, il s'est activé."
+  },
+  "bfa9802ae6df5aa90bc80d044d020686": {
+    "text": "Je... Je pense que c'est une sorte de balise."
+  },
+  "34f8d4b49ff5118658e136613e503814": {
+    "text": "Le périphérique s'est activé."
+  },
+  "c5e91b9ba5a6bd9edca9ced1fc44ec59": {
+    "text": "Je... Je ne suis pas sûr mais je crois que c'est une sorte de... transmetteur."
+  },
+  "aa3c6c32356f6aeecc0a3ee29d208abb": {
+    "text": "L'objet inconnu est en train d'émettre un signal."
+  },
+  "77020874161ee5ad97ca141bdca0537b": {
+    "text": "Oups ! Je pense que ça s'est activé. Il fait... d'étranges bruits !"
+  },
+  "544dab326c1984130eeaec780ab17848": {
+    "text": "Quand je m'approche, il émet un signal... J'espère que c'est pacifique."
+  },
+  "4236194a425680ec9515fcc3c7c99d41": {
+    "text": "Euh, quoi que ce soit, il s'est allumé lorsque je me suis approché."
+  },
+  "aef55064eebf17821b7cdc26af692f1d": {
+    "text": "Je... Je pense que j'ai activé une sorte de balise, Commandant."
+  },
+  "a42d5276028d6bc39d2d841a25d9f69b": {
+    "text": "L'appareil inconnu par #corp est en train d'émettre ce qui pourrait être un signal de détresse. Si cela est le cas, il le fait en vain."
+  },
+  "bd24b4698589f8908a7afcb94a050e0c": {
+    "text": "Comme c'est-c'est étrange... ça s-s-semble avoir activé une s-s-sorte de balise."
+  },
+  "1a1a58e69ff58c419b7e1fed79be6849": {
+    "text": "L'objet inconnu est en train de transmettre un signal."
+  },
+  "f85be0117e6a8e6b036717ff06452a7a": {
+    "text": "L'appareil en train d'émettre une type de signal... Étrange, même si je n'arrive pas à le déchiffrer."
+  },
+  "749b83b83241e339d15b2a1fdd83780a": {
+    "text": "Mise à jour : Anomalie en approche"
+  },
+  "aef765da3eb9bfaaeaa18b3b9c869f10": {
+    "text": "Je pense que nous allons avoir des visiteurs un peu spéciaux..."
+  },
+  "f5b1412cbef3c66b986ee038658a5e46": {
+    "text": "Nous avons de la compagnie... Et ce n'est pas un Pod temporel classique."
+  },
+  "d88128294ec8457de6d7d7493f0f75bf": {
+    "text": "Nous avons de la compagnie... Et ce n'est pas d'ici."
+  },
+  "f4ac532e6d9c2f9c871046cbe72d5c71": {
+    "text": "Je n'ai jamais vu un Pod temporel comme celui-ci auparavant... Pas sûr que ça soit un Pod temporel d'ailleurs."
+  },
+  "5d20dc8a87eb877afe15112023477fa2": {
+    "text": "Je pense que je sais maintenant ce que la balise a appelé."
+  },
+  "3731597142de882089ca7cd9f41d8e98": {
+    "text": "Quelque chose approche. Mais c'est un vaisseau que je n'ai jamais vu auparavant"
+  },
+  "69ddb731856fa0df66d22b1550ecc8ec": {
+    "text": "Je... Je pense que l'émetteur l'a appelé ici."
+  },
+  "920e2b04fcc80d39d7e88ad78baeb244": {
+    "text": "Un objet inconnu descend dans l'atmosphère."
+  },
+  "b02ccb92ca4d0063935d89195976a7f3": {
+    "text": "Regardez ce Pod ! Je pense qu'il vient en réponse au signal !"
+  },
+  "42c67feff61b44b29c01eb9c040bdb04": {
+    "text": "J'ai quelque chose d'inhabituel venant des mes capteurs..."
+  },
+  "370cfd0db8af039c72ac60258146fa6e": {
+    "text": "Nous avons de la compagnie... Mais, euh, est-ce que je suis le seul à trouver ce Pod étrange ?"
+  },
+  "52ea9437c434d9d222d1af516e20a624": {
+    "text": "Capsule de type inconnu, vous avez pénétré dans une zone temporelle de reconstruction interdite."
+  },
+  "265b03083d5bde48c378c7dcffbfe239": {
+    "text": "Je-je détecte un vaisseau en approche ! Il-il émet un s-s-signal semblable à celui de la balise."
+  },
+  "7a47a6ee3359c7ef73b62be198095f2c": {
+    "text": "Perturbation atmosphérique détectée. Les alliages constituant l'objet ne sont pas connus sur Terre."
+  },
+  "18897adc03e71bbc19ceae450cb7909d": {
+    "text": "Un objet non-identifié est en approche... Il émet un signal étrange et similaire à la balise."
+  },
+  "04c61a46674f7312e833af0c5df167ae": {
+    "text": "Qu'est-ce que c'est... ? Nous détectons un étrange vaisseau sur nos capteurs."
+  },
+  "443eb3a4e7a30b7a60068059eeb8ee50": {
+    "text": "Les capteurs ont détecté un vaisseau non identifié descendant sur votre position."
+  },
+  "482c99c6a05cb9ea675fd894c15d921d": {
+    "text": "Un objet est apparu en orbite. Rien dans ma base de données n'est capable de l'identifier."
+  },
+  "a13e1bb3d3c3b2bb774030eb838c2f6e": {
+    "text": "Nos capteurs ont détecté un objet qui descend dans l'atmosphère... Si c'est un vaisseau, je n'ai jamais vu de tel de toute ma vie."
+  },
+  "fa63d0def33508827bbeac671ee3a945": {
+    "text": ""
+  },
+  "0fecf24a3d58803d6eb6d061af611e4d": {
+    "text": "Alerte : Veks approchant de la surface"
+  },
+  "ed62c30b5a7ad36a92c11de426784d6f": {
+    "text": "Nous détectons des tremblements de terre - Les Veks sont en train de creuse leur chemin vers la surface !"
   }
 }
