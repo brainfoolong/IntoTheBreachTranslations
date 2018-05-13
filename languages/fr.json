@@ -6328,7 +6328,7 @@
     "text": "#self_full mobilité compromise par des Veks."
   },
   "b4829256d2805eef023b8c4f682a333b": {
-    "text": "#self_full promotion enregistrée. Nouveaux protocoles de gestion téléchargeables dès maintenant."
+    "text": "#self_full promotion enregistrée. Nouveaux protocoles de gestion en téléchargement dès maintenant."
   },
   "6ecfec1affedecc78ae7aa4e6ea46938": {
     "text": "#self_full non-déclassé.",
@@ -6338,7 +6338,7 @@
     "text": "#self_mech n'a pas réussi à protéger l'occupant principal. Soumission d'un réprimande officielle."
   },
   "c26ff1665cadc48114d2cd5dd23374c1": {
-    "text": "Coque #self_mech a été renforcée."
+    "text": "L'armure de #self_mech a été renforcée."
   },
   "8b17747d8177807f7184919ab700199f": {
     "text": "#self_mech retenu par un Vek hostile. Mouvement impossible."
@@ -6630,8 +6630,7 @@
     "review": true
   },
   "7e3d82def36dd895e1946dfb05c897c5": {
-    "text": "[ Détourner des parties de soi sur un Mech endommagé ]",
-    "review": true
+    "text": "[ Utilisation de parties de soi sur le Mech endommagé ]"
   },
   "113230580c1686c91fa1bf46d4310c5b": {
     "text": "[ Alerte Séisme ]"
@@ -6695,10 +6694,10 @@
     "text": "[ Efficacité tactique du pilote #main_second optimisée ]"
   },
   "ab512eadc36271c41a121a6e1e15e734": {
-    "text": "[ Bouclier Pinnacle désengagé ]"
+    "text": "[ Bouclier Pinnacle HS ]"
   },
   "04ce89caa4debb673a77bb464b20bfb4": {
-    "text": "[ Bouclier Pinnacle engagé ]"
+    "text": "[ Bouclier Pinnacle en marche ]"
   },
   "ff9cc3a123fb424602b0e5fe9e04cb72": {
     "text": "[ Veuillez éviter la zone de destruction ]"
@@ -6765,7 +6764,7 @@
     "review": true
   },
   "5e03fb63127528fc5393092a6add4042": {
-    "text": "[ Algorithmes tactiques mis à jour ]"
+    "text": "[ Algorithmes tactiques améliorés ]"
   },
   "a7d4756246452edad62d18f681bb1f8c": {
     "text": "[ L'efficacité tactique du pilote #main_second a été améliorée ]"
@@ -6840,7 +6839,7 @@
     "review": true
   },
   "62313acb4f0b50a051d67583f4c38ac9": {
-    "text": "[ Vek descendant ]"
+    "text": "[ Vek en chute libre ]"
   },
   "721b3040f5312d7e38b5ab37724a6234": {
     "text": "[ Les excrétions de Vek empêchent la mobilité de l'unité ]",
@@ -6913,7 +6912,7 @@
     "text": "Un cadeau - et ce n'est même pas mon anniversaire !"
   },
   "74b56db4e57cf7a91c7a498b0be16f4b": {
-    "text": "Un peu de sécurité supplémentaire ne fait jamais de mal ..."
+    "text": "Un peu de sécurité supplémentaire ne fait jamais de mal..."
   },
   "8ff97a29c6cd23c12b8a5ea900ddfecc": {
     "text": "Une mine est l'arme d'un lâche, mais pour le Vek, c'est approprié."
@@ -6930,13 +6929,13 @@
     "review": true
   },
   "4ff032c1afd15091f54524bd4100d627": {
-    "text": "Une p-p-promotion ? Mais... Je n-n-ne veut pas être meilleurs en massacre de Vek."
+    "text": "Une p-p-promotion ? Mais... Je n-n-ne veut pas être meilleur en massacre de Veks."
   },
   "324eaba00f4768d2631d2cf89c14d9e3": {
     "text": "Une batterie primitive mais efficace."
   },
   "18a6b81d0414960f804ed70815ff1ca1": {
-    "text": "Une promotion - en souhaitant que ma mère adoptive ait survécu pour voir cela."
+    "text": "Une promotion - j'aurais souhaité que ma mère adoptive ait survécu pour voir cela."
   },
   "39e2ba31a0d1314324cf8750e9c2c785": {
     "text": "Une promotion ? Est-ce comme un doctorat ?"
@@ -6948,10 +6947,10 @@
     "text": "Une promotion ? Moi ?"
   },
   "5f19233b182b4f8ee8a2fa8510bc5ac9": {
-    "text": "Une promotion ? Moi ? Wow, cette entraînement dans le monde réel porte ses fruits!"
+    "text": "Une promotion ? Moi ? Wow, cet entraînement dans le monde en conditions réelles porte ses fruits!"
   },
   "dce2a73863737da2086d96d0a990ad39": {
-    "text": "Une promotion ? Ma mère adoptive serait fière."
+    "text": "Une promotion ? Ma mère adoptive aurait été fière."
   },
   "74db7e0ad67178da589ad5ac91cb61d6": {
     "text": "Autrefois chercheuse de minerais, cette machine relativement calme et pragmatique a du s'adapter à son nouvel objectif : le combat. Elle tend à quantifier ses solutions en fonctions des actions qui affecteront d'abord l'environnement, puis en second les individus.",
@@ -7058,7 +7057,7 @@
     "text": "À propos de ce terraformeur... faites de mon bureau le premier arrêt lorsque vous retournerez à la base."
   },
   "aa9bbdbbe509fd85929bbcce7a20ebb4": {
-    "text": "À l'époque où j'ai eu ma promotion ! J'ai du faire tout le travail !"
+    "text": "Il était temps pour cette promotion ! Je me suis tapé tout le travail !"
   },
   "25ab2f0382943b5f2101cd570763fc3f": {
     "text": "Accès en cours aux spécifications du nouveau périphérique.",
@@ -7103,7 +7102,7 @@
     "text": "Qu'est-ce que c'était ?"
   },
   "e9e21d7aeb5665927b049b66c6ed9a48": {
-    "text": "Qu'est-ce que c'est que ce goo?"
+    "text": "Qu'est-ce que c'est que ce goo ?"
   },
   "d01c946947a12f8e0e8f6936c4693a06": {
     "text": "Que viens-tu juste de faire ?!"
@@ -11997,5 +11996,1022 @@
   },
   "9d92d2e6172bb0b9579b93d45479a1dc": {
     "text": "Encore un coup et mon Mech sera détruit !"
+  },
+  "29dbba6eb8889b6d98942f658e236266": {
+    "text": "Je suis encore bon pour combattre mais à peine."
+  },
+  "040b1d924b73c3a2b38516911c051688": {
+    "text": "Mes systèmes vitaux sont en train de me lâcher !"
+  },
+  "096390eb92f602f103850f05b7c826af": {
+    "text": "Le recyclage de mon Mech est imminent."
+  },
+  "c42a8d90c6865608976740507edc74e1": {
+    "text": "Je vais bientôt entrer en hibernation forcée."
+  },
+  "ef1a53d286c3d14aa175958ef968cd41": {
+    "text": "Je vais bientôt devoir renoncer à mes responsabilités de jardinage."
+  },
+  "9996f1af814a19d920cdedcbbf4e5a1a": {
+    "text": "Allez, ALLEZ ! Ne me lâche pas maintenant !"
+  },
+  "5d007bb64ab1bc22f79684cfc75bdb7f": {
+    "text": "Accroche, mon petit #self_mech, je te réparerai quand nous rentrerons à la Carrière..."
+  },
+  "722063e2b0ccbc95b1fbfa130572e28e": {
+    "text": "J'ai besoin rapidement de réparation ou d'un bouclier."
+  },
+  "f269b593b3b04080ce39af8dfdd04354": {
+    "text": "J'ai subit de lourds dommages !"
+  },
+  "5d02adda73e299dc6d26640e5122d8e3": {
+    "text": "Je pourrais bien ne pas m'en sortir..."
+  },
+  "e047837e0aa75b32a956242bb7c7e632": {
+    "text": "Nfff ! Ne comptez sur moi après ça !"
+  },
+  "79abc30fecb7002e8b37b1094a777b93": {
+    "text": "Nnh ! Je prends des coups ici !"
+  },
+  "bff2408f00e53d12b1c923a77bfe744e": {
+    "text": "Nnh ! Suis touché... Mais pas encore mort !"
+  },
+  "deffb7ce15fe7d4fc804d0a2c1a792f4": {
+    "text": "Encore un coup et je suis hors combat !"
+  },
+  "92cabbdec8f8b6760ba97c200d68f75c": {
+    "text": "Les rapports que je vous ai envoyés concluent sur les points suivants (1) Intégrité de l'armure, (2) Systèmes réseaux et (3) Probabilité de survie"
+  },
+  "972dc974bebb82e45bbf6342cee45d90": {
+    "text": "Mes composants restants rapportent que les systèmes du Mech ont subit de lourds dégâts."
+  },
+  "b172af282e2b5bfe093d0fb03af6d6b3": {
+    "text": "Je-je-je ne peux pas enc-encaisser davantage !"
+  },
+  "f91804fb4807a3ad71b8128e6beb37c6": {
+    "text": "Mon Mech n'a pas-pas été con-conçu pour prendre autant de dommages !"
+  },
+  "16f114c7ea520ba69393ae9064cdf04a": {
+    "text": "Intégrité de l'armure compromise."
+  },
+  "21637d49ddf8a6a00f4348c49d37e2f5": {
+    "text": "Mon Mech va échouer dans sa mission principale c'est-à-dire la protection de ma personne."
+  },
+  "b3d92c2cafdf781d69e27355fdf1bfa9": {
+    "text": "Mon Mech a besoin drastiquement de réparations.",
+    "review": true
+  },
+  "d1f7d17d5d3bc7c35a78fc4567e1c9e2": {
+    "text": "Mon exosquelette... euh, mon Mech... doit être réparé au plus vite."
+  },
+  "62f988d49116f9119508155c9123bd46": {
+    "text": "Mon Mech est coincé"
+  },
+  "0c938b63c37673af82a1be30e37acbe3": {
+    "text": "Alerte : Mobilité compromise"
+  },
+  "bf5d15af2948f14b81f8d929778f3fa3": {
+    "text": "Ça m'a attrappé !"
+  },
+  "e2f81fa7e995bef30ef7e1999db56586": {
+    "text": "Je suis coincé, Commandant ! J'essaie de me libérer !"
+  },
+  "e3a13ea8957c2531b271af3c93e6312a": {
+    "text": "Laisse moi partir, enfoiré !"
+  },
+  "c24e03d90684a36dbf4c6fdf53f394e6": {
+    "text": "Quoi ce Vek crache, en tout cas ça bloque mes servo-moteurs."
+  },
+  "dc39219b1fc442d8e0d31f6cdc81826a": {
+    "text": "Je suis pris dans ses toiles - je ne peux pas en sortir !"
+  },
+  "8be4ccf86178b343505d209a3dc32410": {
+    "text": "Je suis coincé !"
+  },
+  "9af1e1b5587079c2c4aafde776872296": {
+    "text": "Saleté de toiles !"
+  },
+  "0b5921f61b551e395d1052c9b3e8cbb5": {
+    "text": "Saleté de toiles qui bloquent mes servo-moteurs !"
+  },
+  "52810b8195f4ed5ba676a3e8d68115c7": {
+    "text": "Nnh ! Je ne peux plus bouger !"
+  },
+  "67583680f73212e684ceb28f4fea6c1d": {
+    "text": "Ça m'a coincé !"
+  },
+  "93964da8c1ea48beea86c3f7fcebee8c": {
+    "text": "Je suis enroulé dans ses toiles !"
+  },
+  "c414e142878a242062b43482464f0b26": {
+    "text": "Tu ne m'as pas coincé, Vek. C'est moi qui t'ai coincé !"
+  },
+  "cae5e4f1d3a4e4071e080d5abadd7d15": {
+    "text": "Tu vas regretter ça !"
+  },
+  "215968c57d24cbe1b470508abcfccf15": {
+    "text": "Tu penses que ta toile pourra me retenir ?"
+  },
+  "69ef7681bfa8f4c19a66c3beea6fc342": {
+    "text": "Je suis pris dans ses toiles ! Les servos ne répondent plus !"
+  },
+  "b83f75ead6f5ec220899ab3676e74376": {
+    "text": "L'élasticité et la résistance de ce matériaux sont incroyables - je ne peux pas m'en libérer."
+  },
+  "2fbe4de9d30b1beec4af0b421874b171": {
+    "text": "Je dois vraiment trouver une solution pour protéger les moteurs de ce truc..."
+  },
+  "c0c03ee84644d2e47a3bba26b8653a57": {
+    "text": "Ce Vek a créé un cocon autour de moi."
+  },
+  "be934c85d17934d3d89282b560f16f6a": {
+    "text": "Ce Vek a créé un cocon de manière à ce qu'il soit ni protecteur ni sûr."
+  },
+  "284fd425403ae9b91903f26cc19baf08": {
+    "text": "Le Vek m'a arrosé d'un adhésif biologique pour se nourrir de moi."
+  },
+  "9dabcd9786b0c4da848894e93343f171": {
+    "text": "Beurk ! Quel EST ce truc ?!"
+  },
+  "3d82107d470e1a8a179a83192c771d1d": {
+    "text": "Enlevez moi cette toile !"
+  },
+  "9c362724d468ba2de236f0697d31d405": {
+    "text": "Ça n'est pas fair-play d'utiliser des toiles gluantes !"
+  },
+  "5b48f276d2167505ba34237fac4e8877": {
+    "text": "Des toiles gluantes ! C'est dégueu !"
+  },
+  "f059cacc3f3a05f3c66cdf6040fe2515": {
+    "text": "Ce Vek m'a collé avec ses toiles !"
+  },
+  "1cf1cd987ec8bae622f7cafe46e10027": {
+    "text": "Je vais mettre une semaine á nettoyer la coque de ces toiles !"
+  },
+  "9ab4d3e10729cd8496a9ab526b50fa5e": {
+    "text": "Le Vek m'a attrapé avec ses toiles !"
+  },
+  "4d79aafc2b2c3dcbdbfb31a222a08770": {
+    "text": "Je suis coincé ! J'essaie... de... me... libérer !"
+  },
+  "d51a74e3414351dcce8828f247bdef88": {
+    "text": "Des toiles gluantes ? C'est tout ce que tu as ?"
+  },
+  "5c752fdb7f37f64abd87c3f83d7e2d93": {
+    "text": "Ce Vek a tellement peur qu'il s'est enrubanné tout seul... ou alors c'est moi qu'il a enrubanné."
+  },
+  "5deac3301ad519452adc484211c29b72": {
+    "text": "Tu penses que ces toiles vont m'arrêter ?!"
+  },
+  "da9c679aebd35000022234d2ca612bef": {
+    "text": "Tu me coinces déjà comme ça ? Tu aurais pu m'offrir d'abord un diner."
+  },
+  "a0ae8922087dfe75095978f54545578e": {
+    "text": "Oh, tu veux danser avec moi ? Vas y je t'en prie !"
+  },
+  "f60a75df8f6ff9283a0949eb00102b05": {
+    "text": "Les toiles de ce Vek sont un peu trop tape-à-l’œil à mon goût."
+  },
+  "a6a7f1b59906ea04c506114819705659": {
+    "text": "Ces toiles ne m'arrêteront pas, enfoiré."
+  },
+  "480011faae0492d7cd59b549cf823b7f": {
+    "text": "Tu peux que ça m'arrêtera, Vek ? Essaie encore."
+  },
+  "7d6f4538d42f4e60c709895366af8aad": {
+    "text": "Manoeuvres évasifs effectuées. Les toiles Vek n'ont pas pu me coincer.",
+    "review": true
+  },
+  "902f9ca03afc03bd727ad164d32670bc": {
+    "text": "Ces toiles Vek ne peuvent pas me stopper. Je suis libre !"
+  },
+  "66d7a6ee04c3ba27b5153ac300de0850": {
+    "text": "J'ai pu m'évader des toiles Vek ! Libre et prêt au combat !"
+  },
+  "df44383f40f97b0ca197552e5cc299a1": {
+    "text": "Le Vek a essayé de me coincer mais je l'ai vu arriver à des kilomètres."
+  },
+  "4032049b33fedcadd57079f97e68e1ac": {
+    "text": "Vek hostile. Relâche moi ou subit les conséquences."
+  },
+  "42d428941f54d77a2f9d2f0f27f5b6f3": {
+    "text": "Je ne pe-pe-peux pas bouger !"
+  },
+  "d047bc40540b9d0e303d7dd1cf91bec3": {
+    "text": "Je suis cou-couvert de toiles !"
+  },
+  "5923ece09a37694f87e4b1a98cb354b3": {
+    "text": "Il m'a e-eu ! Mon Mech ne peut-peut pas bouger !"
+  },
+  "5349122cdff7c59330ab199138232c3a": {
+    "text": "Mobilité compromise par des excrétions organiques non autorisées."
+  },
+  "91b1d30713e639834bc7f6257effd55b": {
+    "text": "Veks ! Vous êtes en train d'entraver un haut officier de Pinnacle. Libérez moi ! "
+  },
+  "8817c619c7d6aa6cfc35e846d14894ab": {
+    "text": "Enlevez vos toiles, Vek, ou je répondrai par la force !"
+  },
+  "f52d32cf87b34a545c2e2df662269404": {
+    "text": "Ce Vek me crache sa substance sur ma personne."
+  },
+  "cb8b6b70b44b6fb9b38fa638ca180cbd": {
+    "text": "Le Mech a un bouclier"
+  },
+  "e9697e354556bd1d2d39881a4322e3b6": {
+    "text": "Statut : Bouclier à 100%"
+  },
+  "6f73eb33e253394793b26c07becf5974": {
+    "text": "Bouclier en marche. Utilisons le."
+  },
+  "67e1e25a9854d2f4ac591c919641ae13": {
+    "text": "Bouclier en fonctionnement, Commandant."
+  },
+  "c3a3c6acbfc3a239df74a041d10a9f2d": {
+    "text": "Mise en marche du système de bouclier."
+  },
+  "70734aa886570fb719e134058ab3ef4d": {
+    "text": "Bouclier en marche."
+  },
+  "d02fbac8868e8d1b91b9fe11fe213654": {
+    "text": "J'utiliserai mon bouclier pour gérer les interférences.",
+    "review": true
+  },
+  "dac81d2d6ff9f7e5a7b6e5c4f67ecec4": {
+    "text": "Système de bouclier sous tension."
+  },
+  "644c7a97ee251dd1e8fea519f0d2ba92": {
+    "text": "Bouclier actif. Il absorbera au moins un coup."
+  },
+  "46e3a079a261868c2b92d4cb3fe358e3": {
+    "text": "Mise en service du bouclier."
+  },
+  "ccad10acf7f559418dae7ebfe256781b": {
+    "text": "Gardez vos boucliers pour les faibles."
+  },
+  "10585dcc446b2964dd9440b3ee557ae0": {
+    "text": "Vous feriez mieux de donner ce bouclier aux civils."
+  },
+  "ca06e44fff70a6d84e0d5ec8efb7f561": {
+    "text": "Ces boucliers requièrent des millions de calculs pour maintenir une intégrité structurelle."
+  },
+  "5cc7a9375adcfefa8142698de2a164db": {
+    "text": "Ce bouclier est un amortisseur cinétique efficace - tant pour l'attaque que pour la défense."
+  },
+  "4f484923739d3a3596a51c5c85ff623f": {
+    "text": "Être confiné par un bouclier interfère avec la récolte de graines."
+  },
+  "b9bc97ed1151642c159756a655069b7a": {
+    "text": "Ce bouclier me protégera de la contamination de cet habitat."
+  },
+  "420f95da47c609fe43151fc80ade94d1": {
+    "text": "Je préfère ce cocon que ceux faits par les toiles Vek."
+  },
+  "ed33cd601c5ced94aa6e5ee5382f8da5": {
+    "text": "Oh. Ce bouclier nous apporte un peu d'espoir !"
+  },
+  "6ddd883d851d2da340eee722612402bb": {
+    "text": "Ce bouclier me donne l'impression d'être dans une bulle de savon géante."
+  },
+  "cf9280509ed268c710638fe193b8531e": {
+    "text": "Bouclier fonctionnel ! Il est temps de faire plus de dégâts."
+  },
+  "026e7b79c2c05d4caea8f1b114a93745": {
+    "text": "Avec un bouclier je suis invinble !"
+  },
+  "c2be4df2e56094c561e5fd7a414531ba": {
+    "text": "Alors, qui a un bouclier ? C'est moi !"
+  },
+  "d8ecbed36a4c5e6d3b05ab19ca0cfb38": {
+    "text": "Bouclier fonctionnel."
+  },
+  "19ded5b15420ab2e6ed7a274883dd2cb": {
+    "text": "Bouclier à 100%."
+  },
+  "67d3422d09df81fd0d13a2bd779e6d26": {
+    "text": "Chaque chose compte."
+  },
+  "03d758162370904baeb1eb55cb6a9a7d": {
+    "text": "Bouclier en ligne."
+  },
+  "a63a011a8460a6ecf0fa76366d6304bb": {
+    "text": "Bouclier Pinnacle, vous servez #self_reverse."
+  },
+  "58db9c376e7faf5e6bf757274dd67d20": {
+    "text": "Le bouclier devrait me pro-protéger... maintenant."
+  },
+  "48ce2425d22fc375e4ebf919f7a0892f": {
+    "text": "J'es-espère ne pas avoir besoin de ce bouclier, même si je suis con-content de l'avoir."
+  },
+  "bb4dd08e232d4bea6fca069f2415a2cd": {
+    "text": "Je sou-souhaiterais faire bouclier au dessus de cha-chaque bâtiment de l'île.",
+    "review": true
+  },
+  "667577622fb30cac1a66fb8f9fb8b00b": {
+    "text": "Maintenant je suis protégé par un bouclier Pinnacle."
+  },
+  "5ea9070542aa6c9171820850cbaba601": {
+    "text": "J'ai le plaisir de vous annoncer que j'ai actuellement un bouclier."
+  },
+  "ae5b2cfda2a70e5ce183312c4e435b45": {
+    "text": "Avoir un bouclier ne signifie pas nécessairement prendre des risques inutiles."
+  },
+  "40899ad402b1a2ea42dbfe79dd87a921": {
+    "text": "Des réparations seraient bien venues.",
+    "review": true
+  },
+  "5fc14c43bbbfcd5a702f8d67dfba9027": {
+    "text": "Mise à jour : Réparations terminées"
+  },
+  "a051f4ed1d3b7d1eac4c80992f3c2c45": {
+    "text": "J'ai réparé ce que j'ai pu."
+  },
+  "1296b0404811916b4f48d5abdeee2643": {
+    "text": "Un peu de graisse et d'huile de coude ne suffiront pas..."
+  },
+  "777e6639f5bad53b605685cf75d155a3": {
+    "text": "Voilà."
+  },
+  "470820d4d2a6f8e08fa70063f5563213": {
+    "text": "Réparations terminées, Commandant."
+  },
+  "6c84ec656d8f8f5121c91415c5a17a10": {
+    "text": "Réparations terminées. Ce devrait tenir maintenant."
+  },
+  "a537167d6c455397f15f0739eb359fc0": {
+    "text": "J'ai pu réparer quelques trous dans l'armure..."
+  },
+  "0f99184846644de5f6fc406758a3a8b8": {
+    "text": "Les indicateurs ont arrêté de clignoter en rouge... pour le moment.",
+    "review": true
+  },
+  "00ddf86001a09c6feadcba2b32a5c4ca": {
+    "text": "Cela tiendra jusqu'au retour à la base."
+  },
+  "382e1ebf32ca37960e27ee93c0c7f950": {
+    "text": "Juste le coup de pouce dont j'avais besoin..."
+  },
+  "d1c02bed65754b79cf1d990ae6cff8f8": {
+    "text": "Heureusement que cette machine ne tombera pas en miettes maintenant..."
+  },
+  "1be1796fc8983008a929ff2ff8e2e173": {
+    "text": "Je n'ai pas le temps pour ça."
+  },
+  "46b902296d0a819b9afffeca3e1d4bdb": {
+    "text": "Poussez vous ! J'ai besoin d'espace pour travailler !"
+  },
+  "e33616c8d52a175ff5829941a620c32c": {
+    "text": "Je hais faire des réparations à la va-vite !"
+  },
+  "d08aab2eb75f6fd88d1ecc3a3c20eb0c": {
+    "text": "Je pourrais avoir un peu plus d'espace pour travailler, s'il vous plaît ?"
+  },
+  "dec756da29b46d59a4a3aab309fc93ff": {
+    "text": "J'ai donné à mon Mech toute la nourriture que j'ai pu."
+  },
+  "6877e2120626b95878c48de2fa965c4e": {
+    "text": "Composants HS retirés. Replanté nouveaux composants sur le Mech."
+  },
+  "e61e853c20168f19eb617a14b78dca08": {
+    "text": "Tant que mon Mech me protègera, je le protègerai."
+  },
+  "c7ebb087765b80cea036531e1c6ad349": {
+    "text": "Mon petit #self_mech et moi-même sommes prêts !"
+  },
+  "ce2a6641290573b66d7e0c995f894d1b": {
+    "text": "Prêt et Paré à combattre !"
+  },
+  "afca55490cac3c59e632ffc4d9b94c7b": {
+    "text": "Il est temps de faire le deuxième round !"
+  },
+  "b7be53323af0e501fc14c8c7170a3cb7": {
+    "text": "Mon #self_mech est prêt à partir !"
+  },
+  "12ffbf167017b39d36e3d05e4563e46f": {
+    "text": "Il n'y a rien que je ne puisse réparer !",
+    "review": true
+  },
+  "e1b5cd94d65370aac9c99ddbf3046ce2": {
+    "text": "Un peu d'huile de coude et tout est réparable !"
+  },
+  "ebb1bffbe65b8384a473c2d58586d442": {
+    "text": "Ça devrait tenir pour le moment !"
+  },
+  "fce2b38824560d8c34dd82eaa1c8dced": {
+    "text": "Je ne suis pas un dock de réparation mais ça devrait le faire."
+  },
+  "4cfbaf6a459d529794ffdd9786a4a01b": {
+    "text": "Je dois m'excuser auprès de l'équipe de réparation pour ces retouches rapides..."
+  },
+  "05c72e9831a6db1756888e737e6f41f6": {
+    "text": "Pourquoi cette chose ne se répare pas tout seule..."
+  },
+  "ca5987441d93d5e1e60dfbcee9c4f6fe": {
+    "text": "J'ai besoin de mécaniciens de terrain, je ne peux pas faire cela par moi-même !"
+  },
+  "13bf1b7d612c333f83c530566f4e9fd4": {
+    "text": "Ce n'est pas mon job, mais c'est fait, ok ?!"
+  },
+  "e00271676a0d69ebce7354be5c0b8326": {
+    "text": "Réparé et toujours dans la bataille !"
+  },
+  "26d880f39ef36625c1589a87078b4398": {
+    "text": "Mon #self_mech est réparé !"
+  },
+  "f799bbc3c869f8478ff48c6960405bf4": {
+    "text": "C'est une retouche mais ça devrait le faire."
+  },
+  "aef2b4dd56717382f33ba88929b6d8d5": {
+    "text": "Les compossants non adaptés au combat ont été retirés et remplacés par d'autres recrues toutes fraîches."
+  },
+  "b0978464fe2b1e4313d098870d68b2c8": {
+    "text": "J'ai isolé les composants en cause et je les ai exécutés."
+  },
+  "da7de5913ecfffc61906260b2df35f15": {
+    "text": "J'ai isolé les composants en cause et j'ai fait d'eux des exemples."
+  },
+  "c0a517ba8220a9509d8e6232391f3dbf": {
+    "text": "Réparations effectuées avec des préjugés extrêmistes",
+    "review": true
+  },
+  "cbe21b84325ee0ce260e21fb1b16c88e": {
+    "text": "Cela a-a-a un petit peu aidé."
+  },
+  "3ad8e820cee0b48e16b7aad2191d1b76": {
+    "text": "Les systèmes du Mech ont eu du mal à trouver la panne... ma-mais c'est réparé."
+  },
+  "dd8ad83b7d0635fb292ad36a22739678": {
+    "text": "Ces réparations devraient me d-d-donner un peu de temps."
+  },
+  "090e35b514b158587a043fdf22461a11": {
+    "text": "Les réparations de terrain sont vraiment un travail fait pour les robots."
+  },
+  "77657869ea657059b89c02be67c289d6": {
+    "text": "Ces réparations sont d'une qualité de première génération, indigne de moi."
+  },
+  "9dc5049305de776ad8b10d1ad5234a87": {
+    "text": "Ckt'ch'kt, #self_reverse."
+  },
+  "a234760aa04211465df043571cf962f6": {
+    "text": "Niveau supérieur du pilote (pas nécessairement au rang max)"
+  },
+  "abb71a5b9b844e1caf720d012e0f57f3": {
+    "text": "Efficacité tactique : Mise à jour"
+  },
+  "79f3aafca8004ec0128da83f6cfbf976": {
+    "text": "Mon implication au combat est incroyable.",
+    "review": true
+  },
+  "4b2d54fb5db1b1c903bd6cd4d8249d27": {
+    "text": "Pas sûr de ce que je fais mais je pense que je le fais un peu plus efficacement maintenant non ?"
+  },
+  "7e102051cba2b5a5ad68588dcc695155": {
+    "text": "Ils feraient mieux de me saluer maintenant."
+  },
+  "b18b9594dc5664001ceaf64c6b26e416": {
+    "text": "J'ai reçu une promotion de Detritus concernant ma performance au combat."
+  },
+  "7030076f2b6882896fd4beb2b3ff005d": {
+    "text": "J'ai l'impression d'avoir mon second souffle."
+  },
+  "1ed3801b2b58e64588d642b8c1a4973c": {
+    "text": "Mon entraînement s'est avéré payant."
+  },
+  "5bc5b46ef62aa05bd96124d71f9c2fcb": {
+    "text": "Si les Veks pensent qu'ils vont m'user, ils se trompent. Je suis plus motivé que jamais.",
+    "review": true
+  },
+  "988b71a077fff79ec1a8198b3fc8e82a": {
+    "text": "Les médailles ne font que tirer les gens vers le bas.",
+    "review": true
+  },
+  "fdc95b1f75642271f768c76933c72703": {
+    "text": "Cette adrénaline me donne vraiment de grandes idées pour de nouvelles technologies."
+  },
+  "4426a7a0495b3fa13e38720d04a8dded": {
+    "text": "J'ai optimisé mes routines Vekticides."
+  },
+  "d98ee55d7b22226e7d09a95ede3d9160": {
+    "text": "Les nouveaux protocoles Vekticides ont fini de compiler."
+  },
+  "242988f99719b8c18a1810de231299ea": {
+    "text": "Wow, une promotion ? Je ne pense pas avoir appris tout cela en simulation..."
+  },
+  "b96becdef7294a6b3861697f0b789d56": {
+    "text": "Gardez vos médailles pour d'autres."
+  },
+  "83db4b644eb6439b0ac6083db550b769": {
+    "text": "D'autres méritent plus cette promotion que moi."
+  },
+  "7e8a9f17fb4d6c3eab74370fcd6cb296": {
+    "text": "Pour leur bravoure sur le terrain, j'ai promu plusieurs de mes composants."
+  },
+  "374c3d686972733cf8222dc6666ea3b8": {
+    "text": "Pour leur vaillant effort, j'ai amélioré plusieurs parties de mes systèmes."
+  },
+  "3e47e32499205888a35b534fc0c9a13e": {
+    "text": "Mes nouveaux algorithmes tactiques ont été compilés avec succès. Je suis plus fort qu'avant !"
+  },
+  "8629995bf66fa42b7bfdb246e4a43d8e": {
+    "text": "Mes logiciels de self-défense ont été améliorés. Je suis maintenant plus fort qu'avant !"
+  },
+  "b2479e36fcbd9af097a8ef9ac4797213": {
+    "text": "Le pilote a changé en niveau",
+    "review": true
+  },
+  "12d2079007bf5bf9efc957e334888968": {
+    "text": "Félicitations pour la promotion !"
+  },
+  "a2e9524c3aaecc37adcffc3d75263e02": {
+    "text": "C'est bien pour toi, #main_second, tu l'as mérité."
+  },
+  "07829c402ed635458d96e05ff1fe96ec": {
+    "text": "Vous êtes un atout pour #squad, #main_second."
+  },
+  "e78add76fccc6ce4e924563ef4993d13": {
+    "text": "Bientôt, #main_second, vous enseignerez cela aux nouvelles recrues."
+  },
+  "31850c65154f0e3155ab94d101904fac": {
+    "text": "Nous aurions peut-être un emploi pour vous à Detritus, #main_first."
+  },
+  "c15963120672f048658ba28f12409d27": {
+    "text": "On dirait que #main_second a appris une chose ou deux."
+  },
+  "42350265a239de34ec6ff796e8b3f613": {
+    "text": "Cette promotion - vous la méritez, #main_second."
+  },
+  "b258d866d9be83af3f4501acca956010": {
+    "text": "Félicitations pour ta promotion, #main_first, tu la mérites !"
+  },
+  "e848570d7d0bc4584a2040f8b6868a34": {
+    "text": "Bien, #main_first ! Félicitations pour la promotion !"
+  },
+  "9fd8b9ea4be225589db9b6e109de5cde": {
+    "text": "Tout doux, #main_second. Ça n'est pas une compétition.",
+    "review": true
+  },
+  "254500ee36abf1159e133b360e2982fd": {
+    "text": "Cette promotion signifie davantage de responsabilités. N'oubliez pas de partager votre expérience avec les autres."
+  },
+  "4826c0e89a8d9f56ed1df8f185c250fb": {
+    "text": "Vous devenez bon avec votre Mech, Pilote #main_second - bien joué."
+  },
+  "c5b9c66d88b9d62a7369ea55cb1678c2": {
+    "text": "Félicitations - vous avez mérité cette promotion, soldat."
+  },
+  "6a0f0a4382444bd320bd15055c209133": {
+    "text": "Vous avez dé-définitivement gagné en compétences depuis le début de la guerre."
+  },
+  "f80bba4c9b7c8ae57decc156e5a24b4e": {
+    "text": "Il semble que vos nouveaux algorithmes tactiques ont finalement pu se compiler, Pilote #main_second."
+  },
+  "19f8901c627270a772977c12a31fd505": {
+    "text": "Vous avez montré des capacités exceptionnelles sur le terrain, Pilote #main_second ! Permettez-moi d'être le premier à vous féliciter pour votre promotion !"
+  },
+  "acea3922cf0d2853bbf0542ad7031066": {
+    "text": "Vous avez fait vos preuves sur le terrain, #main_full. Mais être le meilleur à mes yeux, vous devez d'abord sauver R.S.T.."
+  },
+  "d8a99917161a889a6d2668a0e466d627": {
+    "text": "Les humains sont plus lents que les machines quant il s'agit d'acquérir des connaissances, mais quand ils en acquièrent cela vaut quand même la peine de le fêter !"
+  },
+  "0780510a206b989d5178da8c02f23ca7": {
+    "text": "La promotion est prononcée, pilote #main_second. Si quelqu'un mérite cette promotion, c'est vous."
+  },
+  "97e1272ccd680c054d01ba28dfea4a38": {
+    "text": "Votre performance a été exemplaire, Pilot #main_second. Si nous avions une douzaine d'autres comme vous, cette guerre serait terminée."
+  },
+  "33db94fa83c7d9be49036ad0fdc8681f": {
+    "text": "Bouclier perdu"
+  },
+  "080ab2fddaab8327a937ab1837132e17": {
+    "text": "Statut : Bouclier à 0%"
+  },
+  "45b7f4903a771689127578d668ffdbc9": {
+    "text": "Alerte : Intégrité du bouclier compromise"
+  },
+  "82fa53652226f169346499db1e6cf9e5": {
+    "text": "Bouclier HS !"
+  },
+  "cf5e372d342fbf6d146cce991fc3611e": {
+    "text": "Le bouclier a fait son travail."
+  },
+  "ed629555f08c6badd48690cec7ecf9a9": {
+    "text": "J'ai perdu le bouclier !"
+  },
+  "65a7b01e5c60395e75f3ec76472d7582": {
+    "text": "Bon, il a fait son travail - le prochain coup est pour l'armure !"
+  },
+  "fd920c64a891f4e12ba1cd73d89a04ad": {
+    "text": "Bouclier défaillant."
+  },
+  "805ddd4c7f501ae3f9bbe525a5eac241": {
+    "text": "Bouclier perdu - il est temps d'être sérieux maintenant."
+  },
+  "8b96ddc2fdcc33bfc1aeab82dbea7b10": {
+    "text": "Mon bouclier est HS !"
+  },
+  "b87f0108f301950f81ba9b50ae49d4ea": {
+    "text": "J'ai perdu le bouclier !"
+  },
+  "5f89aa9e4a787c14873b99337661aec0": {
+    "text": "Quelle techno inutile..."
+  },
+  "5cf0f36d7b49e49c93dedd957cb597ce": {
+    "text": "Je dois trouver un moyen de renforcer ces boucliers..."
+  },
+  "e6fed32f6629163a94db08ef60fdfadc": {
+    "text": "Si seulement il y a un moyen de renforcer l'intégrité du bouclier..."
+  },
+  "ebca8f60155f23203edb8280cb39c994": {
+    "text": "L'énergie de mon bouclier a retrouvé son état initial, elle s'est dispersée."
+  },
+  "0a8a3544529538586b58fe1c2f3cb671": {
+    "text": "Mon bouclier a cédé."
+  },
+  "467c40250364d35640229a85433632fe": {
+    "text": "Le cocon énergétique a cédé."
+  },
+  "9153f7086775b82d6a07fb7ee384b649": {
+    "text": "Le bouclier a explosé. Comme des étincelles dans une tempête."
+  },
+  "6063f3630a1318d8716ad0261c1ac847": {
+    "text": "La violence a fait perturbé la tranquillité de mon bouclier."
+  },
+  "ed8cc1a560b3c6451d71d1ef70554d29": {
+    "text": "Plus de bouclier ? Ohh, j'aimais bien cette petite teinte bleue !"
+  },
+  "091c76272d857c98cf7c189f795e0695": {
+    "text": "Bouclier perdu !",
+    "review": true
+  },
+  "689381ff45fa16448d8b47ad7b07ddee": {
+    "text": "Bouclier envolé !",
+    "review": true
+  },
+  "f01430a085a5ee2f1f41ef10146acdc3": {
+    "text": "Bouclier perdu - comme un enfant ayant perdu ses gants.",
+    "review": true
+  },
+  "0f5de35ac15f26aabef5f8f14e12262b": {
+    "text": "Je pensais bien que le bouclier n'allait pas tenir..."
+  },
+  "2d43f118914744c54118af7579840be1": {
+    "text": "De toute façon, je ne comptais pas particulièrement sur ce bouclier.."
+  },
+  "6e96476722a9dfbfa2a23c8ab6571621": {
+    "text": "De toute façon, je ne comptais pas sur ce bouclier..."
+  },
+  "d9337d392400e8077c36adc24b887baf": {
+    "text": "Ce bouclier me gênait pus qu'autre chose..."
+  },
+  "ec3c8f3decd5136ad7281b94f95a56ff": {
+    "text": "Je vais bien ! C'est le bouclier qui a pris le coup !"
+  },
+  "759673bdf519ee36d88b87872e41c087": {
+    "text": "Bouclier perdu !"
+  },
+  "49997e5aa98eee0fd67fcc42c0edd47d": {
+    "text": "J'ai perdu le bouclier !"
+  },
+  "e30e5588882ef28a3344efecf70dec17": {
+    "text": "Le bouclier a absorbé les dommages !"
+  },
+  "6b55b796493c8671594698f816ae851c": {
+    "text": "Mon bouclier est défaillance. Ses systèmes seront punis."
+  },
+  "229e28723eabe636e9fa770aaea1b616": {
+    "text": "Mon bouclier est tombé en combat. Je le pleurerai. "
+  },
+  "02860eb760d25f14b5dd9760024f6d79": {
+    "text": "Mon bouclier s'est sacrifié pour moi."
+  },
+  "4ad000cf7b19683bbb80f639af063a89": {
+    "text": "Bouclier, ta bravoure ne sera pas oubliée."
+  },
+  "654272165b63e9777bef4063c15c07bf": {
+    "text": "Bou-bouclier perdu !"
+  },
+  "e7ac871fe535b0b5b8b5e3f5d0038b00": {
+    "text": "J'ai per-perdu mon bouclier !"
+  },
+  "f51c194cc2f116965a080dc45e5c958a": {
+    "text": "Bouclier Pinnacle perdu."
+  },
+  "fc8a9c41f20ba8a200f7be6757724b6e": {
+    "text": "J'ai le regret de vous informer que mon bouclier a été compromis."
+  },
+  "1ec94abe6d24f123d1c82d400eeb03c1": {
+    "text": "Les commentaires sur les dommages sont de trois types : \n\n\"SOI\": Les Mechs l'ont fait eux même \n\n\"OBS\": Les Mechs (ou le PDG) ont observé un autre Mech le faire\n\n\"VEK\": Un Vek l'a fait, et un PDG ou Mech est en train de commenter cela",
+    "review": true
+  },
+  "69a323d20d9a023f8bed10a8a0fc76c7": {
+    "text": "Les Veks noyés (par tous / tout type de cause)",
+    "review": true
+  },
+  "a6d5766f7df4e2fee99525bf48100258": {
+    "text": "Mise à jour : Veks submergés\nMise à jour secondaire : signe de vie Vek éteint"
+  },
+  "c79b71aa5b72c9b0b19890c8e461067c": {
+    "text": "J'ai lavé le problène."
+  },
+  "104782dbc9080ed598a21fa15c51db50": {
+    "text": "Quand on vous dit qu'il faut noyer vos soucis."
+  },
+  "fbec6f3b039f47e462d02626dccd0014": {
+    "text": "Dis bonjour à l'Ancienne Terre pour nous mais au fond l'océan."
+  },
+  "83e0018c74df0ab369af6aedb6d192b8": {
+    "text": "Bon débarras."
+  },
+  "50bdab1c9d17c58edf29e53d51464d8b": {
+    "text": "A priori, Veks et eau ne font pas bon ménage."
+  },
+  "00e8ef0fed8c4c66bd4e8d9262ff4b7b": {
+    "text": "C'est une solution pour laver les Veks."
+  },
+  "92574bb60255be4b5e40580eab3db095": {
+    "text": "Veks et eau ne font pas bon ménage."
+  },
+  "5486ea851a33afd04e7daef126cdeb3e": {
+    "text": "Cette eau va remplir ses poumons en deux secondes."
+  },
+  "1fc8c64693d98a089996b3df046d99ce": {
+    "text": "Ça t'apprendra à attaquer une planète remplie d'eau..."
+  },
+  "c232c8cb9793b623d9b7c42c4b49ce18": {
+    "text": "Ils ne sont pas amphibie... L'eau est mortelle pour eux."
+  },
+  "04036077cfc80701369ee0abd14dfc58": {
+    "text": "Pas une jolie façon de partir, mais..."
+  },
+  "bce15f39d4bf9017b819c510b193d741": {
+    "text": "Noyé dans l'océan de la Vieille Terre."
+  },
+  "2b61ce02880ac3fd72253fa6720d48bf": {
+    "text": "Il est parti nourrir l'Ancienne Terre"
+  },
+  "77b426fd08b15444a90841f975840973": {
+    "text": "Le Vek ne semble pas être adapté à l'eau."
+  },
+  "c0b58b4e04fee0931d5b92babece47e1": {
+    "text": "Ce Vek ne survivra pas à son nouvel environnement aquatique."
+  },
+  "69dc606f6d7b210e056a3591a4e88828": {
+    "text": "Les nutriments de ce Vek iront fertiliser l'eau."
+  },
+  "c91d8cf7f9592ab47e41987fc2b4655b": {
+    "text": "Les Veks ont changé les biomes."
+  },
+  "0bfc43db61fa194b4ba68e69c7ed572d": {
+    "text": "Les Veks ont failli à s'adapter à leur nouvel environnement."
+  },
+  "c0da4599e4a4f38c36d5e91041a28969": {
+    "text": "Je suppose que les Veks ont oublié comment nager."
+  },
+  "eca4c0eadf4128900d0a218802149610": {
+    "text": "Ce Vek a de l'avenir en tant qu'ancre."
+  },
+  "3d50f396a67ef6a168436114f435864b": {
+    "text": "Le Vek est dans un tombeau aqueux"
+  },
+  "d2b6110ee23115039883b594a220a565": {
+    "text": "L'eau tue plus rapidement les Veks que des missiles."
+  },
+  "0d5fa6f429913f1323903950e70578a3": {
+    "text": "Comme ça ! Essayez de pousser l'autre Vek dans l'eau si vous pouvez !"
+  },
+  "365e0f20c2cdecd55372518293445434": {
+    "text": "Les Vek se noient pour m'empêcher de les tuer."
+  },
+  "95dc7e9a867843300b89335ebb576979": {
+    "text": "Dis bonjour à Davey jones pour moi, Vek."
+  },
+  "e38e8dc9c09b7f3437059fee93ff1100": {
+    "text": "Je vais en envoyer quelques uns de plus après celui-ci."
+  },
+  "7311bb804ae9fb363f5dac1c3689d5dc": {
+    "text": "Noyer les Veks rampants fonctionne mais attention aux volants."
+  },
+  "a23c686f13161a572fb0c84b8e143fbf": {
+    "text": "Les Veks ont été retirés de la zone de travail."
+  },
+  "a3a1a09471b62561acf3f644ddfbea52": {
+    "text": "Le matériel dangereux Vek a été lavé."
+  },
+  "e2e2d597088b87e5d164ca714595c2d8": {
+    "text": "Attention, Vek : l'avertissement d'inondation est en vigueur.",
+    "review": true
+  },
+  "7034b606f4f77b538985dbe97b30eec5": {
+    "text": "Les Veks disparaissent de-de-de mon radar."
+  },
+  "77eaf59b1cad6ea558fd22adb61ff27a": {
+    "text": "Le Vek est tombé dans l'eau... et cou-coule rapidement."
+  },
+  "4509da5681f147a9ff968205aaf84b37": {
+    "text": "Un insecte, emporté par les eaux."
+  },
+  "0653ca3dafcb0509e00f793878abcec8": {
+    "text": "Vek éjecté de la masse terrestre."
+  },
+  "0f4e27ab5da5d7865f6a5703bf84a97a": {
+    "text": "Les chances que ce Vek face surface sont proches de 0."
+  },
+  "ffe2cae5283f24e1960ae29092a0b30e": {
+    "text": "La décision Vek d'attaquer à une planète riche en eau est plutôt étonnante."
+  },
+  "ae303177c09caaed131c15617bd1eae1": {
+    "text": "L'eau devrait inonder la trachée du Vek, induisant l'anoxie, et qui va lentement périr pendant qu'il coule."
+  },
+  "e346c33436050e6865422c9a33e77e72": {
+    "text": "Noyer le Vek devrait empêcher les résidus Vek inutiles de tacher le champ de bataille."
+  },
+  "dc1deed5e94361208e33c372e154a5d8": {
+    "text": "Le Vek va rejoindre les entrailles de l'Ancienne Terre."
+  },
+  "ad2953ac3bbd6d284762756739039645": {
+    "text": "Le Vek va rejoindre l'Ancienne dans sa tombe."
+  },
+  "fa3f7c7cc252fdfe128bb7eb78148621": {
+    "text": "Puisse la vie aquatique se nourrir de ce corps Vek."
+  },
+  "132c8f3e2fe335f1a172490e760fb084": {
+    "text": "Mes données concernant les Veks et l'eau sont limitées. Cependant les résultats semblent plutôt positifs."
+  },
+  "240aeadec68fb3c8b66734ecfbd5836a": {
+    "text": "C'est une façon de se débarrasser d'un Vek."
+  },
+  "1ea37fba8a85730f2d96db0b37d075b2": {
+    "text": "Ce Vek a été lavé."
+  },
+  "3cc88e24723c50ae2239d92a820144fd": {
+    "text": "Le Vek tombe dans un trou (de tous / tout type de cause)"
+  },
+  "399c2a0f6483ad4fa4c2cccb20a3214f": {
+    "text": "Mise à jour : le Vek tombe à une vitesse phénoménale"
+  },
+  "bf297df8fbf5e8b295b21fe1edc24806": {
+    "text": "Ce Vek ne reviendra pas de ça."
+  },
+  "3abd63a9ab041c14cb5b3f8cd10d3ea3": {
+    "text": "Laissons la gravité faire son travail, je dirais."
+  },
+  "ed9cb0282425ff7c54aa7d8e8041ac69": {
+    "text": "J'espère qu'il frappera un autre Vek dans sa descente."
+  },
+  "d5cc6c27fc217fcbaa687539b20d5e34": {
+    "text": "Enterrez moi ce Vek."
+  },
+  "64e834f938a3274a2021b88db6fd9a7a": {
+    "text": "Un Vek... hors... radar, Commandant."
+  },
+  "f8dd2b51c3cb983ae473b8ec28baad81": {
+    "text": "Vek enterré."
+  },
+  "37c22d885ca30822e6bb35dd0aa8d43d": {
+    "text": "Le Vek a été enterré."
+  },
+  "de9f725efb560a08997bcae65d0d9c7e": {
+    "text": "Nous refermerons ce trou plus tard, laissons le moisir ici."
+  },
+  "80c89c62bffd5df21b1b5a966bbf17e7": {
+    "text": "Il ne reviendra pas de ça. "
+  },
+  "8dbc1e0af9e70607be8be0932a8e70fe": {
+    "text": "Vek à terre - enfin... sous terre."
+  },
+  "ac440f0058786144ab2cd3898248d5f3": {
+    "text": "C'est une façon de faire."
+  },
+  "2c0e33d040a0fc993ccf3a0e90d7010b": {
+    "text": "Plus clément que la fin que je lui avais préparée."
+  },
+  "a6e958967023f12f74939bfb8293bf60": {
+    "text": "Les Veks peuvent autant apparaître que disparaître.",
+    "review": true
+  },
+  "0299295b2812aa569da70b8bb0882947": {
+    "text": "Tu vois la Terre que tu souhaites conquérir peut également te consumer."
+  },
+  "adc405f7de7cd255175a9dc0c0fb244e": {
+    "text": "Je doute que la carapace Vek le protégera de sa chute."
+  },
+  "50e0c06cc55aec917c5e50ecba0fd1fd": {
+    "text": "Les nutriments de ce Vek nourriront la terre."
+  },
+  "7a43bb780f96c5f42106ec95c723ae72": {
+    "text": "Les Veks manquent cruellement de turbo-réacteurs."
+  },
+  "0da8788bdd61a0cd11fa6acde6e6bcb0": {
+    "text": "Vous avez vu ça ? Ce Vek est tombé comme une pierre !"
+  },
+  "fd0c8c1c5f91ff2a5eca40e73bd6ba27": {
+    "text": "Attention en dessous !"
+  },
+  "f6a6f5b96fe78a4d05626f5f328cb815": {
+    "text": "Vek, voici Gravité, Gravité, voici Vek."
+  },
+  "70abed22b76e6a48784b01e8721e1ab3": {
+    "text": "Vek dans le trou !"
+  },
+  "16341b6c01c01fe43d8645ead4f5cc63": {
+    "text": "J'espère que le Vek atterrira durement."
+  },
+  "a35b0f85147a66cb27dbb27a72f4100e": {
+    "text": "Oui ! Un Vek... est en chut libre."
+  },
+  "68c483c9454a5fe48bff14be7970bf36": {
+    "text": "Je ne pense pas que ce Vek pouvait voler..."
+  },
+  "61de376eb22f4150ae6ca925e70fab16": {
+    "text": "Au moins ça m'évitera de le tuer..."
+  },
+  "3d5854db132ae5338c53384f78b39a17": {
+    "text": "Bon sang ! Je voulais tuer ce Vek moi-même"
+  },
+  "9596c146bd54d01204e24b35f19876be": {
+    "text": "Le Vek est sorti du terrain."
+  },
+  "0f335bdd7b709117686859c061380a1a": {
+    "text": "La chute du Vek devrait le tuer."
+  },
+  "f56228d7707258e473d0f395fa0943ff": {
+    "text": "Le Vek s'est retiré lui-même du terrain."
+  },
+  "325dbc8482e2af17b2034b41c3c64e9f": {
+    "text": "Le Vek vient d'avoir un accident de travail.",
+    "review": true
+  },
+  "9d676460729f7bef4c71a1e14eda31a2": {
+    "text": "Le Vek vient de devenir une partie des fondations de l'île."
+  },
+  "9be9babbb17c9486ab66620028ac4b87": {
+    "text": "Le s-s-sol l'a avalé !"
+  },
+  "6dd6242ae4c266faaac235448fd5566f": {
+    "text": "Il ne su-survivra pas à la chute..."
+  },
+  "41237f9858b1acff0f72e186a66c4516": {
+    "text": "C'est... C'est une l-longue route..."
+  },
+  "cfbb097939984b84868c28dc63bdbc11": {
+    "text": "Le Vek a initié une descente terminale."
+  },
+  "9a7f0c37959fbaeadfb8eb89646746db": {
+    "text": "Les chances de survie du Vek sont proches de 0."
+  },
+  "09076dee126e24eb5ba20823e9d21bf7": {
+    "text": "Les chances pour que le Vek refasse surface sont proches de 0."
+  },
+  "3575e9870a9f00d1142e08983d77607e": {
+    "text": "Mes capteurs confirment que le Vek s'est écrasé au fond."
+  },
+  "6b6ae1b5d3c7acd167f070d6f7f6c3d5": {
+    "text": "Enterrer le Vek devrait empêcher les résidus Vek de tacher le champ de bataille."
+  },
+  "6259306cc1a61221cef260fa853bd861": {
+    "text": "Regardez ce Vek tomber ! Je viens d'entendre des cris d'encouragement provenant de la salle de commandes !"
+  },
+  "1a86d96097a94265a585b560a3e5df9f": {
+    "text": "Nous enverrons une équipe pour voir si le Vek est bien mort."
+  },
+  "a095355f5ed1147669cf1dea4fd61bee": {
+    "text": "Ce Vek n'est plus une menace maintenant."
+  },
+  "54f025f5944f160af9c9e18f7dfc8e58": {
+    "text": "Ce Vek est parti à jamais."
+  },
+  "ee8a60ae77a4b634ce88aec50c9ee987": {
+    "text": "Les capteurs ont indiqué que le Vek est mort sur le coup."
+  },
+  "018f724560b177664ae398d79e5878a9": {
+    "text": "Il mourra dans le lac d'A.C.I.D. situé sous l'île."
+  },
+  "4e16026231ece9ef9395f4c66fc4fb28": {
+    "text": "Nous devrions peut-être envoyer des équipes de gestion des déchets pour éliminer ce Vek plus tard."
+  },
+  "a4f7f9d6a9bd4d26fe35f6d4479df6d3": {
+    "text": "Le Vek a été enfumé (de tous / tout type de cause)"
+  },
+  "2ffd900d205426fed622dc715823b883": {
+    "text": "Mise à jour : Des particules aériennes ont ralenti les réflexes des Veks"
+  },
+  "64734e2f9f124fa106f91a2a409b0c44": {
+    "text": "Mise à jour : Des particules aériennes ont stoppé l'attaque Vek"
+  },
+  "7dd447e7bcd1c62fd5a8d465c9b7cdf9": {
+    "text": "Ce brouillard a ralenti les Veks."
+  },
+  "665b0939d06a7f9acbcee64e3e3179b3": {
+    "text": "J'espère que les Veks s'étouffent dans la poussière."
+  },
+  "bc7425e8bf5f9f54b72dfec4301defe8": {
+    "text": "Les particules désorientent les Veks."
+  },
+  "9b4598b73a10439a513894aee887d8ab": {
+    "text": "Cela va brouiller un petit peu leurs sens."
+  },
+  "0e03af03a55b4da282a20ddf8708824c": {
+    "text": "J'espère qu'ils vont s'étouffer dans ce nuage."
   }
 }
