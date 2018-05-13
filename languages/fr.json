@@ -6046,10 +6046,10 @@
     "text": "Bon sang ..."
   },
   "96ebfc8e91f880900442064fe82bd27a": {
-    "text": "Mort."
+    "text": "Meurs."
   },
   "772b5aee7b222d395fc773bd89325d48": {
-    "text": "Double Meurtre"
+    "text": "Double Meurtre."
   },
   "80252974bab27c1295e20e46660058cb": {
     "text": "Encore !"
@@ -6208,10 +6208,10 @@
     "text": "#corp n'est pas prêt d'aimer ça ..."
   },
   "c0d214c29a3b9724afab73d8aec78cc6": {
-    "text": "Défaillance du Réseau Électrique #corp."
+    "text": "Le Réseau d’Énergie.de #corp est en train de tomber."
   },
   "636434962003195e4a162e1767ee98a0": {
-    "text": "Le Réseau Électrique #corp est proche de l'effondrement."
+    "text": "Le Réseau d’Énergie de #corp est presque HS."
   },
   "26c2791cbb07acd811e43cda2bb26330": {
     "text": "La structure #corp a résisté à l'agression."
@@ -6437,7 +6437,7 @@
     "text": "...Je n'ai pas besoin de cela."
   },
   "5be14850b213301ce1ccb79ae6db5b2f": {
-    "text": "... J'ai détruit une montagne."
+    "text": "...J'ai détruit une montagne."
   },
   "ec1c9d582567a5c647783753ecf27f26": {
     "text": "... J'espère que les caméras étaient éteintes quand j'ai été désactivé.",
@@ -6480,7 +6480,7 @@
     "text": "... Cette unité d'élimination est une raison pour laquelle je ne manque pas de travailler à Détritus."
   },
   "57ec17cc1cad30796032a5fd8ad73453": {
-    "text": "... Le pouvoir de ces Mechs m’effraie parfois."
+    "text": "...Le pouvoir de ces Mechs m’effraie parfois."
   },
   "3104412f180546a42d3fac01466b8b71": {
     "text": "...C'est pour chaque ligne temporelle qu'ils ont détruit."
@@ -6495,7 +6495,7 @@
     "text": "...Qu'est ce que c'est que ça ?"
   },
   "b03f496b10802b76dc4d9ce6870d6099": {
-    "text": "1 pour l'#squad ! Vek : 0 !"
+    "text": "1 pour #squad ! Vek : 0 !"
   },
   "d84795f8f8fa671ca9301f4d73bca3ad": {
     "text": "100% des cuves ont été détruites et les produits chimiques ont été libérés. Nos capteurs détectent déjà une activité Vek réduite dans la région."
@@ -6835,7 +6835,7 @@
     "text": "[ Vat détruit ]"
   },
   "5a39641880f047b74cc50c57ed42aab5": {
-    "text": "[ Vek supprimé. Cause de suppression : Vek rivale ]",
+    "text": "[ Vek supprimé. Cause de suppression : Vek rival ]",
     "review": true
   },
   "62313acb4f0b50a051d67583f4c38ac9": {
@@ -6878,7 +6878,7 @@
     "review": true
   },
   "eed3e4cb749507c3118dac5bce90cf51": {
-    "text": "[ Menace Vek supprimée. Raison de la suppression : Vek rivale ]",
+    "text": "[ Menace Vek supprimée. Raison de la suppression : Vek rival ]",
     "review": true
   },
   "41497f357b0bf8e9b443123ef022997c": {
@@ -6891,7 +6891,7 @@
     "text": "une démonstration de force"
   },
   "b75c6fabd7018ee28757ba16ab205d39": {
-    "text": "Un peu plus comme ça, et nous pouvons l'emballer."
+    "text": "Un peu plus comme ça, et nous pourrons partir."
   },
   "0f3ae20e047be63984f403870e09e10e": {
     "text": "Un peu plus comme ça et cette guerre est gagnée !"
@@ -8868,7 +8868,7 @@
     "text": "Activité détectée à partir d'unités précédemment congelées."
   },
   "3bad3700e21db9243cfa4c905fbd3707": {
-    "text": "Ajout de dispersion de fumée aux routines Vekticide."
+    "text": "Ajout de dispersion de brouillard aux routines Vekticide."
   },
   "bf7e34d52fdd9fedb50b10c8ba83b6af": {
     "text": "Affirmatif. Vous avez entendu le PDG, citoyens, allons faire ca.",
@@ -12701,7 +12701,7 @@
     "text": "J'ai le regret de vous informer que mon bouclier a été compromis."
   },
   "1ec94abe6d24f123d1c82d400eeb03c1": {
-    "text": "Les commentaires sur les dommages sont de trois types : \n\n\"SOI\": Les Mechs l'ont fait eux même \n\n\"OBS\": Les Mechs (ou le PDG) ont observé un autre Mech le faire\n\n\"VEK\": Un Vek l'a fait, et un PDG ou Mech est en train de commenter cela",
+    "text": "Les commentaires sur les dommages sont de trois types : \n\n\"SOI\": Les Mechs l'ont fait eux-mêmes \n\n\"OBS\": Les Mechs (ou le PDG) ont observé un autre Mech le faire\n\n\"VEK\": Un Vek l'a fait, et un PDG ou Mech est en train de commenter cela",
     "review": true
   },
   "69a323d20d9a023f8bed10a8a0fc76c7": {
@@ -13013,5 +13013,1262 @@
   },
   "0e03af03a55b4da282a20ddf8708824c": {
     "text": "J'espère qu'ils vont s'étouffer dans ce nuage."
+  },
+  "078ce76783b84b58041810594961ab39": {
+    "text": "On dirait que les Veks n'aiment pas trop ce brouillard de particules..."
+  },
+  "3b2b5fa90926df970308324dd89bb267": {
+    "text": "Il n'est pas habitué à combattre à l'aveugle. Profitons-en."
+  },
+  "bd7608cf07593bae9194fd305153d8ed": {
+    "text": "Les Veks montrent des signes de désorientation."
+  },
+  "fc406a6b240907d65b19950229e4ad2e": {
+    "text": "Les Veks ne semblent pas pouvoir se concentrer dans le brouillard - intéressant."
+  },
+  "9304a2e48fdc3128a944bc777f2b8db5": {
+    "text": "Le brouillard agit sur les Veks comme un répulsif puissant."
+  },
+  "c55ea18f3199c82f1c58df0dde9b4685": {
+    "text": "La dispersion d'un brouillard de particules interfère avec les récepteurs Vek."
+  },
+  "549bc9848ba0c09ba8d67ec0fc4a5b63": {
+    "text": "Le brouillard agit comme un moyen de dissuasion dans l'agression Vek."
+  },
+  "9944fd8730feb0d9caea728e10ddcafc": {
+    "text": "Étouffe toi avec ça, le moche !"
+  },
+  "45502ed7531eed46788d74b078929080": {
+    "text": "J'espère que le brouillard fait pleurer ce Vek..."
+  },
+  "033872198ddf1ad34f7a5ef0eb642924": {
+    "text": "On dirait que ce Vek a perdu ses billes dans le brouillard."
+  },
+  "66d8d9f91f8318808d2bb7000c50cdbc": {
+    "text": "Le brouillard fait chanceler ce Vek !"
+  },
+  "6d2c0039e24515fbc54441bb0cae155c": {
+    "text": "Le Vek est dans le brouillard !"
+  },
+  "d653c99d30804b71bb405b76adfd6483": {
+    "text": "Le brouillard a assommé les Veks !"
+  },
+  "ceaf664eea470614778c896cfc537125": {
+    "text": "Le brouillard ne peut pas me stopper mais peut stopper les Veks."
+  },
+  "d0d862abb996f3e094fd6a47dbeff5c2": {
+    "text": "Il faut avoir été entrainé par R.S.T. pour pouvoir se battre dans les tempêtes, Vek."
+  },
+  "094735a852eaf9365813470b940664fd": {
+    "text": "Les Veks ne peuvent pas manœuvrer dans le brouillard comme nos Mechs."
+  },
+  "07b935698c369bea68c4a486a985d101": {
+    "text": "Le fait que le Vek ne porte pas de lunettes de sécurité dans le brouillard l'a désorienté."
+  },
+  "e303fd3d0c68bd584f8e02cffff3239c": {
+    "text": "Ce nuage s-s-semble être dés-désorientant pour les Veks..."
+  },
+  "5bfff7da1083ed19ee826932d81af6d2": {
+    "text": "Le nu-nuage est, hum... brouillant... euh...dé-déroutant pour les sens Vek..."
+  },
+  "6d0a751dedde2c317fe1b6de611be9a7": {
+    "text": "Le Vek s'est enfermé dans ce nuage à particules."
+  },
+  "9cc6036eabb1c3f487306ccece5ff75f": {
+    "text": "Je crois que le brouillard interfère avec les récepteurs olfactifs des Veks."
+  },
+  "79a47ee4f5b5bdf4982ff3b888758da6": {
+    "text": "Les Veks évitent activement le brouillard... plus que nos propres pilotes."
+  },
+  "1dfceb375aa4a3427a4befe78a43e1c5": {
+    "text": "Le brouillard désoriente les Veks, faisant d'eux des cibles faciles."
+  },
+  "aea7df16c2bd20243b56030afe386b00": {
+    "text": "Le brouillard dense neutralisera ce Vek pour le moment."
+  },
+  "b00c389da38568a8c9f5e701196e4f9e": {
+    "text": "Le brouillard semble les désorienter... Peut-être que nous pouvons utiliser cela ?"
+  },
+  "5619cdad47fe045bb5aedeacffa756c5": {
+    "text": "Le Vek est gelé (Tout type de cause excepté Tempête de neige et Mine glaçante)"
+  },
+  "d38e22e9ee7a95c3db092260d596c3c9": {
+    "text": "Mise à jour : Le Vek est gelé."
+  },
+  "f20fe7c89c8f7207398fd44bb25d60bc": {
+    "text": "Mise à jour : La mobilité du Vek est à 0."
+  },
+  "8665749ea92c79a5608e03cd879bc2a8": {
+    "text": "Il est coincé dans la glace."
+  },
+  "409c293af0f061b2c71a2f3e5ddc47b7": {
+    "text": "Il est gelé !"
+  },
+  "e8614a0aec5c9558d3f214fa3f0901d4": {
+    "text": "Gelé... Mais toujours en vie."
+  },
+  "b0d0fa3ba8f278267bf1f85f6eebfe7b": {
+    "text": "Commandant, le Vek est gelé mais toujours en vie."
+  },
+  "21715f90695b458cd76b2755c684e71a": {
+    "text": "Le Vek a été congelé."
+  },
+  "b4cd707acd4f2d5874d49e0bdea59e7e": {
+    "text": "Froid et Vek ne font pas bon ménage."
+  },
+  "8eb51066f416c5c454e26c991f355e55": {
+    "text": "Le Vek est gelé mais est toujours en vie."
+  },
+  "a3fc6ec04b0fe34caa32aa12e7ef2b61": {
+    "text": "Je l'ai refroidi celui là."
+  },
+  "1c365d9d5d1254c552c51650eaf6d07d": {
+    "text": "Vek refroidi."
+  },
+  "57536c5fe6a61cc18264cf71ae90aeaa": {
+    "text": "Je parie que les Veks ne s'attendaient pas à ça !"
+  },
+  "b1d4558c8e4de46981ecf3ac33f597ee": {
+    "text": "Ce Vek est carrément enchâssé dans la glace !",
+    "review": true
+  },
+  "dc79bfe18ac65b38baaf9fa5e58b3350": {
+    "text": "Le Vek a succombé aux températures extrêmes. "
+  },
+  "cca0539eed7b988d1262e757b26a2668": {
+    "text": "Le Vek est gelé... Mais il est toujours en vie.",
+    "review": true
+  },
+  "34e86c98e1959f8f2b34d1150ac33b86": {
+    "text": "Le Vek a été gelé dans la glace."
+  },
+  "41ec3f65447c405e5c119773f94b17c6": {
+    "text": "La glace agit comme un moyen de dissuasion contre l'agression du Vek."
+  },
+  "acda821c080d704e49c956062d91d95f": {
+    "text": "Un granité au Vek !"
+  },
+  "d69b578b5b99d74c23ebce60e67f4973": {
+    "text": "Le Vek est dans un frigo !"
+  },
+  "1ebceffe352f8046cdfff48520cdb98f": {
+    "text": "Le Vek est gelé. Nous nous en occuperons plus tard."
+  },
+  "e4cfae337ec117be944e87cbcff26d3a": {
+    "text": "Arrêté par le gel.",
+    "review": true
+  },
+  "d8202fc00cc2b96c146c780e734c721c": {
+    "text": "Ce Vek est un glaçon !"
+  },
+  "dd090b155530a09827a2f52e144bc0f9": {
+    "text": "C'est une bien moche crème glacée."
+  },
+  "7753ae6bb37036d671fd658e6829a749": {
+    "text": "J'espère qu'il n'attendait pas un accueil chaleureux... "
+  },
+  "1efb20029cd3b5f645d8bb0090175de2": {
+    "text": "Le Vek est une sculpture de glace maintenant - on commence à le sculpter ?"
+  },
+  "c5813d81e92f437b105ec448521d9348": {
+    "text": "Le Vek a été gelé, Commandant."
+  },
+  "5c7496ee6fbf6a28608b5244ae1b4ef3": {
+    "text": "Le Vek a été gelé."
+  },
+  "8be7e04ce61bab2eb358710ee25c8fc7": {
+    "text": "Le matériel dangereux Vek a été enfermé dans de la glace."
+  },
+  "acea2dbd624ff92fe30c3624265ed06d": {
+    "text": "Le matériel dangereux Vek a été congelé."
+  },
+  "8ab96908e45c5de01356a07c2e22cb5b": {
+    "text": "Je... Je cr-crois que-que le froid a ralenti son métabolisme."
+  },
+  "aa48d4bdf5d482555ee95f18f10a91c4": {
+    "text": "Les s-s-signes de vie Vek sont au ralenti - il est en-en vie... mais im-impossible pour lui de bouger."
+  },
+  "0cf27efeb6148ff44a5eaaf65f8048a9": {
+    "text": "Son mé-métabolisme est au ralenti. Je... Je pen-pense qu'il est pris au piège."
+  },
+  "045376960a2996cafece23a633cbcf64": {
+    "text": "Le Vek est coincé par des conditions météos dangereuses."
+  },
+  "0e70971a8c3c9b21440f7ca9b4cf219e": {
+    "text": "Le Vek a été cryogénisé."
+  },
+  "63a322a0e4f460ada08a0833d13b9913": {
+    "text": "Les signes de vie Vek sont faibles et sa mobilité a été réduite à 0 à cause de sa nouvelle armure de glace."
+  },
+  "71604e32be925233cb96fd447480b3b4": {
+    "text": "Il semble que les Veks sont aussi sensibles au froid que nous."
+  },
+  "dc3bec459d25ae8fea6f838ee8e5de71": {
+    "text": "Maintenant que le Vek est gelé, ne le laissez pas s'en libérer."
+  },
+  "bc56a434c9d477ce90a958175f8f136a": {
+    "text": "La glace a préservé le Vek. Je détecte des signes de vie très faibles."
+  },
+  "2e23154749c7716396a0908464591cec": {
+    "text": "La glace est une solution temporaire. Il peut se libérer à tout moment."
+  },
+  "f2fe83357c5162000d7fee08e302c1f5": {
+    "text": "Ce Vek est congelé solidement. Concentrez vous sur les autres cibles maintenant."
+  },
+  "414ec53cc4fbd0db49900c14575bd0e1": {
+    "text": "Ce Vek a été congelé solidement mais il vit toujours. J'espère que personne ne le libèrera par accident."
+  },
+  "4224b3ba35ea210f03748e2efb438e24": {
+    "text": "Mise à jour : Cible détruite"
+  },
+  "32a260d36bcfa4f11cf982f25f1d74f4": {
+    "text": "Mise à jour : Cible effacée"
+  },
+  "4ffdb44bfc28c1266555c0673cd275b8": {
+    "text": "MIse à jour : Obstruction ennemie retirée"
+  },
+  "e9ecf897111b6da0b336e59abefb9798": {
+    "text": "J'en ai un !"
+  },
+  "803f0e3c4e8def3f24cf0e5da35cb0b6": {
+    "text": "C'est pour ce que vous avez fait aux citoyens d'Archive !"
+  },
+  "7b5995455108b1ae1529989227412ffc": {
+    "text": "Rajoutes en un pour moi.",
+    "review": true
+  },
+  "de6207f34892ca2376e74ac169e321e6": {
+    "text": "Jamais fatigué de tuer des Veks..."
+  },
+  "bcf45b47533a12d8b6e21b15e438f876": {
+    "text": "Cible éliminée."
+  },
+  "1a8f4486dc0b89485f7b6601d0f64eef": {
+    "text": "Vek tué."
+  },
+  "1c8d398bfe36af1aa8445a4edbfad03f": {
+    "text": "Encore un pour moi."
+  },
+  "e57898aae32485a706e67c47e050f761": {
+    "text": "Cible abattue"
+  },
+  "1172cbda897f86252bec0614d7eccdaa": {
+    "text": "Encore un."
+  },
+  "2638992b97ed97c5b4cc0bc2a2dd3a74": {
+    "text": "Fini avec celui là."
+  },
+  "5744c4703a05c769e9f68a4f087b4138": {
+    "text": "Cela là ne reviendra plus à sa ruche."
+  },
+  "e46eeaad9569b09b677ddc26acccca0f": {
+    "text": "Ennemi abattu ! Nous pouvons le faire !"
+  },
+  "5ff5f54e3fb2ea52f4adc146a87a7397": {
+    "text": "Encore un abattu !"
+  },
+  "1634a57bc10fdfa892b36ab77f45e799": {
+    "text": "Encore un mort."
+  },
+  "5746b1f359a95af637ab5afd0c676f86": {
+    "text": "Malheureusement. Ses restes sont trop abîmés pour une analyse complémentaire."
+  },
+  "12e05c5129ea452722f1bef4730b1e55": {
+    "text": "J'avais dit de l'assommer pour continuer mes recherches pas de le tuer."
+  },
+  "bf51c00e6a649aba084d108f9f0ef3b5": {
+    "text": "Notre mission ressemble à une grosse partie d'échecs, quand on y pense."
+  },
+  "61e8c2027507ac0bd056b29614bf2149": {
+    "text": "Les Veks nourriront le sol."
+  },
+  "6c08fb6e7367ffcaa136c281e956d6ba": {
+    "text": "Le Vek a été recyclé."
+  },
+  "f916901c935e8c980f37a3642af4fdbc": {
+    "text": "Puisse ce Vek nourrir le sol."
+  },
+  "3e67ea21cd0c204693270b819b6f6834": {
+    "text": "Les nutriments essentiel du Vek ont été dispersés."
+  },
+  "40a17d0436dc9b896fa7701cfd72e607": {
+    "text": "Encore un mort ! Qui est le suivant !"
+  },
+  "e54ebf5abdb2b466d3a581f750b4233a": {
+    "text": "Prends ça, le moche !"
+  },
+  "431c11c2aacb3a57b97dc8ce21a4e992": {
+    "text": "Reste où tu es !"
+  },
+  "e3586faa0597efe1a7017f41f8104960": {
+    "text": "Et ça c'est de la part de l'escouade #squad, enfoiré !"
+  },
+  "56f1212a1ce27e680376bfa0efe1bf98": {
+    "text": "Vek éliminé. Nouvelle cible en cours d'acquisition."
+  },
+  "1b2ce9645649806a5864a90f05a71a4a": {
+    "text": "Vek abattu. Passons au suivant."
+  },
+  "7c28565b8dd1a05741fc4ca4444a9d4c": {
+    "text": "Ha ! Ajoute au tableau une nouvelle victime à mon actif !"
+  },
+  "a43b6ec82f5fba4f07e85cab8f45804b": {
+    "text": "Vous avez vu ça ?"
+  },
+  "e220e5163987f3ef2146015d60164f08": {
+    "text": "Je l'ai eu ! Ouais !"
+  },
+  "1936b8136c4023cedf5f7ac87fa20813": {
+    "text": "Vek abattu, Commandant."
+  },
+  "0d3ba2f7c32e846a8f0715f15a3ec61c": {
+    "text": "Risque Vek éliminé."
+  },
+  "9b6b2f0812f3c547892dba799205b9a8": {
+    "text": "Les opérations d'élimination de Vek sont lancées."
+  },
+  "a104c63d9178c9840b16d6bf5daa6f67": {
+    "text": "Le danger Vek a été éliminé de la zone."
+  },
+  "70fd11e34a32a39310d8bf165f98e4a6": {
+    "text": "J'ai retiré le danger Vek de la zone."
+  },
+  "5e89930957ed581ec77d0b9fab0e15dd": {
+    "text": "Le Vek... Il est... m-m-mort."
+  },
+  "a9663ec7edbe1415f76357b10b2baaf5": {
+    "text": "Je l'ai... t-t-tué."
+  },
+  "992114965d10007e874f159e8c9afe27": {
+    "text": "Le Vek a été excavé."
+  },
+  "b7033fed0959d76ee505dfe205ad8aae": {
+    "text": "Les ressources utiles ont été extraites du Vek."
+  },
+  "9cad14476050b7ac31245e31bc40d2aa": {
+    "text": "Je me suis débarrassé de la menace pour la sécurité humaine."
+  },
+  "081bf0b474400b718f54ade509215ee4": {
+    "text": "Le Vek a été tué de manière humaine et sûre."
+  },
+  "af660a90e701c12fbdb8d0c34054a7b1": {
+    "text": "Je suis relativement sûr que le Vek n'ai pas souffert."
+  },
+  "232654c92dda4e3e2a7dd8b0b0a5a416": {
+    "text": "Ce danger Vek a été désinfecté."
+  },
+  "35180631c8a091a273a6f9122a5a47eb": {
+    "text": "Évaluation : compétence #main_reverse enregistrée"
+  },
+  "0cb86dbaa87c4e619755ee8770e10eed": {
+    "text": "Récupération d'un Compliment : 'Bravo !'",
+    "review": true
+  },
+  "8a7e0b9009ec320af1acb8e39f2fd7eb": {
+    "text": "Récupération d'un Compliment : 'Vous le méritez !'",
+    "review": true
+  },
+  "47279acf89ad56868234941a956a24a3": {
+    "text": "Récupération d'un Compliment : 'Très bon travail !'",
+    "review": true
+  },
+  "129eae44869b86f49ad5307e41e51414": {
+    "text": "Bien mené !"
+  },
+  "4326fbd30a7f1f1680b3a6adcaed018a": {
+    "text": "Archive sera fier !"
+  },
+  "63ccb460f87b4ab92f34fb2ecab78561": {
+    "text": "Encore une victoire pour #squad !"
+  },
+  "dd15ada4f879cc42c7c77ec42ec655b4": {
+    "text": "Encore une victoire pour vous."
+  },
+  "b7c849482155ad01152f17ad6238da8c": {
+    "text": "Continuons !"
+  },
+  "348bc08e077495d36f63536bc0d69fb0": {
+    "text": "Un Vek de moins à tuer."
+  },
+  "8a006f6340ec74033c65f030749e70dc": {
+    "text": "Ne soyez pas trop confiant. D'autres sont en route."
+  },
+  "0166c6b3d3aad7002158cde6d862c998": {
+    "text": "Continuons, d'autres sont en route !"
+  },
+  "b399b1c5524c237a8e00ca5144ee71d5": {
+    "text": "Encore un tué pour #main_second"
+  },
+  "ac7e2902f2742364233975e917bdc092": {
+    "text": "Ça en est un... Mais il y en a beaucoup d'autres."
+  },
+  "659b207e9ef9edeabb41e44dfc283f55": {
+    "text": "Bien ! Maintenez la pression !"
+  },
+  "2e42aafc08775c493128dca1e95e2acc": {
+    "text": "Beau tir !"
+  },
+  "634d8c7b0f5d192525cf71eaa66410ed": {
+    "text": "Beau tir, #main_first !"
+  },
+  "8a0bef4a4529bddaa038e16072a59564": {
+    "text": "Continuez comme ça, tout le monde !"
+  },
+  "9afe64783b7cf6403ff7918c8d982188": {
+    "text": "Restez concentré."
+  },
+  "2e394fcf88c9a3cef7e38ed3d578d362": {
+    "text": "Surveillez les autres."
+  },
+  "3f4808737daa46165e4945cae06219ad": {
+    "text": "Attention ! Vous allez ruiner toute tentative d'autopsie."
+  },
+  "92380029a3d831cb9831e74c31ea1711": {
+    "text": "Quelqu'un peut-il en garder au moins un pour mes recherches, s'il vous plaît?"
+  },
+  "d9a55eee90a2d918b5391aab8ed01661": {
+    "text": "Le Vek a été recyclé."
+  },
+  "60b1e3360ab926e6c0ca69ebe0f8973c": {
+    "text": "Faites en sorte qu'aucune part ne soit gâchée."
+  },
+  "eb37a8382f0cc155eb63f677e396760f": {
+    "text": "Nutriments essentiels du Vek dispersé."
+  },
+  "6c5629dcd66ddeba7938ee00e2423169": {
+    "text": "Récolte Vek réussie."
+  },
+  "22d92ac4fd0df68a651fb9e64229fe0c": {
+    "text": "C'est dégueulasse ! Maintenant, il y a des morceaux de Vek mort un peu partout !"
+  },
+  "b3243a6263060ca034395fefc4eea89b": {
+    "text": "Bon travail, #main_second. Maintenez le cap."
+  },
+  "93d9de72f909574bd9bed13c39ac2361": {
+    "text": "Bien joué, #main_second"
+  },
+  "2bfb9b9bd0ee851cbbd0a9f91a46f57a": {
+    "text": "Vous en avez pris du temps."
+  },
+  "f78592af340f84f6aa8f4e21edc9b748": {
+    "text": "La prochaine fois, essayez de tuer le Vek avec un peu plus de style."
+  },
+  "589e184bb66611e5a5b280c68c653617": {
+    "text": "Je n'ai pas besoin d'aide pour tuer ces Veks, vous savez."
+  },
+  "8c94b8c929f5280e1d6a1077a7458e39": {
+    "text": "Hey ! Laissez m'en quelques uns !"
+  },
+  "15903378bbfee9372afbc66f8df21e90": {
+    "text": "Bien joué, #main_second."
+  },
+  "8935472d0d98d6fa5f7f42032a94cee1": {
+    "text": "Proprement fait, #main_second."
+  },
+  "eb839ed1972d84c607ccdb749d0a49fe": {
+    "text": "Un Vek de moins à s'occuper..."
+  },
+  "eb1666f428a79ae4a9e8331ea058be32": {
+    "text": "Opérations de nettoyage Vek en cours."
+  },
+  "7d9e41af5257ecb28651f3d67d263e99": {
+    "text": "La c-c-créature est morte."
+  },
+  "66f4195712bdbfd867bdcf4b6636b49a": {
+    "text": "Le Vek... vous-vous l'avez tué."
+  },
+  "32c6d3138e9d8b4ae835593d6db5271b": {
+    "text": "Encore une menace de moins pour la sécurité humaine."
+  },
+  "32f7d08854d196c69fb9070169f6c646": {
+    "text": "En utilisant des normes moins strictes mais une mort parfaitement adéquate.",
+    "review": true
+  },
+  "16b4de7bff8d1b01681bdf28b812201e": {
+    "text": "Bravo !"
+  },
+  "090261e08e581ceb02e347e9c6b211a4": {
+    "text": "Excellent, Pilote #main_second !"
+  },
+  "77d2a534eab0c7232cd50dae3dc7dace": {
+    "text": "Compétent."
+  },
+  "9683cde23c3f694fb100479057b72d40": {
+    "text": "Voyons si vous ne pouvez pas faire mieux."
+  },
+  "a0e553aa23c83cf5b7ea0d8512c40b79": {
+    "text": "Mort confirmée."
+  },
+  "6ff5d24d30f13dd5d47622bb1aa70c49": {
+    "text": "Ne soyez pas complaisants ... il y en a des milliers d'autres."
+  },
+  "2f2000155465d1f12e87f3b6e50549be": {
+    "text": "Chaque Vek tué sauve d'autres vies humaines."
+  },
+  "c323d644d1bfe54dedbbfaf503c0dae7": {
+    "text": "Efficacement mené."
+  },
+  "5ba772b782689bbb8fba12f3022fa953": {
+    "text": "Nos capteurs détecte un Vek en moins."
+  },
+  "7398af875550623223e58a6a02456f36": {
+    "text": "Mise à jour : La cible a été détruite\nCause la mort : Tir ami"
+  },
+  "4ff4df045d3733471e55dd781d162db3": {
+    "text": "Une fois engagés, les Veks ne semblent pas pouvoir arrêter leur attaque."
+  },
+  "8253431158c3b1f4e4f475008d71d812": {
+    "text": "Regardez moi ces simples d'esprits."
+  },
+  "76e837f6624e02d399a91c631024ed80": {
+    "text": "Les Veks se frappent les uns les autres."
+  },
+  "a1e6c11095178d35f132879008a19e5f": {
+    "text": "Dîtes moi encore, pourquoi est-ce que nous perdons contre ces choses ?"
+  },
+  "f41fd32ba62f4017f7adeb41c6d063ca": {
+    "text": "Ça nous évite de nous en occuper..."
+  },
+  "9ed13ea7dfbfbf4110d68facf80cec9f": {
+    "text": "On dirait que les Veks se nettoient eux-mêmes."
+  },
+  "40f8e6d6d3cbdc46504f124171abdc76": {
+    "text": "C'est bon de voir les Veks se battre entre eux."
+  },
+  "68adb441f37c3eb68657fbb37977b514": {
+    "text": "Les Veks nous assistent dans leur nettoyage."
+  },
+  "894f65ac31924c053c8cae73060e1a7f": {
+    "text": "Si seulement ils pouvaient s'éradiquer complètement les uns les autres."
+  },
+  "d52c1aac5417304aa4997fa396af0d5a": {
+    "text": "Parfois, on pourrait même croire que certains Veks sont de notre côté."
+  },
+  "ab5fb5877834a935e40579c1f9cd2bb1": {
+    "text": "J'en ai vu un se prendre dans les pieds de l'autre !",
+    "review": true
+  },
+  "446250e2f951ecf0e7056c341dfad77f": {
+    "text": "Laissons les s'entretuer."
+  },
+  "dc84a8d3ddc28d869151f1cd158385ea": {
+    "text": "Intéressant. Quand les Veks attaquent, ils ne peuvent pas s'arrêter d'eux-mêmes."
+  },
+  "1a8927ee184c66210c86a242e92e730a": {
+    "text": "C'est comme s'ils n'avaient pas les capacités motrices nécessaires pour maîtriser leurs propres attaques ..."
+  },
+  "4b7430eb63a9e174744496b033bc576a": {
+    "text": "Intéressant. Ils ont beaucoup de mal à s'adapter à des changement de conditions que nous autre pilote humain ou I.A..",
+    "review": true
+  },
+  "061ea57d53f0b103025f1efb1101b4d0": {
+    "text": "Les Veks accélèrent leur propre cycle de vie."
+  },
+  "111ed4da0c46debb34461f619c57314f": {
+    "text": "L'infestation Vek fonctionne contre elle-même."
+  },
+  "3f6d241c998c2c6a291c6dd597016006": {
+    "text": "Les Veks se fauchent eux-mêmes."
+  },
+  "8ba3e9eb0d6875d8430d35d6cd974ec2": {
+    "text": "Les Veks recyclent des Veks."
+  },
+  "b877b3263b15f89dcdeb95ae18d75fc0": {
+    "text": "Les Veks dispersent eux-mêmes les nutriments d'autres Veks."
+  },
+  "ace8d0aa7e4d40582cd8af19919d0d80": {
+    "text": "Pourquoi ces Veks FONT ça à d'autres ?"
+  },
+  "5acd8db99c16e2b21fb64c577b09611b": {
+    "text": "Oula. Les Veks peuvent être leurs pires ennemis"
+  },
+  "4ce741500b57f86bc597f20b51e52f2d": {
+    "text": "Les Veks nous facilitent la tâche."
+  },
+  "aae1c8cb465a63e8e5cef7277d2e5d42": {
+    "text": "Les Veks font le travail à notre place."
+  },
+  "72cf76e90f3880ff69c7873557377cd6": {
+    "text": "Quelqu'un peut m'expliquer pourquoi nous perdons contre ses gars ?"
+  },
+  "7f4c6dd91b813e3baeb7bc7a8fc98cf2": {
+    "text": "Les Veks auraient tout à gagner à être plus disciplinés."
+  },
+  "85f6286bd2244696e3625c8a38123705": {
+    "text": "Un problème de moins à s'occuper, merci aux Veks..."
+  },
+  "65924795a1a5c259d96c3aa90e01d78d": {
+    "text": "La dangereuse substance Vek se consume de lui même."
+  },
+  "f785837ce215840c2f0d2b19565d3dbc": {
+    "text": "Les Veks ont l'air de nettoyer la zone de travail d'eux-mêmes."
+  },
+  "db4b8b5c8719b1c164dfca7bc42af71c": {
+    "text": "La dangereuse substance Vek se débarrase de la dangereuse substance Vek."
+  },
+  "c4813f01f2311a0ba2f0cc0c74d2fff8": {
+    "text": "Pou-pou-quoi se font-ils du m-m-mal entre eux ?"
+  },
+  "28be5251bb27f4b0afb358ac3d9448cb": {
+    "text": "Ils s-s-semblent mettre trop de temps à s'ada-adapter aux changements de conditions."
+  },
+  "f8d88fb6b0f7a25a6ad68792ecf3e50e": {
+    "text": "Ils ne s-s-semblent pas capable de s'adapter aux changements de conditions sur le terrain."
+  },
+  "6ba4347618e650ec852c5635af5c9921": {
+    "text": "J-je ne pense pas que cela soit intentionnel... Ils sont j-j-juste tr-trop lent à réagir."
+  },
+  "a097b5f1db78897ee4cb589fd1a1ecca": {
+    "text": "Le Vek a conduit une excavation non autorisé sur un rival Vek."
+  },
+  "81711c722660a8ad958d341e10bf72bc": {
+    "text": "Je ne comprends toujours pas pourquoi les Veks tuent les leur.",
+    "review": true
+  },
+  "d44c28dde65c8266d70c70dc374b30cf": {
+    "text": "Les Veks tuent les leur. Quelles créatures stupides."
+  },
+  "0f87362f776abf4244ec31109e146d38": {
+    "text": "On dirait que les Veks nous prêtent main forte."
+  },
+  "f6a8f50f83b31aca2768f7edc14d7635": {
+    "text": "Efficacité Tactique : Optimale"
+  },
+  "01d70f566866c6b10b8cd63521597fc0": {
+    "text": "Mise à jour : Cibles Détruites"
+  },
+  "966c39c511cde8aba4ec67f5758178e0": {
+    "text": "Mise à jour : Cibles Effacées"
+  },
+  "a942350e72de4238eeede3122668140c": {
+    "text": "J'en ai eu deux !"
+  },
+  "54f687cdbbd924efed377dc56ebe2ae2": {
+    "text": "C'est un bon moyen de conserver des munitions."
+  },
+  "374b954df3424ec0e6a091800ef2b355": {
+    "text": "Mets en deux pour moi."
+  },
+  "365a94dabaa03c1c0fe5d202dc383b52": {
+    "text": "Singh serait fier."
+  },
+  "fa200c99b60280f582c873d5c4ba631d": {
+    "text": "J'espère que cela montre que je suis bien en forme.",
+    "review": true
+  },
+  "3695952525d7d4208bf3454aa7f365a6": {
+    "text": "J'espère que Detritus a enregistré ça sur leurs capteurs..."
+  },
+  "99c60da3bb9147b9d8804e6974a22c0b": {
+    "text": "Mettez les en ligne, je vais m'en occuper."
+  },
+  "b5ad00bfb3acbb2f332b3fa6a8ec7a5c": {
+    "text": "J'adore lorsque les Veks se laissent se faire ouvrir."
+  },
+  "3d2a159c7bdbfdf3e8763af9b82b8342": {
+    "text": "Deux pour le prix d'un."
+  },
+  "709635c28ebdc9050fc6dbedb9779333": {
+    "text": "C'est moi qui ai fait ça ?"
+  },
+  "56f9ad06c86ca0829e965152de98cce0": {
+    "text": "Je les ai eu !"
+  },
+  "c835a23b91e56d68315574c0777ca311": {
+    "text": "Avec précision."
+  },
+  "db94ff769e7c3eb1656bceb2a9e1cb04": {
+    "text": "Deux abattus. Effort minimum, résultat optimal."
+  },
+  "0f8521513b8fda8ff505c43753061dbc": {
+    "text": "Tout est une question de positionnement. La position est la clé."
+  },
+  "4f09dcbffcc611f65a525b2ee157197a": {
+    "text": "Ces Veks iront nourrir le sol."
+  },
+  "ad89bffd26c98bc8669f2a5d389b9ea2": {
+    "text": "Les Veks ont été recyclés."
+  },
+  "f2544e281356693b2142ba28ee885bb1": {
+    "text": "Multiple vies Veks recyclées."
+  },
+  "f09676c60a5a54ee249c7278d740dbe9": {
+    "text": "Puisse ces Veks nourrir le sol."
+  },
+  "642ffda4165dfc2f2ba72c8a2dac1408": {
+    "text": "Wouah ! J'... euh... ai voulu faire ça ?"
+  },
+  "2729fdaed3c2423712ce8ffffbfa1e58": {
+    "text": "Vous avez vu ça ? C'était moi !"
+  },
+  "5fc837099fc38948828957b0aa029bb6": {
+    "text": "Et ça n'est pas fini !"
+  },
+  "d74c3d49a0c3e59b97bb0368f3cce672": {
+    "text": "J'ai fait un coup double !"
+  },
+  "71899cfe6f5c0796255a3e3cc71a6610": {
+    "text": "J'ai... tué... deux Veks d'un coup. Je suppose que je n'ai pas perdu la main."
+  },
+  "9de69d7e9b08eda816eeed59ef739cf7": {
+    "text": "Deux Veks abattus... Recherche de nouvelles cibles."
+  },
+  "884494a432e4bcc133007e24225a06f5": {
+    "text": "Deux pour moi !"
+  },
+  "8c6ac6e1ac5b0fa9e85f611a225df001": {
+    "text": "Essayez de faire comme moi, les autres, hein ?"
+  },
+  "e06c4973f2b0957b47c8e58ba4d5733a": {
+    "text": "Deux cibles supplémentaires éliminées !"
+  },
+  "dd077383968e702c86558ea54512f8d8": {
+    "text": "Deux Veks abattus !"
+  },
+  "34496a5968bb3b5c3aa0394fabf9837f": {
+    "text": "Élimination de substance Vek dangereuse."
+  },
+  "198c01de17046ff9c1a55643bf17b14d": {
+    "text": "Opération de nettoyage Veks en avance sur les prévisions."
+  },
+  "cb70e26ecb858a5a4db3198ca0097e8c": {
+    "text": "Désinfection de substances Veks de la zone."
+  },
+  "c3a44e24f20b3b78d18f6d3f34515a99": {
+    "text": "Substances Veks supprimées de la zone."
+  },
+  "117afd7696f2f10290d1666b8fbfe952": {
+    "text": "C-c-c'est m-m-moi qui ai fait ça ?"
+  },
+  "863361bd864e10498105b6a024cb2829": {
+    "text": "Je les ai tué ? Tou-tous les deux ?"
+  },
+  "a47ede4448bbe77454592552de1441d4": {
+    "text": "Je les ai tu-tué tous les deux ?"
+  },
+  "946c88ab5dae8034a04d4fcea5c2f180": {
+    "text": "Je... Je ne pe-pensais pas que cela aurait marché sur eux."
+  },
+  "0cec43b317fea9a9e35248b5992ec879": {
+    "text": "Les Veks ont été excavés."
+  },
+  "8e70506bda4f4e2ff230e754f3cc2d83": {
+    "text": "Les ressources utiles ont été extraites des corps Veks."
+  },
+  "dd48f83347534c7a64c57b44eab589b5": {
+    "text": "J'ai éliminé les menaces Veks pour la sécurité humaine."
+  },
+  "00aa9e43c096e3696c23cf71e607f122": {
+    "text": "Ces Veks ont été éliminés humainement et en tout sécurité."
+  },
+  "bb0699d1612d7e6571b95662bfc3d82f": {
+    "text": "Je suis relativement certain que le premier Vek n'a pas souffert. En revanche, le second..."
+  },
+  "1d7b1723980b3825c3dad3650232100e": {
+    "text": "Voyons quel autre Vek je pourrais aligne !"
+  },
+  "5a5a083278287520137691be8f1e2424": {
+    "text": "Vous êtes juste en train de crâner."
+  },
+  "ddb00928aeeee954758417cf45deeb0a": {
+    "text": "Montrez moi comment vous avez fait."
+  },
+  "9ecac345c518aafb9a8f2bbb43057251": {
+    "text": "On dirait que j'ai besoin de faire des efforts..."
+  },
+  "0368c17f474eb4c878596ee28b495170": {
+    "text": "Vous méritez une promotion."
+  },
+  "a7a4bda2288b33de04cac57b7220f9c0": {
+    "text": "Pas mal, le bleu."
+  },
+  "23fa39faead159eabb8ab2229c6967b2": {
+    "text": "Bien joué, #main_second."
+  },
+  "f44029da6fad31be410d642b80c9897f": {
+    "text": "Vous cherchez la promotion ?"
+  },
+  "57ad9ccbe4f14c16dbe0e2fd332f78e2": {
+    "text": "Ça fait deux crans pour toi."
+  },
+  "4266a87705a53ce8ade5aea092313072": {
+    "text": "Quand nous rentrerons, ce sera ma tournée."
+  },
+  "6ff9a0c79983d3dba055a02e6f1601e6": {
+    "text": "Ça leur apprendra !"
+  },
+  "9148d2894b2fc08246ecfdf9550be655": {
+    "text": "Beau travail !"
+  },
+  "367185aba8b455b73980322e28716f67": {
+    "text": "Bien joué, #main_first !"
+  },
+  "2fa4407cdab32007fc2e9e2401f2ca6f": {
+    "text": "Deux de moins à s'occuper !"
+  },
+  "f67b4025419630a5060ca2aa65c591c2": {
+    "text": "Belle frappe."
+  },
+  "8c22fa4c280d7509b5af3b02c61e9568": {
+    "text": "Parfait."
+  },
+  "d8f8a74dc500828d992b120d2f5ad181": {
+    "text": "Vous auriez pu en blesser un pour mes études..."
+  },
+  "69921f40d31ede43fc5778247e310978": {
+    "text": "Belle tactique.",
+    "review": true
+  },
+  "c6a38599bf65b94bd477470c7a9ec1b9": {
+    "text": "Bel exemple de conservation de munition."
+  },
+  "a4fa0b2b4d1d3eee7db0171eb4e933f1": {
+    "text": "Le cycle de vie Vek a changé.",
+    "review": true
+  },
+  "54dbfc46e65adc5996f7a7d3a7e03abd": {
+    "text": "Vous avez marqué deux fois !"
+  },
+  "fec07eea30043544048edc649d64c89f": {
+    "text": "Wouah. Rappelez moi de ne pas vous emmerder, #main_first !"
+  },
+  "620ef78f4fc713f1f11fef683a6af7b5": {
+    "text": "Qu'est ce qui est mieux qu'un Vek mort ? DEUX Veks morts !"
+  },
+  "55b32f9ad9c643637af2604142679b2f": {
+    "text": "Vous avez besoin de NOUS ou vous voulez tout, tout seul ?"
+  },
+  "8edf01b48fa36f89ab13961ee77e8999": {
+    "text": "Beau travail. Maintenez la pression."
+  },
+  "f8889b08423b30c2fc93f07a2ec4ce50": {
+    "text": "Bien joué, #self_second."
+  },
+  "ebe80841702a5bc6a4da11e52c87ea65": {
+    "text": "Humm, pas mal, pas mal... Mais je pense que j'aurais pu mieux faire."
+  },
+  "10232f1ffd8ef199b6bcc3ee22a78395": {
+    "text": "Deux Veks ? Pas trop mal."
+  },
+  "f2c5e80ba6b3ff41fa1aa8f24d733e7a": {
+    "text": "Bien joué, #main_second."
+  },
+  "ca7a77d4d26d8e331d0acea5f997ae62": {
+    "text": "C'est une façon de réduire le cheptel, #main_second."
+  },
+  "0f324f52340fda8752c41bcda4f48df6": {
+    "text": "Allez, #squad, nous n'allons pas laisser #main_second tout faire ?"
+  },
+  "f92d85a12f2d43d676c459d3b67371c1": {
+    "text": "Vous les avez tué tous les d-d-deux ?"
+  },
+  "1499e4e5ebfe29ec3247af32ee225acf": {
+    "text": "Je-je suis impressionné."
+  },
+  "b8d652805eb8a31996158a89e49c7208": {
+    "text": "Peut-être que nous au-aurions encore une chance..."
+  },
+  "505b57d7f997b66a78f3ecd23d19ee98": {
+    "text": "Encore d'autres menaces enlevées en tout sécurité."
+  },
+  "c0f64aba4f8efdaabef752a98b046a44": {
+    "text": "Cette attaque est proche de mes propres capacités."
+  },
+  "32655fca9ec75e1b45485d2fd7605671": {
+    "text": "Substances Veks désinfectées."
+  },
+  "f30d207aecf6a6ddb644ce227e8c9256": {
+    "text": "Spectaculaire !"
+  },
+  "2b899a4fc3dbc10d4d1731acd06e329b": {
+    "text": "Magnifique !"
+  },
+  "0cde50d4c5a0ce3877c45e9ff9af10e5": {
+    "text": "Impressionnant."
+  },
+  "3f43925d6f94909e623035dad847142f": {
+    "text": "Utilisation efficace des ressources."
+  },
+  "36a1967985093e17e5780edb7c32e27e": {
+    "text": "Quelles prestations expertes."
+  },
+  "989d9b011a250fd2df9f8512fea0dafb": {
+    "text": "Vous, #squad, savez comment mener votre affaire."
+  },
+  "bdf76be9809156208cc3765b05a99b76": {
+    "text": "Efficacité Tactique : Optimale+\nMise à jour : Catalogage de nouvelles tactiques"
+  },
+  "bf1b36df7344c28258d3b766adc656ff": {
+    "text": "Mise à jour : Cibles détruites\nCause de la mort : Tir ami"
+  },
+  "3daf43f47ea44823b54671b868712d6b": {
+    "text": "Mise à jour : Cibles détruites\nCause : Défaillance d'identification 'ami ou ennemi'"
+  },
+  "c2bbc63268e0a985ebf24fb1b4101985": {
+    "text": "Vek abattu par un autre Vek, Commandant."
+  },
+  "df5815e89c0c958c8badce1ad4aee70b": {
+    "text": "Ils sont de notre côté maintenant ?"
+  },
+  "8997dae1ea8243993af5b8f39e9104e9": {
+    "text": "On dirait que les Veks mènent leur propre opération de nettoyage."
+  },
+  "74d6470e55ec31caf758429bc61d0abd": {
+    "text": "Si seulement cela pouvait arriver plus souvent..."
+  },
+  "dfbe4323dc1e64f146bdc2bd5df75819": {
+    "text": "Je ne peux pas croire que les Veks nous volent nos tués..."
+  },
+  "7de78ba8c2ee9d578fef3fbe86b61943": {
+    "text": "Ils tuent les leurs !"
+  },
+  "a29680564d19a4fa27de9e6beab81f51": {
+    "text": "Quand les Veks attaquent, ils ne peuvent pas s'arrêter d'eux-mêmes."
+  },
+  "6a4b1445486bbacae743ce5b0a6f0be5": {
+    "text": "Ils attaquent leur propre camp."
+  },
+  "58a614fa05627a714959645ed3d3f06d": {
+    "text": "Créature fascinantes. Quoiqu'un peu lente à s'adapter."
+  },
+  "823e845ee2108c3f8ae8289cf700e1c6": {
+    "text": "Les Veks ont commencé à se faucher entre eux."
+  },
+  "eb057d363afc6135ffa63d6bee6e695d": {
+    "text": "Les Veks ont commencé à disperser les nutriments de leur propre genre."
+  },
+  "4bf294d0c6c3e2d04db5eade14ca579d": {
+    "text": "Regardez ces Veks, ils se tuent entre eux !"
+  },
+  "4025ca7adf83a9f86f830fbbe6a2569c": {
+    "text": "Regardez ces Veks se battre me rappelle un peu lorsque mes frères et moi on se battait..."
+  },
+  "a1672123011c4a4103c539b5fe81b4d7": {
+    "text": "Ces Veks sont idiots."
+  },
+  "4c7a4d4efe248c1b9ea8a00049ccfdc2": {
+    "text": "Je ne peux pas croire que les Veks ont survécu aussi longtemps."
+  },
+  "9d36a2ff2caa282020f14af5598546ad": {
+    "text": "Les Veks sont en train de nettoyer le terrain pour nous."
+  },
+  "0c3250407cd829a9a5348864affa3e73": {
+    "text": "Ils se tuent les uns les autres - mais surtout ne baissez pas votre garde."
+  },
+  "db081dad3842b8cf79b442bb383ccb1a": {
+    "text": "Le matériaux dangereux Vek se consume de lui-même"
+  },
+  "a205ba7549b53cd917c5e95685258f61": {
+    "text": "On dirait que les Veks nettoient la zone de travail eux-mêmes."
+  },
+  "572274f35e6b963707f664cec98c3a85": {
+    "text": "Le danger Vek s'occupe de supprimer d'autres dangers Veks"
+  },
+  "35b91edc12dd6e117dfe9125cd046f39": {
+    "text": "Les Veks ont conduit une excavation non autorisée sur d'autres Veks rivaux."
+  },
+  "08c4d56e937b6c57f0e9756f1efb1796": {
+    "text": "Notez que parce que l'on peut traverser via une montagne détruite (ou un bâtiment), alors certaines lignes de déplacement montreront que les joueurs peuvent se déplacer à travers ces tuiles.",
+    "review": true
+  },
+  "25713628ef6ff3485f1e136934dc8c52": {
+    "text": "Mise à jour : Nouveau chemin disponible."
+  },
+  "05fb1336bfbf1e3dca6f27d70c181d3a": {
+    "text": "Bon terra-formage à l'ancienne..."
+  },
+  "914b8eb18c0586b0a2e1292509a626a9": {
+    "text": "Rien de tel qu'un petit terra-formage à l'ancienne..."
+  },
+  "3745eb44e0eaf87412cc169a21792324": {
+    "text": "Chez R.S.T., nous avons l'habitude de casser des montages avant le petit déj."
+  },
+  "e5f087a15a852af90de51789f319a169": {
+    "text": "La montagne n'est plus un obstacle."
+  },
+  "ff85ae79b397d09da5ec5fb679618b87": {
+    "text": "La montagne a été enlevée."
+  },
+  "b611a2f8305d48b9b74b55ed0ff8b1b8": {
+    "text": "La montagne a été enlevée."
+  },
+  "d3b9b9a56b671e2fb1bd0b4c71419a30": {
+    "text": "Leveled it."
+  },
+  "873b5e67948369fd25c359d33e86a294": {
+    "text": "Une montagne en moins."
+  },
+  "567f13cb65a090f1d5af3047057da92c": {
+    "text": "Nivellement du terrain de jeu."
+  },
+  "291c0378b4a7c1bdc7321d2316640cf8": {
+    "text": "La montagne s'est effondrée !"
+  },
+  "baadd0340ef3b7102c5a43734f41d84c": {
+    "text": "Il vaut mieux que je le fasse moi-même plutôt que les Veks gâchent tout, n'est-ce pas ?"
+  },
+  "40190d9aef06b3bd329f725f09387aff": {
+    "text": "Obstacle enlevé."
+  },
+  "cbe84c246aff03d0c50fecd8da1fa7bc": {
+    "text": "La puissance de feu de ces Mechs est considérable."
+  },
+  "4d86313fd8d37d6833908bcf81a3af53": {
+    "text": "La montagne a été dispersée."
+  },
+  "cda29929e3b11d6fe24b1436a972cae1": {
+    "text": "Est-ce que... est-ce que j'ai explosé une montagne ?"
+  },
+  "f41b82ec95429586a3c14eca943af69d": {
+    "text": "Wouah. La montagne est... partie."
+  },
+  "7c5d6398b59ef3c70d6c94ebe7c3939f": {
+    "text": "Terrain nettoyé."
+  },
+  "5a7e5a243f50adb65b558c4bdf6cf6e5": {
+    "text": "Au moins cela nous donne plus de place pour manœuvrer."
+  },
+  "cfa86d701499fae6dd3d730ca29395ff": {
+    "text": "Appelez moi juste 'Roi de la Montagne'"
+  },
+  "96945e6df9d83145f387c47a8ca0a01b": {
+    "text": "Une montagne, maintenant des décombres."
+  },
+  "2356e37af17eb232f1d6d992a0fc96e6": {
+    "text": "La montagne est partie."
+  },
+  "68539534bc8a5e0dd8edd799d560ae51": {
+    "text": "Au moins cela nous donne plus de place pour manœuvrer."
+  },
+  "93380a52307ae35c58aa6b4ae9a8acd8": {
+    "text": "Éradication de la montagne, terminée."
+  },
+  "c59e0ade65de4d9b56f17bd49b1647a7": {
+    "text": "La montagne a été éradiquée."
+  },
+  "90b60e7564943e20c271451560a1a94d": {
+    "text": "La montagne a été démolie avec des moyens extrêmes",
+    "review": true
+  },
+  "f76d8aa1fa0c9b849bb95cf7ed7929fe": {
+    "text": "J'-j'ai détruit une de ces montagnes."
+  },
+  "589b20daa6a4f0cedfea4c048e283236": {
+    "text": "Excavation de la montage, terminée. Pas de ressource significative obtenue."
+  },
+  "b314f9029fd3cf9ca09a50476c16dcc6": {
+    "text": "N'y-a-t-il pas une intelligence R.S.T. de bas étage qui pourrait faire ça à ma place ?"
+  },
+  "4068be42fc01d80ca261e6ffc952e954": {
+    "text": "S'il vous plaît, ne dites pas dans mon C.V. que je peux désintégrer des montagnes."
+  },
+  "9d7d5c268ad54f2775d00e0b84baf268": {
+    "text": "Alors comme ça, on fait du terra-formage ? R.S.T. embauche, vous savez."
+  },
+  "afb16df2b6c173eacdf4302e14371319": {
+    "text": "Chez R.S.T., nous avons l'habitude te casser des montagnes comme celles-ci avant le petit déj."
+  },
+  "6d579411e8625470ab4ad23e60dd8b2d": {
+    "text": "Regardez les décombres !"
+  },
+  "d1bba4160f64bd6f43882edddc09e8b9": {
+    "text": "Bien, au moins ça a dégagé la vue."
+  },
+  "c466a7bb19eb19419c6f37004da64fb6": {
+    "text": "Au moins cela nous donne plus de place pour manœuvrer."
+  },
+  "b66264f691721b9457e66f768a1be40f": {
+    "text": "Il vaut mieux que nous le fassions nous-mêmes plutôt que les Veks, je suppose ?"
+  },
+  "136f66d8dba8efe9c377c37427e8d2b4": {
+    "text": "Gardez vos forces pour les Veks."
+  },
+  "8146395270eb09d672a5dcd33c79bc03": {
+    "text": "La puissance de feu de ces Mechs est incroyable."
+  },
+  "3b2ab1513f9a38f143044f843c5b786d": {
+    "text": "La montagne est recyclé. Le nombre de terres arables a augmenté."
+  },
+  "20fc6ce254959329bb9595985325df26": {
+    "text": "Wouah ! Est-ce... est-ce que j'ai cassé une montagne ?"
+  },
+  "0881075fc397c1a8b1782d5904cffacb": {
+    "text": "Wouah. Ces Mechs me font peur parfois."
+  },
+  "8c092d6eb74d8068cd321e19ec4bb6df": {
+    "text": "Vous cherchez un travail de terra-former chez R.S.T., #main_second ?"
+  },
+  "3b4e24f28bdbbed00ab1b618e96d835c": {
+    "text": "Au moins cela nous donne plus de place pour manœuvrer."
+  },
+  "816a0d64c388e1eb84d7681b0a706de5": {
+    "text": "Au moins vous nous avez donné plus de place pour manœuvrer."
+  },
+  "702dd352f65fb3d8e1d55a2ceb72d8b4": {
+    "text": "Si je ne te connaissais pas mieux, j'aurais cru que t'étais en colère."
+  },
+  "ab6da42779e0b67f1de6c6b38faa5411": {
+    "text": "Excavation de la montagne détectée. Les scanners indiquent qu'aucune ressource significative n'a été obtenue."
+  },
+  "2c118027344c6553d2a080865fcbff0a": {
+    "text": "Il vaut mieux une montagne qu'un bâtiment..."
+  },
+  "d2a30afd4f9e57d6036736230bc44cac": {
+    "text": "Dommage que R.S.T. ne puisse pas rassembler les Veks pour aider à terraformer..."
+  },
+  "a44d503bec4d161cfa5190fd6abdb3e1": {
+    "text": "Au moins ça nous a fait plus d'espace."
+  },
+  "470ac622ec48c2609797ef8f2c199344": {
+    "text": "Il vaut mieux ça qu'un bâtiment."
+  },
+  "87e883f32066eb9777b41baf1c05a9c8": {
+    "text": "Qu'a fait cette montagne pour mériter cela ?"
+  },
+  "8c4b01b4d3d5e274386d46941ff3221b": {
+    "text": "Je me demande s'il a vu la montagne comme un rival alpha?"
+  },
+  "979fa2746d63f9358c2e4b3717973126": {
+    "text": "Si la montagne ne vient pas aux Veks, les Veks viendront à la montagne."
+  },
+  "b88f12ff03c6c720350fb959d94240fd": {
+    "text": "Le Vek a explosé la montagne."
+  },
+  "dc34365d69a6abd13e3dcb4dcafcbe59": {
+    "text": "Le terrain a été nivelé et est maintenant adapté pour des plantations."
+  },
+  "0bd3a4c5723057c266d4c770d887ed19": {
+    "text": "Peut-être que les Veks ont vu la montagne comme un rival potentiel ?"
+  },
+  "e348b00e32c9e7e974a686994f93434d": {
+    "text": "Faut croire que le Vek se sentait menacé par les montagnes..."
+  },
+  "4eb0c88b200d40c29c826cf2968ea2a1": {
+    "text": "Une montagne de moins à se préoccuper, je pense..."
+  },
+  "de7ced37a7d5af9e6314f11601670f85": {
+    "text": "Au moins le Vek nous a libéré de l'espace pour manœuvrer..."
+  },
+  "5c529c0a95c8c58000ddd847dbb8c7e6": {
+    "text": "Un Vek non autorisé a démoli la montagne.",
+    "review": true
+  },
+  "6a8d1390b560f03e0aed1ea772e3fb72": {
+    "text": "Le danger Vek effectue des démolitions non autorisées dans la région."
+  },
+  "47cb0bf3b93246c9e132675263b3bcb7": {
+    "text": "Opérations minières Vek non autorisées détectées."
+  },
+  "647dfbb91ded5199f89474bdc063d72a": {
+    "text": "Le Vek a détruit la montagne."
+  },
+  "8c2b605a78894f5e427d7ca9e55e6124": {
+    "text": "Attention : Réseau d’Énergie approchant du niveau critique"
+  },
+  "7828af397b72a7d43fc1d6a4d6d29583": {
+    "text": "Euh... Le Réseau est proche du niveau critique !"
+  },
+  "71616d37f25ca78911158f9bee2fc4ea": {
+    "text": "Nous perdons de l'énergie ! Encore un coup, et c'est terminé pour l'île !"
+  },
+  "bf685db4bd8c9eb78a1a91a5ab813752": {
+    "text": "Protégez les bâtiments. Le Réseau est presque HS."
+  },
+  "28c280112a9e51f62a6ae51d3f0e5b04": {
+    "text": "Le niveau du Réseau d’Énergie est proche de 0, Commandant !"
+  },
+  "33080b7f21656ba78fd3e1674b2ca284": {
+    "text": "Les ingénieurs indiquent que le niveau du Réseau d’Énergie est proche de 0."
+  },
+  "6caceb4cfa7c3790d450eb13a27866d5": {
+    "text": "La puissance de secours est presque épuisée - lorsqu'elle sera finie, ça sera terminé pour nous."
+  },
+  "ffbfc3db56498fc8880d5d35c98eca3a": {
+    "text": "Le niveau du Réseau d’Énergie est presque à 0 !"
+  },
+  "61b9adf668c434fe021345c879004681": {
+    "text": "Le Réseau d’Énergie va tomber ! Protégez les bâtiments !"
+  },
+  "0a879ac8bbf7ca05c246d77aa1d119ca": {
+    "text": "Le Réseau d’Énergie va tomber !"
+  },
+  "9b7e54129bd62ab017dc28f0e291598c": {
+    "text": "Nous allons perdre le Réseau d’Énergie !"
+  },
+  "a2199664b2952ea851d6e950a1da9020": {
+    "text": "Le Réseau d’Énergie est au rouge ! Mais nous pouvons le sauver, je sais que nous pouvons le faire !"
+  },
+  "4844d04470f77cdde38f8779d9f7ce29": {
+    "text": "Le Réseau d’Énergie est en train de tomber ! Nous devons protéger les bâtiments !"
+  },
+  "e789b591e273ae861e4fc855356dc23e": {
+    "text": "Notre volonté est forte mais pas le Réseau d’Énergie."
+  },
+  "ae5c85023091eb05fec760739530779d": {
+    "text": "Le Réseau d’Énergie est train de tomber. Devrons-nous mourir avec lui ?"
+  },
+  "1a2165a23da17d88b5fa26914b89aea0": {
+    "text": "Le Réseau d’Énergie est en train de mourir. Nous devons le protéger."
+  },
+  "e1a4151f7e18aae4c635668fa18bab90": {
+    "text": "Nous perdons le Réseau d’Énergie ! Un autre coup et..."
+  },
+  "53228de0d0e740c29a09a041363bb095": {
+    "text": "Nos Mechs sont alimentés par le Réseau d’Énergie ! Il doit rester intact !"
+  },
+  "bb5af115ef11166d4c6e6469737a7022": {
+    "text": "Le Réseau d’Énergie ne va plus pouvoir nous alimenter en énergie."
+  },
+  "c580e478b2cf111e9995c312b09f5098": {
+    "text": "Les conditions de combat endommage le Réseau d’Énergie.",
+    "review": true
+  },
+  "615391337810fbf1c0291ac9e0443025": {
+    "text": "Le Réseau d’Énergie n'est pas adapté pour des conditions de combat."
+  },
+  "22a656eb4b2ec7c27e00c08433780784": {
+    "text": "Mauvaise nouvelle, #squad - le Réseau d’Énergie est au rouge !"
+  },
+  "d92a435df39992576ac46b0a3cf273d4": {
+    "text": "Encore un coup et le Réseau d’Énergie va griller !"
+  },
+  "fc210d556ff284c683841bdab9204c80": {
+    "text": "Protégez le Réseau d’Énergie sinon nous y passons !"
+  },
+  "ff4d432ce657985edf26f3e34f790cba": {
+    "text": "Le niveau du Réseau d’Énergie approche le niveau critique."
+  },
+  "24ad29ba50d944e0225d3483a1021bef": {
+    "text": "Le niveau du Réseau d’Énergie est proche de 0."
+  },
+  "b1482519b790b2245f9ecc34c1f6b0d4": {
+    "text": "Euh, on dirait que nous n'avons presque plus de jus. C'est mauvais pour nous, non ?"
+  },
+  "8b71e463e01823f1be269aab6076bd01": {
+    "text": "Le Réseau d’Énergie est presque mort."
+  },
+  "0af1942648bddbdb627f0bb960e620bd": {
+    "text": "L'analyse du Réseau d’Énergie indique que nous sommes presque à plat. Si cela continue, l'île sera perdue."
+  },
+  "6a80b56d96672a2b0d1b8a3545b47637": {
+    "text": "Le Réseau d’Énergie est au-au rou-rouge ! Nous-nous de-devons faire quelque chose !"
+  },
+  "bace80d958867ab8c1cf819408701914": {
+    "text": "Je ne souhaite pas vous alarmer tous, mais le Réseau d’Énergie est presque HS, s'il prend d'autres coups..."
+  },
+  "70cad11a134109ef3334007c51a887fa": {
+    "text": "Je ne souhaite pas être pessimiste, mais le Réseau d’Énergie est presque HS."
+  },
+  "578e76cbb3c17a2a697e431314bfee88": {
+    "text": "Le Réseau d’Énergie est en train de lâcher ! Nous n'avons presque plus d'énergie !"
+  },
+  "f85eb60efb3e395c6df724c1af07a748": {
+    "text": "Le Réseau d’Énergie est en train de lâcher. Encore un coup et nous sommes mort."
+  },
+  "78a9ba9f7a831fb6b0df5f41440c65db": {
+    "text": "Si le Réseau d’Énergie prend d'autres coups, les réacteurs de l'île seront complètement HS."
+  },
+  "5ac3c6a537364bde835aa59453a2a7d0": {
+    "text": "Nos ingénieurs indiquent que le niveau du Réseau d’Énergie est critique !"
   }
 }
