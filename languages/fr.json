@@ -11938,5 +11938,64 @@
   },
   "0b99d3c12b178b5783eaa5a10b63ecde": {
     "text": "C'est bien de voir des Veks bien placés."
+  },
+  "b9e57cc1c7d7b7397822a6ed28470582": {
+    "text": "Ce vek a bloqué l'autre Vek lors de sa sortie de terre !"
+  },
+  "800baddc04c899cba52ed11aaf4ac675": {
+    "text": "Ce Vek a carrément entravé la sortie d'un des siens."
+  },
+  "b65de03d6016fcea2d7320f86c91952a": {
+    "text": "Ce Vek a bloqué la sortie d'un des siens. Créatures idiotes."
+  },
+  "40e7cdbf8939c2f7289677ac92761596": {
+    "text": "Ce Vek est un bon obstacle contre la sortie de terre des siens."
+  },
+  "dab4c4ed492291b31ac14dcfda43e3ab": {
+    "text": "Ce Vek a empêché la sortie de terre des siens. Étrange."
+  },
+  "a6489ca76d7b6b856c5949f103378c22": {
+    "text": "Le Mech a 1 PV."
+  },
+  "6ed4dcf54d45c572a1bfdd0fab778f59": {
+    "text": "Mon Mech a été touché - encore un autre coup, et je suis mort."
+  },
+  "cd98e7a4be977e5f1baa338c4b1c689d": {
+    "text": "Mon #self_mech a subit de lourds dommages !"
+  },
+  "d3d79c468258aca44c85db86ffdd2ea6": {
+    "text": "J'ai subit de lourds dommages, Commandant mais je peux toujours me battre."
+  },
+  "b403581c6e1b892d705b400cb0e5d333": {
+    "text": "Mon armure est presque morte !"
+  },
+  "7d2331eb0fa6dd4e73db14204354710d": {
+    "text": "Mon armure ne peut pas prendre plus de dommage !"
+  },
+  "e7614e8b4e2f3c3e4fdebdd9d39bb025": {
+    "text": "L'intégrité de mon armure est compromise !"
+  },
+  "0c6343f3baefa7df71c692d212b3e679": {
+    "text": "Je peux à peine tenir debout !"
+  },
+  "5e9c9fd810419f5d64c16bc1e066f7ce": {
+    "text": "Nnnh ! Je suis presque à un niveau critique..."
+  },
+  "71793776901d07dae6712f739d50e6c8": {
+    "text": "Les indicateurs de dommages sont tous au rouge !",
+    "review": true
+  },
+  "331879b64c39e3ed16d8595ed0a7e980": {
+    "text": "Je prends des coups ici !"
+  },
+  "66f35803ec5ccaa1e9e92d08683493ce": {
+    "text": "Mon Mech ne peut pas encaisser plus !"
+  },
+  "d51b58f3f005e9b28e1110a632b23531": {
+    "text": "Mon armure est en train de céder !",
+    "review": true
+  },
+  "9d92d2e6172bb0b9579b93d45479a1dc": {
+    "text": "Encore un coup et mon Mech sera détruit !"
   }
 }
