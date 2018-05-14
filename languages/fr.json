@@ -5395,8 +5395,7 @@
     "text": "Nous n'avons nulle part où se retirer. Si vous pensez que nous pouvons courir, vous avez tort. C'est tout ce que nous avons."
   },
   "404f21d06c9bd3581b52c38df1cd3e8c": {
-    "text": "Faire mieux la prochaine fois n'est pas suffisant. Nous avons besoin d'être au maximum.",
-    "review": true
+    "text": "Votre meilleur niveau n'est pas suffisant. Nous avons avons de beaucoup plus."
   },
   "75cd50623949ac01e803af2d65ab8a90": {
     "text": "Si vous ne pouvez pas utiliser vos armes pour gagner ce combat, alors donnez-les à quelqu'un qui le peut."
@@ -14320,5 +14319,408 @@
   },
   "e4590afa2690b52761ad54e3db58312a": {
     "text": "C'est la guerre."
+  },
+  "bf32693a0c8cfe8e82ab8ba25a5aaa9c": {
+    "text": "Ils n'appartenaient pas au champ de bataille."
+  },
+  "633f7fe12de0946a512f356c2afe1fa9": {
+    "text": "J'espère que cela n'endommagera pas trop le Réseau d’Énergie. "
+  },
+  "c4b58b7b5d39c6228770965dfba48065": {
+    "text": "Détection d'une chute de puissance sur le Réseau d’Énergie."
+  },
+  "75738477603ab05b35831d64a49dc37c": {
+    "text": "Silo humaine détruit. Plusieurs vies ont été recyclées."
+  },
+  "3642e1b578d81b4e07e598d674eee042": {
+    "text": "Les civils de #corp iront fertiliser le sol."
+  },
+  "dba371f05bd3647f5e6eeef5ab84ee88": {
+    "text": "Désolé, désolé, désolé !"
+  },
+  "58ddef3e7701b476aa0a3ba5db45b36c": {
+    "text": "C'était moi ! Désolé !"
+  },
+  "d8154b7735c9451f82839d7663a670b1": {
+    "text": "Ces gens... mais nous devons rester concentré..."
+  },
+  "81a21235216b2d9591286be65746d6be": {
+    "text": "J'en prends... l'entière responsabilité."
+  },
+  "95c194a4226b9dc73b547ad9ea971305": {
+    "text": "Je... Je ne suis pas celui qui loge les civils dans une zone de combat !"
+  },
+  "7386d546fc7c6c03a495b4a59bf967f0": {
+    "text": "Je n'avais pas le choix."
+  },
+  "b15507b39990f40279791b0c24cc7f1d": {
+    "text": "Je reporterai mes actions à PDG #ceo_second moi-même."
+  },
+  "4679d90e70e8cf3e63ce4aee2d9fc911": {
+    "text": "Les dommages collatéraux sont inévitables mais le Réseau d’Énergie tient bon.",
+    "review": true
+  },
+  "f6c4b9a088c992f49a013220ac1b6166": {
+    "text": "Accident du travail enregistré."
+  },
+  "81dcc6d45268007d065e93769aa7a0f9": {
+    "text": "Je ne pe-peux pas croire que j'ai fait ça..."
+  },
+  "71f4b594fada8ae3e588c846eff89be2": {
+    "text": "Je... Je voulais utiliser mes recherches pour pro-pro-protéger les gens, pas pour..."
+  },
+  "b1bc18d1d51f0f5160fce986ff227b48": {
+    "text": "J'ai rompu mon serment."
+  },
+  "8832907117d814f90c61cb8726d112c7": {
+    "text": "Si seulement nous av-avions pu évacuer l'aire avant..."
+  },
+  "f3a0f59094a366836e33f3809806ef6a": {
+    "text": "Report d'une violation de l'autorisation de démolition."
+  },
+  "c767724ed5a19883260221545df1ac99": {
+    "text": "Il n'est pas nécessaire de troubler les citoyens humains à propos de cet incident regrettable."
+  },
+  "0bbbed3f57b612accdcd05b423e30dd7": {
+    "text": "Demande d'une censure de la presse sur cette tragédie regrettable."
+  },
+  "8b503f3fe5dab7335175bcc8534b01fd": {
+    "text": "Ces bâtiments de la #corp sont excessivement fragiles."
+  },
+  "70a5142609571426090e57029f58bdde": {
+    "text": "Ces bâtiments de la #corp sont excessivement fragiles... leurs humains encore plus"
+  },
+  "7f21e4ee554f70251a0896781498fd78": {
+    "text": "Attention !"
+  },
+  "6c5e82c7637eea4af53b13066689a09b": {
+    "text": "Faites attention !",
+    "review": true
+  },
+  "f81b25cf8f4c7340346d8b347936fd7d": {
+    "text": "Faites attention !",
+    "review": true
+  },
+  "3dbabdcbf4ba5b1cbe2e33dae77d1ea8": {
+    "text": "Ces bâtiments ne sont pas renforcés, ils ne peuvent pas encaisser de coups comme nous !"
+  },
+  "6b00128ddca667b062d0f8d6dc86d1aa": {
+    "text": "C'est pour le bien commun !",
+    "review": true
+  },
+  "a37f5f7ebde52d6913ef9af4a1ef8924": {
+    "text": "N'y pensez pas, continuez à vous battre !"
+  },
+  "295f2e27cd29ba43f25944a0060f2861": {
+    "text": "Nous ne pouvons pas les pleurer maintenant."
+  },
+  "1a00191e5380b2696d30ba9b38af912c": {
+    "text": "Comment avez-vous pu faire... !"
+  },
+  "c83d5830ef27305a9eb21dbec1438ee8": {
+    "text": "Est-ce que vous... Oh mon Dieu !"
+  },
+  "701a3f9a8fce41e57e21b1b8ff699db4": {
+    "text": "Il y avait des gens à l'intérieur !"
+  },
+  "6f32df2dcf152006959cdbb85f58047c": {
+    "text": "Non ! Nous sommes là pour les aider !"
+  },
+  "22f427a724b77778e587dd75bea8fcbb": {
+    "text": "Les faibles ne peuvent pas protéger les faibles."
+  },
+  "e81e8ed124e6e7fc6ecf6e0d3f691f80": {
+    "text": "Vous devons prédire vos actions sinon les autres en pâtiront.",
+    "review": true
+  },
+  "23e7db268127fb2030bf04951b0a01f2": {
+    "text": "L'insouciance a son prix."
+  },
+  "245662dc4b20b9da44ea4714db74ccaf": {
+    "text": "N'y pensez pas, continuez à vous battre !",
+    "review": true
+  },
+  "57d3f24825970d8f53ff3b01b8548529": {
+    "text": "Prochaine fois, pensez au Réseau d’Énergie !"
+  },
+  "fd0554837c2ee7246675040f8abc7dec": {
+    "text": "Ne risquez pas d'endommager le Réseau, ou nous ne pourrons plus nous battre!"
+  },
+  "16e69c5e65ce862780eff9b2197e9aa3": {
+    "text": "Oh non ! J'espère que personne n'était dedans..."
+  },
+  "fa1cdb4c3724c7943d49f4f972220ad8": {
+    "text": "Ont... ont-ils pu avoir le temps d'évacuer ?"
+  },
+  "4991b456c559e19dda909cff94303c73": {
+    "text": "Étiez-vous simplement imprudent ou vouliez-vous les tuer?"
+  },
+  "7606c33e3963fe7f52c9c601d2125cb2": {
+    "text": "Aviez-vous vraiment fait cela ?"
+  },
+  "e166b3060a0eabe63bb5d6f09f3dc23e": {
+    "text": "Ne pensez plus au bâtiment. Continuez à vous battre."
+  },
+  "0337062f970d08fb62c6379457520762": {
+    "text": "Ce bâtiment... vous n'aviez pas le choix."
+  },
+  "0a23b52c005b88bf40118a3dd2d17d4a": {
+    "text": "Dommages collatéraux confirmés. Le Réseau d'Énergie tient bon."
+  },
+  "d84c8b6b83ec6f935dd89bdb41532c9f": {
+    "text": "Détection d'une démolition non autorisée."
+  },
+  "9fce225258692215aa539283445cd87c": {
+    "text": "Ces bâtiments de la #corp sont excessivement fragiles... leurs humains le sont encore plus."
+  },
+  "1977cb0bc7bf93cd1f499e96a9ac89a5": {
+    "text": "S'il vous plaît, faites attention aux cibles que vous prenez, ces bâtiments ont des civils à l'intérieur !"
+  },
+  "e871d0084ed5870505ce4d82c37c10e4": {
+    "text": "S'il vous plaît, défendez les bâtiments, aucun dommage ne doit leur être fait !"
+  },
+  "0e82306611d25b29485205efaeaecfa5": {
+    "text": "Négligent. Ce bâtiment aurait dû être protégé !"
+  },
+  "cfad751dac4112f74e6a7db555237171": {
+    "text": "Votre incompétence a entraîné des centaines de morts !"
+  },
+  "610bfabd20513dc9a0b83339c3c07fac": {
+    "text": "S'il vous plaît, évitez au possible les dommages collatéraux."
+  },
+  "0fc6aff4679e784b561a975cd5db95c3": {
+    "text": "Je crois que c'était inévitable, mais s'il vous plaît soyez prudent."
+  },
+  "df5d21ddfb6afcea18a5104fd30993f1": {
+    "text": "Ces citoyens ... Je parlerai à leurs familles moi-même."
+  },
+  "3afa4e5717b5bf2f30c76d1883a44e65": {
+    "text": "Mise à jour : Algorithme Tactique\nEn cours de mise à jour : Priorité aux Civils"
+  },
+  "d614390b4d905a653c384917640a627a": {
+    "text": "Le Vek paiera pour cela."
+  },
+  "a30f2462030a1335e4675e7676f14b2c": {
+    "text": "Ce Vek est à moi."
+  },
+  "3b4830107789f7c6be923152b0a88617": {
+    "text": "Le Vek paiera pour cela."
+  },
+  "7746c32fbb399b2b7a78cdd62d27d25d": {
+    "text": "Je ne laisserai pas ce Vek s'en sortir."
+  },
+  "461bce8ef7d4c11e491f03607f12036e": {
+    "text": "Ne laissez pas cela se reproduire !"
+  },
+  "f52c72d4f349d73535adfde8ee89639b": {
+    "text": "Empêchez les d'approcher des bâtiments !"
+  },
+  "10f8e20e5b10b7df3465f836d27f400a": {
+    "text": "Cela ne peut pas arriver !"
+  },
+  "f0a6afca6340698f27f1b83ca7a0c729": {
+    "text": "Nous devons les stopper !"
+  },
+  "69e995f4df7ba0efa190a494c9f23c6c": {
+    "text": "Ils auraient du être évacués il y a des semaines..."
+  },
+  "6973153b2e951e9a642b5dc443e72053": {
+    "text": "Tout le monde ne peut pas être sauvé."
+  },
+  "4fed5df260fd93c734cf35b248c6b6df": {
+    "text": "Est-ce que nous devons autoriser le Réseau à encaisser autant de dégâts ?"
+  },
+  "7a53cfb142c903eb2fc8b0d98d2cb938": {
+    "text": "Alors que la mort de civils est regrettable ... pourquoi est-ce que les Vek ciblent-ils les structures insulaires?"
+  },
+  "12fa16119bc4e8411330013ad3aa18e6": {
+    "text": "Intéressant - Les Veks se semblent pas attaquer les structures pour se nourrir des citoyens.",
+    "review": true
+  },
+  "124fb039844bbec48adf5d34c1872513": {
+    "text": "Les victimes sont regrettables... Mais je me demande... Pourquoi est-ce que les Veks attaquent les bâtiments alors ? "
+  },
+  "afb8b4d4f7401c55f8c164ea1e3c7e3e": {
+    "text": "Je ... j'avais pensé que les bâtiments étaient durables, mais les Veks...",
+    "review": true
+  },
+  "adb57eab431e18a421bc1b3ec91df48e": {
+    "text": "Les civils de la #corp iront fertiliser le sol. Les Veks les suivront rapidement."
+  },
+  "5e860ddd62bf9a639599c7acec986273": {
+    "text": "Les Veks vont payer pour ça !"
+  },
+  "ba6d5ea5b4d1897a7e55136ae9e5822e": {
+    "text": "Ces pauvres gens..."
+  },
+  "e68568d503f6bf019a8914eb5de1c0a0": {
+    "text": "Je ne laisserai pas les Veks blesser d'autres personnes !"
+  },
+  "d575d2c75dc1990f0363fac9b0d65752": {
+    "text": "Écoutez, il n'y a rien que j'aurais pu faire pour protéger ce bâtiment, ok ?"
+  },
+  "8bb69c299094a58f519751326e3172c1": {
+    "text": "Nous ne pouvons pas laisser les Veks faire davantage de dégâts !"
+  },
+  "9841a8ba60e4816826c49055d4b82565": {
+    "text": "Je jure que les Veks paieront pour ça."
+  },
+  "951730ea0e73996577397e8453635c47": {
+    "text": "Ce Vek, celui a détruit le bâtiment, est à moi."
+  },
+  "a1fd8f24507970661d9b3387ec09041b": {
+    "text": "Ce Vek paiera pour les morts qu'il a causé..."
+  },
+  "8b46e5940ea16f6bc96262393bb746fe": {
+    "text": "Dommages à la ville confirmés. Le Réseau d'Énergie tient bon."
+  },
+  "456c3d51fc294b053f516fb7adf7cb83": {
+    "text": "Le niveau de danger Vek a augmenté."
+  },
+  "b48aab825eed7d20629127cef9912d2c": {
+    "text": "Non ! Tout-tout-toutes ces personnes innocentes..."
+  },
+  "34269e0089dc182b365d56c9900ed608": {
+    "text": "Ils-ils ne méritaient pas ça... aucun d'entre eux ne méritait ça !"
+  },
+  "5a93d687233ac2bf2cb3b63448ac5606": {
+    "text": "Mise à jour du recensement de la population de #corp pour l'évaluation de la consommation des ressources.",
+    "review": true
+  },
+  "9b9ea1775f5acfe734f57b5c15fe24b1": {
+    "text": "Édition d'une liste élargie de familles des civils décédés et envoi des lettres de condoléances."
+  },
+  "323bc6c0156fd2de3b115be835cd54f0": {
+    "text": "Quelle perte... Ce bâtiment existait depuis des centaines d'années."
+  },
+  "9ab03751e79bc0f7e43997ab2c30d905": {
+    "text": "Envoi d'équipes de secours pour voir si des civils peuvent être aidés !"
+  },
+  "e99e78c8623335456cd7e7a0f23705f0": {
+    "text": "Nous avons besoin de vous pour défendre ces bâtiments !"
+  },
+  "f6991bb3263132230369f02309cf1855": {
+    "text": "Laisser gagner les Veks est inacceptable. Arrêtez les !"
+  },
+  "37da042ece7e3b3585482bf44545ca71": {
+    "text": "Vous êtes ici pour stopper les Veks et non pas pour les regarder détruire la ville !"
+  },
+  "292237b3d8298721b1a609f6638dd3d1": {
+    "text": "J'épluche les rapports et je vois de nombreuses victimes dans ceux-ci. Tant de morts..."
+  },
+  "8cd7d14edbd88c4ce497683fe0f3b6b8": {
+    "text": "Trop de vies on été perdues dans cette guerre."
+  },
+  "913798ab5dfd5f3032758b736d7785f8": {
+    "text": "Ce bâtiment comptait d'innombrables machines vivantes en stockage."
+  },
+  "c1d4c70854545ce477972365581c4817": {
+    "text": "Le bâtiment a résisté aux dégâts, actuellement tout le monde peut émettre un commentaire mais je peux changer cela en _Obs/_Soi/_Vek si nous pensons que cela en vaut la peine.",
+    "review": true
+  },
+  "0beae11825ba7326ed49a6fba0db3b5f": {
+    "text": "Évaluation : Structure intacte"
+  },
+  "654bfac2dca5f818e49b9b0fcfdf3886": {
+    "text": "On dirait que le bâtiment a été construit pour résister !"
+  },
+  "3754c4f994ae9bce5c5dc25a84309b81": {
+    "text": "Le bâtiment a été chanceux cette fois."
+  },
+  "ea2e80ee2ee6ca4a71048aa1c53d547d": {
+    "text": "Ce bâtiment a encaissé le coup !"
+  },
+  "b10670e11f29488e3a3830f1a979bd74": {
+    "text": "Les rapports indiquent que les civils dans la structure sont saufs !"
+  },
+  "0c05ab55fd45d4b8054917348a70d53d": {
+    "text": "On dirait que le bâtiment a réussi son inspection de sécurité."
+  },
+  "6c53bb5661c5f7a2bb4a584284b16231": {
+    "text": "Respect à l'ingénieur qui a construit ce bâtiment."
+  },
+  "c081859e0e114ec2d59bf5a95cf53584": {
+    "text": "Le Réseau de Défense a tenu !"
+  },
+  "bb05e95dfad5bb9e67a150d7139eaec8": {
+    "text": "Le bâtiment est plus costaud que prévu."
+  },
+  "8916b34df3775d3f1b2183aaf24cc28b": {
+    "text": "La prochaine fois ces civils ne seront peut-être pas aussi chanceux..."
+  },
+  "83196c16520dbc89b00ae1ad7d1efdb5": {
+    "text": "Je ne peux pas le laisser se prendre un autre coup !"
+  },
+  "0b77557ca145808b5b983bba1213d381": {
+    "text": "Merci mon Dieu... Je pensais que c'était terminé."
+  },
+  "f1d3135dab9820d32576d807c47ebadb": {
+    "text": "Résistant."
+  },
+  "961880604c593f1bda50aeb360f8ac77": {
+    "text": "Construction Robuste."
+  },
+  "0a807956099205be641e6470f83817c9": {
+    "text": "Remercier l'ingénieur qui a construit ce bâtiment."
+  },
+  "598f1eaa59d1db7de4ad91644373b327": {
+    "text": "Parfait ! Nous n'avons pas perdu de puissance énergétique !"
+  },
+  "097e4157e86f6bdd4d19a5ba0cc35c3d": {
+    "text": "Pas de perte de puissance ! Le Réseau a tenu !"
+  },
+  "a85448a65af3cd5241aff115f8778a78": {
+    "text": "Le silo humain a résisté à l'impact."
+  },
+  "291a199fc3c9ede5d6e880c82ab7dcd0": {
+    "text": "Le silo humain est intact."
+  },
+  "00888acdf572b798e9f3131b934050d8": {
+    "text": "Oui ! Le bâtiment est toujours debout !"
+  },
+  "b9be88419adb2a5057ccf36645022b25": {
+    "text": "Les gens sont saufs !"
+  },
+  "cbe24be168cedec1b9b30400c4f774db": {
+    "text": "Merci mon Dieu, le bâtiment a tenu !"
+  },
+  "4392d269666900005038c6db2085a31c": {
+    "text": "Ouf. Le bâtiment a tenu !"
+  },
+  "e5c2e53195966ab9954d1728adb00aab": {
+    "text": "Ce bâtiment a eu de la chance ! Cette fois..."
+  },
+  "cbdf062d148fa41d65da2414f2ecfc52": {
+    "text": "Est-ce que les civils vont bien ?"
+  },
+  "34d3f94e99d32f26f3f5e117be22a4dd": {
+    "text": "Pas de victimes - bâtiment toujours debout !"
+  },
+  "8c0cdada2d9e3295b49c1d4c0465b645": {
+    "text": "Je suppose que ce bâtiment était plus robuste qu'il n'en avait l'air."
+  },
+  "955077d59169111e56d2d0d4c6fe2967": {
+    "text": "Le bâtiment est toujours debout ! Euh, non pas que j'en doutais."
+  },
+  "b626606eae16721b6dd8b1d04db8657b": {
+    "text": "Les civils ne déplorent aucune victime !"
+  },
+  "4cc121ff6b1b986aa54a1e54346593aa": {
+    "text": "La tentative de démolition de la structure de #corp a échoué."
+  },
+  "c0e2c18803ca6e778465aed63fa41bcb": {
+    "text": "Enfin, un peu de chance pour c-c-changer."
+  },
+  "aef4511e98642560dc7121d05628b8dc": {
+    "text": "Un nombre impressionnant de personnes au-au-auraient pu mourir..."
+  },
+  "2d414fbadeeca13942c06fe4cf05751c": {
+    "text": "Tentative de démolition stoppée."
+  },
+  "4860a7c5430b0a2ac37a7ee4cf41b6c1": {
+    "text": "Je suis surpris que le bâtiment ne se soit pas effondré, vu la fragilité des bâtiments de #corp."
+  },
+  "47fcafe7c5d5464077c69ea29ef940fd": {
+    "text": "L'intégrité de la structure du bâtiment de #corp a surpassé mes attentes."
   }
 }
