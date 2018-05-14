@@ -14735,5 +14735,204 @@
   },
   "0b297c49e8445e323e9c701473d91d1e": {
     "text": "Attaque repoussé. Les vies à l'intérieur du bâtiment sont sauvées."
+  },
+  "29e798fcdcc657753422b3dd92005f8f": {
+    "text": "Aucun dommage reporté. L'attaque a été repoussée avec succès."
+  },
+  "751f2640e5c72f0bc65215f156aa8bc5": {
+    "text": "La structure a tenu ! Aucun victime n'est à déplorer !"
+  },
+  "f692cada6b5b7700db1142a72f427acb": {
+    "text": "Le peuple dans ce bâtiment est sauf !"
+  },
+  "6b33a4b9ea7fdf7cbad569dcbc8a9458": {
+    "text": "Scan : Structure du Train\nDiagnostique : Réparable"
+  },
+  "799361d58fed88b3a6dca3a090dbcb8b": {
+    "text": "Le train a été endommagé... Mais ce n'est pas irréparable."
+  },
+  "5ce214d2f211a78ab514912a47ee69f7": {
+    "text": "Le train de #corp a été touché. Il n'a pas encore été détruit."
+  },
+  "8ca039d4797bdbe63b6068ceab37479d": {
+    "text": "Le train a été touché mais peut encore fonctionner !"
+  },
+  "4bc75594eff18dfb8d035f2bf10984bd": {
+    "text": "Le train a été touché mais #corp pourra le réparer."
+  },
+  "8c5107b1833c9cedda3bd40ad67b0ff7": {
+    "text": "On dirait que les trains de #corp peuvent encaisser des coups."
+  },
+  "e316633dc814759bbe19acacd32f1d79": {
+    "text": "Le train a déraillé mais #corp pourra le refaire fonctionner."
+  },
+  "ef183efa9cfb75f5a72101f7640ac880": {
+    "text": "Le train a déraillé mais d'après son état extérieur #corp pourra le faire fonctionner."
+  },
+  "8e8f356a0635e66051e29d3d30536d0a": {
+    "text": "Le train a été endommagé mais pas complètement."
+  },
+  "223c55f2fbd8c69684cd425be22ee908": {
+    "text": "Le train est endommagé, mais il pourrait être remis en marche après la bataille."
+  },
+  "bcf6d874048e8103c467a508c63b2b40": {
+    "text": "Une fois la bataille terminée, je pourrais remettre ce train en marche."
+  },
+  "d9e0539a22142c2b1e1bc98517f36d54": {
+    "text": "Donnez moi une équipe d'ingénieurs et je pourrais refaire fonctionner ce train après la bataille."
+  },
+  "8ecd4376dfced2f24cdcb1e59c4c9c11": {
+    "text": "On dirait que le train de #corp s'est arrêté... Mais au moins il n'est pas complètement détruit !"
+  },
+  "9721e1ec75a389859dd7c44f8d3e64a2": {
+    "text": "Protégez le train jusqu'au retrait des Veks, il pourrait être réparé."
+  },
+  "755308cfbc0a664af5d74e0e15f3ff67": {
+    "text": "Ne laissez pas le train de #corp prendre un autre coup !"
+  },
+  "aa4a6633365f21382be23d2e3b585d5b": {
+    "text": "Bien, le train était plus lent qu'avait mais là il ne bouge plus du tout."
+  },
+  "e32fd5e653a04a3407fa1a11b9a72df0": {
+    "text": "Le train a pris un coup, Commandant mais l'équipe d'ingénieur pourra le réparer."
+  },
+  "d40f086bd1e3e0fd4b62a11985e7c995": {
+    "text": "Le train a déraillé mais les ingénieurs de #corp vont pouvoir le remettre en fonctionnement."
+  },
+  "1000cb665881150cb79637fe86e5f6da": {
+    "text": "Le train est arrêté mais pas détruit."
+  },
+  "024bdea1172a0f7b16da1a9fd9ee5f9c": {
+    "text": "Le train ne se-semble pas complètement end-endommagé. Peut-être que #corp pourra le réparer ?"
+  },
+  "a384a7a60c60849106f2053f8b1268ed": {
+    "text": "Le train de #corp s'est arrêté."
+  },
+  "8897589173f92736a8423e3fabc3fbbb": {
+    "text": "J'ai signalé à #corp par radio que le train aura du retard."
+  },
+  "037e61113af48d5193a23984aa46ad1d": {
+    "text": "Ol' Harold est une locomotive coriace mais elle pourra pas aller plus loin !"
+  },
+  "b53c145b13bf8e5608e91eb61377a51f": {
+    "text": "Notre maglev a été endommagé mais il peut être réparé. Empêchez le de subir plus de dégâts."
+  },
+  "ee26647ab54f580ab23c5f843934b6d5": {
+    "text": "Le train a été endommagé mais les scans indiquent que Pinnacle pourra le réparer. Empêchez le de subir plus de dégâts."
+  },
+  "3f1da80d2a658e4646f200d1d9916599": {
+    "text": "La structure extérieur du train a été endommagée mais le train est toujours fonctionnel. En revanche, s'il prend un autre coup..."
+  },
+  "61d7df5899ffac084d98e587e7a9399c": {
+    "text": "Mise à jour : Train Détruit\nObjectif : Échoué"
+  },
+  "0c90cf68505454ae950ade5ab799c311": {
+    "text": "Ce train est maintenant une épave."
+  },
+  "39c7f4a2156e8711a7bdd08c1df3cefb": {
+    "text": "Encore une ligne d'approvisionnement perdue..."
+  },
+  "8796d27a16a2b2ad633a9ede2b4a7229": {
+    "text": "Le train est HS. Laissez le."
+  },
+  "6a79f3d87271d6cb360ca6d624fc9363": {
+    "text": "Le train fait partie des victimes. Faites en sorte qu'il n'y en ait pas d'autres."
+  },
+  "e32337fa662705342dbdbad40f2a7393": {
+    "text": "Le train est mort, #corp pourra l'enterrer lorsque nous aurons fini ici."
+  },
+  "b3079ccc6035a26921812f255cb5f028": {
+    "text": "Le train est détruit. Même #corp ne pourra le récupérer."
+  },
+  "977c8f904b9f62456492838b138bdbda": {
+    "text": "Le train est une épave. Concentrez le feu sur les Veks."
+  },
+  "7f77d2c51588b4d63b618a5d0a130f05": {
+    "text": "Le train est perdu - mais pas la mission."
+  },
+  "6c017b5476cbdae8c50a1abeed827acd": {
+    "text": "Il ne reste... presque plus rien du train."
+  },
+  "d5e3a1556af70e4889247981febc3097": {
+    "text": "Où est l'équipage ? Je.. Je ne détecte aucun signe de vie.",
+    "review": true
+  },
+  "c70ac1efcc8dcd8835a7948c8fbf484f": {
+    "text": "Oubliez le train."
+  },
+  "70ac17c55c6fd0bceb463132dcdce08a": {
+    "text": "Nous n'avons plus besoin de protéger le train."
+  },
+  "929ced02614b5a2069b1ff0e188133ba": {
+    "text": "Il y a plus de morceaux que de train maintenant."
+  },
+  "eb4a040532d271684c4d0bf33358bce9": {
+    "text": "Le prochain arrêt du train est la casse... Il est mort. Finito. Perdu."
+  },
+  "7384c120ce1e4e634831bc83137c3987": {
+    "text": "Bon sang ! Nous avions besoin de ce train !"
+  },
+  "6da26d232159a4bb969c7ada9876ee7e": {
+    "text": "Ok, le train n'est plus récupérable. Allons tuer des Veks."
+  },
+  "414ef3c9e77911dfe5587ad02ff7093a": {
+    "text": "Nous pourrons pleurer sur l'épave de ce train plus tard... Maintenant tuons ces Veks."
+  },
+  "f846531ab29256b1e75d5b94c249d448": {
+    "text": "Si le train voulait survivre, il aurait du avancer plus vite, non ?"
+  },
+  "c28284955c8f2d4ddf0707e448276b41": {
+    "text": "Le train est détruit, Commandant."
+  },
+  "33313b7acc833354bcef304f069c3d30": {
+    "text": "Même avec touites les équipes d'ingénieurs de #corp nous n'arriverions pas à réassembler ce train."
+  },
+  "7a13abd1e512dc9d6c862a02be24e380": {
+    "text": "Le train de #corp est tombé sur le champ de bataille. Nous devons le venger."
+  },
+  "f7fd95938f734d6d85cfffa36c672fd1": {
+    "text": "Le train de #corp s'est sacrifié. Faisons en sorte que ce sacrifice ne soit pas vain."
+  },
+  "525f1fe761e2bb20dffb2531ca66a80e": {
+    "text": "Je... Je ne pense pas que ce train puisse être réparé maintenant."
+  },
+  "ff8dcc9666412527e038ec7a9937f738": {
+    "text": "Même une équipe com-complète d'ingénieurs de #corp ne pourrait réparer ce train."
+  },
+  "f1d580ac889ed073555ca2317322b539": {
+    "text": "Le train de #corp a cessé de fonctionner. Il n'est plus réparable."
+  },
+  "ca71f37c55dac63ad703a2a1a25708b4": {
+    "text": "J'ai prévenu par radio #corp que le train aura un retard indéfini."
+  },
+  "9f4edd4d6d89c7186cd1f238d8d2a0e3": {
+    "text": "Ce coup qui a endommagé Harold n'est pas réparable. La dernière locomotive de l'Ancienne Terre... est perdue."
+  },
+  "a94a91152bdbaae64e8b73d43b34c31e": {
+    "text": "Notre maglev est détruit. Quel gâchis."
+  },
+  "10959c1f21415e1c54935644e61a870a": {
+    "text": "Le train a cessé les opérations. Cela va considérablement baisser nos chances de survie."
+  },
+  "e42665c795181907012d6d5d9202f18d": {
+    "text": "Le train est abattu - ainsi que son équipage. Il n'y a rien que nous puissions faire."
+  },
+  "b0ceaa82a54fbf285e1e370f62beca52": {
+    "text": "Rappeler le joueur de bloquer les Vek émergeant à la surface."
+  },
+  "05d03b58f2d6433052115a2906951243": {
+    "text": "Rappel : Bloquer le Vek"
+  },
+  "c47bbf98cd2da6354300640235cec4e5": {
+    "text": "Nous devons bloquer les Veks qui atteignent la surface !"
+  },
+  "1373bf4cc4ab378bcd9c5c97400090db": {
+    "text": "Rappelez vous des ordres ! Nous devons empêcher les Veks de sortir de terre !"
+  },
+  "5e97186539b3c2888460c477578c5ddb": {
+    "text": "Nous devons empêcher ces Veks de sortir de terre !"
+  },
+  "da819cf8f747aaee450f14e87e93ab99": {
+    "text": "Nous avons besoin de garder ces Veks coincés sous terre !"
   }
 }
