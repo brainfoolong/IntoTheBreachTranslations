@@ -8338,34 +8338,35 @@
     "text": "Bonjour...? Est-ce que j'ai réussi ? Oh... Je capte des signaux des îles maintenant. Bonjour, là-bas !"
   },
   "4faf2d8d6e7bb2ddba6b1ab5dbd89044": {
-    "text": "Faites-moi savoir ce dont vous avez besoin, commandant. Je peux aider à unir les îles en une force de combat unique contre les Vek, il suffit d'un mot de votre part."
+    "text": "Faites-moi savoir ce dont vous attendez de moi, commandant. Je peux aider à organiser les îles en une force de combat unie contre les Vek, il suffit de dire un mot."
   },
   "54bb7b7e5c34cdbdc786c1ed35f2c45a": {
-    "text": "Nous n'avons pas beaucoup de temps. Chaque seconde gaspillée en débats inutiles font gagner du terrain aux Veks."
+    "text": "Nous n'avons pas beaucoup de temps. Chaque seconde gaspillées en débat inutile donne du terrain au Vek."
   },
   "307f68d72e6d5b82ec351ade57f196b5": {
-    "text": "Chers citoyens des îles - n'ayez pas peur ! Je, #self_full, suis venu pour détruire les Veks !"
+    "text": "Citoyens des îles - n'ayez pas peur ! Je, #self_full suis venu détruire les Veks !"
   },
   "8c91dbee338d379a1b1ba9dc2c447053": {
-    "text": "Peuple des îles, je suis venu - du futur ! Je suis venu pour vous aider dans vos heures sombres... euh, il y a quelqu'un ? Est-ce que ce truc fonctionne ?"
+    "text": "Peuples des îles, je suis là - du futur ! Je suis venu pour vous aider pour... Il y a quelqu'un ? Ce truc est en marche ?"
   },
   "8654102e632f981e7f8d34e80620e66f": {
-    "text": "Une autre ligne temporelle, une autre opportunité pour #self_full être sous les projecteurs !"
+    "text": "Une autre ligne temporelle, une autre opportunité pour #self_full d'être sous les feux des projecteurs !"
   },
   "3d4620557cd3b80b0d6b69c0dc54c185": {
-    "text": "Ok, écoutez moi. Notre objectif principal est de protéger ces îles. Si nous y arrivons, nous aurions peut-être une petit chance de gagner cette guerre."
+    "text": "D'accord, écoutez. Notre objectif principal est de protéger ces îles. Si nous y arrivons, nous pourrions avoir une chance de gagner cette guerre."
   },
   "015b9677c9ec7c2331bef87a61bcb81d": {
-    "text": "Si j'arrive à apprendre de mes erreurs faites dans les lignes temporelles précédentes... Alors, seulement , R.S.T. pourrait survivre !"
+    "text": "Je dois apprendre de mes erreurs faites dans la précédente ligne temporelle... Si j'y arrive, alors peut-être qu'R.S.T. survivra."
   },
   "3f53229794ef02824d88a633ea5e88e9": {
-    "text": "C'est R.S.T., et je crois que ma mère adoptive est encore en vie dans cette ligne temporelle... Étrange, aucune trace de mon moi dans cette ligne temporelle, je me demande si Kern m'a déjà connu ici ?"
+    "text": "C'est R.S.T., et il semble que ma mère adoptive soit vivante dans cette ligne de temporelle... mais il n'y a aucune trace de moi. Je me demande si Kern m'a déjà connu ?",
+    "review": true
   },
   "54f1c724137c55c6e958f6b9f7f1dabb": {
-    "text": "Objectif principal : relancer la production des Mechs et prioriser la fabrique d'armes...Qu'est ce que vous attendez ? Bougez-vous !"
+    "text": "Objectif principal : lancer la production de Mechs et donner la priorité à la fabrication d'armes... pourquoi êtes-vous encore tous là à me regarder ? Bougez-vous !"
   },
   "eaefb3116f312f8c6b45549492ed23a3": {
-    "text": "Îles corporatives, #self_reverse vous parle. Je suis ici parce que votre ligne temporelle a besoin de réparation intensive"
+    "text": "Peuples des îles, c'est #self_reverse. Je suis ici car votre ligne temporelle requiert des réparations importantes. Exterminer les Veks est la première étape !"
   },
   "f4d232edd84a1c053e59e125af5f6761": {
     "text": "Îles corporatives, #self_reverse vous parle. Il y a d'autres \"moi\" mais je suis unique. Je suis votre allié. Sans moi, vous mourrez.",
@@ -14321,10 +14322,10 @@
     "text": "C'est la guerre."
   },
   "bf32693a0c8cfe8e82ab8ba25a5aaa9c": {
-    "text": "Ils n'appartenaient pas au champ de bataille."
+    "text": "Ils n'appartiennent pas au champ de bataille."
   },
   "633f7fe12de0946a512f356c2afe1fa9": {
-    "text": "J'espère que cela n'endommagera pas trop le Réseau d’Énergie. "
+    "text": "J'espère que cela n'aura pas trop endommagé le Réseau d'Energie."
   },
   "c4b58b7b5d39c6228770965dfba48065": {
     "text": "Détection d'une chute de puissance sur le Réseau d’Énergie."
@@ -14722,5 +14723,17 @@
   },
   "47fcafe7c5d5464077c69ea29ef940fd": {
     "text": "L'intégrité de la structure du bâtiment de #corp a surpassé mes attentes."
+  },
+  "33020d8fb7a36bfd198b1daa5c3b060a": {
+    "text": "Ça c'est de la construction d'Archive ! Nous bâtiments sont peut-être vieux, mais ils sont résistants !"
+  },
+  "51130f4214ab700b34fe228409d622c2": {
+    "text": "Le Réseau a tenu. Nous avons eu de la chance cette fois."
+  },
+  "a505d424d2dbabc747a8a7ac26173aa1": {
+    "text": "La défense du Réseau d'Energie n'est pas vraiment fiable. Mais il a fonctionné aujourd'hui et grâce à lui ce bâtiment a tenu bon."
+  },
+  "0b297c49e8445e323e9c701473d91d1e": {
+    "text": "Attaque repoussé. Les vies à l'intérieur du bâtiment sont sauvées."
   }
 }
