@@ -8912,7 +8912,7 @@
     "review": true
   },
   "b1f1c6c9602adbfc5e00b96496ed251b": {
-    "text": "Toutes les unités terrestres, sachez que nous avons un effondrement du terrain en vigueur."
+    "text": "Toutes les unités terrestres, sachez que nous avons un effondrement du terrain en ce moment même."
   },
   "65c159bf91843de6bee8dd3f3e004ea1": {
     "text": "Tous mes sens semblent ... plus affinés. Les couleurs semblent ... plus intenses."
@@ -15970,8 +15970,7 @@
     "text": "Pas étonnant que les Veks attaquent cette chose."
   },
   "93750d52c4cd9444ce4948f3be5f4098": {
-    "text": "La terre va ",
-    "review": true
+    "text": "La terre n'en supportera pas plus. "
   },
   "2130abe75fa6ee1939f36d4ba6dd86d6": {
     "text": "Fascinant ! Une merveille de technologie !"
@@ -16059,6 +16058,490 @@
     "text": "Je n'arriverai jamais à m'habituer à se terrain instable..."
   },
   "d260fe6bcff13a72788ef0a0e9055d2b": {
-    "text": "Attention à vos tirs"
+    "text": "Visez bien, #squad - et faites attention au sol !",
+    "review": true
+  },
+  "fc29d2aa6f33202996155acc74fccedd": {
+    "text": "Je pense que nous avons perdu du terrain mais sens litteral."
+  },
+  "5851cc06f898dceb8adc16c452257c38": {
+    "text": "Tremblements de terre ! Attention au sol !"
+  },
+  "b04e2370d289b786409b5185f52fc638": {
+    "text": "Restez vigilant aux secousses ! Si vous tombez, nous ne serons pas capable de vous sauver !"
+  },
+  "ae6475479bdc57830e9d16e320ea7939": {
+    "text": "Conditions de travail dangereuses détectées."
+  },
+  "cb605f57e70ecb392da5bb8e03ebce7e": {
+    "text": "Les fondations des structures R.S.T. ont été construites pour résister aux tremblements de terre."
+  },
+  "39683175f865ba5931eb20ade3dc00f5": {
+    "text": "Les re-relevés sismiques sont hors éch-échelle de Richter !",
+    "review": true
+  },
+  "9ef02c62bb3ee77b9eb2f74e59d14380": {
+    "text": "Est-ce que ce s-s-sont des tremblements de terre... est-ce n-n-normal sur R.S.T. ?"
+  },
+  "1c60877c365da33aaa2f06be1da17939": {
+    "text": "Les relevés sismiques indiquent une masse de terrain instable."
+  },
+  "9619e2d0717b5f16eae3c96b838c9c47": {
+    "text": "Attention au terrain... R.S.T. bouge et tremble continuellement."
+  },
+  "036c47f9b33a4ef398d53735df7bf706": {
+    "text": "Si la foudre frappe un Vek"
+  },
+  "6a1e8cd964cd6d531e6b6ea1353f83c5": {
+    "text": "Mise à jour : Recalibration des protections IEM"
+  },
+  "077eb869ff1fc0278c51acd0b7bec1e0": {
+    "text": "On ne plaisante pas avec Mère Nature..."
+  },
+  "e7d117d017a2bbb730b684f8645629f9": {
+    "text": "Attention aux autres points de chute, on n'a pas envie d'être frappé aussi."
+  },
+  "4dba168912ee54f16783921b2908e0ef": {
+    "text": "La tempête est hors de contrôle..."
+  },
+  "cedc799cbb721d39ef4cf30e4f616912": {
+    "text": "R.S.T. a commencé à utiliser les conditions météorologiques pour combattre les Veks... Maintenant, elles les aggressent toutes seules.",
+    "review": true
+  },
+  "585ced2901f36bf4e2834815427471aa": {
+    "text": "La foudre et les Veks ne font pas bon ménage, je pense."
+  },
+  "2251920fb1c52e1e6aba503ca166d738": {
+    "text": "On dirait que les Veks ne sont pas réutilisables en tant que parafoudre."
+  },
+  "abcac06990c3f423a186d14ce2f059a1": {
+    "text": "Il n'y a rien de tel que l'odeur d'un Vek carbonisé."
+  },
+  "412fc42d8e61330c2192d72a7c408486": {
+    "text": "Quand Mère Nature s'amuse à griller des gros insectes...",
+    "review": true
+  },
+  "fdd399e3c710d121c5730424ec6b8cc3": {
+    "text": "Avez-vous vu ce flash ? J'ai mal pour le Vek..."
+  },
+  "70c2f2101385f555542ef5008f95ac35": {
+    "text": "L'épée vengeresse du Paradis",
+    "review": true
+  },
+  "4d69ea1f34c97b3ac194a3a482cc0b84": {
+    "text": "La foudre purifie."
+  },
+  "7b21e739a8d35bc9d118af4f348ef634": {
+    "text": "C'est confirmé. Les Veks ne sont pas protégés contre les décharges électriques."
+  },
+  "11a48ec61a92b8ebdb5d8d2bda189cc8": {
+    "text": "La décharge électrique a vaporisé le Vek !"
+  },
+  "a71485eff2c4bb203f887f4aef08edc7": {
+    "text": "On dirait que le PDG kern met à profit les armes naturelles venant du ciel..."
+  },
+  "2273838d7c81565cd873be01e48a6a2f": {
+    "text": "La tempête a recyclé le Vek."
+  },
+  "c5e12efdd2b17cd4593cb2a57a3d52dc": {
+    "text": "La tempête a désintégré beaucoup de nutriments essentiels de Veks."
+  },
+  "2b81f187534c0f0458b36b12381c18e8": {
+    "text": "Waouh ! Cette tempête signifie business !",
+    "review": true
+  },
+  "772af2194229e55604fa2202e8203b5f": {
+    "text": "Aie ! Vous pensez que ce Vek a eu mal ?"
+  },
+  "3f4da276e78ce7d08e30951a52e2e61c": {
+    "text": "La foudre a désintégré le Vek !"
+  },
+  "a883a919cbdf0bd089f2328d21da332a": {
+    "text": "Le Vek est pris dans la tempête !"
+  },
+  "9f0ed299d592372489fc7f8590837c3e": {
+    "text": "Le Vek n'est plus que braises et étincelles."
+  },
+  "c0d3fee89dade2d0aacff725c98c2805": {
+    "text": "La météo indique qu'il y a 100 % de chance d'avoir du Vek grillé."
+  },
+  "9d034a7ef593bee779efc74558e23321": {
+    "text": "Ça a du être un choc... Vous l'avez comprise ? Choc ? Je sors..."
+  },
+  "118680d69c0a0c4ac7ba07fda0dfb5bf": {
+    "text": "Les stations météo de R.S.T. prévoient d'autres impacts de foudre..."
+  },
+  "762a3b20b281bb8fbfafab039b94e8a4": {
+    "text": "Si seulement R.S.T. pouvait reprendre en contrôle ces fronts orageux..."
+  },
+  "b26470eb4b28d5d21108e193222062a7": {
+    "text": "Le Vek a été exposé à une dose létale d'électricité."
+  },
+  "f39bd895cba7ec60137b5bfba1939f5a": {
+    "text": "Le Vek n'a pas assez isolé pour survivre à un coup de foudre."
+  },
+  "853731c75fcab0b4a57503fb686efe41": {
+    "text": "Le V-Vek ne semble pas immunisé à-à-à des décharges électriques."
+  },
+  "43f83efb83f82446deb2e646b5b3484e": {
+    "text": "Les Veks conduisent des études météorologiques non autorisées."
+  },
+  "c3e3de63c7a6aeeb3744d6ea66c252b0": {
+    "text": "La tempête s'est littéralement déchaînée sur le Vek. Ça fait désordre."
+  },
+  "94b102f93a8a76d94172ddf8b210a9a2": {
+    "text": "Même les tempêtes n'aiment pas les Veks..."
+  },
+  "7db955cb724c3ed3fe883efca68a7fd3": {
+    "text": "Ferme solaire détruite."
+  },
+  "d89f00297e42dbfdd72bbccc86d712ef": {
+    "text": "Mise à jour : Ferme solaire détruite"
+  },
+  "63d8eeaf8801966964cbdc1d9cf7247b": {
+    "text": "Ferme solaire détruite !"
+  },
+  "818cbe831f6ae41a390429e55849d893": {
+    "text": "Kern va être fou quand il saura pour la ferme."
+  },
+  "5cf139c0ea68444c9946396574918c80": {
+    "text": "Kern ne va pas aimer ça quand il lira le rapport sur la ferme, Commandant."
+  },
+  "677cc1157af842a56ff026956ea399d9": {
+    "text": "Ferme détruite - il n'y a rien à récupérer malheureusement."
+  },
+  "1814b38c221645c23c8f701c18667fcd": {
+    "text": "Chaque ferme solaire perdue nous coûte plus de puissance dans le futur...",
+    "review": true
+  },
+  "d6af43d64b4a51791567f9e2f1f9cbee": {
+    "text": "Kern ne sera pas heureux quand il saura pour la ferme solaire..."
+  },
+  "b414d74384817d7bc5fed5136be5da92": {
+    "text": "Ferme solaire en pièces !"
+  },
+  "cb44263bb02ac0276d722d86503ed8de": {
+    "text": "Non ! Nous avons perdu la ferme solaire !"
+  },
+  "2acd821fdb8de6775425dd3f42326963": {
+    "text": "La ferme solaire... Elle est détruite ! Les gens...",
+    "review": true
+  },
+  "a1f14e1f9253ff134fa4bf998b861017": {
+    "text": "Le réseau solaire n'est plus."
+  },
+  "6282e4711b6d66e835e55460788fe34a": {
+    "text": "Le réseau solaire est endommagé. Concentrez vous sur les Veks."
+  },
+  "4c335b8d9229e00c97c2706736207f72": {
+    "text": "Quel gâchis ! Tous ces panneaux solaires... en pièces."
+  },
+  "0511379d171d5f134678af221c089fa5": {
+    "text": "Ferme solaire recyclée."
+  },
+  "3b7f70fa2f0bd668f55593fec739fff5": {
+    "text": "Je pensais que nous venons de perdre la ferme solaire."
+  },
+  "355faf8e65092d454331a8245aa2a1d8": {
+    "text": "Ferme solaire détruite !"
+  },
+  "da75984b0cb7e3cd644857a035cffd69": {
+    "text": "Nous avons perdu la ferme solaire."
+  },
+  "45dcdd385740b5b151d7ae14b201dc11": {
+    "text": "La ferme solaire est partie, nous ne pouvons plus rien faire à propos d'elle."
+  },
+  "d108f098f0182a7cfeba156debfac8b7": {
+    "text": "Ferme solaire détruite, Commandant."
+  },
+  "abde353a25b11afe5633b248ad9376e2": {
+    "text": "Les composants du réseau solaire n'ont pas réussi à le défendre."
+  },
+  "c307476e8340437d36273de2350df734": {
+    "text": "La f-f-ferme... Elle est partie !"
+  },
+  "905e064262838a511e5d682ae1384e7d": {
+    "text": "La f-f-ferme ! Elle est détruite !"
+  },
+  "98e8ae3dc2c4a385ecc29c4236bd9e4e": {
+    "text": "Destruction non autorisé d'une propriété R.S.T. détectée."
+  },
+  "6a71b48a5f631ac98cabfd04978c9e57": {
+    "text": "La construction fragile de la ferme solaire a échoué à la lumière des conditions de combat actuelles.",
+    "review": true
+  },
+  "8d7e4136158ca843ee32b9472e09c3a9": {
+    "text": "Je ferai en sorte à ce que vous vous excusiez personnellement auprès des familles R.S.T."
+  },
+  "0450c06305b0c10c1f3b74d65250c0a1": {
+    "text": "Nous avions besoin de ces fermes !"
+  },
+  "bc49be5cfe3cbdbf0a873814804b1b6d": {
+    "text": "Rappeler le joueur de détruire les montagnes"
+  },
+  "d0f4098c8e006ae3b33dcb7b0878f7d5": {
+    "text": "Rappel : Les montagnes doivent être détruites."
+  },
+  "5e0b6708cbb2f1abbf0abc2bc4141d20": {
+    "text": "Rappeler vous, nous devons raser ces montagnes avant que les Veks les transforment en ruche."
+  },
+  "123749ed05a558d4ad766fd59a848120": {
+    "text": "Ces montagnes doivent être rasées."
+  },
+  "9d6d589a7ddcbc54d9e926f06b05c49c": {
+    "text": "Ces montagnes, futures ruches Veks en devenir, doivent être rasées.",
+    "review": true
+  },
+  "dd6da3d6a71ad1ff071d1deaa36b2b40": {
+    "text": "Nous avons encore besoin de raser ces montagnes."
+  },
+  "8bceaceb5bfefae163298302746331b4": {
+    "text": "Nous avons encore besoin de raser ces montagnes..."
+  },
+  "6037114dbd644d8ef44ffdd6070dd42e": {
+    "text": "La chaîne de montagnes est toujours intacte... Si nous ne la rasons pas, les Veks en feront des ruches."
+  },
+  "8951d22145213a3f858a71e6f9e29d4f": {
+    "text": "Nos ordres sont clairs. Les montagnes doivent être détruites."
+  },
+  "ed880910b038abcd3791ca1b55ef8b93": {
+    "text": "Nous avons besoin de détruire ces montagnes... Cela empêchera les Veks de se nicher dedans."
+  },
+  "6c593db14bd016b6209ef79279c07ddf": {
+    "text": "Cette chaîne de montagne a besoin d'être rasée."
+  },
+  "a86a68f4f6aad4d06f0c2f8e43a8285b": {
+    "text": "Nous avons besoin de détruire ces montagnes, n'est-ce pas ?"
+  },
+  "17c842a34172d9f5df53d9629711f933": {
+    "text": "Les montagnes doivent être détruire pour empêcher les Veks de s'y installer."
+  },
+  "d3060fabc060ef9ade6b3cc0e32de6bd": {
+    "text": "Les montagnes doivent être recyclées."
+  },
+  "a28a3d8686ae1ba74c7eeec4a8ba2728": {
+    "text": "Est-ce que nous pouvons faire sauter ces montagnes ? S'il vous plaît ? Ils nous ont donné la permission !"
+  },
+  "a2e2c1adc0f9ca84303c472c4741383e": {
+    "text": "Je sais que nous avons des ordres mais je ne comprends pas pourquoi R.S.T. ne peut pas dissoudre ces montagnes toute seule.",
+    "review": true
+  },
+  "c9e5084733e570eb784067547fb8f6da": {
+    "text": "N'oubliez pas - nous sommes ici pour raser les montagnes, ordres du PDG Kern."
+  },
+  "0f4b10a7dcd918d3afe3c86b0ea17f8a": {
+    "text": "Encore quelques montagnes à casser, #squad."
+  },
+  "d0bf2212d1235c6fdcbdcbfb5ce7831b": {
+    "text": "Attendez... Est-ce que le Commandant n'a pas dit quelque chose à propos de casser les montagnes ?"
+  },
+  "d705853a3586d7701a9fbe4e806aa10d": {
+    "text": "J'espère que nous n'attendez pas de moi à ce que je détruise les montagnes."
+  },
+  "d3e4187238b85d4ffd5e4fbccc0a654e": {
+    "text": "Nous avons encore besoin de détruire les montagnes, ordres du Commandant."
+  },
+  "e28e63a475f3a7dcf2751fa6e8fde140": {
+    "text": "Rappelez vous - notre mission est de détruire ces montagnes si nous le pouvons."
+  },
+  "e02d3d824e91af9a47bc9f1405f1af69": {
+    "text": "Les montagnes requièrent encore une oblitération."
+  },
+  "94b1bde50486a61da92479407bec5994": {
+    "text": "Nos ordres de travail sont clairs. Les montagnes doivent être oblitérées."
+  },
+  "2374768fbe6d39d5bc80a2ec89751e7b": {
+    "text": "Humm... qu-quoi à propos des montagnes ?"
+  },
+  "2fd2bbd28e1bcd39a58e9f203eb440f0": {
+    "text": "De-devons-nous nous charger de détruire les m-m-montagnes ?"
+  },
+  "1dd4929530e57be7867ce2014c5e154e": {
+    "text": "Les montagnes dans la région sont prêtes pour être excavées."
+  },
+  "b9bb71467952169d2bf1adcc7d96df3d": {
+    "text": "Demande l'autorisation pour commercer l'excavation des montagnes."
+  },
+  "01012a2c6647d746a5fe0eca528570b2": {
+    "text": "Je sens que je vais devoir rappeler à tous que nous devons détruire ces montagnes."
+  },
+  "bdc370367253744aaa375bc6c6618ce5": {
+    "text": "Vous avez vos ordres. Ces montagnes doivent disparaître."
+  },
+  "53534e7c400f1b9dbad518d489e459ba": {
+    "text": "Si ces montagnes restent debout, les Veks les utiliseront comme base intermédiaire pour nous attaquer."
+  },
+  "022e2228ac341a47b35fd2bfcd22464e": {
+    "text": "Le Vek est congelé par une Mine. Cela a priorité sur toutes les autres conditions de gel."
+  },
+  "6da7da095ccfc90e5742c0212e3a1da3": {
+    "text": "Mise à jour : Vek en hibernation\nCause : Cryo-mine de Pinnacle"
+  },
+  "119153225a93b47cf2d88e324f375f19": {
+    "text": "Mise à jour : Mobilité Vek à 0%\nCause : Cryo-mine de Pinnacle"
+  },
+  "386f1a3715255d00915a332d57522d78": {
+    "text": "Mise à jour : Vek en hibernation"
+  },
+  "e94046f509e910bf9f9ce797628b8132": {
+    "text": "La cryo-mine a eu un des Veks !"
+  },
+  "4635eed9112ccb1ed033f82bbbae06c5": {
+    "text": "La cryo-mine s'est déclenchée ! Le Vek est congelé solidement !"
+  },
+  "31b2834dd82f11e4f5eaae8beccae36f": {
+    "text": "Ce Vek aurait du regarder où il a mis ses pattes."
+  },
+  "307175b74e798fa2b3f869dfcd469132": {
+    "text": "La cryo-mine a mis hors combat le Vek, Commandant."
+  },
+  "831736920a41725577904694edb8c0db": {
+    "text": "Cryo-mine déclenchée avec succès. Le Vek a été mis hors d'état de nuire."
+  },
+  "83b954a6b8cd25aa7d1745f27be3a826": {
+    "text": "Le Vek a été immobilisé par la cryo-mine, mais il est toujours vivant."
+  },
+  "74de6e063d06d108d30ca0ab9b6c7e4a": {
+    "text": "La mine de proximité est quand même plus efficace, mais les congeler dans de la glace me convient aussi."
+  },
+  "5d8755f43f609db6d673219a9413f854": {
+    "text": "La cryo-mine a refroidi ce Vek."
+  },
+  "3596aa963324576d26e61f677646fbc8": {
+    "text": "La cryo-mine s'est déclenchée ! Le Vek est complètement enfermé dans la glace !"
+  },
+  "328783e5ef4c1bd951744a5632bbba28": {
+    "text": "Le Vek a arrêté de bouger."
+  },
+  "046b07f3d9e92572aa768009976ecba6": {
+    "text": "L'hiver a embrassé le Vek."
+  },
+  "6d91e4e9b51068cc04e8748457b6089e": {
+    "text": "Le Vek a marché sur une cryo-mine !"
+  },
+  "8144ab443adfc10862311fbd385dde59": {
+    "text": "La cryo-mine a enfermé le Vek dans la glace."
+  },
+  "606307465eac6d9d2a46c3af25a1d263": {
+    "text": "La cryo-mine a rendu un Vek inerte jusqu'à ce que nous le tuions."
+  },
+  "fce1f94a71528157dadcf2389b778192": {
+    "text": "Cette cryo-mine apprendra au Vek de ne pas se promener partout sur l'île Pinnacle !"
+  },
+  "7562f41327a4b5de01fbd68c87cb9797": {
+    "text": "La cryo-mine a congelé le Vek !"
+  },
+  "87f48389223d442b6bf629d0ddff7c29": {
+    "text": "La cryo-mine a fait son travail."
+  },
+  "1d24de8732e73d8ae5a90bb53575ff19": {
+    "text": "La cryo-mine a eu le Vek !"
+  },
+  "ee84ef3b2566243d16103c51db2d708b": {
+    "text": "Je parie que le Vek qui brille sous la glace se demande comment s'est arrivé."
+  },
+  "e1a6ca7408b8fc2d8f8b16d5330934e0": {
+    "text": "La cryo-mine l'a mis hors d'état de nuire. Pour le moment."
+  },
+  "d5f14830cc4bbde8082c1795df8cc6bb": {
+    "text": "Il a été congelé par une cryo-mine - mais il est toujours vivant"
+  },
+  "f361c4e0083a3d2682e4c76cb20ad544": {
+    "text": "La cryo-mine fonctionne avec ses paramètres nominaux",
+    "review": true
+  },
+  "1e9924602bfe465febc8978c317dd180": {
+    "text": "Vek n'a pas observé les procédures de sécurité sur le chantier."
+  },
+  "a29a9cd899a4c8d9a00dd0f183dfe0b0": {
+    "text": "La cryo-mine... Elle a s-s-stoppé le Vek !"
+  },
+  "6d4ce201f0da209d34d45dffbebe2c06": {
+    "text": "Les signes vitaux du Vek sont au ra-ralentis - il est prisonnier."
+  },
+  "c435075f16393a813c358141cc85a53e": {
+    "text": "Le Vek a touché une cryo-mine... ses signes vitaux sont au ra-ralentis !"
+  },
+  "cf81a0e879351bfd9a22d9c57fc28ecf": {
+    "text": "La détonation de la cryo-mine a été confirmée. Le Vek est prisonnier."
+  },
+  "f2ee877944bf74fa53c33f93c0a78c55": {
+    "text": "Dernière génération de technologie cryo mais efficace."
+  },
+  "1e66df1b46c3c560b83a6d6cfd0803c8": {
+    "text": "Un ancien design de cryo-mine mais adapté à la situation.",
+    "review": true
+  },
+  "eb885688e00cab3ba7f16c4f2d22d199": {
+    "text": "La cryo-mine a préservé le Vek. Mes capteurs indiquent des signes vitaux très fugaces."
+  },
+  "d862965d61542d79908d75fe30e75514": {
+    "text": "La glace est une solution temporaire. N'importe quoi peut le libérer."
+  },
+  "b97e6f598a4c90ce815c9e64abfcff97": {
+    "text": "La cryo-mine a congelé le Vek. Concentez vous sur les autres cibles maintenant."
+  },
+  "a937b75822b09bd01a97eb17a4a95c34": {
+    "text": "Usine de robotique détruite"
+  },
+  "08a64652ab665abd3a7a0ce18885ddec": {
+    "text": "Mise à jour : Usine de robotique détruite"
+  },
+  "7703ea09feebd8f48e1dabe3687b1f41": {
+    "text": "Usine détruite !"
+  },
+  "97448f35fb6ab21d20e186422c7c3de6": {
+    "text": "Pinnacle peut m'envoyer la facture."
+  },
+  "940b14d7c6c873c838948acf168db1c8": {
+    "text": "L'usine n'était pas construite pour encaisser ce genre de dégâts."
+  },
+  "96e3e3b4949360868cc281afc13964bd": {
+    "text": "Il n'était pas possible qu'elle puisse encaisser un coup comme celui là."
+  },
+  "367a4abadcdbe3436b85673eb171e61c": {
+    "text": "L'usine est détruite. Au moins, elle ne nous créé plus d'autres problèmes."
+  },
+  "66cec287be34f3b795f0d0277054a7e1": {
+    "text": "J'aurais espérer la sauver... Nous sommes désolé, Zenith."
+  },
+  "4161d18272f68b5d35c4e6ae1e968bfc": {
+    "text": "Si seulement nous avions eu le temps de réparer l'usine..."
+  },
+  "be2a708b693f076a892e4df5673737a2": {
+    "text": "L'usine est détruite."
+  },
+  "692dcc81bb891f4e2d81e5e72c3b1086": {
+    "text": "Maintenant, nous ne serons jamais ce qui n'allait pas dans l'usine..."
+  },
+  "bc25bf939502475828f77ebdf920443a": {
+    "text": "Les opérations de l'usine de robotique ont été arrêtées. Indéfiniment."
+  },
+  "396c288a86f39f285e978da79a0c4879": {
+    "text": "Oups. Est-ce que l'usine était censé exploser ?"
+  },
+  "17aad3d9d8b28b1195c09cf5ab7efdf9": {
+    "text": "L'usine a été touchée !"
+  },
+  "95a0140b108ee8cd942798fde38a14cf": {
+    "text": "Humm, la perte de cette usine ? C'était la faute des robots quand vous y pensez."
+  },
+  "acaa7961c2e1afb311868357f40f3b3d": {
+    "text": "Laissez moi me charger du debriefing, je vais arranger les choses."
+  },
+  "9eb725dbe7d09e369a15b9af434f3990": {
+    "text": "Usine de robotique détruite, Commandant."
+  },
+  "bbf5d9871221dd6adc81bea37c184194": {
+    "text": "Usine détruite. Nous devons faire mieux, #self_first..."
+  },
+  "ba8bdec0beb3d9dbdebd844c471166e2": {
+    "text": "Les composants de l'usine n'ont pas pu la défendre."
+  },
+  "e7552703d07489a496c9f3f9ab67c0cf": {
+    "text": "L'intégrité de la structure de l'usine a été compromise."
+  },
+  "2a15e9ef476ee6d4320e483836d2661c": {
+    "text": "L'usine était trop fragile pour survivre à cette attaque."
   }
 }
