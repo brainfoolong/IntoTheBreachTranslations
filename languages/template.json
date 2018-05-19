@@ -543,6 +543,18 @@
       "scripts/text.lua"
     ]
   },
+  "4743007d17b6f7a6e2fc2441cd14b0ce": {
+    "text": "Tap to Confirm",
+    "files": [
+      "scripts/text.lua"
+    ]
+  },
+  "a7b21789b68c4389c7021336767d6b83": {
+    "text": "After selecting a location to shoot, if you're using a touch screen tap the same location again to confirm the shot",
+    "files": [
+      "scripts/text.lua"
+    ]
+  },
   "10a2152c0d8ae5942e724fdffd8126ef": {
     "text": "This building tile was damaged, so your city Power Grid was reduced. \n\nYour primary goal is to prevent this!",
     "files": [
@@ -2346,6 +2358,12 @@
       "scripts/text.lua"
     ]
   },
+  "8517208075299ce4d3b34034fbcab1c4": {
+    "text": "Are you sure you want to purchase this?",
+    "files": [
+      "scripts/text.lua"
+    ]
+  },
   "0b04e61c3ef03b1f64fe6b4db05fa6b9": {
     "text": "Perfect Island!",
     "files": [
@@ -3030,6 +3048,12 @@
       "scripts/text.lua"
     ]
   },
+  "b7b9ad62ed1a2bab0d6b6f0fc10ce80a": {
+    "text": "Purchase now!",
+    "files": [
+      "scripts/text.lua"
+    ]
+  },
   "29a372b03394cd48fa1df750528b4373": {
     "text": "Change Time Traveler",
     "files": [
@@ -3092,6 +3116,12 @@
   },
   "1b0793fab33f3fe17a1da6c6f085b123": {
     "text": "Start Game",
+    "files": [
+      "scripts/text.lua"
+    ]
+  },
+  "0557fa923dcee4d0f86b1409f5c2167f": {
+    "text": "Back",
     "files": [
       "scripts/text.lua"
     ]
@@ -3268,6 +3298,12 @@
       "scripts/text_tooltips.lua"
     ]
   },
+  "412e43482aab029f061fa22c921f1dd5": {
+    "text": "Normal Mode",
+    "files": [
+      "scripts/text.lua"
+    ]
+  },
   "3af215f3cbe9b30db1e89e79f51b36a5": {
     "text": "Designed to provide an interesting challenge to new and experienced players.",
     "files": [
@@ -3306,6 +3342,18 @@
   },
   "589f1400bef3505d69ae79bf2c29a553": {
     "text": "Locked Color",
+    "files": [
+      "scripts/text.lua"
+    ]
+  },
+  "ecad9d2f5f7ea49048929568e81c4a9f": {
+    "text": "Locked Colors",
+    "files": [
+      "scripts/text.lua"
+    ]
+  },
+  "a430ada907da890d86b089cd6ebe8945": {
+    "text": "Unlock additional Squads to unlock more color options",
     "files": [
       "scripts/text.lua"
     ]
@@ -4420,8 +4468,8 @@
       "scripts/text.lua"
     ]
   },
-  "1915d9cbe9bc72d760d7a9430f2f0382": {
-    "text": "5thHorseman\nAlfie275\nchewbacca77\nDarthcaboose\nDiscord\nFynn\nJoni\nKieve\nLem\nNick Patrick\nRick Edmonds\nSleeper Service\n",
+  "b1f9e0c52fa626cd7066f5f650c28085": {
+    "text": "5thHorseman\nAlfie275\nchewbacca77\nDarthcaboose\nDiscord\nFynn\nJoni\nKieve\nLem\nNick Patrick\nRick Edmonds\nSleeper Service\nVeritas\n",
     "files": [
       "scripts/text.lua"
     ]
@@ -7071,8 +7119,20 @@
       "scripts/text_tooltips.lua"
     ]
   },
-  "c51611f1dadc11a951f2f656547ef87d": {
-    "text": "The environment effect will affect this space next turn",
+  "9defdb90a4738e4affcf471fddaca5e9": {
+    "text": "The environment effect will affect this space next turn.",
+    "files": [
+      "scripts/text_tooltips.lua"
+    ]
+  },
+  "11ef2434b3b23b2bf79cfacc8c008f11": {
+    "text": "Deadly Threat",
+    "files": [
+      "scripts/text_tooltips.lua"
+    ]
+  },
+  "edbfac66df0f8ba5629ea083a18e5b9a": {
+    "text": "The weapon or environment effect on this tile will kill any unit. Shields and Ice will not block.",
     "files": [
       "scripts/text_tooltips.lua"
     ]
@@ -7083,8 +7143,8 @@
       "scripts/text_tooltips.lua"
     ]
   },
-  "bbd4d69b9d587fcc3fd2f92d818e3773": {
-    "text": "Alpha units are more powerful than their standard counterparts",
+  "aef6c54f85c13cb473424ba6ac1db676": {
+    "text": "Alpha units are more powerful than their standard counterparts.",
     "files": [
       "scripts/text_tooltips.lua"
     ]
@@ -7548,8 +7608,8 @@
       "scripts/text_weapons.lua"
     ]
   },
-  "01ad2fc2495855b8d8cfb1c8c566d3e2": {
-    "text": "Mechs heal 1 damage when they deal a killing blow.",
+  "620119db42077924957bec202fb18c9e": {
+    "text": "Mechs heal damage when they deal a killing blow.",
     "files": [
       "scripts/text_weapons.lua"
     ]
@@ -9058,8 +9118,8 @@
       "scripts/text_weapons.lua"
     ]
   },
-  "d7f03b9e4fc5c1ae820333e4a3279316": {
-    "text": "+Push",
+  "9c6a9d9f033001a9b3104984d319563b": {
+    "text": "Push",
     "files": [
       "scripts/text_weapons.lua"
     ]
