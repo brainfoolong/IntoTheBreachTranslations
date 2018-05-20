@@ -6969,7 +6969,7 @@
     "text": "Une seconde ligne temporelle ... et une autre chance de la sauver comme nous l'avons fait avant. Je peux le faire. NOUS pouvons le faire."
   },
   "e3291a070c00522d5b6d377cf17739f5": {
-    "text": "Une sélection d'ennemis sur la carte est libérée de la glace (peut-être des robots)"
+    "text": "Une sélection d'ennemis sur la carte a été libérée de la glace (robots inclus)"
   },
   "32d37312d2651594292733e233a569af": {
     "text": "Une honte. Je suis sûr que nous aurions pu réparer cette usine."
@@ -16645,5 +16645,67 @@
   },
   "d63cded31eed2a451ee96098b50dc87a": {
     "text": "Encore d'autres ro-robots... Essayez de ne pas les dé-détruire !"
+  },
+  "1e2a6b5a6f49a7fcef65b2431c1f1dd7": {
+    "text": "L'usine Pinnacle refuse de se conformer à la demande de fermeture."
+  },
+  "9a9707f4c874d33838172056fe8b18ab": {
+    "text": "Ce robot... pardonnez moi le terme... est en proie à des directives internes contradictoires. "
+  },
+  "9529014a4466fe295155bf62dd70f0aa": {
+    "text": "Ce robot n'est plus capable de distinguer les amis des ennemis."
+  },
+  "39dc55c3ffdece6c3590447f07006224": {
+    "text": "Ces modèles Pinnacle sont étonnant récents... et erratiques.",
+    "review": true
+  },
+  "bb3baa6eb80cab294fb935a01ea5bd80": {
+    "text": "Détruisez ce robot si vous y êtes contraint, la menace qu'il représente pour les innocents est trop importante."
+  },
+  "4800ef6b2b1c6c4f223119f12f976ef0": {
+    "text": "Ce robot est malade et représente une menace, mais j'espère ne pas à avoir le tuer."
+  },
+  "db76c6b36b0b45014b63895597379117": {
+    "text": "Un autre robot dysfonctionnel a été détecté, méfiez-vous."
+  },
+  "68679b54001e3c1f0a174043ee70cfec": {
+    "text": "Ils se libèrent !"
+  },
+  "536a8f0909a4a2c59fadae93968f81da": {
+    "text": "Des hostiles se libèrent, Commandant."
+  },
+  "dcf70568468df000271a13de3fedce40": {
+    "text": "L'ennemi est en mouvement."
+  },
+  "bb082bb911cd98f13add85f0e2851f3d": {
+    "text": "Cette glace n'a pas pu le retenir."
+  },
+  "1768c918792d1e935f6b3b226f02d370": {
+    "text": "On dirait que nos amis ont dégelé."
+  },
+  "bd50556befb860ab82bcf7ddf5f9cfc9": {
+    "text": "Ils se sont libérés ! On va avoir de la compagnie !"
+  },
+  "85290586e4ea82309b4bf72525c741c4": {
+    "text": "On dirait que le froid ne peut pas les retenir longtemps..."
+  },
+  "d6e1165a7f3f5274a9b64c09e3737cf6": {
+    "text": "J'espérais qu'ils resteraient un peu plus longtemps enchâssés dans la glace..."
+  },
+  "35b55b460aacffda9fe5f2a3165d55a8": {
+    "text": "Nos ennemis se sont libérés d'eux-mêmes."
+  },
+  "2fb99af740b8bc3bd852a6dc32059ee8": {
+    "text": "Nos ennemis se sont libérés."
+  },
+  "edf9954aa2c6a9753363137e753beb91": {
+    "text": "Intéressant. Le froid ne les a pas stoppé longtemps."
+  },
+  "0e1feaf0a820bb1e19414749fcea6079": {
+    "text": "Ils se libérés de la glace d'eux-mêmes. "
+  },
+  "2b7aecdcf475887ef5f9099303997481": {
+    "text": "L'ennemi n'est plus contenu par la glace.",
+    "review": true
   }
 }
