@@ -4675,7 +4675,7 @@
     "text": "Tapis Roulants"
   },
   "d704b08e013a2fcbea549611cba764f6": {
-    "text": "Scarabée Convoyeur Pousse n'importe quelle unité dans la direction indiquée au début du tour ennemi."
+    "text": "Les Tapis Roulants poussent n'importe quelle unité dans la direction indiquée au début du tour ennemi."
   },
   "833935b4539057005011ce6785cc8853": {
     "text": "TAPIS ROULANTS"
@@ -4684,7 +4684,7 @@
     "text": "TAPIS ROULANTS"
   },
   "10d44295aabf612c01cf2f19eb96850f": {
-    "text": "Défendre l'unité d'Extermination"
+    "text": "Défendre l'unité d'élimination des déchets"
   },
   "265e1f2dae919214193bb7f5ef17a00b": {
     "text": "Détruire toutes les montagnes"
@@ -4693,7 +4693,8 @@
     "text": "Mountains"
   },
   "45205658881be19832588221139d1136": {
-    "text": "Extermination"
+    "text": "Élimination ",
+    "review": true
   },
   "948fdc23d564a11712c84ce6e5278296": {
     "text": "Lanceur A.C.I.D."
@@ -4787,7 +4788,7 @@
     "text": "Des bombes seront larguées sur les emplacements marqués, tuant toute unité."
   },
   "2453e9ec637406d9905bb0ce34bc1fb0": {
-    "text": "APPUI AÉRIEN"
+    "text": "SUPPORT AÉRIEN"
   },
   "0936481946dd13343be73c7473784588": {
     "text": "Défendre le Soutien Artillerie"
@@ -4851,7 +4852,7 @@
     "text": "Votre objectif bonus"
   },
   "3e2a76e81ef1cfa252143524ae6ba9ea": {
-    "text": "défendre cette structure"
+    "text": "pour défendre cette structure"
   },
   "7ad256905de3108167e06d311da8f532": {
     "text": "Tuer tous les ennemis avant qu'ils ne se retirent"
@@ -4860,10 +4861,10 @@
     "text": "Tuer tous les ennemis avant \nqu'ils ne se retirent"
   },
   "ddff0d5817e9abf08eb05ebc3a9ea973": {
-    "text": "Ceci est un message d'information de la mission provenant du PDG. C'est très atmosphérique et excitant, vous donnant une vision proche du monde ainsi que la mission que vous êtes sur le point d'entreprendre."
+    "text": "Ceci est un briefing de mission provenant du PDG. C'est très atmosphérique et excitant, vous donnant une vision proche du monde ainsi que la mission que vous êtes sur le point d'entreprendre."
   },
   "1f6f04e9e368147e55fc170f35e7eed3": {
-    "text": "Ceci est un message de fin de mission du PDG. Cela reflète la réussite de la mission. Il a des éloges glorifiantes, ou peut-être est-ce plutôt insultant envers vos compétences."
+    "text": "Ceci est un briefing de mission provenant du PDG. Cela reflète la réussite de la mission. Il a des éloges glorifiantes, ou peut-être est-ce plutôt insultant envers vos compétences."
   },
   "055a2686266eb58757b79eefe037a1ad": {
     "text": "Moins de 3 de dégâts de grille",
@@ -4873,10 +4874,10 @@
     "text": "Terminer avec moins de 4 de dégâts subit par vos Mech"
   },
   "dad15ea258068b0bd62af51ad586c5ae": {
-    "text": "Bloquer l'Apparition des Veks 3 fois"
+    "text": "Bloquer l'Apparition de Veks 3 fois"
   },
   "4468106b119ce25bcd00795c42247164": {
-    "text": "Bloquer l'Apparition des Veks\n3 fois"
+    "text": "Bloquer l'Apparition de Veks\n3 fois"
   },
   "6998faaa07f7573d034e960a988375d4": {
     "text": "Tuer au moins"
@@ -4895,7 +4896,7 @@
     "text": "Ennemis"
   },
   "5390d8f3425bd8f561e81805afe74235": {
-    "text": "défendre cette structure."
+    "text": "pour défendre cette structure."
   },
   "223321533ecd98aac252b03ef151be68": {
     "text": "Vous avez déserté le champ de bataille, laissant des provisions et des civils derrière vous."
@@ -4919,7 +4920,7 @@
     "text": "Défendre les deux Fermes Solaire"
   },
   "84cd8088085538d275e657eb61ea9834": {
-    "text": "Défendre les deux Parc Éolien"
+    "text": "Défendre les deux fermes éoliennes"
   },
   "427d563aa4c8599b3c12d18b652b6966": {
     "text": "Défendre les deux Centrales Électriques"
@@ -4949,10 +4950,10 @@
     "text": "Avance de 2 tuiles, mais sera détruit s'il est bloqué."
   },
   "ad5db6ac9e5575807057b074df742941": {
-    "text": "Ne tuez pas le Vek Volant"
+    "text": "Ne tuez pas le Vek explosif"
   },
   "f6d0767246dfb19d759aeaa33c8447ad": {
-    "text": "Ne laissez pas le Vek \nVolant mourir"
+    "text": "Ne laissez pas le Vek \nexplosif mourir"
   },
   "4111a42c624f49b8f838195faef8d0c9": {
     "text": "Défendre le prototype de Bombe Renfield"
@@ -6417,7 +6418,7 @@
     "review": true
   },
   "a7b8395f882dd6cccd0df92aef7ecbcd": {
-    "text": "... Les unités d'élimination de ce genre sont une raison pour laquelle je me porte volontaire comme pilote."
+    "text": "...les unités d'élimination de ce genre m'ont poussé à me porter volontaire comme pilote."
   },
   "c2e271c0f30860240e5af246fdc20dbe": {
     "text": "... Même moi je ne pouvais pas réparer ça."
@@ -6476,7 +6477,7 @@
     "text": "... Dites à Kern que j'ai combattu jusqu'à la fin."
   },
   "c529d32775c6847881ba2667063bcbd7": {
-    "text": "... Cette unité d'élimination est une raison pour laquelle je ne manque pas de travailler à Détritus."
+    "text": "... Cette unité d'élimination est une raison pour laquelle ça ne me manque pas de travailler à Détritus."
   },
   "57ec17cc1cad30796032a5fd8ad73453": {
     "text": "...Le pouvoir de ces Mechs m’effraie parfois."
@@ -6625,8 +6626,7 @@
     "text": "[ Le périphérique d'origine inconnue a activé un signal ]"
   },
   "2c6e481ae9c53a567a0580e5f7c1299f": {
-    "text": "[ L'unité de destruction a été détruite ]",
-    "review": true
+    "text": "[ L'unité d'élimination de déchets a été détruite ]"
   },
   "7e3d82def36dd895e1946dfb05c897c5": {
     "text": "[ Utilisation de parties de soi sur le Mech endommagé ]"
@@ -6699,10 +6699,10 @@
     "text": "[ Bouclier Pinnacle en marche ]"
   },
   "ff9cc3a123fb424602b0e5fe9e04cb72": {
-    "text": "[ Veuillez éviter la zone de destruction ]"
+    "text": "[ Veuillez éviter la zone d'élimination ]"
   },
   "5a2a92ade66a8ae723581237c27f1860": {
-    "text": "[ Veuillez rester à l'écart de la zone d'opérations de l'unité de destruction ]"
+    "text": "[ Veuillez rester à l'écart de la zone d'opérations de l'unité d'élimination des déchets ]"
   },
   "4e0e06bbd7d04d82f497fb7b258a1449": {
     "text": "[ Veuillez rester à l'écart de la zone de travail du Terraformeur ]"
@@ -6831,7 +6831,7 @@
     "text": "[Mise à jour en ligne]"
   },
   "52d1f1ff1a52b6052f03da2e8fc51c53": {
-    "text": "[ Vat détruit ]"
+    "text": "[ Cuve détruite ]"
   },
   "5a39641880f047b74cc50c57ed42aab5": {
     "text": "[ Vek supprimé. Cause de suppression : Vek rival ]",
@@ -7040,7 +7040,7 @@
     "text": "A.C.I.D. relâché comme ordonné, Commandant."
   },
   "01110194760fb30094b4702bb399d952": {
-    "text": "A.C.I.D. relâché ! Je suis désolé pour le Vek en dessous ... presque."
+    "text": "A.C.I.D. déversé ! J'ai presque pitié pour le Vek en dessous... enfin presque."
   },
   "9edda8d98f5a2d13a818d6ac2aa661e3": {
     "text": "Scorpion A.C.I.D."
@@ -7050,7 +7050,7 @@
     "review": true
   },
   "c4758556fcc1a65bdd159e633bd5bf95": {
-    "text": "Cuve d'A.C.I.D.a été détruite."
+    "text": "La cuve d'A.C.I.D.a été détruite."
   },
   "f9ff23a439f47e7caaa29c9635d04f61": {
     "text": "À propos de ce terraformeur... faites de mon bureau le premier arrêt lorsque vous retournerez à la base."
@@ -8077,7 +8077,7 @@
     "text": "Les cuves dans cette région contiennent des produits chimiques toxiques pour les Veks - brisez-les et les Veks quitteront le secteur."
   },
   "a92140c6f95c417fdf3cd0e956328a67": {
-    "text": "Malheureusement, pas assez de produits chimiques ont été dispersés dans le sol - les Veks restent encore vivant dans le secteur."
+    "text": "Malheureusement, pas assez de produits chimiques ont été déversés dans le sol - les Veks sont vivants dans le secteur."
   },
   "67bce3b49c78ba681559cf2e10d712e9": {
     "text": "L'invasion Vek a été ralentie, mais pas assez de cuves ne furent détruites pour les arrêter complètement. Malheureusement, il n'y a plus rien à faire."
@@ -8892,10 +8892,10 @@
     "review": true
   },
   "ab43cbde6e81bc8b15b96d326672a337": {
-    "text": "Ah ... malheureux. J'avais espéré que nous pourrions garder l'unité intacte, c'était la clé de notre défense."
+    "text": "Ah... c'est dommage. J'avais espéré garder l'unité intacte, c'était la clé de notre défense."
   },
   "086682363098b5f8fb1f137f54aebd98": {
-    "text": "Ah ... malheureux. Pourtant, mieux vaut rationner le pouvoir à partir de maintenant que de perdre la région !"
+    "text": "Ah... dommage. Pourtant, mieux vaut rationner notre énergie à partir de maintenant que de perdre la région !"
   },
   "124a96ae5cea09d1726a5a623ff5a872": {
     "text": "Frappe aérienne en approche !"
@@ -13598,13 +13598,14 @@
     "text": "Un problème de moins à s'occuper, merci aux Veks..."
   },
   "65924795a1a5c259d96c3aa90e01d78d": {
-    "text": "La dangereuse substance Vek se consume de lui même."
+    "text": "La dangereuse substance Vek se consume d'elle-même."
   },
   "f785837ce215840c2f0d2b19565d3dbc": {
     "text": "Les Veks ont l'air de nettoyer la zone de travail d'eux-mêmes."
   },
   "db4b8b5c8719b1c164dfca7bc42af71c": {
-    "text": "La dangereuse substance Vek se débarrase de la dangereuse substance Vek."
+    "text": "La dangereuse substance Vek se débarrase de la dangereuse substance Vek.",
+    "review": true
   },
   "c4813f01f2311a0ba2f0cc0c74d2fff8": {
     "text": "Pou-pou-quoi se font-ils du m-m-mal entre eux ?"
@@ -13726,7 +13727,8 @@
     "text": "Deux Veks abattus !"
   },
   "34496a5968bb3b5c3aa0394fabf9837f": {
-    "text": "Élimination de substance Vek dangereuse."
+    "text": "Élimination de substance Vek dangereuse.",
+    "review": true
   },
   "198c01de17046ff9c1a55643bf17b14d": {
     "text": "Opération de nettoyage Veks en avance sur les prévisions."
@@ -17082,5 +17084,477 @@
   },
   "61b2485e358af69afb278c76485e234a": {
     "text": "Ce robot devait être stoppé. Je présenterai mes excuses auprès de Zenith personnellement."
+  },
+  "813ca44514a57853852e59ca8ee63069": {
+    "text": "Si vous pouvez épargner les robots, faites le, mais ne vous mettez pas en danger."
+  },
+  "e07733a38ecfcefc65c316d7ba81c5f9": {
+    "text": "C'était un robot tueur - qu'est-ce que vous auriez pu faire d'autre ?"
+  },
+  "64ed4802c7a17e1b5188a15f902563bf": {
+    "text": "Je respecte Zenith de vouloir sauver ces robots, mais ils ESSAIENT de nous tuer."
+  },
+  "4736f82d9ba6b6aa3eae72ec26eea5b1": {
+    "text": "Nous devons essayer de protéger les robots si nous le pouvons."
+  },
+  "719fd11293b424f091f18541bffe33af": {
+    "text": "Cela est contre nos paramètres de missions."
+  },
+  "c8a2646da47a14986fca832c60e53d4e": {
+    "text": "Si nous pouvons épargner les ro-robots... Zenit vou-voudrait cela."
+  },
+  "af68a0b0119480e76ba70fde44c408b3": {
+    "text": "Malheureuse perte d'un robot, numéro de série enregistré."
+  },
+  "ed37cde172ae78f207ce45b5c6902c4c": {
+    "text": "Pourquoi est-ce que Zenith laisse-t-elle faire cela ?"
+  },
+  "7d6eba96d210432baefcb35975de11fd": {
+    "text": "Tuer ce robot était un mal nécessaire."
+  },
+  "5dd9967adce1106f2e9273401c426f65": {
+    "text": "J'ai pris aucun plaisir dans la disparition de mes frères malades."
+  },
+  "6dab69427d4e50a5add91e4131e8c621": {
+    "text": "Cette machine a du être détruite."
+  },
+  "0d476e9a437e80c678355918f95e479e": {
+    "text": "Le joueur est supposé défendre l'unité d'élimination des déchets et elle a été détruite - le tireur n'a pas d'importance"
+  },
+  "6ede29c9b9feceed0aa58b21691d0247": {
+    "text": "Mise à jour : Lanceur A.C.I.D. de Detritus détruit"
+  },
+  "e914d19cefb26680ac56a8c8dc3ad50b": {
+    "text": "Lanceur détruit, nous sommes seuls maintenant."
+  },
+  "ea2f4010130d66b2c528023d9f13400d": {
+    "text": "Lanceur détruit !"
+  },
+  "ea1a2355349d2702b9c37588dfd8b57b": {
+    "text": "Lanceur détruit, Commandant."
+  },
+  "1f503ea3c8c829764b131faa80dfcf6e": {
+    "text": "Cette unité d'élimination des déchets était la clé de voûte des efforts de Detritus...",
+    "review": true
+  },
+  "a2ce0e1bc5a8562a8ba8e883592e4cfb": {
+    "text": "Detritus comptait sur cette unité d'élimination de déchets - nous les avons créées il y a des années.",
+    "review": true
+  },
+  "101c060caf29ab74e7c456d6af15ab2a": {
+    "text": "Merde ! Nous avions besoin de cette unité intacte !"
+  },
+  "044823d7807847c7e78147877ae44b69": {
+    "text": "Non ! Nous avons perdu le lanceur ! La pauvre équipe..."
+  },
+  "74889b286f261577397aa77a37329ea2": {
+    "text": "Le lanceur et son équipe... ils ont été détruits !"
+  },
+  "5e44fa4bd954e61cc3ebe15ad9f6c561": {
+    "text": "L'unité d'élimination des déchets a été détruite."
+  },
+  "f2219f947aa3d071b7a4c69e3349fc41": {
+    "text": "Je... Je pourrais réparer l'unité d'élimination des déchets mais en revanche, son équipe..."
+  },
+  "f17e22d4a4c00b1b05112bec128c172c": {
+    "text": "Distributeur de toxines Detritus détruit. Production d'A.C.I.D. arrêtée."
+  },
+  "42f38cc19c5b8fd1f3728fe3fdf497fe": {
+    "text": "Le système de distribution de poison chimique a été arrêté."
+  },
+  "f6fdaac244ad9509001d9575640a880d": {
+    "text": "Euh... maintenant que l'unité d'élimination des déchets est détruite, on fait quoi maintenant ?"
+  },
+  "370fb050dcea9e4f6833afaf240f7458": {
+    "text": "Je ne veux même pas penser à combien coûte cette unité."
+  },
+  "40b455e6f6edc4849dfe1b8490cbe960": {
+    "text": "Nous avions besoin de cette unité Detritus pour nettoyer les ruches Veks !"
+  },
+  "e53f96a14c7326457ed8977f6e813aab": {
+    "text": "Le distributeur de vomis Detritus est détruit, nous ne pouvons plus rien faire contre cela."
+  },
+  "a5009c14c7f3c3f7635d0acf3fe18b13": {
+    "text": "Vikram comprendra que nous l'aidons n'est-ce pas ?"
+  },
+  "13f5194e135b136a76d4e7f76e8bf498": {
+    "text": "Laissez moi gérer le débriefing, je vais arranger cela."
+  },
+  "b68cb92986460807931abfffb7498d5b": {
+    "text": "L'unité Detritus est détruite !"
+  },
+  "b818df62a7a8227efad38fd9c3eea3e4": {
+    "text": "Les composants de l'unité d'élimination des déchets n'ont pas réussi à la défendre."
+  },
+  "bea429b8e07cd52a04128dc98c1a07c7": {
+    "text": "L'un-unité d'élimination des dé-déchets a été détruite !"
+  },
+  "8edee61e2fb7282ebddae93797a77341": {
+    "text": "Destruction non autorisée de la propriété Detritus."
+  },
+  "c51a137b8dd305c365f6d7ed4474c6b7": {
+    "text": "Bien, nous n'entendrons jamais la fin de cela de la part des 'agences de renseignements' Detritus."
+  },
+  "978c08e6d0478730e0ad0164223096d6": {
+    "text": "Je crois que les Accords d'entreprise nous protègent de toute responsabilité dans cet incident."
+  },
+  "0aa2f7927def9a525f4a63f7bb36b0d2": {
+    "text": "Le joueur utilise l'unité d'élimination des déchets  -- dommages de masse"
+  },
+  "d8ea9a5801f2e4b3ace73bac5c2add0c": {
+    "text": "Alerte : Activation des filtres chimiques"
+  },
+  "8f1c527e26509e9308fe25cc0e8bb07a": {
+    "text": "Quand on parlait d'un bain d'acide..."
+  },
+  "b70676f47c2f08a6663d337463766d11": {
+    "text": "Je ne veux pas être chargé du nettoyage..."
+  },
+  "aa54c7a632175a62a4379efa5fc589d1": {
+    "text": "Faites attention aux projections - ces produits chimiques perceraient votre armure en quelques secondes !"
+  },
+  "09d7ec7f274468c062320689e9b3f9f6": {
+    "text": "Maintenez une distance de sécurité de l'unité d'élimination !"
+  },
+  "52771d101312c41f6460babf891bb23b": {
+    "text": "Detritus sait certainement comment se débarrasser des problèmes..."
+  },
+  "2551779e78ff6f6992ac86cf8df2a083": {
+    "text": "Restez à l'écart des déchets !"
+  },
+  "e090b6d95234ad44919e20fe83b9b9e9": {
+    "text": "Oh mon Dieu. Cette unité d'élimination des déchets est... incroyable."
+  },
+  "b4155b045116986203f073cabcffabb3": {
+    "text": "Cette unité d'élimination des déchets vient juste... de... liquéfier le terrain."
+  },
+  "cb7410f72295c706a800b8478e2cd589": {
+    "text": "Donnez au lanceur un peu d'espace pour faire son travail."
+  },
+  "e871a3b814d6a90b3da42f4ec31f0d8a": {
+    "text": "Mon Dieu, je vois que Detritus n'exagérait pas à propos de ces produits chimiques."
+  },
+  "a6efd6f26d10e9b1377bc175ad06ac10": {
+    "text": "Distributeur de toxines Detritus activé. Inefficace."
+  },
+  "ebd22030474a4c2431824340cdd0b6b4": {
+    "text": "Le distributeur de toxines Detritus a libéré d'autres nanites A.C.I.D. pour détruire les ruches.",
+    "review": true
+  },
+  "359cb341a3767db6c42eed8f32b1fca6": {
+    "text": "Vous avez vu ce que l'unité d'élimination a fait ?"
+  },
+  "d3db557e54396d798e08024752b49888": {
+    "text": "Donnez plus d'importance à cette unité et nous gagnerons la guerre.",
+    "review": true
+  },
+  "add7bb36839c59c55af29d54f56f5fb8": {
+    "text": "L'unité de Detritus a saturé le sol, Commandant."
+  },
+  "ef89b6a70d32b9bc7aa80611d42b1438": {
+    "text": "L'unité d'élimination des déchets est en train de saturer le terrain avec des nanites destructeurs."
+  },
+  "1eaab44557463b880a6e0a38827e1266": {
+    "text": "Terrain Detritus entièrement saturé.",
+    "review": true
+  },
+  "79831b9ca8d5230a8465b6acfcf61618": {
+    "text": "L'un-unité d'élimination a relâché assez de produits chimiques pour tuer les océans."
+  },
+  "45ba09097fed70937afa361f384cf641": {
+    "text": "Le rezonage de l'unité de Detritus de la région est terminé.",
+    "review": true
+  },
+  "4e036683ca21e6d23393a58dee864b07": {
+    "text": "Cette unité Detritus va certainement faire des dégâts. J'espère que je n'ai pas pris d'A.C.I.D. sur mon armure."
+  },
+  "eee7db78ff84a629414e31273872a619": {
+    "text": "Ce lanceur de boues A.C.I.D. n'égaye pas vraiment le paysage, n'est-ce pas ?",
+    "review": true
+  },
+  "c77a69da2b8ee79ccd9529b733b8239a": {
+    "text": "L'unité d'élimination des déchets s'est montrée très efficace contre les Veks. J'espère que nous pourrions en fabriquer une en version mobile."
+  },
+  "e21198793f2ac5cb44234db674ebcfc8": {
+    "text": "Mise à jour : Cuve A.C.I.D. Detritus détruite"
+  },
+  "386d8015f82ba438cdddc327ee0ff083": {
+    "text": "J'espère que ces produits chimiques feront le travail..."
+  },
+  "feae4fd431247f9083c997e432668145": {
+    "text": "La cuve a explosé."
+  },
+  "748d90205455336655f3bc3aa452fc53": {
+    "text": "La cuve a cédé, Commandant."
+  },
+  "6892735d961217a65aca0aa6f73f6266": {
+    "text": "Une cuve de produits chimiques a cédé."
+  },
+  "77ddc1f0de65e0eac3394a8fd4a464db": {
+    "text": "La cuve a cédé, les produits chimiques ont été déversés dans la nature."
+  },
+  "1600389b80c65db1a88cfbc44900e2e4": {
+    "text": "Attendez que les Veks respirent un petit peu de ça...",
+    "review": true
+  },
+  "467b5fd01038a5c881a839ade8fe75e3": {
+    "text": "J'ai presque pitié le Vek..."
+  },
+  "bb39e1283e2c65910eaae1c2f2ac9d95": {
+    "text": "La cuve a cédé."
+  },
+  "cc427f07ed2491c3b1a8605babcd5f6d": {
+    "text": "Mon Dieu, cet A.C.I.D. Detritus pénètre dans le sol à vitesse grand V !"
+  },
+  "15bfafc7036a21b867d3bd4593ef22d7": {
+    "text": "Les toxines Detritus s'infiltrent dans les ruches Veks."
+  },
+  "1b297d3140d6b98893f20cf94b6f17ee": {
+    "text": "La cuve a été endommagée et de l'A.C.I.D. coule tout autour d'elle sur le terrain."
+  },
+  "7dad841d9ad5e0235367b364eb33cf74": {
+    "text": "Cuve détruite ! Fuite d'A.C.I.D. !"
+  },
+  "84693412a0e463adcf1f0614a6e031cd": {
+    "text": "Tonneau ouvert ! Enfin... bon, ouverture du baril d'A.C.I.D..",
+    "review": true
+  },
+  "890e47524454695bf4a93f3a1175ca21": {
+    "text": "La cuve A.C.I.D. a été percée. Détection de fuites de produits chimiques "
+  },
+  "9bfb9ee14e58cfc9f6bf22022bb7afa3": {
+    "text": "Veuillez respecter une distance de sécurité autour de la cuve Detritus endommagée."
+  },
+  "bf3f6eec2a8f56cd3a9d304976e7da6a": {
+    "text": "La cu-cuve rejette de l'A.C.I.D. dans le sol - ce-cela devrait bientôt frapper les ruches Veks "
+  },
+  "d95f0f106ae45e9642192743d4bc3f60": {
+    "text": "Cuve détruite. Les produits chimiques coulent directement dans les ruches."
+  },
+  "78408ce25277be594e6d3a30455fb682": {
+    "text": "Excellent, Commandant ! Les Veks devraient bientôt goûter de l'A.C.I.D. "
+  },
+  "18819c5cd6cbe613c7154733602c3d5f": {
+    "text": "La centrale électrique est détruite."
+  },
+  "97eb4d1053da206afbb9bf43c7b94614": {
+    "text": "La centrale électrique est détruite ! "
+  },
+  "d0a705368df01c4565cb80a24714a48a": {
+    "text": "Mise à jour : Centrale électrique détruite"
+  },
+  "ec14cbe46bae02e08ca626f1c7618364": {
+    "text": "Je suppose que nous devrons rationner l'énergie pour nos Mechs maintenant..."
+  },
+  "0752186ff80b227a14082f43385759ac": {
+    "text": "La centrale est détruite - concentrez vous sur les Veks."
+  },
+  "3138951043c508f1db4b11f3e8933860": {
+    "text": "La centrale électrique a été détruite."
+  },
+  "3580bba727968f99ca71ac7cc9ac96a8": {
+    "text": "La centrale électrique a été nivelée."
+  },
+  "1419af43f2aae6ea9156cbeebba7452b": {
+    "text": "Central perdue !"
+  },
+  "0c735f7d23cfbe149038665f785a7a82": {
+    "text": "Non ! Nous avons perdu la centrale !"
+  },
+  "2aee7260a7498864e8f74e8293744813": {
+    "text": "La centrale électrique est perdue."
+  },
+  "cafb27b87eb9eb7fa31ffa7e12545494": {
+    "text": "La centrale électrique a été recyclée."
+  },
+  "eaa88cbd6bef7dcf1f86de7bb350bf56": {
+    "text": "Oups. Nous avions besoin de cette centrale, non ?"
+  },
+  "3f1d1b9617b63bcf9182c000404b7745": {
+    "text": "La centrale électrique est perdue. J'irai présenter mes excuses au Directeur Singh moi-même."
+  },
+  "9f26f49c57dd08cdfbf3ab36fa57f98c": {
+    "text": "N'étions-nous pas supposé protéger cette centrale électrique ?"
+  },
+  "bd1490cf5cb0295d12d63cfa162273ed": {
+    "text": "La centrale électrique a été détruite... Oh mon Dieu, nous sommes VRAIMENT dans le pétrin."
+  },
+  "68e08b6c71e5cf2204bb6eab9eb90831": {
+    "text": "La centrale électrique est perdue, Commandant."
+  },
+  "ea0abba0ba96e4da5ac9c44ffdd9a6df": {
+    "text": "Les composants de la centrale électrique n'ont pas pu la défendre."
+  },
+  "69053e5174fb405098ea5c1b7b7d30d3": {
+    "text": "Cen-centrale électrique détruite !"
+  },
+  "f5ad43e773477419d7fcbad916082f5b": {
+    "text": "Nous avons perdu la centrale électrique !"
+  },
+  "af3583c5c5603c39a3fc7f9af537f644": {
+    "text": "Téléportation Mech (self)",
+    "review": true
+  },
+  "6bfd706c7582da3c12396967b35b8a67": {
+    "text": "Mise à jour : Nouvelles coordonnées enregistrées."
+  },
+  "14c8b203959321c514d56224ad3faba4": {
+    "text": "Mise à jour : Ré-acquisition des cibles"
+  },
+  "306d848d1730427dd6c669963f4e05cf": {
+    "text": "Saut effectué avec succès."
+  },
+  "12d6251b66b533e031b3ba85fb3c8135": {
+    "text": "Nous avons réussi.",
+    "review": true
+  },
+  "e65bb00a0823c1c31671cf0135817093": {
+    "text": "Detritus doit miniaturiser ces trucs."
+  },
+  "b8150918bc3b6be9d31b0b145ae21525": {
+    "text": "Téléportation effectuée avec succès."
+  },
+  "a83aec38e3a9d4b1319c20a626f70727": {
+    "text": "Re-déployé, Commandant."
+  },
+  "e5098f85fd5e78bec482713b3085bd76": {
+    "text": "Ces téléporteurs ne sont pas fait pour transporter des êtres vivants..."
+  },
+  "a2fd96bab6c14014c84ce57605e4f2ba": {
+    "text": "J'espère qu'ils ne vont pas causer des dommages permanents à nos cellules."
+  },
+  "d5d8f73f7797a50906d2494262937e70": {
+    "text": "Ces téléporteurs sont incroyables !"
+  },
+  "764de66f644dc4a9e66f62f5a4b521cc": {
+    "text": "Je n'ai pas besoin de ces tours de passe-passe, mais ils vont quand même m'être utiles."
+  },
+  "a74e46bbcfe4901bf9fdf210e2108296": {
+    "text": "On dit que ces téléporteurs volent un peu de notre âme lorsque nous les traversons."
+  },
+  "a7a5e7da7c2793fe519d358ed82d9518": {
+    "text": "C'était... vraiment dé-déroutant."
+  },
+  "8a58a4253562454e76a67d6aaeea70ff": {
+    "text": "Téléportation réussie. Recalibration des systèmes."
+  },
+  "fcd3c28505600e5f728bd49a0b0851c5": {
+    "text": "J'ai été recyclé et réassemblé. "
+  },
+  "2f8f76bb43c34b375647626cd6b8984a": {
+    "text": "Youpi ! Je veux le refaire !"
+  },
+  "1f95fa44f70113f4a7576115aeed27dd": {
+    "text": "Rappelez vous - le fil rouge sur le bouton rouge et le fil vert sur le bouton vert.",
+    "review": true
+  },
+  "e5041f48d24a32bcafb8f4d239373ff7": {
+    "text": "Téléportation réussie, Commandant."
+  },
+  "002318c8b7b27dd597e12371804ca66e": {
+    "text": "Déplacement réussi. Tous les composants sont présents."
+  },
+  "a831375a21ce220066ba2fdb31bff7c0": {
+    "text": "Téléportation réussie... Et ma voix. Elle est... stable."
+  },
+  "f1dbea0ecd472facd06e79229f43265c": {
+    "text": "Recalibration des coordonnées... Attendez, est-ce bien ma voix ?"
+  },
+  "756b4021ddd822d72181725054c0f6bd": {
+    "text": "Ces téléporteurs sont beaucoup plus gros et encombrants que je ne pensais."
+  },
+  "4ae7ee5d294cd59d7b61b3d988f2d726": {
+    "text": "Si vous vous sentez faible ou étourdi après la téléportation, veuillez contacter notre division médicale immédiatement."
+  },
+  "af0fdda728744b4ede2c30d010dbb3ef": {
+    "text": "Le Mech bouge sur le tapis roulant (self) (sans aucun dommage, ni autre problème)"
+  },
+  "2bcff2dea294e38293f251e485899ace": {
+    "text": "Efficacité tactique : Mobilité affectée"
+  },
+  "5f35c6a0e216dfe01603f0b14501afd2": {
+    "text": "J'aurais souhaité avec ça à Archive pour bouger les reliques..."
+  },
+  "7ce9ded995573b613b0e4097e5c1d627": {
+    "text": "J'espère que cela ne va pas m'emmener à un site de recyclage de Mechs..."
+  },
+  "08969f76d8612266389b2fee01cda0b4": {
+    "text": "J'espère que ces tapis vont tenir..."
+  },
+  "01b886ddd1a2fedb92fda844a5ffea3f": {
+    "text": "Je dois m'enlever de cela avant que ça me jette dans une cuve."
+  },
+  "9c0e14736849e2c17a3de5c72f81d203": {
+    "text": "On dirait que ces tapis roulants peuvent supporter nos Mechs après tout."
+  },
+  "55b60e52bb06c7dd9d890041a09b71c6": {
+    "text": "Il est temps de faire une ballade."
+  },
+  "a436a5e153f4803000d9566cf75c5aba": {
+    "text": "Utilisons un peu ces tapis roulants."
+  },
+  "c68155c925966ca13d2e36e234fc4134": {
+    "text": "Comme à l'ancienne dans les aéroports..."
+  },
+  "cdb8a462a38e9bc7b00ebc152d9f4d0b": {
+    "text": "Utiliser ce tapis roulant est... vexant."
+  },
+  "e80f379f3dffa109f4de1ff3717426b3": {
+    "text": "Je suis sûr que le poids des Mechs ne dépasse pas la limite autorisée..."
+  },
+  "7cba2f1bd50922728cd2748fb836a478": {
+    "text": "Transport réussi."
+  },
+  "4dfb0781a716306c254e7b5f8bbb051d": {
+    "text": "Detritus les utilise pour acheminer les déchets."
+  },
+  "f1b2bac5b975866b2054d4cce215c97f": {
+    "text": "Ces tapis roulants appartiennent à un parc à thème!"
+  },
+  "2de102674944054345cc496bdc74fb1e": {
+    "text": "Mech, voici tapis roulant. Tapis roulant, voici M. Mech."
+  },
+  "3a2b51e8df5a26816b9d85157fc82705": {
+    "text": "Mettons ce tapis roulant Detritus au travail..."
+  },
+  "4bfc5f21118dc202e753158394802c42": {
+    "text": "Allumons ce tapis roulant !"
+  },
+  "c69cbf2f9e4d2c57d67c69addf0647d1": {
+    "text": "Je suis en place sur le tapis roulant."
+  },
+  "44769cd658ab198bcb0109cb1cd5fc1e": {
+    "text": "C'est une violation du code du travail d'utiliser les tapis roulants pour une utilisation personnelle.",
+    "review": true
+  },
+  "dbb71e6a6aa8eded73a21be4d81a8a91": {
+    "text": "Utiliser les tapis roulants sans main courante constitue une infraction en cour martiale."
+  },
+  "8cea783760d71ff446d250062cad201e": {
+    "text": "Euh... est-ce s-s-sûr d'utiliser c-c-cela ?"
+  },
+  "9356ee378dcdacdb365f158798b4dfee": {
+    "text": "Signalement d'une auto-violation des protocoles de sécurité concernant l'utilisation des tapis roulants."
+  },
+  "ec5c014613629e2a0bd0ae370e9d20e9": {
+    "text": "Ce mode de transport est indigne d'une intelligence comme moi-même."
+  },
+  "25a1bf23c2a92a25985b7fc40ba5e6df": {
+    "text": "Comme c'est embarrassant d'être transporté par un appareil aussi primitif."
+  },
+  "346e662151b10a55523a92132790975d": {
+    "text": "Ingénieux !"
+  },
+  "68f7e343cbbf9e009df8d98e203418f8": {
+    "text": "Tuer 4 ennemis touchés%%0avec A.C.I.D."
+  },
+  "4d7d5a02407b3dcfa86e79b8619ae55c": {
+    "text": "Détruire %%0 Goos"
+  },
+  "84ce909816e88c3d6857df53c488a6ea": {
+    "text": "Défendre les tanks d'Archive"
+  },
+  "36fe8cf03532f27f5fbcb0cbffe38728": {
+    "text": "Défendre les bombes"
   }
 }
