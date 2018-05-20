@@ -16755,5 +16755,102 @@
   },
   "0c35db130bb2a58b1b1dc8452ef5e481": {
     "text": "Mise à jour : Vek en hibernation\nCause : météorologique"
+  },
+  "d2f1792a727684d99b390eeaa1ea22b4": {
+    "text": "Mise à jour : Mobilité Vek réduit à 0\nCause : Météorologique"
+  },
+  "8d1ec297e9085d8594743da7db75ba6b": {
+    "text": "Le froid les a bien frappé !",
+    "review": true
+  },
+  "6d8720eaa2d94f7c5a15ceb6e35567a7": {
+    "text": "La tempête fait rage sur ces Vek."
+  },
+  "9734e7a0795d778bae2ced935b2d8ac4": {
+    "text": "Barman, un Vek, on the rocks, s'il vous plaît."
+  },
+  "f19c8f6e65ab7dbf6529815b03a8661a": {
+    "text": "Le froid est de notre côté."
+  },
+  "c7b3cbcdeba90d752a8943394e6857b8": {
+    "text": "Le froid l'a incapacité."
+  },
+  "dc945b3ffcc2049aa65041841fa14b9b": {
+    "text": "Ça va le mettre sur la glace pendant un moment."
+  },
+  "2f48924d7365fcbe3937bc7040696c3b": {
+    "text": "Ne le libérer pas à moins que vous soyez prêts à le tuer."
+  },
+  "1e7c7da5e1fd632359cbc0b99d699300": {
+    "text": "Oui ! La tempête est de notre côté !"
+  },
+  "7fc0b6dbcd2a64aec053fa0964bea1d4": {
+    "text": "Les Veks ont arrêté de bouger."
+  },
+  "6fd2592a4d1d34fb6befdbd852cd7ebd": {
+    "text": "Le froid a paralysé les Veks !"
+  },
+  "c1403e3d413b9b0675f641a57aaa2bf5": {
+    "text": "Les Veks sont à la merci des éléments comme nous d'ailleurs."
+  },
+  "217547d5737388c92fd1fed1689f9693": {
+    "text": "La tempête a figé les Veks dans la glace."
+  },
+  "6a113de3b66522b72963e001529e41a7": {
+    "text": "La tempête agit comme un moyen de dissuasion contre l'agression des Veks."
+  },
+  "58e0964e90af6389c18b31ffbff74a26": {
+    "text": "La tempête a rendu les Veks inertes jusqu'à ce que nous les tuions."
+  },
+  "31b0102fb3f2e88c6f13d1ab71efd851": {
+    "text": "Ce Vek a été pris dans la tempête !"
+  },
+  "895931a76d803660efe8943c3b24ce2f": {
+    "text": "Brrrr. J'ai froid rien qu'en regardant ce Vek se faire congeler."
+  },
+  "3f6c0f774f19ae69ae9217aa886a45c3": {
+    "text": "On dirait que l'hiver est précoce pour les Veks..."
+  },
+  "3e925e60f66d4d7733fcc87ba779cb99": {
+    "text": "Cette tempête devrait ralentir les Veks un moment."
+  },
+  "ec36d214b9c6810a6c4926ef52cdb280": {
+    "text": "J'espère que ce Vek n'attendait pas une réception chaleureuse..."
+  },
+  "258a155208f41d07445e535c89382a01": {
+    "text": "Je suppose que ce Vek devra attendre de fondre."
+  },
+  "eec870b619b8a532df4e0959c5f0f0db": {
+    "text": "il existe différentes tempêtes à R.S.T. mais elles sont toutes efficaces contre les Veks."
+  },
+  "56b4502d14f859d3fc60ca8a27d61360": {
+    "text": "Le Vek semble incapable de lu-luter contre le froid extrême... ou contre l'eau..."
+  },
+  "431d7853f06752d530ca9eff7ea518a6": {
+    "text": "En-enregistrement de signes de vie faibles à partir du Vek gelé... mais il ne peut pas dé-dé-déplacer."
+  },
+  "8a5cc79bf23a621f0d358e73fc5971fd": {
+    "text": "Vek entravé par les conditions climatiques."
+  },
+  "576e07402b346e5fc002385d01474e25": {
+    "text": "Le Vek a succombé à la tempête."
+  },
+  "567d96d1673640c88e011c2f5dfa5936": {
+    "text": "La tempête a piégé le Vek."
+  },
+  "2cb726596947ca617d4038a518ec205f": {
+    "text": "La tempête de neige a bloqué Mech en train de vous parler - Le dégeler est une priorité si les Veks sont également gelés."
+  },
+  "1da84f6eb00d887cfc85b1d8f21c346e": {
+    "text": "Alerte : Mobilité à 0%."
+  },
+  "33f789f1e7f1a9e9c5396d7e7a345e8f": {
+    "text": "Alerte : Mobilité compromise\nCause : Météorologique"
+  },
+  "b257ed02f2386efed0062f923e695e3d": {
+    "text": "Alerte : Mobilité à 0%\nCause : Météorologique"
+  },
+  "fa3023d5812b1e146c0bb2ad16a1d8b8": {
+    "text": "Alerte : Mobilité compromise\nCause : Conditions météo défavorables"
   }
 }
