@@ -8865,7 +8865,7 @@
     "text": "Activation : Stabilisateurs de sol"
   },
   "d20993563ee9e5a589260300af4f989e": {
-    "text": "Activité détectée à partir d'unités précédemment congelées."
+    "text": "Activité détectée à partir d'unités précédemment gelées."
   },
   "3bad3700e21db9243cfa4c905fbd3707": {
     "text": "Ajout de dispersion de brouillard aux routines Vekticide."
@@ -16707,5 +16707,53 @@
   "2b7aecdcf475887ef5f9099303997481": {
     "text": "L'ennemi n'est plus contenu par la glace.",
     "review": true
+  },
+  "4459e410fd92427d822ba9a312e35ad9": {
+    "text": "L'hostile a terminé son hibernation."
+  },
+  "7306502dd9e93cb4977f6ce95161f6f4": {
+    "text": "La glace ne stoppe plus les mouvements ennemis."
+  },
+  "96d533c7e5ad80ee6b9cea7ab8127a91": {
+    "text": "Je suppose que l'ennemi n'a pas aimé être un cône glacé, ils sont maintenant libres !"
+  },
+  "f4b83200c17016b9fd72e873a0540b87": {
+    "text": "Les hostiles se sont libérés de la glace !"
+  },
+  "d07157549a5edee4badd296130db3287": {
+    "text": "Les ennemis se sont libérés de la glace. Super."
+  },
+  "11b96724079ee2cb70c6298b47e3e9aa": {
+    "text": "Ils se sont libérés de la glace ?! Nghhhh.... Est-ce que l'on pourrait avoir une pause un jour ?"
+  },
+  "a9acce657e98701d789aa344b646c252": {
+    "text": "Ça n'était qu'une question de temps avant qu'ils se libèrent..."
+  },
+  "b89c931424901a3a763bd8a18f4ea788": {
+    "text": "Faites attention, ils se libèrent de la glace !"
+  },
+  "d4457d326c8d2dd68c074813ea9b7bc3": {
+    "text": "Les unités hostiles se sont libérées de la glace."
+  },
+  "8d6f27daae1a34fca6d5779d5de6210b": {
+    "text": "Les unités hostiles se sont échappées de la glace et sont en mouvement."
+  },
+  "cd925bfae88bd1670aefa13ec5b4746a": {
+    "text": "J'av-avais peur que la glace ne puisse pas les retenir ! "
+  },
+  "74428fadf09a1836383f95aca5693ff3": {
+    "text": "Les ennemis ge-gelés - ils se sont libérés !"
+  },
+  "48064efa9111d607feb44c59bbbbb841": {
+    "text": "La cible n'est plus bloquée par les conditions climatiques."
+  },
+  "bbd4e73e201d1f31cb2fbb98be8d8490": {
+    "text": "Les contrôles climatiques sont défaillants. Les ennemis sont libérés de la glace."
+  },
+  "019e85649d88fa5daa313c732192d5ac": {
+    "text": "Une tempête de neige a gelé les Veks."
+  },
+  "0c35db130bb2a58b1b1dc8452ef5e481": {
+    "text": "Mise à jour : Vek en hibernation\nCause : météorologique"
   }
 }
