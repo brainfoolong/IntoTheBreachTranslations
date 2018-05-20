@@ -207,8 +207,7 @@
     "text": "Forêts En Feu"
   },
   "6a7284aedd257d8ca7e9c644d7efaf73": {
-    "text": "Ce Mech est en feu ! Il prendra un point de dégât à chaque tour. \n\nLes Mechs peuvent RÉPARER les effets d'états, mais ne pourront plus attaquer par la suite.",
-    "review": true
+    "text": "Ce Mech est en feu ! Il prendra un point de dégât à chaque tour. \n\nLes Mechs peuvent se RÉPARER, mais ne pourront plus attaquer par la suite."
   },
   "d80bb429bc44e53c05e76e5d68ba121f": {
     "text": "Mechs En Feu"
@@ -1197,12 +1196,10 @@
     "review": true
   },
   "e2f81bb7c71981fceee2a4d1966b7910": {
-    "text": "Fumée \nBloquante",
-    "review": true
+    "text": "Brouillard \nBloquante"
   },
   "17b3e7d8339512d58a6a3733b7ac3e90": {
-    "text": "Glacé \nBloquante",
-    "review": true
+    "text": "Glace \nBloquante"
   },
   "d0e7641fa61b57d408f8849e693b1698": {
     "text": "Bonus Déplacement \nSeulement"
@@ -1364,8 +1361,7 @@
     "text": "Confirmer Action"
   },
   "dc3fd488f03d423a04da27ce66274c1b": {
-    "text": "Attention !",
-    "review": true
+    "text": "Alerte !"
   },
   "0cb8915b2d515aa7cb2cae8fd837ea75": {
     "text": "Les données de votre profil n'ont pas pu être entièrement supprimées. Il est peut être en lecture seule, ou il peut y avoir des fichiers supplémentaires dans son dossier. Vous pouvez les supprimer manuellement ici : \n\n"
@@ -1505,8 +1501,7 @@
     "text": "Escouade Personnalisée"
   },
   "cd7012812a2aadf8ce76416fc15ae43a": {
-    "text": "Compléter plus d'Îles pour déverrouiller !",
-    "review": true
+    "text": "Complétez plus d'Îles pour déverrouiller !"
   },
   "af8b9494573e37854244d70416545a18": {
     "text": "Gagner plus de Pièces !"
@@ -1601,7 +1596,7 @@
     "text": "Cliquer pour Renommer le Pilote"
   },
   "2513d54bf85f631ffb48c3f66752e977": {
-    "text": "Cliquer pour changer de Mech de départ pour le Voyageur Temporel",
+    "text": "Cliquez pour changer le Mech de départ pour le Voyageur Temporel",
     "review": true
   },
   "4642e767f9251fa40afadbc963f80b7a": {
@@ -1659,11 +1654,10 @@
     "text": "Votre Escouade de Mech ne peut pas avoir plusieurs copies du même équipement passif. \n\nVous pouvez toujours jouez avec cette Escouade, mais les copies supplémentaires de l'équipement Passif seront supprimées."
   },
   "444409722579db9be3af7a3aa75e0c78": {
-    "text": "Escouade complètement aléatoire. Aucune restriction sur les classes, l'armement, ou les Mech.",
-    "review": true
+    "text": "Escouade complètement aléatoire. Aucune restriction sur les classes, l'armement, ou les Mech."
   },
   "21b423226488fdad1ba8cf58ad876d2e": {
-    "text": "Escouade aléatoire légèrement restreinte.\n\nTous les Mechs seront uniques et ne seront pas de la même classe. Les Mechs n'auront pas plus de 4 armes réparties entre eux.",
+    "text": "Escouade aléatoire légèrement restreinte.\n\nTous les Mechs seront uniques et n'auront pas la même classe. Les Mechs n'auront pas plus de 4 armes réparties entre eux.",
     "review": true
   },
   "0829ea6734059d66e6bf87096b215dc1": {
@@ -1676,8 +1670,7 @@
     "text": "Editer Raccourcis"
   },
   "b7f039c450dbe9520ff7f27ccbd2f3bc": {
-    "text": "Taille par Défaut",
-    "review": true
+    "text": "Taille par Défaut"
   },
   "6bba1c7aadead56f5ae20290f70ef2f7": {
     "text": "Échelle du Plateau Max : $1"
@@ -1851,8 +1844,7 @@
     "text": "NIVEAU SUP !"
   },
   "522bf35ce3719884885e0e3c6a03f0bf": {
-    "text": "ALERTE !",
-    "review": true
+    "text": "ALERTE !"
   },
   "8530425c190c6183c7e247b996f921b5": {
     "text": "POD EN APPROCHE"
@@ -2290,8 +2282,7 @@
     "text": "Objets Indéplaçable"
   },
   "ca9c808f588a905c1e4be0cb2ceacdd9": {
-    "text": "Bloquer 100 Veks",
-    "review": true
+    "text": "Bloquer 100 Veks"
   },
   "70cd3c7a6f78bd03e3829c4164c43dc4": {
     "text": "Progression : $1 Veks Bloqué(s)"
@@ -2459,8 +2450,7 @@
     "text": "Échec : Réputation dépensée"
   },
   "7fd779bf1acb84e4957350e56f4863a1": {
-    "text": "Rétablir l'équilibre",
-    "review": true
+    "text": "Rétablir l'équilibre"
   },
   "4e38f69ea685ebaf18e1d3da8dae18c1": {
     "text": "Augmente la Puissance Défensive de 30% ou plus"
@@ -2746,8 +2736,7 @@
     "text": "Aucun effet spécifique."
   },
   "4983703ef777c39eb675eba3a72a37ca": {
-    "text": "Éboulis",
-    "review": true
+    "text": "Éboulis"
   },
   "b87d8f26d51a7693fbfa51aad24ccc94": {
     "text": "Tuile Gelée"
@@ -2759,15 +2748,13 @@
     "text": "A.C.I.D Gelée"
   },
   "ecbdcbbda1f5878c010c4a8c2bac2326": {
-    "text": "Se transforme en Tuile A.C.I.D. lorsqu'elle est détruite. Inoffensive en l'état.",
-    "review": true
+    "text": "Se transforme en Tuile A.C.I.D. lorsqu'elle est détruite. Mais inoffensive en l'état."
   },
   "14c582a67aa73b80493ddd47ea287db1": {
     "text": "Lave Gelée"
   },
   "48fc444966133b7941228939cdc9bb69": {
-    "text": "Se transforme en Tuile Lave lorsqu'elle est détruite. Inoffensive en l'état.",
-    "review": true
+    "text": "Se transforme en Tuile Lave lorsqu'elle est détruite. Mais inoffensive en l'état."
   },
   "163d3f36867800ed6fde1aea67afa327": {
     "text": "Tuile Gelée Endommagée"
@@ -2980,8 +2967,7 @@
     "text": "L'Abomination Psion améliore tous les Veks. Ils gagnent +1 HP, la régénération, et exploseront à leur mort."
   },
   "fa6afdba74f0efe521a768266ecea070": {
-    "text": "Ruche Ciblée",
-    "review": true
+    "text": "Ruche Ciblée"
   },
   "b1403593e14797ba61a4b34271d8522b": {
     "text": "Le Tyran Psion fera 1 de dégât à toutes les unités alliées à chaque tour."
@@ -3198,8 +3184,7 @@
     "text": "Les Unités Alpha sont plus puissantes que leurs homologues standard"
   },
   "e43a10af863ca84cbb60b65a7bc3458a": {
-    "text": "Chef de Ruche",
-    "review": true
+    "text": "Chef de Ruche"
   },
   "8a5a7c32c74427d365a6fd6fed28e1ff": {
     "text": "Ce sont les Veks les plus puissants. Immunisé à l'Eau, ils peuvent être plus difficiles à tuer."
@@ -3631,7 +3616,7 @@
     "text": "Qu'est-il arrivé ?"
   },
   "5e7f9a1094321df045fa031172a12dd9": {
-    "text": "Me sens comme dans un congélateur !",
+    "text": "Je me sens comme dans un congélateur !",
     "review": true
   },
   "b2b4acb97b13d8eeb76ab74c52aa67a0": {
@@ -3715,7 +3700,7 @@
     "text": "Crocs Affûtés"
   },
   "165cd6e0fcdbe464c38e57548e7ea75e": {
-    "text": "Accélération du Thorax",
+    "text": "Thorax Accélérant",
     "review": true
   },
   "89951b107efc7e68cc43a5c04149943e": {
@@ -3737,8 +3722,7 @@
     "text": "Défense Perforante"
   },
   "a65763561dac5f0fb5ee03b597e36d50": {
-    "text": "Crée une paroi rocheuse défensive avant d'attaquer les tuiles adjacentes.",
-    "review": true
+    "text": "Crée une paroi rocheuse défensive avant d'attaquer les tuiles adjacentes."
   },
   "ef7bf0c85ad73cbd71736818579407ad": {
     "text": "Croissances Instables"
@@ -3805,8 +3789,7 @@
     "text": "Roquettes Vk8 Série III"
   },
   "7ca7cfbb5cad8b61ca5268f95643b949": {
-    "text": "Lance des Roquettes à 3 tuiles de distance.",
-    "review": true
+    "text": "Lance des Roquettes à 3 tuiles de distance."
   },
   "41052e9a5c6d6dea090391d2796f061a": {
     "text": "Roquettes Vk8 Série IV"
@@ -3938,8 +3921,7 @@
     "text": "Force Amplifiée"
   },
   "2f9bfbc4b79be77c965f19f2e5df679a": {
-    "text": "Tous les Vek subissent +1 de dégât supplémentaire quand ils sont poussés contre un objet ou quand ils bloquent l'apparition d'autres Veks.",
-    "review": true
+    "text": "Tous les Vek subissent +1 de dégât supplémentaire quand ils sont poussés contre un objet ou quand ils bloquent l'apparition d'autres Veks."
   },
   "51f96c06246a4f8a57fbba0f895f8b69": {
     "text": "Générateur de Munitions"
@@ -4097,8 +4079,7 @@
     "review": true
   },
   "6b8de67d390257e292b2bbe3a585036c": {
-    "text": "Augmente les dégâts infligés aux cibles de 1.",
-    "review": true
+    "text": "Augmente les dégâts infligés aux cibles de 1."
   },
   "1650d93fe406d4a8ff31cb0c93ae5f10": {
     "text": "Poing Vortex"
@@ -4815,8 +4796,7 @@
     "text": "Défendre le 2ième lancement du satellite"
   },
   "87a82458cb3750aa871ffff0e9287b32": {
-    "text": "Fusée",
-    "review": true
+    "text": "Fusée"
   },
   "f3f1bee9b5bbd2cfa66521dc3205e5bc": {
     "text": "Défendre les Chars"
@@ -5011,7 +4991,7 @@
     "text": "Terraformer la prairie en désert"
   },
   "675bc05d704e351471702beeda9c7d2b": {
-    "text": "Explosion de Zone",
+    "text": "Zone de lancement",
     "review": true
   },
   "90a95d75428b0ae88f553992b07149d2": {
