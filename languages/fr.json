@@ -7020,7 +7020,7 @@
     "review": true
   },
   "246378032f7d30f084e41d119665253e": {
-    "text": "Une perte, mais nécessaire.",
+    "text": "Une perte, mais une perte nécessaire.",
     "review": true
   },
   "55cfebe6dbbc1ffbb9fe603a31d8fbcd": {
@@ -16852,5 +16852,235 @@
   },
   "fa3023d5812b1e146c0bb2ad16a1d8b8": {
     "text": "Alerte : Mobilité compromise\nCause : Conditions météo défavorables"
+  },
+  "b5e8ff3390faf3299b4a9b7f89b3dde2": {
+    "text": "Zenith ne va pas être content."
+  },
+  "53f9fe06a75cd6304a16efe199509cc9": {
+    "text": "J'aurais aimé l'avoir réparé..."
+  },
+  "78111b5ae3c5ece190905278e86008ad": {
+    "text": "Hostile éliminé."
+  },
+  "2e07e3da8079c911e95e6fbbf84fb041": {
+    "text": "C'est eux ou nous."
+  },
+  "85f6b6e902c3acce1dd5fe706fcc8819": {
+    "text": "Le froid est en train de bloquer mes systèmes !"
+  },
+  "7a04029a0b7878c4341c6e802519d9f1": {
+    "text": "Je pensais que le temps de R.S.T. était l'enfer... j'avais raison..."
+  },
+  "4687e701a769c2b3f381ebc39194ed36": {
+    "text": "Les systèmes ne répondent pas - le froid est en train de les bloquer."
+  },
+  "61e74056191b1748bfa70b8a4197373f": {
+    "text": "La tempête a incapacité mon Mech !"
+  },
+  "2fb2773c7d8dbc54c2a2ad4105f2d1db": {
+    "text": "La glace a bloqué les systèmes du Mech ! "
+  },
+  "00339f468c88c4d1418adffa2ad1646d": {
+    "text": "La tempête a paralysé mon Mech ! Et dire que je pensais que ces toiles de Veks étaient un enfer..."
+  },
+  "5d010c17546e0387ddf3f9bf6c03a5e9": {
+    "text": "Le froid est en train de bloquer les systèmes !"
+  },
+  "e72637404bedd957cd46299a7fd3b07d": {
+    "text": "Je ne peux plus bouger."
+  },
+  "3a67a920b8ee9d7bf2ea76af95c73d0b": {
+    "text": "Mon Mech n'est pas protégé du froid ! Mes commandes sont gelées !"
+  },
+  "790e69cbd54339f8430686804ff052f4": {
+    "text": "#self_mech a été pris dans la glace."
+  },
+  "3a544939ba744ed24660cfe166dd031d": {
+    "text": "La tempête a rendu #self_mech inerte."
+  },
+  "78f6fcc3160f1b960b9cb1f5769528ee": {
+    "text": "J'ai été pris dans la tempête ! Mon Mec est bloqué !"
+  },
+  "73edf22e98775b877cb3588aefb9fdc7": {
+    "text": "Je suis pris dans la glace, mais c'est plutôt cozy comme habillage.",
+    "review": true
+  },
+  "d68d9af57cccc0be8405b4e1428905a7": {
+    "text": "La tempête de glace est en train de bloquer mes commandes !"
+  },
+  "5e239f2b437b157b8da691dff3177439": {
+    "text": "Concentrez vous sur les Veks, je me libèrerai de la glace tout seul !"
+  },
+  "b96c51281e09303a3ad09c4c9de53954": {
+    "text": "La tempête m'a eu !"
+  },
+  "ac62b81fa9bf7275956744d9a15ddc3f": {
+    "text": "Mon Mech est complètement gelé ! Est-ce que je dois attendre l'été ou bien ?"
+  },
+  "d7a5e80249f1b21bccc8b0a850165db7": {
+    "text": "Non mais c'est fou - ces Mechs ne peuvent pas supporter le froid ?"
+  },
+  "4ba78da83c31d01e383aeed3ee782e04": {
+    "text": "Mon Mech est en train de geler."
+  },
+  "f39f8edca4b3002940f4c182d4d88358": {
+    "text": "Les commandes de mon Mech ne répondent plus !"
+  },
+  "0b3b8ee8c462d7352d3f65b048e8916a": {
+    "text": "La tempête a bloqué les systèmes de mon Mech !"
+  },
+  "75f354ef24fb3abcb0e5a1fdeb6827fa": {
+    "text": "Mon Mech refuse de répondre. Préparation des composants de réparation pour libérer l'unité de la glace."
+  },
+  "0df47ab467c124c343b6337bc5eb61ce": {
+    "text": "Cette tempête... est en train... de geler m-mes systèmes !"
+  },
+  "54a2f8c52e18024ead5de56402f9103a": {
+    "text": "Ce Mech est entravé par les conditions climatiques."
+  },
+  "7e316028a73daa5d0f12ab4ae15370bf": {
+    "text": "Les capacités du Mech ne peuvent pas supporter un tel froid.",
+    "review": true
+  },
+  "93a4cb251b3945b0f7d637171dcb17e6": {
+    "text": "Le joueur a tué un robot hostile"
+  },
+  "10eee25799113419544e753d88eb3786": {
+    "text": "Mise à jour : Cible décommissionnée\nPour archivage : Numéro de série ajouté à la liste des victimes",
+    "review": true
+  },
+  "c1d1d0fa1cc967fe9369660d8eeed9bd": {
+    "text": "Mise à jour : Cible désactivée\nPour archivage : Numéro de série ajouté à la liste des victimes",
+    "review": true
+  },
+  "a33e587858cd2fe780495fe0a9472ac2": {
+    "text": "Je déteste détruire de la technologie quelle qu'elle soit..."
+  },
+  "188b317939c61f97897ab67a0ecddf67": {
+    "text": "C'est un tas de ferraille."
+  },
+  "70b4249db778435f9f12534a7d604d28": {
+    "text": "Je devais le détruire."
+  },
+  "7312aaf1e59cadb0387a2ce7e6f46569": {
+    "text": "Robot éliminé."
+  },
+  "3c5f1085f91b80aa5a0d442dad9d86b6": {
+    "text": "Le robot a été... décommissionné."
+  },
+  "9ab5781bddbbd7e62691512b953e1260": {
+    "text": "C'était un moyen de régler ses bugs."
+  },
+  "397b103bf536011739153072ccaf63ea": {
+    "text": "Je ne voulais pas mais..."
+  },
+  "d4035b685ca2583feb356ae9d02eee04": {
+    "text": "Si seulement nous avions su quoi faire avec ces robots !"
+  },
+  "90b77219fd6a8579a646c9e0d0c32b7a": {
+    "text": "La machine est détruite."
+  },
+  "995b5df8ca350b21f6bbec62247f2092": {
+    "text": "J'-j'ai essayé d'éviter le coeur de la mémoire. Peut-être que sa boîte noire pourra être sauvée."
+  },
+  "159308e9b9a2a80ca7ab9ac8128467b5": {
+    "text": "Si j'avais pu le reprogrammé, je vous assure que j'aurais pu... mais..."
+  },
+  "f6ff3db48faa30128c224d32e53d552e": {
+    "text": "Le robot défectueux a été recyclé."
+  },
+  "14d602626aa91a981bb201395b73b219": {
+    "text": "Avantage à court terme sur le champ de bataille compensé par la perte d'un allié potentiel du robot à long terme.",
+    "review": true
+  },
+  "ee7243000f23c51407423f32314f9392": {
+    "text": "Chances de réaffecter un robot endommagé à la récupération à Archive: 0%."
+  },
+  "27b658479e49de2b293a3a99cbfe2f37": {
+    "text": "Désolé, petit robot cinglé mais je devais le faire."
+  },
+  "769e93dac54265e7dfbdddcca528ecb7": {
+    "text": "Nous essayons de ne pas tuer les robots, mais..."
+  },
+  "c32bdbd7aff8e5c7e52821aa980adc88": {
+    "text": "Nous ne pouvons pas protéger les robots et en même temps combattre les Veks..."
+  },
+  "e32877aa44cacd9813ad06ca2ada4864": {
+    "text": "Ce robot devait être détruit. Je m'excuserai auprès de Zenith personnellement."
+  },
+  "4727747335e9b3da46290cf67b0fefc9": {
+    "text": "Un autre robot abattu. Zenith pourrait mettre ça sur ma note..."
+  },
+  "9c48627c456a0df714011f28e0b900e1": {
+    "text": "Euh, vous pensez que Zenith m'a vu le détruire ? Qu-est ce que je raconte, bien sûr qu'elle m'a vu."
+  },
+  "c0c400eebf52c4648957686ae9255944": {
+    "text": "Détruire ce robot ne m'a pas vraiment affecté..."
+  },
+  "a2ff09c54bf67f8f2f2ca37825aaadd3": {
+    "text": "Je devais détruire un des robots, Commandant."
+  },
+  "3762c6d502a106300c96c14a3bb6c277": {
+    "text": "Un des robots a été détruit, Commandant."
+  },
+  "246295c02094644cc8c2ea6b64431daa": {
+    "text": "Le robot endommagé a été décommissionné."
+  },
+  "12ce5137e88310fb05a75671517bdc9d": {
+    "text": "Le dysfonctionnement du robot a été corrigé."
+  },
+  "78fa65021ca426b250fe3da56a6bb82e": {
+    "text": "Je-je ne voulais pas détruire le robot, mais..."
+  },
+  "edd6c29cfbe4de573ca12cbf9d4e34c1": {
+    "text": "L'activité mécanique non autorisée a été arrêtée."
+  },
+  "c66c68fe3f8c912ddcf19d7c79557c62": {
+    "text": "Nous, les robots, sommes supposés être un exemple pour les humains, et non pas les attaquer.",
+    "review": true
+  },
+  "933dabf1b0dc359fa16801d66ff35e63": {
+    "text": "Le joueur a tué un robot hostile.",
+    "review": true
+  },
+  "2be854124d57bc4c2697aee5cb91587f": {
+    "text": "Je déteste détruire de la technologie quelle qu'elle soit..."
+  },
+  "c55a8c27aa889c6589f2e62ef421b8f5": {
+    "text": "C'était eux ou nous."
+  },
+  "79daec2934a5adf6d1dc0c5946637ec5": {
+    "text": "Ces robots ne nous ont pas laissés le choix."
+  },
+  "64a0e05a2601aef0352613f36a3128a3": {
+    "text": "Un autre robot pour la casse."
+  },
+  "077942e5f307198b1104bd1aa537c404": {
+    "text": "Nous devions nous protéger d'eux."
+  },
+  "177c17bdb65effddde392cb6b83b7fdf": {
+    "text": "Si seulement nous avions diagnostiquer ce qui n'allait pas avec eux..."
+  },
+  "089784be7b07aa18d8398fb7c51f8fd2": {
+    "text": "Désolé, Pinnacle, mais c'était eux ou nous."
+  },
+  "4ba428f12d1bd0a02ff466f9ff9ff834": {
+    "text": "Une autre machine détruite."
+  },
+  "fad1a7ed27d08669d3636acef17acf5a": {
+    "text": "Ce robot était à la merci de sa programmation défaillante..."
+  },
+  "a8b148aa40fc29fce2f7831e36834ff7": {
+    "text": "Je sais que c'est la guerre, mais nous aurions pu protéger ces robots si nous l'avions voulu..."
+  },
+  "d4b459e4f7663255ce8682d7d2bc7a5a": {
+    "text": "Je pourrais encore être en mesure d'examiner les restes de ce robot.",
+    "review": true
+  },
+  "ba493e067c2273b08e4f9cf0324ef1d9": {
+    "text": "Mais pourquoi ces robots agissent ainsi ?"
+  },
+  "61b2485e358af69afb278c76485e234a": {
+    "text": "Ce robot devait être stoppé. Je présenterai mes excuses auprès de Zenith personnellement."
   }
 }
