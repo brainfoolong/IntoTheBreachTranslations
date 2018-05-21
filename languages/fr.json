@@ -521,7 +521,7 @@
     "text": "Votre résolution de fenêtre actuelle est trop petite pour supporter des polices plus larges."
   },
   "c97fe6459d5b99e1e80b224b88eb1308": {
-    "text": "Confirmation de Fin de Tour"
+    "text": "Confirmation Fin de Tour"
   },
   "fd2227cbec643184bb0f5a5bda07c278": {
     "text": "Recevoir une confirmation lorsque vous tentez de terminer votre tour et que vous avez des unités ayant encore des actions disponibles."
@@ -539,10 +539,10 @@
     "text": "Limiter le FPS à 60.\n\nRecommandé pour la plupart des systèmes."
   },
   "5385b7a6956a92035bb449868e9a558a": {
-    "text": "Désactiver Tremblement Écran"
+    "text": "Désactiver Effet Écran"
   },
   "d85ca6373e8ab30c64ad7c6cf113cb39": {
-    "text": "Empêcher le tableau / l'interface utilisateur de trembler.\n\nCela arrive lorsque des dégâts sont infligés pendant un combat."
+    "text": "Empêcher le tableau / l'interface utilisateur de trembler \nlorsque des dégâts sont infligés pendant un combat."
   },
   "a69190c07853570b6f20653e21e9d291": {
     "text": "Afficher Grille de Coordonnées"
@@ -830,7 +830,7 @@
     "text": "Des unités peuvent encore agir. Elles vont perdre leur tour."
   },
   "27df34f7234936e34e35d03e0d43c591": {
-    "text": "Revenir dans le temps au début de votre tour ?\n\nLes limitations de puissance signifient que vous ne pouvez le faire qu'une fois par bataille."
+    "text": "Voulez-vous revenir au début de votre tour ?\n\nNotre puissance étant limitée, vous ne pourrez le faire qu'une fois par bataille."
   },
   "87d62df299f9c30df2c9967837fc4640": {
     "text": "Revenir au début de votre tour ?\n\nLa 'Réinitialisation Temporelle' du Pilote signifie que vous pouvez le faire deux fois durant cette bataille."
@@ -1074,7 +1074,7 @@
     "text": "RÉACTEUR"
   },
   "9c4c6c96968f8f5b7d9bce6183cbc18d": {
-    "text": "Déplacement :"
+    "text": "Dépl :"
   },
   "72fd57cacb416002f919865bf570143a": {
     "text": "Santé :"
@@ -1373,13 +1373,13 @@
     "text": "Victoires :"
   },
   "7dd2a452c0ad6ab37ff6a5641210e600": {
-    "text": "Lignes Temporelles Perdues :"
+    "text": "Parties Perdues :"
   },
   "2750ecb52da0b69fa384aa8ca02b2436": {
     "text": "Nombre de Parties :"
   },
   "d94d3792fb13974a50de7f54cda7535b": {
-    "text": "Nombre de Voyageurs Temporels :"
+    "text": "Voyageurs Temporels :"
   },
   "6666aad5066a57efc3e91771b5ff7731": {
     "text": "Ennemis Tués :"
@@ -1455,7 +1455,7 @@
     "text": "Fermer"
   },
   "6d72235b988de8960be997790371a038": {
-    "text": "Filtrer pour l'Escouade en Cours",
+    "text": "Filtrer pour l'escouade active",
     "review": true
   },
   "7f943921724d63dc0ac9c6febf99fa88": {
@@ -1560,7 +1560,7 @@
     "text": "Gagnez des pièces en accomplissant des succès ! Utilisez des pièces pour débloquer de nouvelles Escouades !"
   },
   "9310c71919a7d206c4570c36e665c6cf": {
-    "text": "Trouvez de nouveaux Pilotes pendant le jeu pour les débloquer ici !"
+    "text": "Jouez plus de débloquez tous les pilotes !"
   },
   "02bd36dd60479a5c9e9d949f08e66fc6": {
     "text": "Sélection Pilote"
@@ -1859,8 +1859,7 @@
     "text": "PERTE DE PUISSANCE"
   },
   "c30ccafe6b394e042faa05b477b13d78": {
-    "text": "Pertes",
-    "review": true
+    "text": "Victimes"
   },
   "222d7eb0b7b4abaec2b48052f1fb88b7": {
     "text": "PUISSANCE DISPONIBLE"
@@ -2721,7 +2720,7 @@
     "text": "Bâtiment Civil"
   },
   "6747a8b368a8452df077a1201be7835a": {
-    "text": "Votre Réseau d'Énergie est réduit lorsque les Bâtiments sont endommagés."
+    "text": "Votre Réseau d'Énergie est réduit lorsque ces Bâtiments sont endommagés."
   },
   "438c7520e8f84c36362be71ab6458229": {
     "text": "Bâtiment Évacué"
@@ -3939,7 +3938,7 @@
     "text": "Poing Titan"
   },
   "a4f8232a9b96aeaa7fe9ebf59ea6737c": {
-    "text": "Frappe une tuile adjacente, l'endommageant et la poussant."
+    "text": "Frappe une tuile adjacente, faisant des dommages et poussant ce qui s'y trouve."
   },
   "3663598d5c5858b5a6040b1bbed4f187": {
     "text": "Ruée"
@@ -4772,10 +4771,10 @@
     "text": "SUPPORT AÉRIEN"
   },
   "0936481946dd13343be73c7473784588": {
-    "text": "Défendre le Soutien Artillerie"
+    "text": "Défendre l'Artillerie"
   },
   "cae790fc049cb85e0a780c860913fe44": {
-    "text": "Défendre l'Unité Artillerie"
+    "text": "Défendre l'Unité d'Artillerie"
   },
   "65719d805dfa6471f522889ecdd553a0": {
     "text": "Vieille Artillerie"
@@ -4863,7 +4862,7 @@
     "text": "Tuer au moins"
   },
   "b1302cc6c105579890bdbafb9659024e": {
-    "text": "Protéger le"
+    "text": "Protéger"
   },
   "26ade0d30cfbfa5cc6e253d67160bafe": {
     "text": "Prendre moins de 3 de dégâts de grille",
@@ -5068,25 +5067,25 @@
     "text": "Laboratoire de Robotique"
   },
   "b53aa67a1586e1c2541bd028043451a7": {
-    "text": "Bar de l'Ancienne Terre"
+    "text": "le Bar de l'Ancienne Terre"
   },
   "67c8a02f6b33c1e905c36512fc72eb04": {
-    "text": "Tour Corporative"
+    "text": "la Tour Corporative"
   },
   "2f24020a8fcb25eea33e9600cc777aef": {
-    "text": "Laboratoire de Défense"
+    "text": "le Laboratoire de Défense"
   },
   "53a311a65d8d9bcd0006e321b0222456": {
-    "text": "Générateur de Bouclier"
+    "text": "le Générateur de Bouclier"
   },
   "61b90e4856e2ff75582279bfc672cdfc": {
-    "text": "Générateur de Puissance"
+    "text": "le Générateur de Puissance"
   },
   "dcabf90146010f025d53f21c4bd7ae8b": {
-    "text": "Batteries de Secours"
+    "text": "les Batteries de Secours"
   },
   "20fe25f778b87e63f711e4adc4008ce1": {
-    "text": "Aérodrome"
+    "text": "l'Aérodrome"
   },
   "493b65fe311f8c609142c57323ba122c": {
     "text": "Voir ci-dessous, ceci est l'entrée pour un pilote générique (I.A.).",
@@ -7557,10 +7556,10 @@
     "review": true
   },
   "58426d9d4ba407908b95156b7e0aecba": {
-    "text": "Centrale à Charbon"
+    "text": "la Centrale à Charbon"
   },
   "9d08ac5ef94ce646ed311540f856865f": {
-    "text": "Clinique"
+    "text": "la Clinique"
   },
   "ccc0377a8afbf50e7094f5c23a8af223": {
     "text": "INVALIDE"
@@ -7570,19 +7569,19 @@
     "review": true
   },
   "76cd867189a32ad1a85605a47bd8a255": {
-    "text": "Tank Support"
+    "text": "le char"
   },
   "d43c682e48b02a8176b678332ea57bc1": {
-    "text": "Tank Bouclier"
+    "text": "le char Bouclier"
   },
   "5dc5378794c12453a87c27a397b6b973": {
-    "text": "Tank Glaçant Support"
+    "text": "le char Glaçant"
   },
   "26c6d132c7630bec4643d4005ed47bd0": {
-    "text": "Tank Gravitationnel"
+    "text": "le char Gravitationnel"
   },
   "71ae938bf409d98e5878e704720676bc": {
-    "text": "Robots de Réparation"
+    "text": "les Robots de Réparation"
   },
   "97ef4a7bb403bc1f3707bf6dee361077": {
     "text": "Hélas, avec cette abomination Vek encore vivante, les Veks restent une menace sérieuse dans la région. Je ne peux que vous souhaitez d'être plus efficace sur les autres îles.",
