@@ -3671,7 +3671,7 @@
     "text": "Lance une attaque d'artillerie sur 2 tuiles."
   },
   "23cf6017b29e3c6c2f9f6a330bf8ac64": {
-    "text": "Cracher Glandes",
+    "text": "Glandes cracheuses",
     "review": true
   },
   "50e41b6d2b1bc5fbf5229b266d7287f1": {
@@ -5808,10 +5808,10 @@
     "text": "Un Vek Explosif a été repéré. Quand ce type de Veks meurt, il explose et lance un nuage de poussière qui brouille nos capteurs pendant des jours - ne le tuez pas, Éloignez-le à la place."
   },
   "397ee6c75b3ce38fd2a967ed4e78b481": {
-    "text": "Ce Vek est nuisible. Le Vek Volant ne meure pas tranquillement, il explose ... et emporte des districts entiers avec lui. Ne le tuez pas - faites le courir."
+    "text": "Ce Vek est nuisible. Le Vek explosif ne meure pas tranquillement, il explose ... et emporte des districts entiers avec lui. Ne le tuez pas - faites le courir."
   },
   "9956fa580d852e6ee792eaf3b9df255c": {
-    "text": "Ces Veks Volants sont des bombes vivantes. Ne les tuez pas, éloignez-les avant qu'ils ne transforment la région en cratère."
+    "text": "Ces Veks explosifs sont des bombes vivantes. Ne les tuez pas, éloignez-les avant qu'ils ne transforment la région en cratère."
   },
   "04e293d064ca5fd236801fba4cf9d0e7": {
     "text": "Mon Processus d'Analyse Vek a envoyé une alerte. Un des Vek dans cette région va exploser à sa mort. Vous devez l'éloigner sans le tuer."
