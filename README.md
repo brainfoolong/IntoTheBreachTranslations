@@ -1,8 +1,7 @@
-![](https://img.shields.io/badge/Game_Version-1.0.20(3--8--2018)-green.svg) 
+![](https://img.shields.io/badge/Game_Version-1.0.20(5--May--2018)-green.svg) 
 ![DE](https://img.shields.io/badge/DE_-40%25%20Translated-orange.svg)
 ![FR](https://img.shields.io/badge/FR_-100%25%20Translated-orange.svg)
 ![IT](https://img.shields.io/badge/IT_-16%25%20Translated-orange.svg)
-=======
 
 # Into the Breach - Translations
 Inofficial Translations for PC Game Into the Breach. This is all fan made. You can help translating this game into your language. If used, it does directly modify some game files.
