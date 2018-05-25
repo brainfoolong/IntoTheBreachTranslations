@@ -116,6 +116,16 @@ module.exports = function () {
         fs.writeFileSync(shared.config.gamedir + '/' + file, fileData)
       }
     }
+    // resource.dat pack into zip if required
+    if (fs.existsSync(__dirname + '/dat-files-modified/' + language)) {
+      let oldLang = shared.config.langInGameDir
+      shared.config.langInGameDir = language
+      require(__dirname + '/resource-dat-unpack.js')()
+      require(__dirname + '/resource-dat-pack.js')()
+      zipArchive.file('resources/resource.dat', fs.readFileSync(__dirname + '/dat-generated/resource.dat'))
+      shared.config.langInGameDir = oldLang
+    }
+
     // store zip into packages folder
     fs.writeFileSync(__dirname + '/../packages/' + language + '.zip', zipArchive.generate({
       base64: false,
