@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Game_Version-1.0.22(5--May--2018)-green.svg) 
+![](https://img.shields.io/badge/Game_Version-1.1.22(8--August--2018)-green.svg) 
 ![DE](https://img.shields.io/badge/DE_-40%25%20Translated-orange.svg)
 ![FR](https://img.shields.io/badge/FR_-100%25%20Translated-orange.svg)
 ![IT](https://img.shields.io/badge/IT_-16%25%20Translated-orange.svg)
