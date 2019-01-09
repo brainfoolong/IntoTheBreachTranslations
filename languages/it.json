@@ -2693,7 +2693,7 @@
     "text": "Sblocca Squadre aggiuntive per sbloccare altre opzioni di colore"
   },
   "b1f9e0c52fa626cd7066f5f650c28085": {
-    "text": "5thHorseman\\n\nAlfie275\\n\nchewbacca77\\n\nDarthcaboose\\n\nDiscord\\n\nFynn\\n\nJoni\\n\nKieve\\n\nLem\\n\nNick Patrick\\n\nRick Edmonds\\n\nSleeper Service\\n\nVeritas\\n"
+    "text": "5thHorseman\n\nAlfie275\n\nchewbacca77\n\nDarthcaboose\n\nDiscord\n\nFynn\n\nJoni\n\nKieve\n\nLem\n\nNick Patrick\n\nRick Edmonds\n\nSleeper Service\n\nVeritas\n"
   },
   "4f9ba368d0838353e9b6d236727def40": {
     "text": "Progressi: $1 / 4 vittorie"
@@ -3537,5 +3537,215 @@
   },
   "785f0b5b8442eb87efa8f70daf06cea7": {
     "text": "Si trasforma in casella Acqua se distrutta. Un unico colpo la distruggerà."
+  },
+  "7b71354c2d9b2300182676dfee5d8063": {
+    "text": "L'edificio #corp è intatto!"
+  },
+  "b66a45269d0eda1493329326d3ec0147": {
+    "text": "cittadini #corp in quell'edificio - sono al sicuro!"
+  },
+  "b274d919769dd7b94ea910fafefbabc3": {
+    "text": "L'infrastruttura #corp è a rischio. Rimozione Vek dalla zona di combattimento."
+  },
+  "2a247e0fa362e9796ac31d23cf65d723": {
+    "text": "#corp non lo gradirà affatto..."
+  },
+  "c0d214c29a3b9724afab73d8aec78cc6": {
+    "text": "Rete Elettrica #corp in diminuzione."
+  },
+  "636434962003195e4a162e1767ee98a0": {
+    "text": "Rete Elettrica #corp vicina al collasso."
+  },
+  "26c2791cbb07acd811e43cda2bb26330": {
+    "text": "La struttura #corp ha resistito all'assalto."
+  },
+  "4fdec5dd3170d7e1097a6569726f2277": {
+    "text": "Treno #corp compromesso ma non distrutto."
+  },
+  "f388a99e1c99ff3f37c5e449522d4712": {
+    "text": "Treno #corp distrutto. Raccomandato riutilizzo carcassa del treno come vaso per piantine."
+  },
+  "caf3e6e09309f599d230bc460cff0aae": {
+    "text": "Treno #corp smontato."
+  },
+  "6d30487f45c232f806166c8907769325": {
+    "text": "Il treno #corp è stato distrutto. Raccomandata la rimozione dei binari per creare ulteriori terreni coltivabili."
+  },
+  "163ec2ec90642613360463d4c22ccbb5": {
+    "text": "Il treno #corp ha subito un incidente. Raccomandata estrazione e rimpiazzo delle parti danneggiate."
+  },
+  "ea42c4bea704796cf85dfad72b2a3ada": {
+    "text": "Treno #corp parzialmente smontato."
+  },
+  "0a4997ea614675a827b2980ddeb54e66": {
+    "text": "Treno #corp distrutto! Lo abbiamo perso."
+  },
+  "58e5f8737eac43dd16fe06a9519e9024": {
+    "text": "Le riparazioni necessarie per il treno #corp eccedono la garanzia."
+  },
+  "75735da788beed64e39348d23efac2df": {
+    "text": "Le riparazioni del treno #corp sono coperte dalla garanzia."
+  },
+  "960ee6fc54bbaddd747d4ceefd9acbc0": {
+    "text": "Il treno #corp è distrutto. Concentra il fuoco sui Vek."
+  },
+  "b2c89efeb694245b8c2617d07a53eb64": {
+    "text": "#corp contava su quel treno."
+  },
+  "492c6b87c43447c26fcd12181f34c5cc": {
+    "text": "#corp, pronti al lancio!"
+  },
+  "6a88b2cc74bfe013d5bae98900ae90ae": {
+    "text": "#main_first!"
+  },
+  "0bcdbdbe76e6e6757b4ce5415c923b34": {
+    "text": "#main_full è stato ottimizzato. Aggiornamento routine Vekticida."
+  },
+  "13c2c04dc78f02dd9a263dc03927841b": {
+    "text": "#main_full ha cessato le operazioni."
+  },
+  "0349ecd444eed8ac3e1dd8b32501c5a8": {
+    "text": "promozione #main_full registrata."
+  },
+  "916ffa710883e2cd2c3edbc86c0f4889": {
+    "text": "#main_full! N-N-Non anche tu..."
+  },
+  "3d0afe3d257ef81239a137db9c7f6e27": {
+    "text": "Segnali vitali #main_full assenti."
+  },
+  "1ae0a90f3235ea8251ebb096b700d0db": {
+    "text": "#main_full, sarai ricordato."
+  },
+  "d799e8778a833dab8c40631fce9a0879": {
+    "text": "Numero designazione #main_mech registrato per il prossimo pilota qualificato."
+  },
+  "0b558e5b581a967a7f134523d25ae4ac": {
+    "text": "#main_mech è stato giudicato non idoneo al servizio attivo."
+  },
+  "b87ff586bb4e771eba6d6104e3d25e27": {
+    "text": "#main_mech ha fallito la protezione del suo pilota. Richiesta punizione per il Mech."
+  },
+  "4dab578e7ad7adddd03e29621011871f": {
+    "text": "#main_mech sta fungendo da ostacolo al percorso di combattimento."
+  },
+  "52370ee430f4f35d551888d9ce43e1ea": {
+    "text": "#main_mech ora è pronto per il prossimo pilota di turno."
+  },
+  "b96455fcd8947a3912c84f6de35b136c": {
+    "text": "#main_mech è fuori uso!"
+  },
+  "457968d66cc6ae8b203294910321cc97": {
+    "text": "Le parti di #main_mech hanno fallito la loro missione principale di protezione del pilota."
+  },
+  "56a6ab8bf65dddda4d99f16a1c26bf3a": {
+    "text": "Il pilota di #main_mech ha ottenuto una sinergia con il suo partner."
+  },
+  "59c0aebe089e1ace10583ac6825284f3": {
+    "text": "Le abilità di #main_mech hanno correttamente rimosso tutti i Vek dalla zona di lavoro minacciata."
+  },
+  "1cedeffddcd0e365b5808d0927edd0e1": {
+    "text": "L'allenamento del pilota di #main_mech ha avuto successo."
+  },
+  "3006058611005e5a9cbbcbb667c21e2e": {
+    "text": "#main_mech: Distrutto\\nEfficienza Tattica: Compromessa"
+  },
+  "7f32f9bf8568ff894ad41e1486c41b60": {
+    "text": "#main_reverse: Valutazione...\\nEfficienza Tattica: Incrementata"
+  },
+  "285ad0d5e343e64210577400a4467d41": {
+    "text": "#main_second a rapporto... controlli di sicurezza completati, armi online."
+  },
+  "4036e820c285f9bbeb6b56df72ad388a": {
+    "text": "#main_second!"
+  },
+  "b89e25a520ea57c992d26fcb3a2b3a89": {
+    "text": "#main_second, occhio a dove spari!"
+  },
+  "53b111de0c3a6ae90e2f451a08c73178": {
+    "text": "#main_second, rapporto! Cosa stai facendo?!"
+  },
+  "f7e53c330fe6ef57030cfe03a9759b56": {
+    "text": "#main_second, tu ed io faremo una chiacchierata quando torniamo..."
+  },
+  "e194c6e6bb8c4e7ce781097414d5f844": {
+    "text": "Mobilità #self_full compromessa dai Vek."
+  },
+  "b4829256d2805eef023b8c4f682a333b": {
+    "text": "Promozione #self_full registrata. Nuovi protocolli manageriali in download."
+  },
+  "6ecfec1affedecc78ae7aa4e6ea46938": {
+    "text": "#self_full disattivazione annullata."
+  },
+  "0609c1a4c6955bcd3e1156639b7a8cb9": {
+    "text": "#self_mech ha fallito nel proteggere il suo occupante principale. Sottoposto rimprovero formale."
+  },
+  "c26ff1665cadc48114d2cd5dd23374c1": {
+    "text": "Lo scafo di #self_mech è stato rinforzato."
+  },
+  "8b17747d8177807f7184919ab700199f": {
+    "text": "#self_mech bloccato da un Vek ostile. Movimento impossibile."
+  },
+  "fb3063b42920c12fce10f2339b9d89ef": {
+    "text": "#self_mech, in attesa."
+  },
+  "e66c93576cf8131b97967c26d7841870": {
+    "text": "#self_reverse! Kc'chht! KC'CHHT!"
+  },
+  "d7c69577d426e5e904f1371cae223753": {
+    "text": "#self_second, pronto all'ingaggio."
+  },
+  "56c4eba3256f470ea2be7e1f9bb59394": {
+    "text": "#self_second, a rapporto."
+  },
+  "f80fb217c5a58a5e885b3f1422d19ceb": {
+    "text": "#squad - se qualcuno ha l'occasione di colpire quel bastardo, fatelo!"
+  },
+  "718d69e6d5b2494cfc46d8a8de63719d": {
+    "text": "#squad - sbrigatevi a bloccare i Vek, non permettete che qualcuno di loro riemerga!"
+  },
+  "5e33fa4d39ba603f57483e2706de6f0d": {
+    "text": "#squad - dobbiamo concentrarci a prevenire che i Vek riemergano."
+  },
+  "6e4c55873c03f3319ed43724fba81a08": {
+    "text": "#squad è stata riciclata."
+  },
+  "d030ba99d946835e551a98f20be65d75": {
+    "text": "#squad! Provate a posizionarvi tra i Vec e le cryo-mine!"
+  },
+  "36e3efad07cfc4dc8e22ebb220eac377": {
+    "text": "#squad, ci siete? Sto ricevendo strani segnali sui sensori... state tutti bene?"
+  },
+  "5a123593258046b97fe17278549005b4": {
+    "text": "#squad, coprite tutti i punti di comparsa dei Vek!"
+  },
+  "fc3dac231cc53c1d8eea4852a5a978d2": {
+    "text": "#squad, non permettete ai Vek di riemergere! Usate i vostri Mech per fermarli!"
+  },
+  "2f8cf57d753c9c17ba0a2f134a469d99": {
+    "text": "#squad, in formazione."
+  },
+  "2ead50b36b216fabdebb72a6c4487a61": {
+    "text": "#squad, allontanatevi dall'area di bombardamento!"
+  },
+  "cc237255517abdf2e286de0ec50f0c3a": {
+    "text": "#squad, è un enorme piacere informarvi che la vostra percentuale di successo è al 100%. L'ordinanza della corporazione Detrius decreta che voi riceviate un bonus."
+  },
+  "b21b96b79742fe1d68b8c7cbfef2aec7": {
+    "text": "#squad, tenete presente che dobbiamo spianare quelle montagne prima di andare."
+  },
+  "05d8e342f856e05198e7447adafd9ec7": {
+    "text": "#squad, sbrigatevi a bloccare i Vec in emersione... con i vostri Mech se necessario!"
+  },
+  "5e9ed0fa6340a4be0380553d5bf5146d": {
+    "text": "#squad, a rapporto. Localizzazione breccia confermata."
+  },
+  "063b279e5bd5a72df28766d9e17a62dc": {
+    "text": "#squad, state lontani dall'area di lancio o diventerete polvere!"
+  },
+  "6d99c3fb39789670bbdf16455ed93895": {
+    "text": "#squad, siete da lodare - i sensori confermano che i Vek sono stati respinti. Il settore è di nuovo nostro."
+  },
+  "b9f0c53fbb8536119a213bb96e5795c4": {
+    "text": "#squad... abbiamo rilevato una serie di potenziali punti di comparsa Vek. Tenetevi pronti."
   }
 }
