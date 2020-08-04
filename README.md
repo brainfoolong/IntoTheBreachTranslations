@@ -3,8 +3,8 @@
 ![FR](https://img.shields.io/badge/FR_-100%25%20Translated-orange.svg)
 ![IT](https://img.shields.io/badge/IT_-16%25%20Translated-orange.svg)
 
-### Project discontinued
-Because of lack of time, i must discontinue this project. It will stay online, it will probably work out of the box. Maybe someone can take over development for this project?! Feel free to fork it.
+### Superseded by the official game
+As of April 2020, translations are now officially in the base game. No need for this mod anymore. Thanks for all that had helped.
 
 # Into the Breach - Translations
 Inofficial Translations for PC Game Into the Breach. This is all fan made. You can help translating this game into your language. If used, it does directly modify some game files.
