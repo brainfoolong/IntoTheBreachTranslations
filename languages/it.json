@@ -18,13 +18,13 @@
     "text": "Obbiettivi validi"
   },
   "8c948cedd526df19bb93034b8ad672fb": {
-    "text": "Ogni attacco nemico viene mostrato prima che accada. Nel prossimo turno, questo nemico attaccherà gli edifici.\\n\\nSposta il mouse su un nemico per vedere i dettagli sul suo attacco."
+    "text": "Ogni attacco nemico viene mostrato prima che accada. Nel prossimo turno, questo nemico attaccherà gli edifici.\n\nSposta il mouse su un nemico per vedere i dettagli sul suo attacco."
   },
   "2caaefba39a1799de7150e580fd8f600": {
     "text": "Attacchi Nemici"
   },
   "6bd9a477bce827800b72d842bbdd1b11": {
-    "text": "Questo è il tuo Mech da Combattimento. Può sferrare un pugno su una qualsiasi casella adiacente.\\n\\nClicca sul tuo Mech, muovilo vicino al nemico, e colpiscilo con un pugno."
+    "text": "Questo è il tuo Mech da Combattimento. Può sferrare un pugno su una qualsiasi casella adiacente.\n\nClicca sul tuo Mech, muovilo vicino al nemico, e colpiscilo con un pugno."
   },
   "63f576609c53092d7264d07d5b80bfa4": {
     "text": "Mech da Combattimento"
@@ -33,10 +33,10 @@
     "text": "Squadra Disabilitata"
   },
   "5b6e7257af6df874b42fa879f8ecfd00": {
-    "text": "Tutti i tuoi Mech sono stati disabilitati. In una battaglia normale, i Vek procederebbero con i loro attacchi e la missione finirebbe.\\n\\nPer questo tutorial, i tuoi Mech sono stati completamente riparati."
+    "text": "Tutti i tuoi Mech sono stati disabilitati. In una battaglia normale, i Vek procederebbero con i loro attacchi e la missione finirebbe.\n\nPer questo tutorial, i tuoi Mech sono stati completamente riparati."
   },
   "bc801be4f12b39d1935e65b84748c512": {
-    "text": "La tua Rete Elettrica è stata ridotta a zero. Normalmente questo significherebbe la fine del gioco.\\n\\nDato che questa è una simulazione, puoi continuare a combattere i Vek."
+    "text": "La tua Rete Elettrica è stata ridotta a zero. Normalmente questo significherebbe la fine del gioco.\n\nDato che questa è una simulazione, puoi continuare a combattere i Vek."
   },
   "5282c58be05cdecc1308241480b66276": {
     "text": "Fine della partita"
@@ -51,13 +51,13 @@
     "text": "Dai un pugno a questo nemico!"
   },
   "66b4cdda1eb071c99ca566b176bf5511": {
-    "text": "Il pugno del tuo Mech ha SPOSTATO questa unità. Adesso attaccherà una nuova posizione!\\n\\nGli spostamenti possono salvare gli edifici dagli attacchi dei nemici, o anche fare in modo che i nemici si colpiscano a vicenda."
+    "text": "Il pugno del tuo Mech ha SPOSTATO questa unità. Adesso attaccherà una nuova posizione!\n\nGli spostamenti possono salvare gli edifici dagli attacchi dei nemici, o anche fare in modo che i nemici si colpiscano a vicenda."
   },
   "16dfad33b74d8e4c77b57687b53e6c0d": {
     "text": "Spostare Nemici"
   },
   "e3329be7c31805454dac7585bb703cd3": {
-    "text": "Questo è il tuo Mech Tank.\\n\\nSpara proiettili che viaggiano in una linea retta finché non colpiscono un altro oggetto."
+    "text": "Questo è il tuo Mech Tank.\n\nSpara proiettili che viaggiano in una linea retta finché non colpiscono un altro oggetto."
   },
   "a63265e2590fcfe7a61ba6c5806d608e": {
     "text": "Mech Tank"
@@ -69,13 +69,13 @@
     "text": "Completare le Missioni"
   },
   "a76906f62cdf1b770f2b66e0ee0a6e3f": {
-    "text": "Le Missioni hanno anche obbiettivi bonus.\\n\\nCompletare questi ultimi ti farà guadagnare risorse aggiuntive alla fine della battaglia."
+    "text": "Le Missioni hanno anche obbiettivi bonus.\n\nCompletare questi ultimi ti farà guadagnare risorse aggiuntive alla fine della battaglia."
   },
   "89f0c4114c402e287e2ed786df463063": {
     "text": "Obbiettivi Bonus"
   },
   "06ceb4ba26e51c80e069d06f19cd6d00": {
-    "text": "Clicca su un'arma per usarla. I tasti numerici funzionano da scorciatoia.\\n\\nNon potrai muoverti dopo aver usato un'arma."
+    "text": "Clicca su un'arma per usarla. I tasti numerici funzionano da scorciatoia.\n\nNon potrai muoverti dopo aver usato un'arma."
   },
   "25fb77433fd72bb4999f090603f41223": {
     "text": "Uso dell'arma"
@@ -93,7 +93,7 @@
     "text": "Carri armati della Vecchia Terra"
   },
   "c7fc05495bef77dcbf37de1658d63bf8": {
-    "text": "Questa unità Terraformer è sotto il tuo controllo durante questa missione.\\n\\nUsala per trasformare le caselle Erba in caselle Sabbia."
+    "text": "Questa unità Terraformer è sotto il tuo controllo durante questa missione.\n\nUsala per trasformare le caselle Erba in caselle Sabbia."
   },
   "67afce2a780e19d188c01e76dc0fcc98": {
     "text": "Terraformer"
@@ -105,10 +105,10 @@
     "text": "Volatile Vek"
   },
   "bf4c61c58093b0c6acaaec1f1f98655b": {
-    "text": "Attenzione: Questa missione finale è ancora in sviluppo.\\n\\nÈ meno rifinita ed è ancora in fase di design.\\n\\nDovrebbe comunque essere giocabile. Buona fortuna!"
+    "text": "Attenzione: Questa missione finale è ancora in sviluppo.\n\nÈ meno rifinita ed è ancora in fase di design.\n\nDovrebbe comunque essere giocabile. Buona fortuna!"
   },
   "80cfd3dc2522979f617b789988caa81a": {
-    "text": "Questo salvataggio è stato creato da una versione precedente di Into the Breach.\\n\\nDato che il gioco è ancora in sviluppo, non possiamo garantire una completa retrocompatibilità per ogni aggiornamento e potresti riscontrare problemi con questo salvataggio\\n\\nDetto questo, c'è una buona probabilità che non avrai nessun problema. Ci scusiamo per i possibili errori!"
+    "text": "Questo salvataggio è stato creato da una versione precedente di Into the Breach.\n\nDato che il gioco è ancora in sviluppo, non possiamo garantire una completa retrocompatibilità per ogni aggiornamento e potresti riscontrare problemi con questo salvataggio\n\nDetto questo, c'è una buona probabilità che non avrai nessun problema. Ci scusiamo per i possibili errori!"
   },
   "26720c3c8efbb1bd1e01cc44f79f527e": {
     "text": "Pilota Attivo"
@@ -120,7 +120,7 @@
     "text": "A.C.I.D."
   },
   "76d8ec0666c0fab587c5bf248c970921": {
-    "text": "Questa unità è affetta dall'A.C.I.D. Con le sue difese corrose, il Danno da Armi sarà raddoppiato\\n\\nTutti gli altri danni (Spinta, Fuoco, Blocco, etc.) non sono interessati."
+    "text": "Questa unità è affetta dall'A.C.I.D. Con le sue difese corrose, il Danno da Armi sarà raddoppiato\n\nTutti gli altri danni (Spinta, Fuoco, Blocco, etc.) non sono interessati."
   },
   "990c0f701cc2208ba127d2cb056e904f": {
     "text": "Questa unità è CONGELATA. Non può muoversi o attaccare e resterà Congelata fino a che non riceverà danno."
@@ -138,22 +138,22 @@
     "text": "Scudi d'Energia"
   },
   "3e9c5f7fa0b0fe9f7011fad81281cd13": {
-    "text": "Questo è uno scudo. Bloccherà il danno e ogni tipo di effetto negativo(Fuoco, Congelamento, A.C.I.D., etc.)\\n\\nSolo il danno diretto rimuoverà lo scudo. Effetti negativi che non danneggiano non avranno alcun effetto."
+    "text": "Questo è uno scudo. Bloccherà il danno e ogni tipo di effetto negativo(Fuoco, Congelamento, A.C.I.D., etc.)\n\nSolo il danno diretto rimuoverà lo scudo. Effetti negativi che non danneggiano non avranno alcun effetto."
   },
   "55dbfbe175ff6527d393b8ed5f5dbaf3": {
     "text": "Unità Corazzata"
   },
   "202ce6b05b7cec61e6d4fddb1ea7034c": {
-    "text": "Questa unità è Corazzata. Tutto il danno da armi verrà ridotto di 1\\n\\nTutti gli altri danni(Spinta, Fuoco, Blocco, etc.) non sono influenzati."
+    "text": "Questa unità è Corazzata. Tutto il danno da armi verrà ridotto di 1\n\nTutti gli altri danni(Spinta, Fuoco, Blocco, etc.) non sono influenzati."
   },
   "e481cfb5e6c8b599acaecb8a61d588cb": {
-    "text": "Questa missione ha un effetto speciale che accadrà ad ogni turno. \\n\\nSposta il mouse sull'icona nell'ambiente per ottenere più informazioni."
+    "text": "Questa missione ha un effetto speciale che accadrà ad ogni turno. \n\nSposta il mouse sull'icona nell'ambiente per ottenere più informazioni."
   },
   "eef8f44c60f0bf53d874fe9ba034af30": {
     "text": "Effetto d'Ambiente"
   },
   "463e2f306203da28680be887ca694cb4": {
-    "text": "La Rete Elettrica collega ogni Isola della corporazione. Ogni danno subito nelle missioni persiste tra le Isole.\\n\\nI Vek hanno causato danni prima che tu arrivassi, ma ci saranno opportunità per ripristinare energia."
+    "text": "La Rete Elettrica collega ogni Isola della corporazione. Ogni danno subito nelle missioni persiste tra le Isole.\n\nI Vek hanno causato danni prima che tu arrivassi, ma ci saranno opportunità per ripristinare energia."
   },
   "51aa22fdfacf970f7b3f319b7979e913": {
     "text": "Rete Elettrica Danneggiata"
@@ -171,61 +171,61 @@
     "text": "Rete di Difesa Massimizzata"
   },
   "0a8d9d72ab120bf3ac77c550a5da0c61": {
-    "text": "Questo edificio ha resistito al danno!\\n\\nLe possibilità di un edificio di resistere al danno sono mostrate a destra della Barra d'Energia."
+    "text": "Questo edificio ha resistito al danno!\n\nLe possibilità di un edificio di resistere al danno sono mostrate a destra della Barra d'Energia."
   },
   "a0a3dccc9517e02cb941135edf6b257c": {
     "text": "Difesa della Rete"
   },
   "1599ec0d5be1a70a7c12c7d2401ddac7": {
-    "text": "Questo Psion nemico procura un bonus passivo a tutti i Vek. Ucciderlo rimuove il bonus.\\n\\nSeleziona lo Psion e passa il mouse sul suo ritratto in basso a sinistra per ulteriori informazioni."
+    "text": "Questo Psion nemico procura un bonus passivo a tutti i Vek. Ucciderlo rimuove il bonus.\n\nSeleziona lo Psion e passa il mouse sul suo ritratto in basso a sinistra per ulteriori informazioni."
   },
   "c138f9d49dd2760a15a5f020f6c5e228": {
     "text": "Vek Psion"
   },
   "f9aaa92e840cc96cc093859c10313f16": {
-    "text": "Questa unità è stata IMMOBILIZZATA! \\n\\nSposta il mouse sulle icone di status in basso a sinistra per scoprire cosa significa."
+    "text": "Questa unità è stata IMMOBILIZZATA! \n\nSposta il mouse sulle icone di status in basso a sinistra per scoprire cosa significa."
   },
   "d1232932ca07dbddb0e2187ea061ac5e": {
     "text": "Mech Immobilizzato"
   },
   "32b6ac51c13ac392d2e9f3e3552be5f2": {
-    "text": "Puoi tentare di completare le isole che hai sbloccato nell'ordine che preferisci.\\n\\nLa difficoltà dei Vek cambierà in base a quante isole hai completato in questa partita."
+    "text": "Puoi tentare di completare le isole che hai sbloccato nell'ordine che preferisci.\n\nLa difficoltà dei Vek cambierà in base a quante isole hai completato in questa partita."
   },
   "b8999b7dea68d7944c0ce0ec7c4172d2": {
     "text": "Isole di Corporazione"
   },
   "e062c810ef865866d424beeb020c7c38": {
-    "text": "Una unità nemica emergerà da qua nel prossimo turno!\\n\\nPuoi temporaneamente bloccare lo spuntare dei nemici, ma ciò danneggerà l'unità che blocca."
+    "text": "Una unità nemica emergerà da qua nel prossimo turno!\n\nPuoi temporaneamente bloccare lo spuntare dei nemici, ma ciò danneggerà l'unità che blocca."
   },
   "6358c03cb8fdb25d688e0b1a339d14fb": {
     "text": "Nemici Emergenti"
   },
   "9c4c96a2a6a710e683c99a81d88fe6a4": {
-    "text": "La FORESTA su questa casella ha preso danno, facendola diventare FUOCO.\\n\\nSe un'unità sosta sul Fuoco, andrà a fuoco e prenderà danno ad ogni turno."
+    "text": "La FORESTA su questa casella ha preso danno, facendola diventare FUOCO.\n\nSe un'unità sosta sul Fuoco, andrà a fuoco e prenderà danno ad ogni turno."
   },
   "55777724b549edc905b463c3ff7b3062": {
     "text": "Foresta Incendiata"
   },
   "6a7284aedd257d8ca7e9c644d7efaf73": {
-    "text": "Questo Mech sta andando a FUOCO! Prenderà un danno ad ogni turno. \\n\\nI Mech possono RIPARARE gli effetti di stato, ma non possono attaccare nello stesso turno in cui si riparano."
+    "text": "Questo Mech sta andando a FUOCO! Prenderà un danno ad ogni turno. \n\nI Mech possono RIPARARE gli effetti di stato, ma non possono attaccare nello stesso turno in cui si riparano."
   },
   "d80bb429bc44e53c05e76e5d68ba121f": {
     "text": "Mech a Fuoco"
   },
   "3ac6a0bb2ce1d49e7384b9af6a677088": {
-    "text": "I tuoi Mech ripareranno automaticamente tutti i danni dopo un combattimento,\\n\\nSe un Mech è ridotto a 0 HP , il Pilota muore e il Mech viene disabilitato per il resto di quella battaglia."
+    "text": "I tuoi Mech ripareranno automaticamente tutti i danni dopo un combattimento,\n\nSe un Mech è ridotto a 0 HP , il Pilota muore e il Mech viene disabilitato per il resto di quella battaglia."
   },
   "e863b25dbe80b436fe038c1a9f0d6b7b": {
     "text": "Mech Danneggiati"
   },
   "0ba7ed3437d6f9303f93b8de455aa667": {
-    "text": "Questo Mech è afflitto dall'A.C.I.D.! Corrode l'armatura dell'unità, causando il raddoppio di ogni danno ricevuto.\\n\\nI Mech possono RIPARARE i loro effetti di stato, ma non possono attaccare nello stesso turno in cui si riparano."
+    "text": "Questo Mech è afflitto dall'A.C.I.D.! Corrode l'armatura dell'unità, causando il raddoppio di ogni danno ricevuto.\n\nI Mech possono RIPARARE i loro effetti di stato, ma non possono attaccare nello stesso turno in cui si riparano."
   },
   "dbaefb46881f6331ce2b585752d58fb5": {
     "text": "Mech Acidi"
   },
   "437692ce132f09c01a128d89e772de00": {
-    "text": "Questa Capsula contiene equipaggiamento dal futuro!\\n\\nPuoi raccoglierla col tuo Mech, o semplicemente difenderla fino alla fine della battaglia."
+    "text": "Questa Capsula contiene equipaggiamento dal futuro!\n\nPuoi raccoglierla col tuo Mech, o semplicemente difenderla fino alla fine della battaglia."
   },
   "395dc55750e6d0d019128419ab303b38": {
     "text": "Capsule del Tempo"
@@ -234,7 +234,7 @@
     "text": "Capsule del Tempo Distrutte"
   },
   "6c35e073cbc4bbe3f1b7cd7a63fadb95": {
-    "text": "La Capsula del Tempo su questa casella è stata distrutta!\\n\\nLe Capsule del Tempo vengono distrutte prendendo danno o se un nemico prende danno mentre si trova su di esse."
+    "text": "La Capsula del Tempo su questa casella è stata distrutta!\n\nLe Capsule del Tempo vengono distrutte prendendo danno o se un nemico prende danno mentre si trova su di esse."
   },
   "0f919302feb51711bce641b587c611fe": {
     "text": "I Mech non possono usare le loro armi mentre sono nell'Acqua."
@@ -243,7 +243,7 @@
     "text": "Robot Sommersi"
   },
   "43cccc2cceaf16d6b4dbd54243515fb5": {
-    "text": "I Mech non possono usare le loro armi mentre sono nell'Acqua. \\n\\nPuoi usare Annulla Mossa se vuoi riposizionarlo."
+    "text": "I Mech non possono usare le loro armi mentre sono nell'Acqua. \n\nPuoi usare Annulla Mossa se vuoi riposizionarlo."
   },
   "3c099c43e5fcfc30aed5c7e036980a9a": {
     "text": "Il tuo Mech è stato disabilitato! Il suo Pilota è stato ucciso e il Mech non sarà in grado di agire per il resto della missione."
@@ -264,10 +264,10 @@
     "text": "Spinta negli Oggetti"
   },
   "bdcdfcdc465734e20522eaf4901e5959": {
-    "text": "Spingere le unità nelle cose danneggia ulteriormente di 1 entrambi gli oggetti!\\n\\nIn questo caso, il danno extra ha ucciso l'unità!"
+    "text": "Spingere le unità nelle cose danneggia ulteriormente di 1 entrambi gli oggetti!\n\nIn questo caso, il danno extra ha ucciso l'unità!"
   },
   "10a2152c0d8ae5942e724fdffd8126ef": {
-    "text": "Questa casella con edificio è stata danneggiata, quindi la Rete Elettrica della tua città è stata ridotta.\\n\\nIl tuo obbiettivo principale è evitare che ciò accada!"
+    "text": "Questa casella con edificio è stata danneggiata, quindi la Rete Elettrica della tua città è stata ridotta.\n\nIl tuo obbiettivo principale è evitare che ciò accada!"
   },
   "379d805c265b1c6346a54d4aec0ad94f": {
     "text": "Danno Edifici"
@@ -276,13 +276,13 @@
     "text": "Simulazione di Combattimento"
   },
   "44e78706a90c1c3664dd55e22c735aa9": {
-    "text": "C'è una Simulazione di Combattimento disponibile per tenere i nuovi Commanders aggiornati col combattimento meccanizzato.\\n\\nVorresti lanciare la simulazione?"
+    "text": "C'è una Simulazione di Combattimento disponibile per tenere i nuovi Commanders aggiornati col combattimento meccanizzato.\n\nVorresti lanciare la simulazione?"
   },
   "1bff08e7db6e31680d1a3d42486ea90b": {
     "text": "Reputazione di Corporazione"
   },
   "d59aa9b9ec2e4c669787008db133f4db": {
-    "text": "Completando le regioni e gli obbiettivi bonus, la tua reputazione con la Corporazione locale aumenterà.\\n\\nPuoi spendere la tua reputazione su scorte alla fine dell'isola."
+    "text": "Completando le regioni e gli obbiettivi bonus, la tua reputazione con la Corporazione locale aumenterà.\n\nPuoi spendere la tua reputazione su scorte alla fine dell'isola."
   },
   "22aff7814c8084654ba8ee78c35fd697": {
     "text": "Nuclei di Energia"
@@ -294,13 +294,13 @@
     "text": "Installazione Nucleo"
   },
   "e6fb98c5624a3ed4072469fb7e88011e": {
-    "text": "Puoi usare questo tasto per installare un Nucleo di Energia in un Mech\\n\\nOgni Nucleo aumenterà il numero massimo di nuclei del Mech di uno."
+    "text": "Puoi usare questo tasto per installare un Nucleo di Energia in un Mech\n\nOgni Nucleo aumenterà il numero massimo di nuclei del Mech di uno."
   },
   "2b2e32f3e41390e61ed36657b29f7262": {
     "text": "Modifiche all'Arma"
   },
   "12bd82aed2cb5883118c86cf4ba6c918": {
-    "text": "Puoi usare i Nuclei d'energia per attivare le modifiche alle armi.\\n\\nClicca su una modifica per alimentarla. Puoi sempre cliccare ancora per rimuovere il nucleo se vuoi utilizzarlo da qualche altra parte."
+    "text": "Puoi usare i Nuclei d'energia per attivare le modifiche alle armi.\n\nClicca su una modifica per alimentarla. Puoi sempre cliccare ancora per rimuovere il nucleo se vuoi utilizzarlo da qualche altra parte."
   },
   "40bd59e57e847f878c31b7b82d3ade48": {
     "text": "Nuova Arma"
@@ -318,7 +318,7 @@
     "text": "Vecchio Profilo"
   },
   "7731a1c10c7907a15d4fa21e1a430baa": {
-    "text": "Questo gioco è stato aggiornato e vecchi profili in beta potrebbero incontrare alcune stranezze dopo questi cambiamenti.\\n\\nIl tuo totale delle Monete Achievement potrebbe essere negativo ora a causa di alcuni cambiamenti nel prezzo dei Mech precedentemente sbloccati. Il gioco è funzionante, ti serviranno solo più achievements per metterti in pari.\\n\\nSe hai una partita in corso, potrebbe non essere caricata correttamente. Spero funzioni ancora, ma chiedo scusa se non sarà così."
+    "text": "Questo gioco è stato aggiornato e vecchi profili in beta potrebbero incontrare alcune stranezze dopo questi cambiamenti.\n\nIl tuo totale delle Monete Achievement potrebbe essere negativo ora a causa di alcuni cambiamenti nel prezzo dei Mech precedentemente sbloccati. Il gioco è funzionante, ti serviranno solo più achievements per metterti in pari.\n\nSe hai una partita in corso, potrebbe non essere caricata correttamente. Spero funzioni ancora, ma chiedo scusa se non sarà così."
   },
   "80844af25d4df66651ef7ee68b38cb8c": {
     "text": "EFFETTI DELLE ARMI"
@@ -357,13 +357,13 @@
     "text": "PREMI MISSIONE"
   },
   "66d15d3e5f4dccbb25d584a1ff81e897": {
-    "text": "Ogni missione ha diversi premi ottenibili dopo aver completato obbiettivi bonus\\n   Non sarai in grado di completare ogni missione sull'Isola, quindi scegli attentamente!"
+    "text": "Ogni missione ha diversi premi ottenibili dopo aver completato obbiettivi bonus\n   Non sarai in grado di completare ogni missione sull'Isola, quindi scegli attentamente!"
   },
   "4936eb5172ee8b4a6d3384418cf22a26": {
     "text": "NUCLEI DI ENERGIA: Usati per potenziare i tuoi Mech."
   },
   "b5aa901c009023cd6d1a38f39ec2364a": {
-    "text": "ENERGIA ELETTRICA: Ripristina la tua Rete Elettrica. Se la tua Rete Elettrica raggiunge lo zero, perdi."
+    "text": "ENERGIA ELETTRICA: Ripristina la tua Rete Elettrica. \nSe la tua Rete Elettrica raggiunge lo zero, perdi."
   },
   "cebb52c118132d544ba1e4f55f4decea": {
     "text": "REPUTAZIONE CON CORP.: Usata per acquistare oggetti una volta che l'isola è completata."
@@ -408,7 +408,7 @@
     "text": "Missione Finale"
   },
   "fd44c9f820e40ad4d8b5bbab895c096f": {
-    "text": "Puoi completare la Missione Finale in qualsiasi momento dopo aver completato due Isole.\\n\\nLa difficoltà della missione si adatta al tuo progresso corrente."
+    "text": "Puoi completare la Missione Finale in qualsiasi momento dopo aver completato due Isole.\n\nLa difficoltà della missione si adatta al tuo progresso corrente."
   },
   "0c30615662c8a83e6425402d8579356d": {
     "text": "Reputazione di Corporazione"
@@ -417,7 +417,7 @@
     "text": "Usa i punti di reputazione per acquistare risorse una volta che l'Isola è completata."
   },
   "004f963ad95a1b04aa4daa8db393df17": {
-    "text": "Usati per potenziare i tuoi Mech\\n\\nApri il menù di potenziamento dei Mech cliccando sul ritratto di un Mech a sinistra."
+    "text": "Usati per potenziare i tuoi Mech\n\nApri il menù di potenziamento dei Mech cliccando sul ritratto di un Mech a sinistra."
   },
   "5a49ae6e2ed8c1a8507bf63d858af0fd": {
     "text": "Ordine di Attacco"
@@ -435,13 +435,13 @@
     "text": "Mostra l'ordine in cui le azioni verranno eseguite nel turno nemico. Scorciatoia: [$1]"
   },
   "a5704ef5d17d6e34e56b6c17a028d6ed": {
-    "text": "Da quanto tempo è in corso la partita corrente.\\n\\nPuoi nascondere questo timer nel menù delle Opzioni."
+    "text": "Da quanto tempo è in corso la partita corrente.\n\nPuoi nascondere questo timer nel menù delle Opzioni."
   },
   "1be009cd436fcd0e73748956ec0d30f9": {
     "text": "Tempo di Gioco"
   },
   "dee6f1f8d87b1865581ad94a6134be20": {
-    "text": "Torna indietro all'inizio del turno corrente. Disponibile dopo aver eseguito almeno un'azione.\\n\\nPuoi usare questa opzione solo una volta per ogni battaglia."
+    "text": "Torna indietro all'inizio del turno corrente. Disponibile dopo aver eseguito almeno un'azione.\n\nPuoi usare questa opzione solo una volta per ogni battaglia."
   },
   "11a74e7644d07bfd0cd0b143fc7f25ba": {
     "text": "Resetta Turno"
@@ -453,13 +453,13 @@
     "text": "Reset del Turno Usato"
   },
   "410ed538eff6e2c2a1d00c404a1fa8b3": {
-    "text": "Torna indietro all'inizio del turno corrente. Disponibile dopo aver eseguito almeno un'azione.\\n\\nIl tuo Pilota ti concede un Reset extra per ogni battaglia. Te ne restano 2."
+    "text": "Torna indietro all'inizio del turno corrente. Disponibile dopo aver eseguito almeno un'azione.\n\nIl tuo Pilota ti concede un Reset extra per ogni battaglia. Te ne restano 2."
   },
   "e75be79cc30a237939127927e4f6ef66": {
-    "text": "Torna indietro all'inizio del turno corrente. Disponibile dopo aver eseguito almeno un'azione.\\n\\nTe ne resta 1."
+    "text": "Torna indietro all'inizio del turno corrente. Disponibile dopo aver eseguito almeno un'azione.\n\nTe ne resta 1."
   },
   "58793042a14774337a8ef97a9f0b851c": {
-    "text": "Modifica quanto velocemente le unità nemiche eseguono il suo turno. \\n\\nRallentalo se sei nuovo e hai problemi nel seguire le azioni del nemico, velocizzalo se hai esperienza e ti trovi comodo col combattimento."
+    "text": "Modifica quanto velocemente le unità nemiche eseguono il suo turno. \n\nRallentalo se sei nuovo e hai problemi nel seguire le azioni del nemico, velocizzalo se hai esperienza e ti trovi comodo col combattimento."
   },
   "636d534fd32c9bab11b7d1f7249cc728": {
     "text": "Velocità di Combattimento"
@@ -474,13 +474,13 @@
     "text": "Suggerimenti"
   },
   "5ab415512413cd614cfa107376a28cda": {
-    "text": "Mostra dei Suggerimenti durante il gioco.\\n\\nEstremamente consigliato per i nuovi giocatori."
+    "text": "Mostra dei Suggerimenti durante il gioco.\n\nEstremamente consigliato per i nuovi giocatori."
   },
   "a91d719ef6749935489273ce124a2078": {
     "text": "Massima Scala del Tabellone"
   },
   "49b8396489a3e7374927c07d09f4b2db": {
-    "text": "Modifica la Scala di rendering del tabellone.\\n\\nPuò essere utile per diminuire la scala per monitor più grandi.\\n\\nLa scala corrente è : $1"
+    "text": "Modifica la Scala di rendering del tabellone.\n\nPuò essere utile per diminuire la scala per monitor più grandi.\n\nLa scala corrente è : $1"
   },
   "5b41b7ad8028c0826cb52fa13f21c844": {
     "text": "Finestra di Default"
@@ -495,13 +495,13 @@
     "text": "Timer di Gioco"
   },
   "397122c5eae73af50ef59a0c036dec6f": {
-    "text": "Aggiunge un Timer di Gioco all'Interfaccia.\\n\\nUtile per ottenere l'achievement 'Lightning War' o per fare speedrun"
+    "text": "Aggiunge un Timer di Gioco all'Interfaccia.\n\nUtile per ottenere l'achievement 'Lightning War' o per fare speedrun"
   },
   "d5a644f40f4e1c62e5b3441094230181": {
     "text": "Modalità per Daltonici"
   },
   "9919d0e2fa6d4b0c00e47b0827fb0c16": {
-    "text": "Cambia alcuni colori e aggiunge icone addizionali per aiutare i giocatori daltonici.\\n\\nFacci sapere se vorresti migliorare qualcosa di questa impostazione."
+    "text": "Cambia alcuni colori e aggiunge icone addizionali per aiutare i giocatori daltonici.\n\nFacci sapere se vorresti migliorare qualcosa di questa impostazione."
   },
   "b815399b78eb8ad112c9cc2b124b0a39": {
     "text": "Caratteri più grandi"
@@ -525,31 +525,31 @@
     "text": "Adatta Scaling"
   },
   "18f137b6ff3c0457a49dc42d99a31a30": {
-    "text": "Adatta la grafica a risoluzioni maggiori. \\n\\nUtile per monitor alte risoluzioni (1440p o più) se l'interfaccia è troppo piccola, ma potrebbe rendere i messaggi e l'arte poco definita."
+    "text": "Adatta la grafica a risoluzioni maggiori. \n\nUtile per monitor alte risoluzioni (1440p o più) se l'interfaccia è troppo piccola, ma potrebbe rendere i messaggi e l'arte poco definita."
   },
   "e00a3f77b7f8f6c4241d7170b7b54204": {
     "text": "Limite di Frame"
   },
   "f2a4fd376fd0558f952efebbd19bff2e": {
-    "text": "Limita gli FPS a 60.\\n\\nRaccomandato per la maggior parte dei sistemi."
+    "text": "Limita gli FPS a 60.\n\nRaccomandato per la maggior parte dei sistemi."
   },
   "5385b7a6956a92035bb449868e9a558a": {
     "text": "Disabilita l'Agitazione di Schermo"
   },
   "d85ca6373e8ab30c64ad7c6cf113cb39": {
-    "text": "Disattiva l'agitazione dell'Interfaccia.\\n\\nL'agitamento è comunque durante il combattimento quando qualcuno arreca danno."
+    "text": "Disattiva l'agitazione dell'Interfaccia.\n\nL'agitamento è comunque durante il combattimento quando qualcuno arreca danno."
   },
   "a69190c07853570b6f20653e21e9d291": {
     "text": "Overlay Griglia Coordinate"
   },
   "46e9939579d71828c0be177ebfa097c2": {
-    "text": "Aggiunge le Coordinate al tabellone.\\n\\nBuono per lo streaming, o per altre forme di condivisione del gioco."
+    "text": "Aggiunge le Coordinate al tabellone.\n\nBuono per lo streaming, o per altre forme di condivisione del gioco."
   },
   "3f596df35ed674b02a12395160637c2e": {
     "text": "Adattamento dello Scaling non disponibile"
   },
   "af32b8f2f98597096ccce48a95d23da2": {
-    "text": "I tuoi Driver Video non supportano i requisiti necessari per questo. \\n\\nPerfavore aggiornali o contatta il supporto se necessiti di questa feature."
+    "text": "I tuoi Driver Video non supportano i requisiti necessari per questo. \n\nPerfavore aggiornali o contatta il supporto se necessiti di questa feature."
   },
   "bab96f7bab32f2baa9ef400df0457ae4": {
     "text": "Vittoria"
@@ -597,13 +597,13 @@
     "text": "Persone salvate"
   },
   "a2df8ef7e3c59dd9c2c7f852589c4b07": {
-    "text": "Il numero di persone che hai salvato in questa linea del tempo\\n\\nAlte difficoltà hanno più persone negli edifici durante una battaglia."
+    "text": "Il numero di persone che hai salvato in questa linea del tempo\n\nAlte difficoltà hanno più persone negli edifici durante una battaglia."
   },
   "da0ddf0e974d2a995c144c105615fd8e": {
     "text": "Reattore Mech"
   },
   "98e19fa07969dbd898a12cc9a3fc4784": {
-    "text": "Puoi usare l'Energia dei Nuclei per migliorare le tue armi, o aggiungerne altre. \\n\\nInstalla i Nuclei d'Energia per potenziare il reattore di un Mech."
+    "text": "Puoi usare l'Energia dei Nuclei per migliorare le tue armi, o aggiungerne altre. \n\nInstalla i Nuclei d'Energia per potenziare il reattore di un Mech."
   },
   "dc9c2de6f86e5cd8030a1ebe12234cc6": {
     "text": "Annulla installazione Nucleo"
@@ -627,7 +627,7 @@
     "text": "Classe Mech"
   },
   "017434f53d02c231132cb1207723f7d7": {
-    "text": "La Classe del Mech determina che tipo di arma può usare in modo efficacie. \\n\\nLe armi che non sono della stessa classe costeranno 1 Nucleo d'Energia extra."
+    "text": "La Classe del Mech determina che tipo di arma può usare in modo efficacie. \n\nLe armi che non sono della stessa classe costeranno 1 Nucleo d'Energia extra."
   },
   "d5cf9df13a50ebc53d2c83fa37f36adf": {
     "text": "Classe Cyborg"
@@ -663,13 +663,13 @@
     "text": "Pilota AI di Base"
   },
   "511e9ab5d7600f006572aa98246d6753": {
-    "text": "Le AI di Base operano già alla loro massima efficienza e non guadagnano esperienza in combattimento. \\n\\nTrova Piloti umani superiori, o AI Avanzate, per sostituire questa AI di Base."
+    "text": "Le AI di Base operano già alla loro massima efficienza e non guadagnano esperienza in combattimento. \n\nTrova Piloti umani superiori, o AI Avanzate, per sostituire questa AI di Base."
   },
   "43aa5426efe811a1fdc8525da78fe233": {
-    "text": "La possibilità in percentuale che un edificio qualsiasi resista del danno. \\n\\nAumenta la percentuale guadagnando Energia quando la Rete Elettrica è piena."
+    "text": "La possibilità in percentuale che un edificio qualsiasi resista del danno. \n\nAumenta la percentuale guadagnando Energia quando la Rete Elettrica è piena."
   },
   "091818283f09c965c79714064c1021c0": {
-    "text": "Perdi se questa raggiunge lo zero. \\n\\nRidotta ogni volta che un Edificio viene danneggiato in combattimento."
+    "text": "Perdi se questa raggiunge lo zero. \n\nRidotta ogni volta che un Edificio viene danneggiato in combattimento."
   },
   "92e50f1862bb0cb44bcc3356c6a4f453": {
     "text": "Nuclei d'Energia"
@@ -678,22 +678,22 @@
     "text": "I Nuclei d'Energia sono usati per potenziare i tuoi Mech tra le missioni."
   },
   "a176718fa5943c72a6a5c09b65e12bf6": {
-    "text": "Energia Elettrica"
+    "text": "Rete Elettrica"
   },
   "317fabcd8075160bb53ae14fd26fd687": {
-    "text": "Ripara il danno alla tua Rete Elettrica. \\n\\nSe la tua Rete Elettrica è piena, questo aumenterà permanentemente la tua percentuale di Difesa della Rete."
+    "text": "Ripara il danno alla tua Rete Elettrica. \n\nSe la tua Rete Elettrica è piena, questo aumenterà permanentemente la tua percentuale di Difesa della Rete."
   },
   "bd1ccae7fea0856388a7cc4afd2733ce": {
     "text": "Sovraccarica Rete"
   },
   "b726ac65031efb497cf8fd47ec520f11": {
-    "text": "La tua Rete Elettrica è satura. Ulteriore Energia potenzierà permanentemente la tua Difesa di Rete. \\n\\nIl bonus diminuirà all'aumentare della tua Difesa, fino ad un massimo di +25."
+    "text": "La tua Rete Elettrica è satura. Ulteriore Energia potenzierà permanentemente la tua Difesa di Rete. \n\nIl bonus diminuirà all'aumentare della tua Difesa, fino ad un massimo di +25."
   },
   "55373e9fe31a06a62d921e9a863a0539": {
     "text": "Rete Satura"
   },
   "393f77ed71d670753e143183f4986828": {
-    "text": "Sia la tua Rete che la tua Difesa di Rete sono al loro massimo valore. \\n\\nNon puoi acquistare ulteriore Energia."
+    "text": "Sia la tua Rete che la tua Difesa di Rete sono al loro massimo valore. \n\nNon puoi acquistare ulteriore Energia."
   },
   "808ad0f97ae33294540eae5c1850452b": {
     "text": "Minaccia Vek Standard"
@@ -2451,37 +2451,37 @@
     "text": "Due al prezzo di uno."
   },
   "7d1aff45be134baa1c15c5e978be3097": {
-    "text": "Seleziona l'unit di missione che controlli in questo momento (se disponibile)",
+    "text": "Seleziona l'unità di missione che controlli in questo momento (se disponibile)",
     "review": true
   },
   "6799f38346a63281c3281b5c31579824": {
-    "text": "Seleziona Unit Missione 2",
+    "text": "Seleziona Unità 2 Missione",
     "review": true
   },
   "fa19134bfb49626009a9893255036a48": {
-    "text": "Seleziona la seconda unit di missione che controlli (se disponibile)",
+    "text": "Seleziona la seconda unità di missione che controlli (se disponibile)",
     "review": true
   },
   "aa9356bdb7a00c303a7da7c2f990a954": {
-    "text": "Scorri unit",
+    "text": "Scorri unità",
     "review": true
   },
   "575213fe153f111ec860aff389498b67": {
-    "text": "Passa alla prossima unit attiva e controllata",
+    "text": "Passa alla prossima unità attiva e controllata",
     "review": true
   },
   "cfa907d84135db952a9c9f0932e1697d": {
     "text": "Deseleziona / Disarma Arma"
   },
   "97cbd580ed85eb7dc53ea309b964f1a4": {
-    "text": "Resetta l'unit correntemente selezionata",
+    "text": "Resetta l'unità attualmente selezionata",
     "review": true
   },
   "1bb5b2a88971a285391d6f9e273b222a": {
     "text": "Finestra informazioni"
   },
   "11d3de52b4f3312b785a0fe02d6900e4": {
-    "text": "Scorri il mouse per ispezionare una qualsiasi unit sotto il tuo mouse",
+    "text": "Mantieni il premuto per ispezionare una qualsiasi unità sotto il cursore",
     "review": true
   },
   "cd461c86ccd5fe4f56a9d6d3db7adc69": {
@@ -2497,15 +2497,15 @@
     "text": "Arma 2"
   },
   "6e4085b56bdc02cf028dfeef19499410": {
-    "text": "Arma o disarma la prima arma equipaggiata da un'unit",
+    "text": "Arma o disarma la prima arma equipaggiata da un'unità",
     "review": true
   },
   "acd57b51180047d91092584782b68033": {
-    "text": "Arma o disarma la seconda arma equipaggiata da un'unit",
+    "text": "Arma o disarma la seconda arma equipaggiata da un'unità",
     "review": true
   },
   "a996706aefbcd1b0c7fe3d539706e707": {
-    "text": "Attiva l'Abilit di Riparazione Mech (se disponibile)",
+    "text": "Attiva l'Abilità di Riparazione Mech (se disponibile)",
     "review": true
   },
   "981d57b1e4997c2f3c9f3d102b1620da": {
@@ -2581,7 +2581,7 @@
     "text": "Gareth Davies"
   },
   "9d17c916654bd3ae060e90b1fa0e2ac7": {
-    "text": "Testing Qualit :",
+    "text": "Testing Qualità :",
     "review": true
   },
   "7fb4cc800cbe695ec766272521a9d63e": {
@@ -2603,7 +2603,7 @@
     "text": "Grazie ai nostri fantastici tester:"
   },
   "1915d9cbe9bc72d760d7a9430f2f0382": {
-    "text": "5thHorseman\\n\nAlfie275\nchewbacca77\nDarthcaboose\nDiscord\nFynn\nJoni\nKieve\nLem\nNick Patrick\nRick Edmonds\nSleeper Service"
+    "text": "5thHorseman\n\nAlfie275\nchewbacca77\nDarthcaboose\nDiscord\nFynn\nJoni\nKieve\nLem\nNick Patrick\nRick Edmonds\nSleeper Service"
   },
   "5d0bd58e10b79127d9082df3ff9c84d1": {
     "text": "Un grazie speciale per i loro consigli e supporto:"
@@ -2664,5 +2664,1088 @@
   },
   "5902fa7c72c1acc933626af9644d6861": {
     "text": "Completa il gioco con 4 diverse Squadre (Qualsiasi durata)"
+  },
+  "4743007d17b6f7a6e2fc2441cd14b0ce": {
+    "text": "Tocca per confermare"
+  },
+  "a7b21789b68c4389c7021336767d6b83": {
+    "text": "Dopo aver selezionato una posizione in cui sparare, se stai usando uno schermo touch, tocca di nuovo la stessa posizione per confermare lo sparo"
+  },
+  "5ee34830ad5049295b0d7959d563a184": {
+    "text": "Specialisti Terraforming, l'R.S.T. ha trasformato l'ambiente contro i Vek, distruggendo quasi completamente la loro isola durante il processo."
+  },
+  "8517208075299ce4d3b34034fbcab1c4": {
+    "text": "Sei sicuro di volerlo comprare?"
+  },
+  "b7b9ad62ed1a2bab0d6b6f0fc10ce80a": {
+    "text": "Compra ora!"
+  },
+  "0557fa923dcee4d0f86b1409f5c2167f": {
+    "text": "Indietro"
+  },
+  "412e43482aab029f061fa22c921f1dd5": {
+    "text": "Modalità Normale"
+  },
+  "ecad9d2f5f7ea49048929568e81c4a9f": {
+    "text": "Colori Bloccati"
+  },
+  "a430ada907da890d86b089cd6ebe8945": {
+    "text": "Sblocca Squadre aggiuntive per sbloccare altre opzioni di colore"
+  },
+  "b1f9e0c52fa626cd7066f5f650c28085": {
+    "text": "5thHorseman\n\nAlfie275\n\nchewbacca77\n\nDarthcaboose\n\nDiscord\n\nFynn\n\nJoni\n\nKieve\n\nLem\n\nNick Patrick\n\nRick Edmonds\n\nSleeper Service\n\nVeritas\n"
+  },
+  "4f9ba368d0838353e9b6d236727def40": {
+    "text": "Progressi: $1 / 4 vittorie"
+  },
+  "e141ab1be59aaafeb72c5f8885a9ede9": {
+    "text": "Vittoria Schiacciante"
+  },
+  "0226569ee7ec511bfbf1226135b5fefa": {
+    "text": "Completa il gioco con tutte e 10 le Squadre primarie (qualsiasi durata)"
+  },
+  "5396204d5f4bb98b0d810915d92ff0ce": {
+    "text": "Progressi: $1 / 10 vittorie"
+  },
+  "88c18725983b735d5af84e106e2420a5": {
+    "text": "Tecnologie Emergenti"
+  },
+  "848e18f60fc03b6d94efb591e626a5cd": {
+    "text": "Sblocca una nuova Squadra Mech"
+  },
+  "ae6340916db58e07e3fe3e3e2fc0430e": {
+    "text": "Amici ai Piani Alti"
+  },
+  "86889e455b2a4e4ab3d3682fa68683cb": {
+    "text": "Spendi 50 Reputazione durante tutte le partite"
+  },
+  "a90e9df662ca16dc905bbcec5206d2f5": {
+    "text": "Progressi: $1 Reputazione spesa"
+  },
+  "3e080212bd1d93b2e4cfffc58548c3d0": {
+    "text": "Oggetti Irremovibili"
+  },
+  "ca9c808f588a905c1e4be0cb2ceacdd9": {
+    "text": "Blocca 100 Vek nel corso di tutte le partite"
+  },
+  "70cd3c7a6f78bd03e3829c4164c43dc4": {
+    "text": "Progressi: $1 Vek Bloccati"
+  },
+  "be5b0117793c7fab40dc9ec69f721a81": {
+    "text": "Salvatore dell'Umanità"
+  },
+  "5e0325c5562d2c9f74f32450ba315e39": {
+    "text": "Soccorri 100,000 civili durante tutte le partite"
+  },
+  "b4e8a28c7cf354b87f1ad02db27530dc": {
+    "text": "Progressi: $1 Civili soccorsi"
+  },
+  "85daeab7f19939faa028403e89487092": {
+    "text": "Strategia Perfetta"
+  },
+  "1ae1aeb2c5f25ab3add84e433601adf9": {
+    "text": "Colleziona 10 ricompense Isola Perfetta durante tutte le partite"
+  },
+  "9dd6650520149cb5a8f4f11ae59e8035": {
+    "text": "Progressi: $1 Isola(e) Perfetta(e)"
+  },
+  "05287f7c2368ecd97553f15f5232c19a": {
+    "text": "Isola Perfetta"
+  },
+  "b0f30f44038cd92a45e8b9458fed1354": {
+    "text": "Non fallire nessun obiettivo in una singola Isola Corporativa"
+  },
+  "f4de6ac2d3209d89a33a116315c6627f": {
+    "text": "Fallito(i): $1 fallito(i) "
+  },
+  "4f78688ca3dda16dc2aa68ef8c057e50": {
+    "text": "I Difensori"
+  },
+  "74b06ae007576afee7f01f62f5aa3092": {
+    "text": "Completa un'Isola Corporativa senza subire danni agli edifici"
+  },
+  "1d0e99d2104d72a6cce1385873fb2e0c": {
+    "text": "Non riuscito sull'Isola attuale"
+  },
+  "281e67203ca773ec59b3d915dc338f56": {
+    "text": "Intoccabile"
+  },
+  "be12c83cfcc6cda8a8ec1dc7537074ad": {
+    "text": "Completa un'Isola Corporativa senza subire danni ai Mech (i danni riparati valgono come danni)"
+  },
+  "acd463a3be500b05e75c3b1d1a294c10": {
+    "text": "Batterie di Riserva"
+  },
+  "2b6b8793bff14d58ed8e954c200370cd": {
+    "text": "Ottieni o compra 10 Reti Elettriche in una singola Isola Corporativa"
+  },
+  "ea3f45ff643baf26c1bf33ecfd0bc4fe": {
+    "text": "Progressi: $1 Reti Elettriche ottenute"
+  },
+  "1ee4ee5b011a53627fe1995a93fe1774": {
+    "text": "Buon Samaritano"
+  },
+  "f0fb8f44ad242a3f85806b1d8507154f": {
+    "text": "Ottieni 9 Reputazione dalle missioni su una singola Isola Corporativa"
+  },
+  "b175a903ea5dd827523cd42c809a71f3": {
+    "text": "Progressi: $1 Reputazione ottenuta"
+  },
+  "6538f56630ce188b750755ac42eacd62": {
+    "text": "Promozione sul Campo"
+  },
+  "61cd03c2ac0b06280f193fad8e372e0d": {
+    "text": "Fai ottenere ad un Pilota il livello massimo"
+  },
+  "49c83e790411a58cf3a6e56690e4f6be": {
+    "text": "Meglio del Meglio"
+  },
+  "c03e4c411769f8816a715aa29d5e5745": {
+    "text": "Fai ottenere a 3 Piloti il massimo livello contemporaneamente"
+  },
+  "ab7e5c42479a532505092c39e9431095": {
+    "text": "Progressi: $1 Pilota(i) al Livello Max"
+  },
+  "763636283f30c1804a81686256476d5d": {
+    "text": "Tutti Insieme"
+  },
+  "278ad771a10ae0dd1aeb80096953ba89": {
+    "text": "Sblocca 6 Piloti aggiuntivi"
+  },
+  "9aef2a09fbb79e80c101558dd4b773f8": {
+    "text": "Progressi: $1 Piloti"
+  },
+  "eecc33839e892031a56dae81f2602fef": {
+    "text": "Sto diventando troppo vecchio per questo..."
+  },
+  "86570cd66b58f1f09a780d806390490c": {
+    "text": "Fai sì che un singolo Pilota combatta la battaglia finale per 3 volte durante più partite"
+  },
+  "91a6cb1348c430f193bf7c0ff02ddc19": {
+    "text": "Progress: $1 Battaglia(e) Finale(i)"
+  },
+  "667f6114b03fca5be8af09f206669075": {
+    "text": "Amici Distanti"
+  },
+  "4435c56fc1d750a276e85e586c23b098": {
+    "text": "Incontra un volto familiare"
+  },
+  "2e70275972abf2cd2747dbebf372182a": {
+    "text": "Energia Sostenibile"
+  },
+  "81d2cbe4774e885148f576c23c7dc1f9": {
+    "text": "Completa 3 Isole Corporative senza scendere sotto 4 di Energia Elettrica"
+  },
+  "c5430c68f75fcd1f2c0b3d22e81f379d": {
+    "text": "Non riuscito: Sceso sotto 3 di Energia"
+  },
+  "b08ca0b8dcd5b5e9fdc9eddeb36c7732": {
+    "text": "Ingegneria Inutilizzata"
+  },
+  "e8d25d1d0b653bb84f335dc71fe45f4a": {
+    "text": "Completa 3 Isole Corporative senza usare alcuna Modifica alle Armi"
+  },
+  "92985d37f7d072ddec040f7f6d7fbe08": {
+    "text": "Non riuscito: Modifica utilizzata"
+  },
+  "6c163445115e4a2516ed545ddfb42fdd": {
+    "text": "Cronofobia"
+  },
+  "78074256243d972d46c30c423db2f534": {
+    "text": "Completa 3 Isole Corporative e distruggi tutte le Capsule del Tempo scoperte"
+  },
+  "99634c6c0b93deabfcd35eecbcdaa399": {
+    "text": "Non riuscito: Capsula del Tempo recuperata"
+  },
+  "602715db940b6352ced23202017d406a": {
+    "text": "Niente Tentativi"
+  },
+  "42699ba92b802c081f49eaa643667dea": {
+    "text": "Completa 3 Isole Corporative senza fallire alcun obiettivo"
+  },
+  "fd53d3b3c5dca5bca8674e7645e26eaf": {
+    "text": "Non riuscito: Obiettivo fallito"
+  },
+  "f0b6960ac53b0cec6c4dae964e645e09": {
+    "text": "Equipaggiamento Affidabile"
+  },
+  "8844806c7e8f08115bc4bcca711c1379": {
+    "text": "Completa 3 Isole Corporative senza equipaggiare nuovi Piloti o armi"
+  },
+  "f7f443b66d90369d388fbeb146fbe542": {
+    "text": "Non riuscito: Equipaggiamento modificato"
+  },
+  "c2734ab98f3138399c59a4e8bdabd1ba": {
+    "text": "Bottini!"
+  },
+  "3fa6247896efc335f4a13dababda6e21": {
+    "text": "Apri 3 Capsule del Tempo in un'unica partita"
+  },
+  "f29fabe458056b34fe3588b6e51e8e2e": {
+    "text": "Progressi: $1 aperte"
+  },
+  "8113998324c46089b45c04d9f37355a6": {
+    "text": "Inizio Fortunato"
+  },
+  "eecb35cec7df49abfb319556476bc559": {
+    "text": "Completa il gioco (qualsiasi durata) senza spendere nessuna Reputazione"
+  },
+  "aeab441ea73e706cb8c6fd3ed9167496": {
+    "text": "Non riuscito: Reputazione spesa"
+  },
+  "7fd779bf1acb84e4957350e56f4863a1": {
+    "text": "Cambia le Probabilità"
+  },
+  "4e38f69ea685ebaf18e1d3da8dae18c1": {
+    "text": "Aumenta la Rete Difensiva al 30% o più"
+  },
+  "dd4a0a244d005bffe47183f623e40671": {
+    "text": "Specialista Mech"
+  },
+  "c0a601f62ddfd080696ea3b7504ad244": {
+    "text": "Finisci il gioco con 3 Mach dello stesso tipo"
+  },
+  "63ada6cc3bf653a955ce7e17f4dee54c": {
+    "text": "Impossibile: La squadra attuale non soddisfa i requisiti"
+  },
+  "075f89a56d83f316786b6f9b60b1936b": {
+    "text": "Specialista di Classe"
+  },
+  "72102cc693f3079b0d20ed4e38e6cc4d": {
+    "text": "Finisci il gioco con 3 Mech differenti con la stessa classe"
+  },
+  "bfc2bec852ae7bea41744a07b3cba306": {
+    "text": "Specialista Combattivo"
+  },
+  "0da2f769570bb9cfa532087a459aefd6": {
+    "text": "Finisci il gioco on 3 Mech volanti"
+  },
+  "bcc975a11d46828fed5f191495a86ea1": {
+    "text": "Tomba d'Acqua"
+  },
+  "58284b17bd1a24fd373cc14aeb8ab4a7": {
+    "text": "Fai affogare 3 nemici in acqua in una singola battaglia"
+  },
+  "e923fa604c547a1d4f88fe8d65b1f7ef": {
+    "text": "Progressi: $1 affogati"
+  },
+  "50529cdf1cf4c706c5209d82dcf3b7e6": {
+    "text": "Velocità Massima"
+  },
+  "749987e15c9aaf3976c149159a7e18fc": {
+    "text": "Uccidi un nemico lanciandolo a 5 o più caselle di distanza con un Pugno Spinta"
+  },
+  "5c30759e76214d01203639ff47b5f432": {
+    "text": "Isola al Sicuro"
+  },
+  "b5b601651a0dfdfce2db98f559940b78": {
+    "text": "Completa la prima Isola Corporativa"
+  },
+  "6a6bdf91eb5d597f4a98139c0fafb033": {
+    "text": "Indistruttibile"
+  },
+  "2b1fa5eb7c2151b429f3152bfe66e5fe": {
+    "text": "Fa sì che l'Armatura del Mech assorba 5 danni in una singola battaglia"
+  },
+  "8c8422c9244d270e98a6850d514e545a": {
+    "text": "Progressi: $1 Danni Bloccati"
+  },
+  "9b181540acde3c9fca54356b7821bfd6": {
+    "text": "Alleati Inconsapevoli"
+  },
+  "72ec56b762989f0dae8fb046c37898cc": {
+    "text": "Fa sì che 4 nemici muoiano sotto il fuoco nemico in una singola battaglia"
+  },
+  "1eaadc631c2ac84cced14bac47783773": {
+    "text": "Progressi: $1 uccisi"
+  },
+  "395752f182e1989f2f9e02deb182e781": {
+    "text": "Spostamento di Massa"
+  },
+  "1a1d41300299e10be89b5b3f04f0f815": {
+    "text": "Spingi 3 nemici con un attacco singolo"
+  },
+  "14a87f9378aaa4c07e1870a1f419a945": {
+    "text": "Sovraccaricato"
+  },
+  "2017da19cf10fd60353c524ff4d52e7f": {
+    "text": "Sovraccarica la tua Rete Elettrica due volte ottenendo o comprando Energia quando è al completo"
+  },
+  "47845556cac0c1bc7e2c21271f05405b": {
+    "text": "Progressi: Sovraccaricata $1 / 2"
+  },
+  "e364b04d88ec7ed3c1c20b524080a10a": {
+    "text": "Tempesta"
+  },
+  "5f26efc31224add9b58c8d0f4f149805": {
+    "text": "Causa 12 danni con il Fumo Elettrico in una singola battaglia"
+  },
+  "8984e431bb010b36f6cbe8a7fa3ff6f8": {
+    "text": "Progressi: $1 danni"
+  },
+  "9a9dabb1ae1c4c99f0acff2a4047ed9e": {
+    "text": "Battaglia Perfetta"
+  },
+  "ad00857262295aba34d2d5f91f819dc3": {
+    "text": "Non subire danni a Mech o a Edifici in una singola battaglia (il danno riparato è considerato danno)"
+  },
+  "bf3bf3ae653d9e6cc560d64c06ae1d4a": {
+    "text": "Non riuscito: $1 danneggiato"
+  },
+  "6b0ae7a6b922f0d54afdb4479713345b": {
+    "text": "Coinvolgimento Quantico"
+  },
+  "2657c7495700d9aed29563078092f1e8": {
+    "text": "Teletrasporta un unità a 4 caselle di distanza"
+  },
+  "c0a7ea54330f4e81479eaf296f863c3e": {
+    "text": "Terra Bruciata"
+  },
+  "a418c2522a5a5a52b7d15a099359b77e": {
+    "text": "Termina una battaglia con 12 caselle con Fuoco"
+  },
+  "852c837c528faf685b7b8a9c72d9829a": {
+    "text": "Progressi: $1 con Fuoco"
+  },
+  "1ff4fbca390d5e15ab8724d67c39afd6": {
+    "text": "Va tutto Bene"
+  },
+  "14ffa627534fc17662611a103e4774ce": {
+    "text": "Brucia 5 nemici contemporaneamente"
+  },
+  "76fe151fb95870a17ee439131e405ca4": {
+    "text": "Progressi: $1 bruciati attualmente"
+  },
+  "a8f1273df84a0106e4c61ed19e4214fb": {
+    "text": "Vieni Qui"
+  },
+  "938f1d1490f713c217bf752a06dad3ab": {
+    "text": "Uccidi un nemico tirandotelo a te"
+  },
+  "86f9db46e19e5735258c95df6587827d": {
+    "text": "Laser Scintillanti"
+  },
+  "a73156ef8c8525834d6cdcd6b59da83e": {
+    "text": "Colpisci 4 nemici con un unico laser"
+  },
+  "a1ad67f74662202c01316c0c4992853f": {
+    "text": "Maestria con lo Scudo"
+  },
+  "73f259d0c0ee231eb58d7d0c0b38b945": {
+    "text": "Blocca un danno con lo Scuso 4 volte in un'unica battaglia"
+  },
+  "ebf546e8dc92660a547fd2024ee22861": {
+    "text": "Progressi: $1 danni bloccati"
+  },
+  "a6523020199a4b1b0d64ee7a46281259": {
+    "text": "Esperto Criogenetico"
+  },
+  "68fe355164237240709c544311853a25": {
+    "text": "Spara con il Lanciatore Cryo 4 volte in un'unica battaglia"
+  },
+  "42b4612090d196cc46c49c9fc33a2d0d": {
+    "text": "Progressi: $1 spari"
+  },
+  "956873034b989419c96deff2f6129911": {
+    "text": "Sparo Ingannevole"
+  },
+  "b1c17d2d2756fa146775f50521317063": {
+    "text": "Uccidi 3 nemici con un singolo attacco del Cannone Janus"
+  },
+  "24bf4707fcf0977e9a79dd2c01c0a86f": {
+    "text": "Pacifista"
+  },
+  "8736f6e3076a3cf427584b0f79aef027": {
+    "text": "Uccidi meno di 3 nemici in un'unica battaglia"
+  },
+  "a8d6f96fb006093a9437b79dadca32ef": {
+    "text": "Non riuscito: $1 ucciso"
+  },
+  "cb382727c4dd53b941825617431a07eb": {
+    "text": "Attacco a Catena"
+  },
+  "8004194198c4f9e1fbd76c5d0fd18ba6": {
+    "text": "Fa sì che l'attacco Frusta a Catena si propaghi per 10 caselle"
+  },
+  "088d804deeb085797a2d7e8789107613": {
+    "text": "Guerra Lampo"
+  },
+  "958a48582ae1de5196725947da267940": {
+    "text": "Completa le prime 2 Isole Corporative in meno di 30 minuti"
+  },
+  "7a5f93d4ebe3bf1243d03b28e2b8fee0": {
+    "text": "Non riuscito: Troppo lento!"
+  },
+  "a6a9d457342e016ebba057b86eeb39dc": {
+    "text": "Mantenere la Posizione"
+  },
+  "df02a098b1636be16a061ac905b9a8a8": {
+    "text": "Blocca 4 Vek emergenti in un unico turno"
+  },
+  "80dd330a5c08653498c49a219a124543": {
+    "text": "Guaritore"
+  },
+  "13bbead354ad098b7999729766dcf70d": {
+    "text": "Cura 10 Salute Mech in un'unica battaglia"
+  },
+  "afe939016ac751e014382d321269a761": {
+    "text": "Progressi: $1 curati"
+  },
+  "16b98d0e33bf9444817b6cf56a39cf58": {
+    "text": "Immortale"
+  },
+  "f11c5fb323c651216197f339edfd0fb3": {
+    "text": "Completa 4 Isole Corporative senza che alcun Mech venga distrutto alla fine della battaglia"
+  },
+  "655edc36cd1c2327a60df8805f8bb21f": {
+    "text": "Non riuscito: È stato distrutto almeno un Mech"
+  },
+  "660813131789b822f0c75c667e23fc85": {
+    "text": "Accanimento"
+  },
+  "3d5b970a9c524fbc12537782dc04603a": {
+    "text": "Provoca un danno di 8 con un singolo attacco"
+  },
+  "d993249242516bf87e5cba99fa827dfb": {
+    "text": "Lo sapevo che sarebbero arrivati!"
+  },
+  "16b8e65e95721470b87f76d5eea8cdcb": {
+    "text": "La #squad!"
+  },
+  "f9ed08d97ae09579c38446b9efdaa6f2": {
+    "text": "È la #squad!"
+  },
+  "92903653ceb36162ef0ffd388e81ffd1": {
+    "text": "Ora i Vek se la vedranno brutta!"
+  },
+  "706d021245223aa01fe1299334b5802b": {
+    "text": "Ora i Vek dovranno chiedere scusa!"
+  },
+  "44bfad45985d672b7e7b062fce6a972c": {
+    "text": "Prendimi gli occhiali!\nVoglio vedere!"
+  },
+  "8b51fcf1edbf4ece858fa017335fc9e7": {
+    "text": "Smettetela di affollare la finestra!"
+  },
+  "cb52586ec7e17b20f037f948611074b5": {
+    "text": "Che sta succedendo?"
+  },
+  "748ac2570cb60868626dd0bdd3a7f7ef": {
+    "text": "I Mech sono atterrati!"
+  },
+  "aa56e623c5395d92e61e88c5087456cb": {
+    "text": "#corp ha mandato i Mech!"
+  },
+  "5e2a4b371980ad19a2d38641132591e0": {
+    "text": "Che cos'è questo rumore?"
+  },
+  "443a96a1deb0fe5b88205b79866748f6": {
+    "text": "Hai sentito anche tu?"
+  },
+  "e89c8a597ec0b2168bc77c0f82af8d8d": {
+    "text": "Sono loro?"
+  },
+  "24150e58e2b2edd5d880ea7050c21907": {
+    "text": "Sono qui!"
+  },
+  "8e64e096534393a2fcd93cd4f139ea6f": {
+    "text": "Mamma, guarda!"
+  },
+  "f2afabf74e97754424595ea9e8ba2442": {
+    "text": "I Mech!"
+  },
+  "fc5d4662975e7e6b4bb520862ccb8309": {
+    "text": "Papà, guarda!"
+  },
+  "7e3446e0cbbbd6c005dacc3e097d0c5c": {
+    "text": "Siamo salvi!"
+  },
+  "f4cd8a88fc54d984f094f4873ec79f42": {
+    "text": "Finalmente!"
+  },
+  "417d1e9b7761d76fd4f926a5c719e069": {
+    "text": "Gli aiuti sono arrivati!"
+  },
+  "174033235e7af256c8677ecc98d99dab": {
+    "text": "Sono arrivati!"
+  },
+  "665a24bc01c3ddd4fd59e796aa268389": {
+    "text": "I Mech sono qui!"
+  },
+  "1cdb4cfa3b74161fad8ecfc15418d0c7": {
+    "text": "Ci proteggeranno!"
+  },
+  "498cd895eb5a102c5aeb977e2b928dee": {
+    "text": "Grazie!"
+  },
+  "eea78796ba8174ad5e05ce345fcf5c97": {
+    "text": "Si stanno ritirando!"
+  },
+  "c1737852054a3b1c4d2f7d73c5fd23c2": {
+    "text": "I Vek stanno scappando!"
+  },
+  "715e1b3a11998a946c5cb492aa0a79b0": {
+    "text": "È stato fantastico!"
+  },
+  "e65438765d3e92896fd4dd8726a5969e": {
+    "text": "Incredible!"
+  },
+  "4c82e21ead7bbe3a3ddf39d0b59ab1c3": {
+    "text": "Ce l'hanno fatta!"
+  },
+  "3f639ae2252aff15cdad6344a864b999": {
+    "text": "È finita!"
+  },
+  "c8dba44941dad03ce20de67f0a70c776": {
+    "text": "Abbiamo vinto!"
+  },
+  "c04280efc318c9dea2258b7d7d64e88a": {
+    "text": "Siamo sopravvissuti!"
+  },
+  "8436c3f4181174dc454fad62cd92c02a": {
+    "text": "Vittoria!"
+  },
+  "bfc92dde6e0364ddf05dade14f8c78da": {
+    "text": "Se ne sono andati!"
+  },
+  "68f9f56699c5d9a2887903890d0c0253": {
+    "text": "Stanno scappando!"
+  },
+  "d982cf0af7551883c836a8f79e8e2d9d": {
+    "text": "Li avete spaventati!"
+  },
+  "def11e0e273016051eea8b13c396f7a5": {
+    "text": "Non ci posso credere!"
+  },
+  "7ffacde1ffca64b79dce029ffae6822f": {
+    "text": "Morti? Tutti quanti?"
+  },
+  "44952df1fd07fa2cf6d17714343f9ec1": {
+    "text": "Li hanno uccisi tutti?"
+  },
+  "e92e39e895cb95c83ea0960efd7ad25b": {
+    "text": "Sono tutti morti!"
+  },
+  "fd2657799fc92aa29fd8b5d2328e0719": {
+    "text": "Li hai spazzati via!"
+  },
+  "bec4d9824de7850c5efd7cd8e454bb62": {
+    "text": "#squad li ha sconfitti!"
+  },
+  "659ac188126d1fcda30162bf3ded2509": {
+    "text": "I Mech li hanno spazzati via!"
+  },
+  "02ca38ee49af35a0deded71746d5b7a9": {
+    "text": "Niente più Vek!"
+  },
+  "f7a72198b8f5cf7d276c069e3e0b7f2f": {
+    "text": "Formidabile!"
+  },
+  "3eca91cb7158ee874c316e42177e430d": {
+    "text": "Avete vinto!"
+  },
+  "75370b55cdec07f5a5f4beb0ea05e03b": {
+    "text": "Stiamo tutti bene!"
+  },
+  "ddf92c7df65f86371c8669567c76da7f": {
+    "text": "State tutti bene?"
+  },
+  "62574db13f5472a4845f67de0fb89370": {
+    "text": "#squad ci ha salvati!"
+  },
+  "04abd1cf7fcfc8629255423803ac9fa9": {
+    "text": "Tre urrà per #squad!"
+  },
+  "64e0ad838d143bf09b54007a28494d58": {
+    "text": "#corp è salva!"
+  },
+  "99408f842bf063ada7253f36fdec0ea1": {
+    "text": "Nulla è stato danneggiato!"
+  },
+  "637bf2a53e072160c9d7acc0d0863424": {
+    "text": "#squad sono degli eroi!"
+  },
+  "778199c4b0e2c4c9dc04cfdb2daa700c": {
+    "text": "Vittoria schiacciante!"
+  },
+  "1386b731ec50a287b545e0f42b226a19": {
+    "text": "Hai visto?"
+  },
+  "b9f0ae83c880e9a9c90bb0fe936832ed": {
+    "text": "Grazie... credo."
+  },
+  "84d1185bcd20e2676fc86285e7114f78": {
+    "text": "Hanno fatto più danni che altro..."
+  },
+  "6893c00186883683935ba62fd8489ea3": {
+    "text": "La mia famiglia... è andata..."
+  },
+  "e5c110eb262fcf46e99c990839a735f7": {
+    "text": "Quante perdite..."
+  },
+  "358dbe65cb84b1faadd21da5675fe7e1": {
+    "text": "Se ne sono andati davvero?"
+  },
+  "27455ff68ddf26aebd6aa4cca9b4b415": {
+    "text": "È finita?"
+  },
+  "6d68619879c5da361e889b67c029a9d8": {
+    "text": "Tempo di ricostruire..."
+  },
+  "ea27a387d6050a1b52155e467ecfa331": {
+    "text": "Ci stanno attaccando!"
+  },
+  "eda8e16e301f5514fa5e55d8b3e5a4d9": {
+    "text": "Oh oh."
+  },
+  "ed95254a7068ffd8729fd94d07347d67": {
+    "text": "Oh no!"
+  },
+  "d8511e314213047d3b22e24ac4af55aa": {
+    "text": "Tenetevi forte, tutti quanti!"
+  },
+  "4aa3e8c8b7b9891a030cbe6ff72c0102": {
+    "text": "Allontanatevi dalle finestre!"
+  },
+  "1161c08ea18387c5b1de604c5672601d": {
+    "text": "Che cos'è quell'ombra?"
+  },
+  "d9207b34ece1b03e2c99315f22280462": {
+    "text": "Qualcosa non va..."
+  },
+  "1c9e0af6cc2fc9895e3313750b2a5e85": {
+    "text": "Aiuto!"
+  },
+  "d1e57515532c5fcdcb9832dcf1c42d6f": {
+    "text": "Siamo spacciati!"
+  },
+  "30d0d3d966536b6cfebcd015940c90fa": {
+    "text": "La nostra fortuna è finita..."
+  },
+  "0dcc028eedf133bf754691fc409e0342": {
+    "text": "Ci sta puntando!"
+  },
+  "79a86bf24730ec3adbdb461c6974b1e2": {
+    "text": "Aiuto! Che qualcuno mi aiuti!"
+  },
+  "cd01123a545b487e1ddeaaf4d20486f5": {
+    "text": "Aiutateci, #squad!"
+  },
+  "1c748bec7a31cc67ec9dfaed24e620d6": {
+    "text": "#squad, aiuto!"
+  },
+  "b88a66d4671a8b37ef2c2a49f51afafc": {
+    "text": "Siamo spacciati."
+  },
+  "e98077828795799fb065d310e57b4001": {
+    "text": "Salvateci!"
+  },
+  "19dc92160a7a96046f9eac0d446691ee": {
+    "text": "Sta venendo per noi!"
+  },
+  "f5ec5d0ebf94f08e707150c39d4a7d95": {
+    "text": "L'edificio resisterà?"
+  },
+  "8a957aaf2fb054df1f6dc23546730a11": {
+    "text": "Aiutateci!"
+  },
+  "dc3bf23b42bd3cd3341e38b6c971f746": {
+    "text": "Wow."
+  },
+  "a2f1a04c424b3d9c6d38b97f7a8b2032": {
+    "text": "Evviva!"
+  },
+  "0072db5d8b33800080443355f4271027": {
+    "text": "Prendi questo, Vek!"
+  },
+  "c99c37d14a428bfa57267d239a42d6c4": {
+    "text": "È a terra!"
+  },
+  "8f08e478befb98049524290b28d480bc": {
+    "text": "L'hanno preso!"
+  },
+  "9c6652b858daf58e47386d0e102c1beb": {
+    "text": "E resta morto!"
+  },
+  "1f2d46c44305deca1a15e5ed7a1ebbe5": {
+    "text": "L'hanno ucciso!"
+  },
+  "2f5c6d5c4dba631c9f2d327dd2a677f4": {
+    "text": "È morto!"
+  },
+  "9da2f9366b9a6ca83b4703e1a9903ca0": {
+    "text": "Avete visto?"
+  },
+  "bd08204c396936cc30b593b0678bf1e4": {
+    "text": "Eccellente!"
+  },
+  "20d4352de9fca8994dc56b67a07f87c8": {
+    "text": "Sì!"
+  },
+  "25e1313e3235ccec22c7b30c1058b95e": {
+    "text": "Perfetto!"
+  },
+  "359878442cf617606802105e2f439dbc": {
+    "text": "Wow!"
+  },
+  "aa54df2e56b4303d9b9b782c234d4822": {
+    "text": "Siamo salvi!"
+  },
+  "3816a028934ac5e9727ba6b8b3315d43": {
+    "text": "Resisterà?"
+  },
+  "b1ea85b9da5130747aca32f7673b8ccd": {
+    "text": "Quello dovrebbe fermarli!"
+  },
+  "d2a3f2974ee06d51acf325c644cf9944": {
+    "text": "Protetto!"
+  },
+  "e723df000dd980adae87fd0d6fda0cb6": {
+    "text": "Siamo protetti!"
+  },
+  "c83886dfd0657b08530b364b5bbc7a71": {
+    "text": "Scudi alzati!"
+  },
+  "c6930845bff8d1b1c307973838cff623": {
+    "text": "Al sicuro finalmente!"
+  },
+  "a33a727c791e8eecc7394189ab587a4d": {
+    "text": "Protezione!"
+  },
+  "1dd790624edc3dd3263f2cb2d06c5482": {
+    "text": "Fa così freddo..."
+  },
+  "1dddcd713d021f08c86269c214766342": {
+    "text": "Prendi le coperte."
+  },
+  "adaea32e6c66fb50684041db147c9ff2": {
+    "text": "Stringiamoci, tutti."
+  },
+  "26362c17e69e7e34c686cb7785cf3a20": {
+    "text": "La finestra si è ghiacciata!"
+  },
+  "fa692d85f08c92a585ed8b3fed7f1d52": {
+    "text": "Che è successo?"
+  },
+  "5e7f9a1094321df045fa031172a12dd9": {
+    "text": "Sembra di stare in un freezer!"
+  },
+  "b2b4acb97b13d8eeb76ab74c52aa67a0": {
+    "text": "Si congela!"
+  },
+  "56e39b5c64cae5793eff0d1372eb55ec": {
+    "text": "Fa troppo freddo!"
+  },
+  "3ac1466bdb46b883cc916b3d13bbafdf": {
+    "text": "Siamo al sicuro almeno?"
+  },
+  "5b5e399c8488fbf11ca35c45b301e306": {
+    "text": "Casella Infuocata"
+  },
+  "d30b9c6f585a3574be56a7acba1ed946": {
+    "text": "Fa prendere Fuoco alle unità."
+  },
+  "e18a8869e324460e7685c0f6f5d1db34": {
+    "text": "Casella Foresta"
+  },
+  "2cc4044087609890c0d4a0dd5a11ef92": {
+    "text": "Se danneggiata, prende Fuoco."
+  },
+  "2d31850ad1a3d48c080994eb0f688d8f": {
+    "text": "Foresta Infuocata"
+  },
+  "cccf43c7175f6259eb9feb3bf10cc755": {
+    "text": "Fa prendere Fuoco alle unità. Questo incendio è iniziato quando una Casella Foresta è stata danneggiata."
+  },
+  "6f47450604f9efbb0ee310bc8e27e3c9": {
+    "text": "Casella Fumo"
+  },
+  "d198823e5b3e1058bbdc74d18e8fd797": {
+    "text": "Le unità sul Fumo non possono nè attaccare nè riparare."
+  },
+  "817feaa7e6efb63c48a00f8522deb833": {
+    "text": "Fumo Elettrico"
+  },
+  "06fa7dc8bfeb4f583bebdfd15a8b75d2": {
+    "text": "Le unità sul Fumo non possono nè attaccare nè riparare.\nL'Elettricità danneggia le unità nemiche."
+  },
+  "73eff8cfab2da076e46746250a15ecc1": {
+    "text": "Vek Emergente"
+  },
+  "a534c1a0ce7884b68b8eaa7b492795cf": {
+    "text": "Un Nemico emergerà nel prossimo turno. Può essere bloccato."
+  },
+  "278d01e5af56273bae1bb99a98b370cd": {
+    "text": "Essenziale"
+  },
+  "a877795fabc59ea12bd8b4f7f0e5385c": {
+    "text": "Questo edificio è importante per gli obiettivi della missione."
+  },
+  "3b31137aa4e6b1b447d1636b0b516ee0": {
+    "text": "Traliccio Energia"
+  },
+  "5f03a9840e6e7a1abce0628cfbf1af57": {
+    "text": "Tralicci Energia Remoti collegano i tuoi Mech alla Griglia anche sotto terra. Non abitato."
+  },
+  "d96b0db7b54cbeaa88e07635d19cca2c": {
+    "text": "Super Vulcano"
+  },
+  "785dc52e3ebdcabce8a6a53d779e4ec2": {
+    "text": "Vulcano indistruttibile che blocca spostamenti e proiettili."
+  },
+  "e274bf55794701d7232547ee92db3777": {
+    "text": "Edificio Civile"
+  },
+  "6747a8b368a8452df077a1201be7835a": {
+    "text": "La tua Rete Elettrica è ridotta se le Strutture della Rete vengono danneggiate."
+  },
+  "438c7520e8f84c36362be71ab6458229": {
+    "text": "Edificio evaquato"
+  },
+  "aa3ee7ec81be84f40e0a540c0a567fe2": {
+    "text": "Nessun effetto se danneggiato."
+  },
+  "a9d554c1017360e0916c65e972c1b44b": {
+    "text": "Macerie Edificio"
+  },
+  "8f12393e2b42eee6075302c9cea26e08": {
+    "text": "Nessun effetto particolare."
+  },
+  "4983703ef777c39eb675eba3a72a37ca": {
+    "text": "Macerie di Montagna"
+  },
+  "b87d8f26d51a7693fbfa51aad24ccc94": {
+    "text": "Casella Ghiaccio"
+  },
+  "16eaa969e870591f322727564f06cd95": {
+    "text": "Si trasforma in acqua se distrutto. Deve essere colpito due volte."
+  },
+  "5de23b03935f650b16a405bc2b3989ea": {
+    "text": "Giaccio A.C.I.D."
+  },
+  "ecbdcbbda1f5878c010c4a8c2bac2326": {
+    "text": "Si trasforma in casella A.C.I.D. se distrutto, ma attualmente è sicuro starci sopra."
+  },
+  "14c582a67aa73b80493ddd47ea287db1": {
+    "text": "Lava Congelata"
+  },
+  "48fc444966133b7941228939cdc9bb69": {
+    "text": "Si trasforma in casella Lava se distrutta, ma attualmente è sicuro starci sopra."
+  },
+  "163d3f36867800ed6fde1aea67afa327": {
+    "text": "Casella Ghiaccio distrutta"
+  },
+  "785f0b5b8442eb87efa8f70daf06cea7": {
+    "text": "Si trasforma in casella Acqua se distrutta. Un unico colpo la distruggerà."
+  },
+  "7b71354c2d9b2300182676dfee5d8063": {
+    "text": "L'edificio #corp è intatto!"
+  },
+  "b66a45269d0eda1493329326d3ec0147": {
+    "text": "cittadini #corp in quell'edificio - sono al sicuro!"
+  },
+  "b274d919769dd7b94ea910fafefbabc3": {
+    "text": "L'infrastruttura #corp è a rischio. Rimozione Vek dalla zona di combattimento."
+  },
+  "2a247e0fa362e9796ac31d23cf65d723": {
+    "text": "#corp non lo gradirà affatto..."
+  },
+  "c0d214c29a3b9724afab73d8aec78cc6": {
+    "text": "Rete Elettrica #corp in diminuzione."
+  },
+  "636434962003195e4a162e1767ee98a0": {
+    "text": "Rete Elettrica #corp vicina al collasso."
+  },
+  "26c2791cbb07acd811e43cda2bb26330": {
+    "text": "La struttura #corp ha resistito all'assalto."
+  },
+  "4fdec5dd3170d7e1097a6569726f2277": {
+    "text": "Treno #corp compromesso ma non distrutto."
+  },
+  "f388a99e1c99ff3f37c5e449522d4712": {
+    "text": "Treno #corp distrutto. Raccomandato riutilizzo carcassa del treno come vaso per piantine."
+  },
+  "caf3e6e09309f599d230bc460cff0aae": {
+    "text": "Treno #corp smontato."
+  },
+  "6d30487f45c232f806166c8907769325": {
+    "text": "Il treno #corp è stato distrutto. Raccomandata la rimozione dei binari per creare ulteriori terreni coltivabili."
+  },
+  "163ec2ec90642613360463d4c22ccbb5": {
+    "text": "Il treno #corp ha subito un incidente. Raccomandata estrazione e rimpiazzo delle parti danneggiate."
+  },
+  "ea42c4bea704796cf85dfad72b2a3ada": {
+    "text": "Treno #corp parzialmente smontato."
+  },
+  "0a4997ea614675a827b2980ddeb54e66": {
+    "text": "Treno #corp distrutto! Lo abbiamo perso."
+  },
+  "58e5f8737eac43dd16fe06a9519e9024": {
+    "text": "Le riparazioni necessarie per il treno #corp eccedono la garanzia."
+  },
+  "75735da788beed64e39348d23efac2df": {
+    "text": "Le riparazioni del treno #corp sono coperte dalla garanzia."
+  },
+  "960ee6fc54bbaddd747d4ceefd9acbc0": {
+    "text": "Il treno #corp è distrutto. Concentra il fuoco sui Vek."
+  },
+  "b2c89efeb694245b8c2617d07a53eb64": {
+    "text": "#corp contava su quel treno."
+  },
+  "492c6b87c43447c26fcd12181f34c5cc": {
+    "text": "#corp, pronti al lancio!"
+  },
+  "6a88b2cc74bfe013d5bae98900ae90ae": {
+    "text": "#main_first!"
+  },
+  "0bcdbdbe76e6e6757b4ce5415c923b34": {
+    "text": "#main_full è stato ottimizzato. Aggiornamento routine Vekticida."
+  },
+  "13c2c04dc78f02dd9a263dc03927841b": {
+    "text": "#main_full ha cessato le operazioni."
+  },
+  "0349ecd444eed8ac3e1dd8b32501c5a8": {
+    "text": "promozione #main_full registrata."
+  },
+  "916ffa710883e2cd2c3edbc86c0f4889": {
+    "text": "#main_full! N-N-Non anche tu..."
+  },
+  "3d0afe3d257ef81239a137db9c7f6e27": {
+    "text": "Segnali vitali #main_full assenti."
+  },
+  "1ae0a90f3235ea8251ebb096b700d0db": {
+    "text": "#main_full, sarai ricordato."
+  },
+  "d799e8778a833dab8c40631fce9a0879": {
+    "text": "Numero designazione #main_mech registrato per il prossimo pilota qualificato."
+  },
+  "0b558e5b581a967a7f134523d25ae4ac": {
+    "text": "#main_mech è stato giudicato non idoneo al servizio attivo."
+  },
+  "b87ff586bb4e771eba6d6104e3d25e27": {
+    "text": "#main_mech ha fallito la protezione del suo pilota. Richiesta punizione per il Mech."
+  },
+  "4dab578e7ad7adddd03e29621011871f": {
+    "text": "#main_mech sta fungendo da ostacolo al percorso di combattimento."
+  },
+  "52370ee430f4f35d551888d9ce43e1ea": {
+    "text": "#main_mech ora è pronto per il prossimo pilota di turno."
+  },
+  "b96455fcd8947a3912c84f6de35b136c": {
+    "text": "#main_mech è fuori uso!"
+  },
+  "457968d66cc6ae8b203294910321cc97": {
+    "text": "Le parti di #main_mech hanno fallito la loro missione principale di protezione del pilota."
+  },
+  "56a6ab8bf65dddda4d99f16a1c26bf3a": {
+    "text": "Il pilota di #main_mech ha ottenuto una sinergia con il suo partner."
+  },
+  "59c0aebe089e1ace10583ac6825284f3": {
+    "text": "Le abilità di #main_mech hanno correttamente rimosso tutti i Vek dalla zona di lavoro minacciata."
+  },
+  "1cedeffddcd0e365b5808d0927edd0e1": {
+    "text": "L'allenamento del pilota di #main_mech ha avuto successo."
+  },
+  "3006058611005e5a9cbbcbb667c21e2e": {
+    "text": "#main_mech: Distrutto\\nEfficienza Tattica: Compromessa"
+  },
+  "7f32f9bf8568ff894ad41e1486c41b60": {
+    "text": "#main_reverse: Valutazione...\\nEfficienza Tattica: Incrementata"
+  },
+  "285ad0d5e343e64210577400a4467d41": {
+    "text": "#main_second a rapporto... controlli di sicurezza completati, armi online."
+  },
+  "4036e820c285f9bbeb6b56df72ad388a": {
+    "text": "#main_second!"
+  },
+  "b89e25a520ea57c992d26fcb3a2b3a89": {
+    "text": "#main_second, occhio a dove spari!"
+  },
+  "53b111de0c3a6ae90e2f451a08c73178": {
+    "text": "#main_second, rapporto! Cosa stai facendo?!"
+  },
+  "f7e53c330fe6ef57030cfe03a9759b56": {
+    "text": "#main_second, tu ed io faremo una chiacchierata quando torniamo..."
+  },
+  "e194c6e6bb8c4e7ce781097414d5f844": {
+    "text": "Mobilità #self_full compromessa dai Vek."
+  },
+  "b4829256d2805eef023b8c4f682a333b": {
+    "text": "Promozione #self_full registrata. Nuovi protocolli manageriali in download."
+  },
+  "6ecfec1affedecc78ae7aa4e6ea46938": {
+    "text": "#self_full disattivazione annullata."
+  },
+  "0609c1a4c6955bcd3e1156639b7a8cb9": {
+    "text": "#self_mech ha fallito nel proteggere il suo occupante principale. Sottoposto rimprovero formale."
+  },
+  "c26ff1665cadc48114d2cd5dd23374c1": {
+    "text": "Lo scafo di #self_mech è stato rinforzato."
+  },
+  "8b17747d8177807f7184919ab700199f": {
+    "text": "#self_mech bloccato da un Vek ostile. Movimento impossibile."
+  },
+  "fb3063b42920c12fce10f2339b9d89ef": {
+    "text": "#self_mech, in attesa."
+  },
+  "e66c93576cf8131b97967c26d7841870": {
+    "text": "#self_reverse! Kc'chht! KC'CHHT!"
+  },
+  "d7c69577d426e5e904f1371cae223753": {
+    "text": "#self_second, pronto all'ingaggio."
+  },
+  "56c4eba3256f470ea2be7e1f9bb59394": {
+    "text": "#self_second, a rapporto."
+  },
+  "f80fb217c5a58a5e885b3f1422d19ceb": {
+    "text": "#squad - se qualcuno ha l'occasione di colpire quel bastardo, fatelo!"
+  },
+  "718d69e6d5b2494cfc46d8a8de63719d": {
+    "text": "#squad - sbrigatevi a bloccare i Vek, non permettete che qualcuno di loro riemerga!"
+  },
+  "5e33fa4d39ba603f57483e2706de6f0d": {
+    "text": "#squad - dobbiamo concentrarci a prevenire che i Vek riemergano."
+  },
+  "6e4c55873c03f3319ed43724fba81a08": {
+    "text": "#squad è stata riciclata."
+  },
+  "d030ba99d946835e551a98f20be65d75": {
+    "text": "#squad! Provate a posizionarvi tra i Vec e le cryo-mine!"
+  },
+  "36e3efad07cfc4dc8e22ebb220eac377": {
+    "text": "#squad, ci siete? Sto ricevendo strani segnali sui sensori... state tutti bene?"
+  },
+  "5a123593258046b97fe17278549005b4": {
+    "text": "#squad, coprite tutti i punti di comparsa dei Vek!"
+  },
+  "fc3dac231cc53c1d8eea4852a5a978d2": {
+    "text": "#squad, non permettete ai Vek di riemergere! Usate i vostri Mech per fermarli!"
+  },
+  "2f8cf57d753c9c17ba0a2f134a469d99": {
+    "text": "#squad, in formazione."
+  },
+  "2ead50b36b216fabdebb72a6c4487a61": {
+    "text": "#squad, allontanatevi dall'area di bombardamento!"
+  },
+  "cc237255517abdf2e286de0ec50f0c3a": {
+    "text": "#squad, è un enorme piacere informarvi che la vostra percentuale di successo è al 100%. L'ordinanza della corporazione Detrius decreta che voi riceviate un bonus."
+  },
+  "b21b96b79742fe1d68b8c7cbfef2aec7": {
+    "text": "#squad, tenete presente che dobbiamo spianare quelle montagne prima di andare."
+  },
+  "05d8e342f856e05198e7447adafd9ec7": {
+    "text": "#squad, sbrigatevi a bloccare i Vec in emersione... con i vostri Mech se necessario!"
+  },
+  "5e9ed0fa6340a4be0380553d5bf5146d": {
+    "text": "#squad, a rapporto. Localizzazione breccia confermata."
+  },
+  "063b279e5bd5a72df28766d9e17a62dc": {
+    "text": "#squad, state lontani dall'area di lancio o diventerete polvere!"
+  },
+  "6d99c3fb39789670bbdf16455ed93895": {
+    "text": "#squad, siete da lodare - i sensori confermano che i Vek sono stati respinti. Il settore è di nuovo nostro."
+  },
+  "b9f0c53fbb8536119a213bb96e5795c4": {
+    "text": "#squad... abbiamo rilevato una serie di potenziali punti di comparsa Vek. Tenetevi pronti."
   }
 }
